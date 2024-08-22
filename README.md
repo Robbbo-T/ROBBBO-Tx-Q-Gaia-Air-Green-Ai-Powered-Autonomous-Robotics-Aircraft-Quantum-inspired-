@@ -4,6 +4,7 @@ Ampel: Ciencia de Datos y Tecnologías Emergentes
 
 Proyecto liderado por Amedeo Pelliccia
 
+
 Visión General
 
 Ampel es una plataforma integral que combina ciencia de datos, inteligencia artificial, y tecnologías avanzadas para proporcionar soluciones innovadoras y eficientes a problemas complejos en una variedad de industrias. La plataforma está diseñada para ser adaptable y modular, permitiendo a los usuarios integrar diferentes herramientas y tecnologías según sus necesidades específicas.
@@ -27530,6 +27531,4 @@ in modo uniforme tra i server.
 Implementazione di un'architettura a
 microservizi per garantire la scalabilità
 orizzontale.
-- **Autoscaling:** Configurazione di
-autoscaling per adattare automaticamente le
-risors
+- **Autoscaling:** Configurazio
