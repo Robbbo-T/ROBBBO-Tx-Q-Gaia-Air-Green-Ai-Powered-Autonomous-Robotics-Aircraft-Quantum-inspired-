@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/3efbe5c8-8167-4c33-ba09-afd3d7db3faf)
 graph TD
     %% Define the operational layers
     subgraph Ground Layer
