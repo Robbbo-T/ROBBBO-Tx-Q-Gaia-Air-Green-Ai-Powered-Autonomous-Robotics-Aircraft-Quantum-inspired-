@@ -4,7 +4,66 @@ Il tuo workflow GitHub Actions è configurato per aggiornare automaticamente le 
 
 #### 1. **Utilizzare un'Azione Verificata o Interna**
 
-Dal momento che l'azione `chinthakagodawita/autoupdate-action:v1` non è verificata, devi scegliere tra una delle seguenti opzioni:
+Ecco una versione aggiornata del file `.github/workflows/autoupdate-branch.yml` che può essere utilizzata per risolvere l'errore che stai incontrando con GitHub Actions:
+
+### Versione Aggiornata di `autoupdate-branch.yml`
+
+```yaml
+name: autoupdate branch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  autoupdate:
+    # Verifica se il repository è uno dei due specificati
+    if: github.repository == 'github/docs-internal' || github.repository == 'github/docs'
+    name: autoupdate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      # Usa l'azione interna copiata nel repository locale
+      - name: Autoupdate Action
+        uses: ./github/actions/autoupdate # Percorso locale dell'azione personalizzata
+        env:
+          GITHUB_TOKEN: ${{ secrets.OCTOMERGER_PAT_WITH_REPO_AND_WORKFLOW_SCOPE }}
+          PR_FILTER: labelled
+          PR_LABELS: autoupdate
+          MERGE_MSG: "Branch was updated using the 'autoupdate branch' Actions workflow."
+```
+
+### Cosa Cambia con Questa Versione:
+
+1. **Uso dell'Azione Interna:**
+   - Invece di usare un'azione esterna non verificata, il workflow utilizza un'azione locale copiata nel repository. Devi copiare il codice dell'azione `autoupdate` nella cartella `.github/actions/autoupdate`.
+
+2. **Checkout del Repository:**
+   - La prima azione (`actions/checkout@v2`) clona il repository, permettendo al workflow di accedere al codice sorgente locale e all'azione personalizzata.
+
+### Passi per Implementare la Soluzione:
+
+1. **Copiare il Codice dell'Azione Esterna:**
+   - Vai al repository dell'azione `autoupdate` su GitHub.
+   - Copia il codice sorgente dell'azione (in genere un file `Dockerfile` o uno script bash/python).
+   - Crea una cartella nel tuo repository chiamata `.github/actions/autoupdate`.
+   - Incolla il codice copiato in quella cartella.
+
+2. **Aggiornare il File del Workflow:**
+   - Sostituisci il contenuto di `.github/workflows/autoupdate-branch.yml` con la versione aggiornata sopra.
+
+3. **Commita le Modifiche:**
+   - Salva le modifiche e fai il commit nel repository. Assicurati che le modifiche siano state correttamente applicate.
+
+### Se Incontri Problemi:
+
+- **Azioni Verificate:** Se trovi un'azione verificata sul GitHub Marketplace con funzionalità simili, potresti preferire utilizzarla al posto dell'azione personalizzata.
+- **Verifica del Workflow:** Dopo aver implementato i cambiamenti, monitora le esecuzioni del workflow per assicurarti che non ci siano errori.
+
+Se hai altre domande o hai bisogno di ulteriore assistenza, fammelo sapere! 😊
 
 - **Trova un'Azione Verificata Alternativa:**
   Cerca una azione simile sul [GitHub Marketplace](https://github.com/marketplace?type=actions) che sia verificata da GitHub. Ad esempio, puoi cercare azioni che offrono funzionalità di aggiornamento automatico (auto-merge o auto-update) e modificarne l'uso nel tuo workflow.
