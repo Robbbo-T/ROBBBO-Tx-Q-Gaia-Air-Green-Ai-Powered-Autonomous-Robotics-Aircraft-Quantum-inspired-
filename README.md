@@ -1,4 +1,34 @@
-![image](https://github.com/user-attachments/assets/3efbe5c8-8167-4c33-ba09-afd3d7db3faf)
+name: Build and Test
+
+on:
+  push:
+    paths-ignore:
+      - 'README.md'
+      - '**/*.md'  # Ignora i file di documentazione
+  pull_request:
+    paths-ignore:
+      - 'README.md'
+      - '**/*.md'  # Ignora i file di documentazione
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    # Altri passi del workflow...
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Run build
+      run: npm run build
+
+    - name: Run tests
+      run: npm test![image](https://github.com/user-attachments/assets/3efbe5c8-8167-4c33-ba09-afd3d7db3faf)
 ### Detailed Implementation Steps for Pitch Deck Development
 
 Here is an in-depth approach to implementing each section of your pitch deck and maximizing its impact on various investor types:
