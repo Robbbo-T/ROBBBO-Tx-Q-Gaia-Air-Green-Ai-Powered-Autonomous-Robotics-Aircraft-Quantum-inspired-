@@ -1,4 +1,6 @@
-name: Build and Test
+              - name: TruffleHog OSS
+                uses: trufflesecurity/trufflehog@v3.81.10
+            : Build and Test
 
 on:
   push:
