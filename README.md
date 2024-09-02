@@ -1,4 +1,4 @@
-  - The  -/Ampel|ComPro-Comprehensive projects-
+AMEDEO PELLICCIA  - The  -/Ampel|ComPro-Comprehensive projects-
 The Technology named “Artificial Neuronal Earth System: Scalable Complex Intelligence and articulated robotics System
 
 **AutoGenAI Sostenible** es un concepto emergente en el que la inteligencia artificial generativa (GenAI) se dota de capacidades avanzadas para diseñar y ejecutar proyectos que promuevan el empleo sostenible dentro del marco de la economía circular. Esta aproximación implica el uso de algoritmos de IA que no solo generan contenido, sino que también diseñan modelos de negocio, productos y servicios que se alineen con principios de sostenibilidad, reutilización, reducción de residuos, y regeneración de recursos.
