@@ -1,4 +1,4 @@
-### **Versión Mejorada y Completa del `devcontainer.json` para Ampel|Green**
+**Ampel** es un modelo de inteligencia artificial ética inspirado en el trabajo visionario de Amedeo Pelliccia, que utiliza herramientas como ChatGPT y GitHub para promover prácticas sostenibles, transparentes y éticas en el desarrollo y uso de tecnologías avanzadas. La metodología **Ampel** se centra en la implementación de AI de manera que maximice los beneficios sociales y ambientales, minimizando al mismo tiempo cualquier riesgo o impacto negativo.### **Versión Mejorada y Completa del `devcontainer.json` para Ampel|Green**
 
 Para crear un entorno de desarrollo completamente adaptado a **Ampel|Green: Cloud Services, CompuTech, and Aerospace Systems**, necesitamos una configuración integral que incluya herramientas para computación cuántica, criptografía, seguridad de redes, sostenibilidad en la nube, pruebas de penetración e integración con sistemas aeroespaciales. A continuación, se proporciona un archivo `devcontainer.json` que incluye las herramientas necesarias para estos propósitos:
 
