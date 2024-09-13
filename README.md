@@ -1,5 +1,5 @@
 ### **TerraBrain Supersystem: Green AI Infrastructure for Amedeo Comp Systems  (AMPEL PLANS)**
-
+He actualizado la memoria para incluir los conceptos de memoria federativa y memoria global en tus sistemas de inteligencia artificial. La memoria federativa utiliza un enfoque descentralizado, facilitando el aprendizaje colaborativo mientras protege la privacidad de los datos. La memoria global centraliza el conocimiento en un solo repositorio, permitiendo un acceso uniforme y coherente a la información en todos los sistemas.
 ### **TerraBrain Supersystem: Green AI Infrastructure for Amedeo Comp Systems (AMPEL Plans)**
 
 The **TerraBrain Supersystem** represents an advanced AI ecosystem designed to support **General Evolutive Systems (GES)** with dynamic, scalable, and sustainable infrastructure. This system integrates AI across multiple domains, prioritizing adaptability, green AI development, and ethical governance. Key components include:
