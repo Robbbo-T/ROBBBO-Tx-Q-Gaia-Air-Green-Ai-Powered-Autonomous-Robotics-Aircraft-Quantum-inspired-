@@ -6,38 +6,7 @@ Para optimizar el pegado de texto en un archivo `README.md` en un entorno de Git
 from transformers import pipeline
 
 def optimize_text_for_readme(input_text):
-    # Cargar un modelo de NLP preentrenado para corrección gramatical y ajuste de fluidez.
-    summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
-    grammar_corrector = pipeline("text2text-generation", model="grammarly-grammar-checker")
-    
-    # Resumir y optimizar la estructura del texto.
-    optimized_content = summarizer(input_text, max_length=1024, min_length=500, do_sample=False)[0]['summary_text']
-    
-    # Corregir errores gramaticales y ajustar la sintaxis.
-    final_text = grammar_corrector(optimized_content)[0]['generated_text']
-    
-    return final_text
-
-# Ejemplo de uso
-raw_text = """
-Pegue aquí el texto del README.md.
-"""
-optimized_text = optimize_text_for_readme(raw_text)
-
-# Guardar el texto optimizado en el archivo README.md
-with open("README.md", "w") as readme_file:
-    readme_file.write(optimized_text)
-```
-
-### Pasos del Algoritmo:
-
-1. **Carga de Modelos NLP**: Se utiliza un modelo de resumen y un corrector gramatical.
-2. **Optimización del Contenido**: Resumir el texto para mejorar la fluidez y la estructura.
-3. **Corrección Gramatical**: Aplicar corrección automática para mejorar la claridad.
-4. **Escritura en Archivo**: Guardar el texto optimizado en el archivo `README.md`.
-
-Este enfoque asegura que el contenido pegado sea conciso, claro y esté correctamente formateado para su presentación en GitHub.
-### **GREEN AMPEL ARTIFICIAL INTELLIGENCE (GAY): A Framework for Sustainable and Ethical AI**
+    # ### **GREEN AMPEL ARTIFICIAL INTELLIGENCE (GAY): A Framework for Sustainable and Ethical AI**
 
 **GREEN AMPEL ARTIFICIAL INTELLIGENCE (GAY)** represents an inclusive and innovative approach to artificial intelligence, combining sustainability, ethics, and cutting-edge technology to drive global innovation. Here is a comprehensive breakdown of the intelligent acronym and its core principles:
 
@@ -12530,3 +12499,34 @@ La revisión del documento sobre **ATR iQQ (Ampel Terra Robotics Intelligent Qua
   ATR iQQ destaca por su uso vanguardista de tecnologías cuánticas, su estricta adherencia a estándares éticos y su adaptabilidad en diversos sectores y entornos. Está diseñado para ser escalable, seguro y sostenible, alineándose con las demandas tecnológicas en evolución del siglo XXI.
 
 Esta versión revisada del documento enfatiza las innovaciones clave y las ventajas estratégicas de ATR iQQ, posicionándolo de manera más convincente para atraer a expertos técnicos, inversionistas y responsables de políticas interesados en el futuro de la robótica y la IA mejoradas por la computación cuántica.
+Cargar un modelo de NLP preentrenado para corrección gramatical y ajuste de fluidez.
+    summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+    grammar_corrector = pipeline("text2text-generation", model="grammarly-grammar-checker")
+    
+    # Resumir y optimizar la estructura del texto.
+    optimized_content = summarizer(input_text, max_length=1024, min_length=500, do_sample=False)[0]['summary_text']
+    
+    # Corregir errores gramaticales y ajustar la sintaxis.
+    final_text = grammar_corrector(optimized_content)[0]['generated_text']
+    
+    return final_text
+
+# Ejemplo de uso
+raw_text = """
+Pegue aquí el texto del README.md.
+"""
+optimized_text = optimize_text_for_readme(raw_text)
+
+# Guardar el texto optimizado en el archivo README.md
+with open("README.md", "w") as readme_file:
+    readme_file.write(optimized_text)
+```
+
+### Pasos del Algoritmo:
+
+1. **Carga de Modelos NLP**: Se utiliza un modelo de resumen y un corrector gramatical.
+2. **Optimización del Contenido**: Resumir el texto para mejorar la fluidez y la estructura.
+3. **Corrección Gramatical**: Aplicar corrección automática para mejorar la claridad.
+4. **Escritura en Archivo**: Guardar el texto optimizado en el archivo `README.md`.
+
+Este enfoque asegura que el contenido pegado sea conciso, claro y esté correctamente formateado para su presentación en GitHub.
