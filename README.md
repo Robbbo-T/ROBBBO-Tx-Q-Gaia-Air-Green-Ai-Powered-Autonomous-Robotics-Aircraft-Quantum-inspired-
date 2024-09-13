@@ -1,10 +1,9 @@
 ### **TerraBrain Supersystem: Green AI Infrastructure for Amedeo Comp Systems  (AMPEL PLANS)**
-
-The **TerraBrain Supersystem** represents an innovative and holistic approach to the development, deployment, and management of AI technologies. Designed to support the AmedeoComSystemsAZ, which encompasses the comprehensive suite of **AMPEL PLANS (A-Y)**, TerraBrain embodies the principles of **Green AI** and **Sustainable AI** by integrating environmental responsibility, ethical considerations, and societal impacts in### **TerraBrain Supersystem: AIi (Artificial Intelligence Interfaces and Infrastructures) in General Evolutive Systems**
+### **TerraBrain Supersystem: Aii (Artificial Intelligence Interfaces and Infrastructures) in General Evolutive Systems**
 
 The **TerraBrain Supersystem** embodies an advanced and adaptive AI ecosystem designed to support the **General Evolutive Systems** (GES) approach. This involves creating a dynamic, scalable, and sustainable infrastructure for AI that evolves over time, adapting to new challenges, technologies, and applications while maintaining a focus on efficiency, ethical considerations, and environmental sustainability.
 
-### **Core Principles of AIi in General Evolutive Systems**
+### **Core Principles of Aii in General Evolutive Systems**
 
 1. **Adaptability and Scalability**:
    - **Dynamic Evolution**: TerraBrain is designed to evolve continuously, incorporating new algorithms, data sources, and technologies to maintain optimal performance.
@@ -18,7 +17,7 @@ The **TerraBrain Supersystem** embodies an advanced and adaptive AI ecosystem de
    - **Green AI Principles**: Emphasizes energy-efficient algorithms, hardware optimizations, and sustainable data management practices to reduce environmental impact.
    - **Ethical AI Governance**: Implements strict governance frameworks to ensure that all AI applications are transparent, fair, and aligned with ethical standards.
 
-### **AIi (Artificial Intelligence Interfaces and Infrastructures) Components in TerraBrain Supersystem**
+### **Aii (Artificial Intelligence Interfaces and Infrastructures) Components in TerraBrain Supersystem**
 
 #### **1. AI Infrastructures: Core Elements**
 
@@ -106,6 +105,7 @@ The **TerraBrain Supersystem** embodies an advanced and adaptive AI ecosystem de
 The **TerraBrain Supersystem** with its **AIi (Artificial Intelligence Interfaces and Infrastructures)** is a pioneering model for evolving AI ecosystems that are adaptive, sustainable, and ethically aligned. By integrating the principles of General Evolutive Systems, TerraBrain supports a new paradigm of AI development that is dynamic, interconnected, and capable of continuous evolution to meet the complex and changing needs of society.
 
 This system positions Amedeo (Ampel) as a leader in the global movement towards sustainable AI, leveraging advanced technologies to create an inclusive, regenerative, and resilient future.to every layer of its infrastructure.
+The **TerraBrain Supersystem** represents an innovative and holistic approach to the development, deployment, and management of AI technologies. Designed to support the AmedeoComSystemsAZ, which encompasses the comprehensive suite of **AMPEL PLANS (A-Y)**, TerraBrain embodies the principles of **Green AI** and **Sustainable AI** by integrating environmental responsibility, ethical considerations, and societal impacts in
 
 ### **Core Principles of TerraBrain Supersystem**
 
