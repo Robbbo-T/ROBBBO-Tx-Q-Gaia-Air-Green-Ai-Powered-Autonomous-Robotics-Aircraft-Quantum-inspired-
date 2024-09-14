@@ -1,1 +1,10 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore specific cache and build directories
+docs/.vitepress/cache
+docs/.vitepress/dist
 _
