@@ -1,10 +1,11 @@
-https://github.com/Robbbo-T/Aicraft
+https://github.com/Robbbo-T/Aicraft 
+
 **Developer:** Amedeo Pelliccia  
 **Initiative:** Ampel ChatGPT
 
 ## **Project Overview**
 
-# ROBBBO-T Aircraft**
+# **ROBBBO-T Aircraft**
 
 ####  The **ROBBBO-T Aircraft** is an innovative, AI-driven project focused on developing a next-generation autonomous aircraft. Designed for sustainability, efficiency, and adaptability, this aircraft integrates advanced AI technologies and adheres to the principles of **Green AI** and **Sustainable AI**. Leveraging the **TerraBrain SuperSystem**, the ROBBBO-T Aircraft supports a dynamic and scalable AI ecosystem capable of adapting and evolving in real time.
 
