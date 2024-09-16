@@ -56,6 +56,33 @@ https://github.com/Robbbo-T/Aicraft
 
 **Descripción:**  
 ROBBBO-Tx es el sistema de visión robótica del ROBBBO-T aircraft, diseñado para mejorar la navegación autónoma, la seguridad y la eficiencia operativa en tiempo real mediante el uso de sensores avanzados y algoritmos de inteligencia artificial. Facilita la detección de obstáculos, el reconocimiento de terreno, y la coordinación con otros sistemas aéreos y terrestres para optimizar las operaciones de vuelo.
+
+### Objetivo Principal del Sistema ROBBBO-Tx
+
+1. **Objetivo Principal**:  
+   El objetivo principal del sistema de visión robótica **ROBBBO-Tx** es mejorar la **navegación autónoma** y la **seguridad** del **ROBBBO-T aircraft** en entornos complicados y dinámicos. Este sistema busca:
+   - **Evitar colisiones** mediante la detección temprana de obstáculos, tanto aéreos como terrestres.
+   - **Optimizar rutas** de vuelo ajustándose en tiempo real a condiciones variables (e.g., clima, tráfico aéreo).
+   - Proporcionar **conciencia situacional avanzada** a través de la integración de sensores y algoritmos de inteligencia artificial, mejorando la capacidad del avión para operar de forma segura y eficiente en entornos complejos y desconocidos.
+
+### Tecnologías Actuales
+
+2. **Tecnologías Actuales**:
+   - **Sensores de Navegación y Detección**:
+     - **Radar y LiDAR**: Proporcionan datos de distancia y mapeo en 3D para la navegación y la detección de obstáculos.
+     - **Cámaras Multiespectrales**: Utilizadas para detección visual en diferentes espectros (visible, infrarrojo), facilitando la identificación de objetos y condiciones climáticas adversas.
+     - **GPS/INS (Sistemas de Navegación Inercial)**: Ofrecen posicionamiento global y precisión en la navegación.
+   
+   - **Sistemas de Inteligencia Artificial**:
+     - **Algoritmos de Machine Learning**: Utilizados para la detección de patrones, reconocimiento de objetos y optimización de rutas en tiempo real.
+     - **Redes Neuronales Convolucionales (CNNs)**: Empleadas para el procesamiento de imágenes y la visión por computadora, mejorando la detección de obstáculos y la identificación de terreno.
+
+   - **Sistemas de Comunicación y Procesamiento de Datos**:
+     - **AI-Driven Middleware**: Facilita la comunicación entre los diferentes sistemas de sensores, el control de vuelo y la red TerraBrain, permitiendo una toma de decisiones informada y en tiempo real.
+
+   - **Objetivo de Integración**:
+     - **Capacidades Adicionales**: El sistema **ROBBBO-Tx** se integra para **añadir capacidades avanzadas** de visión robótica sin reemplazar los componentes actuales. En cambio, se busca **complementar** los sistemas existentes con mejoras en percepción y autonomía, ampliando las capacidades del **ROBBBO-T aircraft** para operar en una mayor variedad de entornos y condiciones con seguridad optimizada.
+
 ---
 
 ### **Objectives**
