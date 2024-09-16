@@ -48,7 +48,14 @@ https://github.com/Robbbo-T/Aicraft
      - **ATA 45 (Central Maintenance Computer)**
        - **DMC:** 45-00-00-00-00A-000A-D
      - **Description:** Integration of quantum and neuromorphic processors to optimize performance, reduce energy consumption, and enable complex computational tasks.
+ 
+## ROBBBO-Tx: Sistema de Visión Robótica para ROBBBO-T Aircraft
 
+- **ATA Chapter:** 34 (Navigation)  
+- **DMC Code:** 34-00-00-00-00A-000A-D  
+
+**Descripción:**  
+ROBBBO-Tx es el sistema de visión robótica del ROBBBO-T aircraft, diseñado para mejorar la navegación autónoma, la seguridad y la eficiencia operativa en tiempo real mediante el uso de sensores avanzados y algoritmos de inteligencia artificial. Facilita la detección de obstáculos, el reconocimiento de terreno, y la coordinación con otros sistemas aéreos y terrestres para optimizar las operaciones de vuelo.
 ---
 
 ### **Objectives**
