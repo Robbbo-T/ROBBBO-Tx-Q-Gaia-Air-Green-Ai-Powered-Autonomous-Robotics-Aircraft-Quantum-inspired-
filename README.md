@@ -83,6 +83,94 @@ ROBBBO-Tx es el sistema de visión robótica del ROBBBO-T aircraft, diseñado pa
    - **Objetivo de Integración**:
      - **Capacidades Adicionales**: El sistema **ROBBBO-Tx** se integra para **añadir capacidades avanzadas** de visión robótica sin reemplazar los componentes actuales. En cambio, se busca **complementar** los sistemas existentes con mejoras en percepción y autonomía, ampliando las capacidades del **ROBBBO-T aircraft** para operar en una mayor variedad de entornos y condiciones con seguridad optimizada.
 
+== Method
+
+=== 1. Especificaciones de Hardware y Sensores
+
+El sistema **ROBBBO-Tx** integrará los siguientes sensores avanzados y hardware de procesamiento para cumplir con los requisitos de navegación autónoma, detección de obstáculos y optimización de rutas:
+
+* **Sensores LiDAR:**
+  - **Modelo recomendado:** Velodyne VLP-32C o Ouster OS1-32.
+  - **Especificaciones:** 32 canales con alcance efectivo de hasta 200 metros y una tasa de actualización de 10-20 Hz para una detección precisa en tiempo real.
+
+* **Sensores Radar:**
+  - **Modelo recomendado:** Continental ARS410.
+  - **Especificaciones:** Radar de banda Ku con capacidad de detección sub-métrica a una distancia de hasta 500 metros, optimizado para condiciones meteorológicas adversas.
+
+* **Cámaras Infrarrojas:**
+  - **Modelos recomendados:** FLIR Tau2 o Boson.
+  - **Especificaciones:** Rango espectral de 8-14 micrómetros y resolución mínima de Full HD (1920x1080 píxeles) con una tasa de cuadros de al menos 30 fps.
+
+=== 2. Componentes de Software y Algoritmos de AI
+
+* **Procesamiento de Imágenes en Tiempo Real:**
+  - **Objetivo de rendimiento:** Mantener una tasa mínima de procesamiento de 30 fps para la seguridad y eficiencia del sistema.
+  - **Frameworks y bibliotecas:**
+    - **TensorFlow** y **PyTorch**: Para el desarrollo de modelos de aprendizaje profundo, incluyendo Redes Neuronales Convolucionales (CNNs).
+    - **OpenCV:** Para tareas de procesamiento de imágenes y visión por computadora.
+    - **ONNX (Open Neural Network Exchange):** Para facilitar la interoperabilidad de modelos AI entre diferentes frameworks.
+
+* **Compatibilidad de Hardware:**
+  - **GPUs y TPUs:** Utilización de **NVIDIA Jetson Xavier** y opciones futuras de **procesadores neuromórficos** para eficiencia energética.
+
+=== 3. Esquema de Bases de Datos y Arquitectura de Software
+
+* **Esquema de Bases de Datos:**
+  - **Base de datos en tiempo real:** **InfluxDB** o **TimescaleDB** para almacenamiento de datos de sensores con baja latencia.
+  - **Almacenamiento a largo plazo:** **Apache Cassandra** o **AWS S3** para mantener historiales extensivos de datos de entrenamiento de AI.
+
+* **Arquitectura de Software:**
+  - **Microservicios:** Diseño basado en microservicios para la integración de diferentes componentes.
+  - **Middleware de Integración AI:** Uso de **ROS (Robot Operating System)** para la coordinación eficiente de procesos de sensores y control de la aeronave.
+
+=== 4. Estrategias de Implementación y Algoritmos Específicos
+
+* **Algoritmos de Optimización de Rutas:**
+  - **Algoritmos de planificación estática:** A* o Dijkstra para entornos estáticos.
+  - **Algoritmos de planificación dinámica:** **Deep Reinforcement Learning (DRL)** para entornos cambiantes.
+
+* **Algoritmos de Detección y Clasificación de Obstáculos:**
+  - **Redes Neuronales Convolucionales (CNNs):** Para el reconocimiento de objetos y obstáculos.
+  - **Segmentación Semántica:** Para el reconocimiento preciso del terreno.
+
+=== 5. Estrategias de Seguridad y Mantenimiento
+
+* **Redundancia y Diagnóstico en Tiempo Real:**
+  - Incorporación de diagnósticos continuos y mecanismos de auto-verificación.
+  - Respuesta autónoma a fallas o anomalías.
+
+* **Compatibilidad con Mantenimiento Predictivo:**
+  - Integración con sistemas de mantenimiento predictivo.
+  - Capacidades de auto-monitoreo para reducir tiempos de inactividad no programados.
+
+=== 6. Pruebas y Validación
+
+Para asegurar que el sistema ROBBBO-Tx cumpla con todos los requisitos de seguridad y rendimiento, se implementarán las siguientes estrategias de prueba:
+
+* **Pruebas de Componentes Individuales:**
+  - Evaluación de sensores (LiDAR, radar, cámaras infrarrojas) en entornos controlados para verificar la precisión y el rendimiento.
+  - Validación de algoritmos de AI mediante simulaciones en entornos virtuales utilizando herramientas como **Gazebo** o **AirSim**.
+
+* **Pruebas de Integración del Sistema:**
+  - Integración progresiva de los componentes de hardware y software en plataformas de prueba de vuelo.
+  - Realización de pruebas de vuelo en entornos simulados y reales para evaluar el rendimiento del sistema en escenarios operativos.
+
+* **Métricas de Rendimiento:**
+  - Medición de tasas de detección de obstáculos, precisión de clasificación y tiempos de respuesta del sistema.
+  - Evaluación de la eficiencia energética y el consumo de recursos durante las operaciones.
+
+=== 7. Gestión del Ciclo de Vida del Software
+
+Para garantizar la sostenibilidad y evolución del sistema ROBBBO-Tx, se aplicarán las siguientes prácticas:
+
+* **Actualizaciones Continuas:**
+  - Implementación de un ciclo de desarrollo ágil con iteraciones regulares para actualizar los algoritmos AI y optimizar la eficiencia.
+  - Uso de plataformas CI/CD (Integración y Entrega Continua) como **Jenkins** o **GitLab CI** para pruebas automáticas y despliegues rápidos.
+
+* **Mantenimiento y Mejora:**
+  - Evaluaciones periódicas de rendimiento y revisiones de código para identificar y corregir posibles problemas de eficiencia y seguridad.
+  - Escalabilidad del sistema mediante módulos adicionales o mejoras de hardware/software según sea necesario.
+
 ---
 
 ### **Objectives**
