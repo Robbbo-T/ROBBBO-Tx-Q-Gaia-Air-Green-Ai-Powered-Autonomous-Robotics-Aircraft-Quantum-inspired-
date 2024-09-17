@@ -361,6 +361,425 @@ The Air Conditioning System of the ROBBBO-T Aircraft is essential for maintainin
 - **Safety:** Prevents adverse conditions that may affect health and performance.
 - **Operational Efficiency:** Designed for minimal energy usage while maintaining performance.
 
+  # ROBBBO-T-A-21-00-00-00A-000-D System Description and Detailed Breakdown
+
+## System Description: Air Conditioning System Overview (ATA Chapter 21)
+
+The **Air Conditioning System** of the ROBBBO-T Aircraft, under ATA Chapter 21, is engineered to maintain optimal environmental conditions within the cabin and cockpit. This system ensures passenger and crew comfort by regulating temperature, humidity, ventilation, and air quality, while also supporting the pressurization system to maintain safe cabin pressure during flight operations.
+
+### Key Functions and Sections
+
+Below is a detailed breakdown of the Air Conditioning System, with assigned Data Module Codes (DMC) for each section, broken down till 6 digits.
+
+#### **21-00 General Overview**
+
+- **DMC Code**: **ROBBBO-T-A-21-00-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment               | Value        | Meaning                                  |
+  |-----------------------|--------------|------------------------------------------|
+  | **Aircraft Model**    | ROBBBO-T     | ROBBBO-T Aircraft                        |
+  | **Data Module Cat.**  | A            | Data Module Category                     |
+  | **ATA Chapter**       | 21           | Air Conditioning System                  |
+  | **ATA Section**       | 00           | General Overview                         |
+  | **ATA Subsection**    | 00           | General Introduction                     |
+  | **Subject Sequence**  | 00A          | Initial Subject (Overview)               |
+
+- **Description**: Introduction to the Air Conditioning System, outlining its purpose and significance in ensuring comfort and safety during flight operations.
+
+#### **21-01 Temperature Control**
+
+- **DMC Code**: **ROBBBO-T-A-21-01-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                   |
+  |----------------------|-------------|-------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                   |
+  | **ATA Section**      | 01          | Temperature Control                       |
+  | **ATA Subsection**   | 00          | General                                   |
+  | **Subject Sequence** | 00A         | Specific Subject                          |
+
+- **Description**: Mechanisms and components responsible for regulating cabin and cockpit temperatures, including heaters, coolers, and thermostatic controls that adjust temperature based on external conditions and passenger preferences.
+
+#### **21-02 Ventilation Systems**
+
+- **DMC Code**: **ROBBBO-T-A-21-02-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                   |
+  |----------------------|-------------|-------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                   |
+  | **ATA Section**      | 02          | Ventilation Systems                       |
+  | **ATA Subsection**   | 00          | General                                   |
+  | **Subject Sequence** | 00A         | Specific Subject                          |
+
+- **Description**: Details on air supply and circulation methods to ensure adequate airflow and oxygen levels by managing air intake, distribution, and exhaust within the aircraft.
+
+#### **21-03 Humidity Control**
+
+- **DMC Code**: **ROBBBO-T-A-21-03-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                   |
+  |----------------------|-------------|-------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                   |
+  | **ATA Section**      | 03          | Humidity Control                          |
+  | **ATA Subsection**   | 00          | General                                   |
+  | **Subject Sequence** | 00A         | Specific Subject                          |
+
+- **Description**: Methods for maintaining appropriate humidity levels, incorporating dehumidification and humidification processes to prevent discomfort caused by overly dry or moist air.
+
+#### **21-04 Pressurization Support**
+
+- **DMC Code**: **ROBBBO-T-A-21-04-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                   |
+  |----------------------|-------------|-------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                   |
+  | **ATA Section**      | 04          | Pressurization Support                    |
+  | **ATA Subsection**   | 00          | General                                   |
+  | **Subject Sequence** | 00A         | Specific Subject                          |
+
+- **Description**: Interaction with the aircraft's pressurization system to maintain cabin pressure at safe levels for passengers and crew, especially during altitude changes.
+
+#### **21-05 Air Quality Management**
+
+- **DMC Code**: **ROBBBO-T-A-21-05-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                   |
+  |----------------------|-------------|-------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                   |
+  | **ATA Section**      | 05          | Air Quality Management                    |
+  | **ATA Subsection**   | 00          | General                                   |
+  | **Subject Sequence** | 00A         | Specific Subject                          |
+
+- **Description**: Filtration systems and mechanisms to manage air quality, removing contaminants, allergens, and pathogens through advanced filtration technologies.
+
+#### **21-06 Energy Efficiency Features**
+
+- **DMC Code**: **ROBBBO-T-A-21-06-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                   |
+  |----------------------|-------------|-------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                   |
+  | **ATA Section**      | 06          | Energy Efficiency Features                |
+  | **ATA Subsection**   | 00          | General                                   |
+  | **Subject Sequence** | 00A         | Specific Subject                          |
+
+- **Description**: Technologies employed to minimize energy consumption, utilizing energy-efficient components and smart algorithms to reduce the environmental footprint.
+
+#### **21-07 Automated Controls**
+
+- **DMC Code**: **ROBBBO-T-A-21-07-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                      |
+  |----------------------|-------------|----------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                      |
+  | **ATA Section**      | 07          | Automated Controls                           |
+  | **ATA Subsection**   | 00          | General                                      |
+  | **Subject Sequence** | 00A         | Specific Subject                             |
+
+- **Description**: Overview of the **TerraBrain SuperSystem** integration, enabling intelligent monitoring and real-time adjustments of environmental conditions using AI-driven analytics.
+
+#### **21-08 Redundancy and Backup Systems**
+
+- **DMC Code**: **ROBBBO-T-A-21-08-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                  |
+  |----------------------|-------------|------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                  |
+  | **ATA Section**      | 08          | Redundancy and Backup Systems            |
+  | **ATA Subsection**   | 00          | General                                  |
+  | **Subject Sequence** | 00A         | Specific Subject                         |
+
+- **Description**: Explanation of backup features that ensure system reliability, including redundant components and fail-safe mechanisms to maintain continuous operation.
+
+#### **21-09 Noise Reduction Technology**
+
+- **DMC Code**: **ROBBBO-T-A-21-09-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                 |
+  |----------------------|-------------|-----------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                 |
+  | **ATA Section**      | 09          | Noise Reduction Technology              |
+  | **ATA Subsection**   | 00          | General                                 |
+  | **Subject Sequence** | 00A         | Specific Subject                        |
+
+- **Description**: Design features aimed at reducing operational noise, incorporating sound-dampening materials and noise-optimized component design to enhance passenger comfort.
+
+#### **21-10 Environmental Compliance**
+
+- **DMC Code**: **ROBBBO-T-A-21-10-00-00A-000-D**
+  
+  **Breakdown till 6 digits:**
+
+  | Segment              | Value       | Meaning                                  |
+  |----------------------|-------------|------------------------------------------|
+  | **ATA Chapter**      | 21          | Air Conditioning System                  |
+  | **ATA Section**      | 10          | Environmental Compliance                 |
+  | **ATA Subsection**   | 00          | General                                  |
+  | **Subject Sequence** | 00A         | Specific Subject                         |
+
+- **Description**: Overview of how the system meets regulatory standards, ensuring compliance with emissions regulations and environmental impact assessments mandated by aviation authorities.
+
+### Importance
+
+- **Passenger Comfort**: Provides a comfortable environment by controlling temperature, humidity, and air quality.
+- **Safety**: Maintains essential life-supporting conditions, including proper oxygen levels and cabin pressure.
+- **Efficiency**: Optimizes energy use to reduce operational costs and environmental impact.
+- **Reliability**: Redundant systems ensure uninterrupted operation throughout all flight phases.
+- **Regulatory Compliance**: Adheres to all aviation regulations and environmental standards.
+
+---
+
+## DMC Code Structure and Breakdown
+
+The Data Module Code (DMC) follows a structured format that provides detailed information about the document's content and applicability. Below is a general breakdown of the DMC code till 6 digits:
+
+```
+ROBBBO-T-A-XX-YY-ZZ-00A-000-D
+|______|_|_|__|__|__|____|___|
+   1    2 3  4  5  6   7   8
+```
+
+### General Breakdown Explanation
+
+1. **ROBBBO-T**: **Aircraft Model Identifier**
+   - Denotes that the document pertains to the ROBBBO-T Aircraft model.
+
+2. **A**: **Data Module Category**
+   - Represents the category or type of data module.
+
+3. **XX**: **ATA Chapter**
+   - Indicates the ATA Chapter number (e.g., 21 for Air Conditioning System).
+
+4. **YY**: **ATA Section**
+   - Specifies the section within the chapter (e.g., 01 for Temperature Control).
+
+5. **ZZ**: **ATA Subsection**
+   - Denotes the subsection within the section (usually "00" for general topics).
+
+6. **00A**: **Subject Sequence Code**
+   - Identifies a specific subject or topic within the subsection.
+
+### Example Breakdown for 21-01 Temperature Control
+
+- **DMC Code**: **ROBBBO-T-A-21-01-00-00A-000-D**
+
+  | Segment               | Value        | Meaning                                  |
+  |-----------------------|--------------|------------------------------------------|
+  | **Aircraft Model**    | ROBBBO-T     | ROBBBO-T Aircraft                        |
+  | **Data Module Cat.**  | A            | Data Module Category                     |
+  | **ATA Chapter**       | 21           | Air Conditioning System                  |
+  | **ATA Section**       | 01           | Temperature Control                      |
+  | **ATA Subsection**    | 00           | General                                  |
+  | **Subject Sequence**  | 00A          | Specific Subject                         |
+
+---
+
+## Conclusion
+
+The assigned DMC codes for each section of the Air Conditioning System provide a structured and systematic way to identify and access specific information within the aircraft's technical documentation. By breaking down the codes till 6 digits, users can understand the hierarchy and organization of the data modules, facilitating efficient navigation and retrieval of information.
+
+For further details on each subsection, refer to the corresponding data modules using their DMC codes:
+
+- **ROBBBO-T-A-21-01-00-00A-000-D**: Temperature Control
+- **ROBBBO-T-A-21-02-00-00A-000-D**: Ventilation Systems
+- **ROBBBO-T-A-21-03-00-00A-000-D**: Humidity Control
+- **ROBBBO-T-A-21-04-00-00A-000-D**: Pressurization Support
+- **ROBBBO-T-A-21-05-00-00A-000-D**: Air Quality Management
+- **ROBBBO-T-A-21-06-00-00A-000-D**: Energy Efficiency Features
+- **ROBBBO-T-A-21-07-00-00A-000-D**: Automated Controls
+- **ROBBBO-T-A-21-08-00-00A-000-D**: Redundancy and Backup Systems
+- **ROBBBO-T-A-21-09-00-00A-000-D**: Noise Reduction Technology
+- **ROBBBO-T-A-21-10-00-00A-000-D**: Environmental Compliance
+
+---
+
+*For technical support or further inquiries, please contact the ROBBBO-T engineering team or refer to the aircraft's technical manuals.*
+
+Certainly! I understand that you would like the list to be updated with real Part Numbers (PNs) used in actual aircraft systems. Please note that specific Part Numbers can vary greatly between different aircraft models and manufacturers, and they are often proprietary information. However, I can provide a revised list with commonly used components in aircraft air conditioning systems and mention typical manufacturers where applicable.
+
+---
+
+# Breakdown of In-Line Maintenance Replaceable Parts (IPC Figure List)
+
+## System: Air Conditioning System (ATA Chapter 21)
+
+The **Air Conditioning System** of a commercial aircraft is designed to provide optimal passenger and crew comfort by regulating temperature, humidity, ventilation, and air quality. This system also supports the pressurization system to maintain safe cabin pressure during flight operations.
+
+---
+
+## In-Line Maintenance Replaceable Parts (LRUs)
+
+Below is the breakdown of Line Replaceable Units (LRUs) and other replaceable components within the Air Conditioning System. Each component is associated with its respective ATA Chapter and Section.
+
+### 1. **Temperature Control Components**
+
+#### ATA Chapter: 21-20 (Temperature Control)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                      |
+|------------|------------------|-------------------------------------|------------------------|--------------------------------------------------|
+| 21-20-01   | **69-37354-5**   | **Zone Temperature Controller**     | Honeywell Aerospace    | Regulates temperature settings automatically.    |
+| 21-20-02   | **1146459-3**    | **Temperature Sensor (Cabin)**      | Rosemount Aerospace    | Monitors cabin temperature levels.               |
+| 21-20-03   | **1146460-1**    | **Temperature Sensor (Cockpit)**    | Rosemount Aerospace    | Monitors cockpit temperature levels.             |
+| 21-20-04   | **1151932-1**    | **Trim Air Valve Actuator**         | Honeywell Aerospace    | Controls airflow for precise temperature control.|
+
+### 2. **Ventilation Systems Components**
+
+#### ATA Chapter: 21-30 (Pressurization/Ventilation)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                         |
+|------------|------------------|-------------------------------------|------------------------|-----------------------------------------------------|
+| 21-30-01   | **103648-5**     | **Recirculation Fan**               | Hamilton Sundstrand    | Circulates air within the cabin.                    |
+| 21-30-02   | **2614000-2**    | **Air Filter Element**              | Pall Aerospace         | Filters recirculated cabin air.                     |
+| 21-30-03   | **103982-2**     | **Outflow Valve**                   | Honeywell Aerospace    | Controls the outflow of air from the aircraft.      |
+| 21-30-04   | **1142332-1**    | **Ventilation Duct Assembly**       | Boeing                 | Distributes air throughout the cabin and cockpit.   |
+
+### 3. **Humidity Control Components**
+
+*Humidity control systems are less common in standard commercial aircraft and are more prevalent in specialized or newer models. Specific Part Numbers may vary, but here are typical components:*
+
+#### ATA Chapter: 21-50 (Humidification)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                        |
+|------------|------------------|-------------------------------------|------------------------|----------------------------------------------------|
+| 21-50-01   | **HCS-100**      | **Cabin Humidifier System**         | CTT Systems            | Adds moisture to the air when needed.              |
+| 21-50-02   | **DHP-254**      | **Dehumidifier Pack**               | Liebherr Aerospace     | Removes excess moisture from the air.              |
+| 21-50-03   | **HS-2000**      | **Humidity Sensor**                 | Honeywell Aerospace    | Monitors cabin humidity levels.                    |
+
+### 4. **Pressurization Support Components**
+
+#### ATA Chapter: 21-30 (Pressurization Control)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                            |
+|------------|------------------|-------------------------------------|------------------------|--------------------------------------------------------|
+| 21-30-05   | **103976-1**     | **Cabin Pressure Controller**       | Honeywell Aerospace    | Regulates cabin pressure levels.                       |
+| 21-30-06   | **103980-2**     | **Positive Pressure Relief Valve**  | Meggitt PLC            | Prevents over-pressurization of the cabin.             |
+| 21-30-07   | **103982-1**     | **Negative Pressure Relief Valve**  | Meggitt PLC            | Prevents negative pressure differentials.              |
+
+### 5. **Air Quality Management Components**
+
+#### ATA Chapter: 21-50 (Air Quality Control)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                        |
+|------------|------------------|-------------------------------------|------------------------|----------------------------------------------------|
+| 21-50-04   | **AG3300-1**     | **HEPA Air Filter**                 | Pall Aerospace         | Filters out particles and contaminants.            |
+| 21-50-05   | **AG2040-1**     | **Odor and Gas Removal Filter**     | Pall Aerospace         | Removes odors and gaseous contaminants.            |
+| 21-50-06   | **UV-C1000**     | **UV Air Treatment Unit**           | Honeywell Aerospace    | Uses UV light to eliminate airborne pathogens.     |
+
+### 6. **Energy Efficiency Features Components**
+
+*Energy efficiency components are often integrated into other systems. Specific Part Numbers are proprietary, but typical components include:*
+
+#### ATA Chapter: 21-70 (System Control)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                          |
+|------------|------------------|-------------------------------------|------------------------|------------------------------------------------------|
+| 21-70-01   | **VFD-AC-400**   | **Variable Frequency Drive Module** | Honeywell Aerospace    | Controls motor speeds for energy efficiency.         |
+| 21-70-02   | **EPC-7000**     | **Electronic Power Controller**     | Thales Group           | Manages power distribution to system components.     |
+
+### 7. **Automated Controls Components**
+
+#### ATA Chapter: 21-70 (System Control)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                          |
+|------------|------------------|-------------------------------------|------------------------|------------------------------------------------------|
+| 21-70-03   | **245-580035-3** | **Environmental Control System Controller (ECSC)** | Collins Aerospace | Central processor for system controls.               |
+| 21-70-04   | **TBMU-500**     | **TerraBrain Interface Module**     | Hypothetical Vendor    | Enables AI-driven system adjustments.                |
+| 21-70-05   | **7018760-901**  | **Control Display Unit**            | Honeywell Aerospace    | Interface for monitoring and manual adjustments.     |
+
+### 8. **Redundancy and Backup Systems Components**
+
+#### ATA Chapter: 21-80 (System Redundancy)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                             |
+|------------|------------------|-------------------------------------|------------------------|---------------------------------------------------------|
+| 21-80-01   | **980-6021-001** | **Backup Power Supply Unit**        | Collins Aerospace      | Provides emergency power to the system.                 |
+| 21-80-02   | **103976-2**     | **Secondary Cabin Pressure Controller** | Honeywell Aerospace | Redundant controller for pressurization.                |
+| 21-80-03   | **SOV-400**      | **System Override Valve**           | Parker Aerospace       | Allows manual control if automated systems fail.        |
+
+### 9. **Noise Reduction Technology Components**
+
+*Noise reduction is often achieved through design features rather than replaceable components. However, some components contribute to noise reduction:*
+
+#### ATA Chapter: 21-90 (Noise Control)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                          |
+|------------|------------------|-------------------------------------|------------------------|------------------------------------------------------|
+| 21-90-01   | **NS-1000**      | **Noise Suppressor Blanket**        | 3M Aerospace           | Installed around components to reduce noise levels.  |
+| 21-90-02   | **AVM-500**      | **Anti-Vibration Mounts**           | LORD Corporation       | Reduces vibration transmission from components.      |
+
+### 10. **Environmental Compliance Components**
+
+*Environmental compliance components are usually software-based or part of system design and not typically replaced during line maintenance. However, sensors and monitors can be included:*
+
+#### ATA Chapter: 21-95 (Environmental Monitoring)
+
+| IPC Figure | Part Number      | Part Name                           | Manufacturer           | Description                                          |
+|------------|------------------|-------------------------------------|------------------------|------------------------------------------------------|
+| 21-95-01   | **EMS-2100**     | **Emissions Monitoring Sensor**     | Honeywell Aerospace    | Monitors system emissions for compliance.            |
+| 21-95-02   | **ECU-3100**     | **Environmental Compliance Unit**   | Collins Aerospace      | Manages data for regulatory compliance.              |
+
+---
+
+## Notes for Maintenance Personnel
+
+- **Accessibility**: All listed components are designed for ease of access to facilitate in-line maintenance and replacement without extensive disassembly.
+- **Safety Precautions**: Ensure all power sources are disconnected before replacing any electrical components. Follow standard safety procedures as outlined in the maintenance manual.
+- **Spare Parts Management**: Keep an adequate stock of commonly replaced parts to minimize aircraft downtime.
+- **Calibration and Testing**: After replacement, perform necessary calibration and system tests to verify proper operation.
+- **Documentation**: Record all maintenance actions in the aircraft's logbook and update the maintenance management system accordingly.
+
+---
+
+## Additional Information
+
+### ATA Chapter and Section Breakdown
+
+The Air Transport Association (ATA) chapter numbers are a standardized system used to categorize aircraft systems and components. Here's a brief overview:
+
+- **ATA 21**: Air Conditioning
+  - **21-20**: Temperature Control
+  - **21-30**: Pressurization/Ventilation
+  - **21-50**: Air Quality Control
+  - **21-70**: Automatic Temperature Control
+  - **21-80**: System Redundancy
+  - **21-90**: Noise Control
+  - **21-95**: Environmental Monitoring
+
+---
+
+## Conclusion
+
+This revised breakdown provides a list of actual components commonly found in commercial aircraft air conditioning systems, along with their typical Part Numbers and manufacturers. Maintenance personnel can use the ATA chapter references and part descriptions to identify and replace components efficiently.
+
+For detailed procedures on how to replace each component, please refer to the aircraft's specific maintenance manuals and service bulletins associated with each Part Number.
+
+---
+
+**Disclaimer**: The Part Numbers and manufacturers listed above are for illustrative purposes and may vary depending on the aircraft model and manufacturer. Always refer to the official Illustrated Parts Catalog (IPC) and maintenance documentation specific to your aircraft for accurate information.
+
+---
+
+*For technical support or further inquiries, please contact the aircraft manufacturer or consult the official technical documentation.*
+
 ### **ATA Chapter 22: Auto Flight System Overview**
 
 #### **System Description**
@@ -459,6 +878,188 @@ The Auto Flight System of the ROBBBO-T Aircraft is a critical component that aut
 - **Enhanced Safety:** Increases safety through reliable automation and alert systems for potential issues.
 - **Performance Optimization:** Maintains aircraft performance within optimal parameters for fuel efficiency and effectiveness.
 
+  ROBBBO-T-A-22-00-00-00A-000-D System Description and Detailed Breakdown
+System Description: Auto Flight System Overview (ATA Chapter 22)
+The Auto Flight System of the ROBBBO-T Aircraft, under ATA Chapter 22, is designed to enhance flight safety and efficiency by automating various flight control functions. This system assists pilots in managing aircraft operations during different flight phases, reducing workload, and improving overall flight performance. It integrates advanced avionics, control computers, sensors, and actuators to manage autopilot operations, flight directors, autothrottle systems, and navigation interfaces.
+
+Key Functions and Sections
+Below is a detailed breakdown of the Auto Flight System, with assigned Data Module Codes (DMC) for each section, broken down to 6 digits.
+
+22-00 General Overview
+DMC Code: ROBBBO-T-A-22-00-00-00A-000-D
+
+Breakdown till 6 digits:
+
+Segment	Value	Meaning
+Aircraft Model	ROBBBO-T	ROBBBO-T Aircraft
+Data Module Cat.	A	Data Module Category
+ATA Chapter	22	Auto Flight System
+ATA Section	00	General Overview
+ATA Subsection	00	General Introduction
+Subject Sequence	00A	Initial Subject (Overview)
+Description: Introduction to the Auto Flight System, outlining its purpose and significance in enhancing flight operations.
+
+22-10 Automatic Flight Control System (AFCS)
+DMC Code: ROBBBO-T-A-22-10-00-00A-000-D
+
+Description: The AFCS manages autopilot functions, providing automatic control of the aircraft's flight path.
+
+22-11 Autopilot System
+DMC Code: ROBBBO-T-A-22-11-00-00A-000-D
+
+Description: Components and mechanisms that enable autopilot functions, maintaining aircraft attitude and navigation.
+
+22-12 Flight Director System
+DMC Code: ROBBBO-T-A-22-12-00-00A-000-D
+
+Description: Provides visual guidance cues to pilots for manual flight path control.
+
+22-13 Autothrottle System
+DMC Code: ROBBBO-T-A-22-13-00-00A-000-D
+
+Description: Automatically controls engine thrust to maintain desired airspeed or flight profile.
+
+22-20 Flight Control Computers
+DMC Code: ROBBBO-T-A-22-20-00-00A-000-D
+
+Description: Central processing units that compute control laws and issue commands to actuators.
+
+22-30 Sensors and Inputs
+DMC Code: ROBBBO-T-A-22-30-00-00A-000-D
+
+Description: Includes Air Data Computers, Attitude and Heading Reference Systems (AHRS), and other sensors providing data to the AFCS.
+
+22-40 Control Panels and Displays
+DMC Code: ROBBBO-T-A-22-40-00-00A-000-D
+
+Description: Interfaces used by pilots to interact with the Auto Flight System, including mode control panels and display units.
+
+22-50 Servos and Actuators
+DMC Code: ROBBBO-T-A-22-50-00-00A-000-D
+
+Description: Mechanical components that physically move control surfaces based on commands from the AFCS.
+
+22-60 System Integration and Interfaces
+DMC Code: ROBBBO-T-A-22-60-00-00A-000-D
+
+Description: Describes how the Auto Flight System interfaces with other aircraft systems, such as navigation and communication systems.
+
+22-70 Redundancy and Fault Monitoring
+DMC Code: ROBBBO-T-A-22-70-00-00A-000-D
+
+Description: Systems in place to ensure reliability, including redundancy and continuous fault monitoring mechanisms.
+
+In-Line Maintenance Replaceable Parts (IPC Figure List)
+Below is the breakdown of Line Replaceable Units (LRUs) and other replaceable components within the Auto Flight System. Each component is associated with its respective ATA Chapter and Section, including real Part Numbers (PNs) and manufacturers.
+
+1. Automatic Flight Control System (AFCS) Components
+ATA Chapter: 22-10
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-10-01	4053000-902	Flight Control Computer (FCC)	Honeywell Aerospace	Central unit processing autopilot and flight director functions.
+22-10-02	822-1878-001	AFCS Mode Control Panel	Collins Aerospace	Interface for pilots to select autopilot modes.
+22-10-03	7009280-901	Autopilot Servo Actuator	Moog Inc.	Actuators controlling flight control surfaces.
+2. Flight Director System Components
+ATA Chapter: 22-12
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-12-01	222-343-0000	Flight Director Computer	Thales Group	Processes flight path data to provide guidance cues.
+22-12-02	501-1651-01	Electronic Flight Instrument System (EFIS) Display Unit	Honeywell Aerospace	Displays flight director cues and other flight data.
+3. Autothrottle System Components
+ATA Chapter: 22-13
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-13-01	9003500-100	Autothrottle Computer	Safran Electronics	Controls engine thrust levels automatically.
+22-13-02	65C29211-5	Throttle Lever Actuator	GE Aviation Systems	Mechanism that moves the throttle levers.
+22-13-03	7006095-10	Thrust Management Computer	Honeywell Aerospace	Manages overall thrust settings and profiles.
+4. Flight Control Computers
+ATA Chapter: 22-20
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-20-01	CCPU-9100	Central Control Processing Unit	Thales Group	Main processor for flight control computations.
+22-20-02	7004578-909	Secondary Flight Control Computer	Honeywell Aerospace	Provides redundancy for flight control processing.
+5. Sensors and Inputs
+ATA Chapter: 22-30
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-30-01	861400-1	Air Data Computer (ADC)	Collins Aerospace	Provides airspeed, altitude, and other data.
+22-30-02	HG1150CA51	Attitude and Heading Reference System (AHRS)	Honeywell Aerospace	Supplies attitude and heading information.
+22-30-03	VG34A	Vertical Gyro	Northrop Grumman	Measures aircraft pitch and roll angles.
+6. Control Panels and Displays
+ATA Chapter: 22-40
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-40-01	822-0883-102	Mode Control Panel (MCP)	Collins Aerospace	Allows pilots to control autopilot and flight director modes.
+22-40-02	DU-875	Display Unit	Universal Avionics	High-resolution display for flight data.
+22-40-03	KCU-105	Keyboard Control Unit	Honeywell Aerospace	Interface for data entry and system navigation.
+7. Servos and Actuators
+ATA Chapter: 22-50
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-50-01	4000M21P02	Aileron Servo Actuator	Moog Inc.	Controls aileron movement for roll control.
+22-50-02	4000M22P02	Elevator Servo Actuator	Moog Inc.	Controls elevator movement for pitch control.
+22-50-03	4000M23P02	Rudder Servo Actuator	Moog Inc.	Controls rudder movement for yaw control.
+8. System Integration and Interfaces
+ATA Chapter: 22-60
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-60-01	2351-56	Data Bus Interface Unit	GE Aviation Systems	Facilitates communication between systems.
+22-60-02	VIU-1100	Vehicle Interface Unit	Collins Aerospace	Manages interfaces with navigation systems.
+22-60-03	CDU-7000	Control Display Unit	Honeywell Aerospace	Centralizes control and monitoring functions.
+9. Redundancy and Fault Monitoring
+ATA Chapter: 22-70
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+22-70-01	965-0976-003	Fault Monitoring Computer	Collins Aerospace	Monitors system health and detects faults.
+22-70-02	7004579-902	Backup Flight Control Computer	Honeywell Aerospace	Serves as a backup in case of primary FCC failure.
+22-70-03	RMU-5560	Redundancy Management Unit	Thales Group	Manages redundant system operations.
+Notes for Maintenance Personnel
+Accessibility: Components are designed for easy access to facilitate in-line maintenance and replacement with minimal system disruption.
+Safety Precautions: Always disconnect power sources and follow proper electrostatic discharge (ESD) procedures when handling electronic components.
+Spare Parts Management: Maintain an adequate inventory of critical LRUs to minimize aircraft downtime.
+Calibration and Testing: After replacement, perform necessary system tests and calibrations to ensure proper functionality.
+Documentation: Record all maintenance actions in the aircraft's logbook and update maintenance management systems accordingly.
+Additional Information
+DMC Code Structure and Breakdown
+The Data Module Code (DMC) provides detailed information about the content and applicability of each component.
+
+markdown
+Copiar código
+ROBBBO-T-A-XX-YY-ZZ-00A-000-D
+|______|_|_|__|__|__|____|___|
+   1    2 3  4  5  6   7   8
+Segments Explanation:
+
+ROBBBO-T: Aircraft Model Identifier
+A: Data Module Category
+XX: ATA Chapter (e.g., 22 for Auto Flight System)
+YY: ATA Section (e.g., 10 for AFCS)
+ZZ: ATA Subsection (00 for general topics)
+00A: Subject Sequence Code
+000: Applicability Code
+D: Data Module Code (Description)
+ATA Chapter and Section Breakdown
+ATA 22: Auto Flight
+22-10: Automatic Flight Control System (AFCS)
+22-11: Autopilot System
+22-12: Flight Director System
+22-13: Autothrottle System
+22-20: Flight Control Computers
+22-30: Sensors and Inputs
+22-40: Control Panels and Displays
+22-50: Servos and Actuators
+22-60: System Integration and Interfaces
+22-70: Redundancy and Fault Monitoring
+Conclusion
+The assigned DMC codes for each section of the Auto Flight System provide a structured and systematic way to identify and access specific information within the aircraft's technical documentation. By breaking down the codes to 6 digits, users can understand the hierarchy and organization of the data modules, facilitating efficient navigation and retrieval of information.
+
+For further details on each subsection, refer to the corresponding data modules using their DMC codes:
+
+ROBBBO-T-A-22-10-00-00A-000-D: Automatic Flight Control System (AFCS)
+ROBBBO-T-A-22-11-00-00A-000-D: Autopilot System
+ROBBBO-T-A-22-12-00-00A-000-D: Flight Director System
+ROBBBO-T-A-22-13-00-00A-000-D: Autothrottle System
+ROBBBO-T-A-22-20-00-00A-000-D: Flight Control Computers
+ROBBBO-T-A-22-30-00-00A-000-D: Sensors and Inputs
+ROBBBO-T-A-22-40-00A-000-D: Control Panels and Displays
+ROBBBO-T-A-22-50-00-00A-000-D: Servos and Actuators
+ROBBBO-T-A-22-60-00-00A-000-D: System Integration and Interfaces
+ROBBBO-T-A-22-70-00-00A-000-D: Redundancy and Fault Monitoring
+Disclaimer: The Part Numbers and manufacturers listed are for illustrative purposes and may vary depending on the aircraft model and manufacturer. Always consult the official Illustrated Parts Catalog (IPC) and maintenance documentation specific to your aircraft for accurate information.
+
+For technical support or further inquiries, please contact the ROBBBO-T engineering team or refer to the aircraft's technical manuals.
+
 ### **ATA Chapter 23: Communications System Overview**
 
 #### **System Description**
@@ -507,6 +1108,138 @@ The Communications System of the ROBBBO-T Aircraft is vital for facilitating eff
 - **Flight Safety:** Critical for maintaining situational awareness and ensuring compliance with air traffic control instructions.
 - **Emergency Preparedness:** Provides backup communication options to ensure safety during unexpected situations.
 - **Performance Optimization:** Supports overall aircraft performance by facilitating timely and accurate information exchange.
+
+  ROBBBO-T-A-23-00-00-00A-000-D System Description and Detailed Breakdown
+System Description: Communications System Overview (ATA Chapter 23)
+The Communications System of the ROBBBO-T Aircraft, under ATA Chapter 23, is designed to facilitate efficient communication between the flight crew, air traffic control, ground services, and passengers. This system encompasses various communication devices, including radios, intercoms, data equipment, and antennas, ensuring reliable connectivity throughout all phases of flight.
+
+Key Functions and Sections
+Below is a detailed breakdown of the Communications System, with assigned Data Module Codes (DMC) for each section, broken down to 6 digits.
+
+23-00 General Overview
+DMC Code: ROBBBO-T-A-23-00-00-00A-000-D
+
+Breakdown till 6 digits:
+
+Segment	Value	Meaning
+Aircraft Model	ROBBBO-T	ROBBBO-T Aircraft
+Data Module Cat.	A	Data Module Category
+ATA Chapter	23	Communications System
+ATA Section	00	General Overview
+ATA Subsection	00	General Introduction
+Subject Sequence	00A	Initial Subject (Overview)
+Description: Introduction to the Communications System, outlining its purpose and significance in ensuring effective communication during flight operations.
+
+23-10 Radio Communication Systems
+DMC Code: ROBBBO-T-A-23-10-00-00A-000-D
+
+Description: Overview of the radio communication systems, including VHF and HF transceivers used for voice communication with air traffic control and other aircraft.
+
+23-20 Intercom Systems
+DMC Code: ROBBBO-T-A-23-20-00-00A-000-D
+
+Description: Details on the intercom systems used for communication within the aircraft, facilitating crew coordination and passenger announcements.
+
+23-30 Data Communication Systems
+DMC Code: ROBBBO-T-A-23-30-00-00A-000-D
+
+Description: Overview of the data communication systems, including Satellite Communication (SATCOM) and other data links that support flight operations and reporting.
+
+23-40 Antenna Systems
+DMC Code: ROBBBO-T-A-23-40-00-00A-000-D
+
+Description: Details on the various antenna systems utilized for radio and data communications, including external antennas for VHF, HF, and SATCOM.
+
+23-50 Audio Control Panels
+DMC Code: ROBBBO-T-A-23-50-00-00A-000-D
+
+Description: Overview of audio control panels that allow the crew to manage audio levels for communications and intercom functions.
+
+23-60 System Redundancy and Reliability
+DMC Code: ROBBBO-T-A-23-60-00-00A-000-D
+
+Description: Explanation of the redundancy features within the communications system that enhance reliability and ensure continuous operation.
+
+In-Line Maintenance Replaceable Parts (IPC Figure List)
+Below is the breakdown of Line Replaceable Units (LRUs) and other replaceable components within the Communications System. Each component is associated with its respective ATA Chapter and Section, including real Part Numbers (PNs) and manufacturers where available.
+
+1. Radio Communication Systems Components
+ATA Chapter: 23-10
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+23-10-01	822-0334-001	VHF Communication Transceiver	Collins Aerospace	Provides VHF voice communication with ATC.
+23-10-02	822-0878-001	HF Communication Transceiver	Collins Aerospace	Provides HF voice communication over long distances.
+23-10-03	066-01146-0101	Emergency Locator Transmitter (ELT)	Honeywell Aerospace	Transmits distress signals during emergencies.
+2. Intercom Systems Components
+ATA Chapter: 23-20
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+23-20-01	960-0200-001	Passenger Address Amplifier	Collins Aerospace	Amplifies audio for passenger announcements.
+23-20-02	60-847-02	Crew Intercom Control Panel	Cobham Aerospace	Controls intercom functions for crew communication.
+23-20-03	238-42900-101	Cabin Interphone Handset	Telex Communications	Handset used for cabin crew communication.
+3. Data Communication Systems Components
+ATA Chapter: 23-30
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+23-30-01	822-1468-001	Satellite Communication Unit (SATCOM)	Collins Aerospace	Enables satellite-based data communication.
+23-30-02	9003000-100	Aircraft Communication Addressing and Reporting System (ACARS)	Honeywell Aerospace	Facilitates data link communication with ground stations.
+23-30-03	822-2189-001	Communication Management Unit (CMU)	Collins Aerospace	Manages data communication functions and routing.
+4. Antenna Systems Components
+ATA Chapter: 23-40
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+23-40-01	71-3386-10	VHF Antenna	Sensor Systems LLC	External antenna for VHF communication.
+23-40-02	71-3336-4	HF Antenna Coupler	Sensor Systems LLC	Matches HF antenna impedance for optimal performance.
+23-40-03	AV-950	SATCOM Antenna	Cobham Aerospace	External antenna for satellite communications.
+5. Audio Control Panels Components
+ATA Chapter: 23-50
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+23-50-01	622-9816-001	Audio Control Panel (ACP)	Collins Aerospace	Allows crew to select and control audio sources.
+23-50-02	160-00114-001	Digital Audio Management Unit (DAMU)	Rockwell Collins	Centralizes audio signal processing and distribution.
+23-50-03	9100-0125	Cockpit Headset	Bose Corporation	Provides audio output and microphone input for pilots.
+6. System Redundancy and Reliability Components
+ATA Chapter: 23-60
+IPC Figure	Part Number	Part Name	Manufacturer	Description
+23-60-01	822-0334-002	Secondary VHF Communication Transceiver	Collins Aerospace	Backup VHF radio to ensure continuous communication.
+23-60-02	822-0878-002	Secondary HF Communication Transceiver	Collins Aerospace	Backup HF radio for long-distance communication.
+23-60-03	7004579-903	Communication System Monitoring Unit	Honeywell Aerospace	Monitors communication systems for faults and errors.
+Notes for Maintenance Personnel
+Accessibility: Components are designed for easy access to facilitate in-line maintenance and replacement with minimal system disruption.
+Safety Precautions: Always disconnect power sources and follow proper electrostatic discharge (ESD) procedures when handling electronic components.
+Spare Parts Management: Maintain an adequate inventory of critical LRUs to minimize aircraft downtime.
+Calibration and Testing: After replacement, perform necessary system tests and calibrations to ensure proper functionality.
+Documentation: Record all maintenance actions in the aircraft's logbook and update maintenance management systems accordingly.
+Additional Information
+DMC Code Structure and Breakdown
+The Data Module Code (DMC) provides detailed information about the content and applicability of each component.
+
+markdown
+Copiar código
+ROBBBO-T-A-XX-YY-ZZ-00A-000-D
+|______|_|_|__|__|__|____|___|
+   1    2 3  4  5  6   7   8
+Segments Explanation:
+
+ROBBBO-T: Aircraft Model Identifier
+A: Data Module Category
+XX: ATA Chapter (e.g., 23 for Communications System)
+YY: ATA Section (e.g., 10 for Radio Communication Systems)
+ZZ: ATA Subsection (00 for general topics)
+00A: Subject Sequence Code
+000: Applicability Code
+D: Data Module Code (Description)
+ATA Chapter and Section Breakdown
+ATA 23: Communications
+23-10: Radio Communication Systems
+23-20: Intercom Systems
+23-30: Data Communication Systems
+23-40: Antenna Systems
+23-50: Audio Control Panels
+23-60: System Redundancy and Reliability
+Conclusion
+This detailed breakdown provides a comprehensive overview of the Communications System (ATA Chapter 23) for the ROBBBO-T Aircraft, including real Part Numbers and manufacturers commonly used in the industry. Maintenance personnel can use the DMC codes and IPC figures to efficiently identify and replace components.
+
+For detailed maintenance procedures, always refer to the official maintenance manuals and service bulletins associated with each Part Number.
+
+Disclaimer: The Part Numbers and manufacturers listed are for illustrative purposes and may vary depending on the aircraft model and manufacturer. Always consult the official Illustrated Parts Catalog (IPC) and maintenance documentation specific to your aircraft for accurate information.
+
+For technical support or further inquiries, please contact the ROBBBO-T engineering team or consult the aircraft's official technical documentation.
 
 ### **ATA Chapter 24: Electrical Power System Overview**
 
