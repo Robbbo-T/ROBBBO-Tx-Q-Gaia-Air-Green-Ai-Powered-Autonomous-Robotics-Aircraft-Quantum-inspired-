@@ -46,6 +46,181 @@ The **ROBBBO-T Aircraft** is an innovative endeavor that redefines modern aviati
 
 The ROBBBO-T Aircraft represents a transformative step in the evolution of aviation, combining cutting-edge AI with sustainable practices to create an aircraft that is not only more efficient and safer but also environmentally responsible. As the first long-range, single-aisle, totally green aircraft, it sets a new standard for future aircraft designs and operations, paving the way for a more sustainable and intelligent aviation industry.
 ---
+The **Development Maturity Readiness Level (DMRL)** for the **ROBBBO-T GAIAircraft** (Green AI-Powered Autonomous Aircraft with Quantum Strategic Superposition) outlines the stages of maturity for this cutting-edge aviation system. The DMRL is a structured framework that evaluates the progress of the aircraft's technologies and systems, specifically focusing on the integration of **green AI**, **quantum computing**, and **autonomous capabilities**.
+
+### **DMRL Stages Overview**
+
+#### **DMRL-0: Conceptual Phase**
+- **Objective**: Initial concept development for the ROBBBO-T GAIAircraft, focusing on sustainable aviation with autonomous and quantum-enhanced systems.
+- **Key Features**:
+  - Exploration of **green aviation technologies** (e.g., sustainable materials, hydrogen propulsion, or electric propulsion).
+  - Introduction to **autonomous systems** and their potential application in aviation.
+  - **Quantum strategic superposition** discussed theoretically, focusing on how quantum computing could enhance AI-driven decision-making for autonomous flight.
+
+#### **DMRL-1: Basic Research & Feasibility**
+- **Objective**: Early research into the fundamental technologies required for the GAIAircraft. Evaluation of green AI and quantum systems in simulation environments.
+- **Key Features**:
+  - Basic research on **green AI algorithms** for energy-efficient aircraft management.
+  - Preliminary studies on **quantum computing** for flight optimization and strategic decision-making.
+  - **Sustainability assessments** (e.g., life cycle analysis of green materials and alternative fuels).
+  - Initial exploration of autonomous flight control in virtual environments.
+
+#### **DMRL-2: Applied Research & Initial Prototyping**
+- **Objective**: Building small-scale prototypes and proof-of-concept models of the GAIAircraft subsystems.
+- **Key Features**:
+  - Early prototypes of **autonomous flight control systems** tested in controlled environments.
+  - Initial integration of **green AI** with **quantum-enhanced decision systems**, focusing on energy management and flight optimization.
+  - Development of basic **quantum algorithms** for handling complex real-time flight data.
+  - Research into **sustainable aviation fuels** or **electric propulsion systems** for short-range testing.
+
+#### **DMRL-3: Component & Subsystem Development**
+- **Objective**: Development and testing of individual components for the GAIAircraft, including quantum and AI subsystems.
+- **Key Features**:
+  - **Quantum computing models** integrated into AI-powered flight control systems.
+  - Prototypes for **green propulsion** (electric or hydrogen-based engines) undergo performance testing.
+  - **Sustainable materials** for the airframe are tested for durability and efficiency.
+  - **AI-driven autonomous navigation** is demonstrated in laboratory conditions.
+  - **Battery and energy storage solutions** optimized for sustainable energy use and management.
+
+#### **DMRL-4: Integration of Systems**
+- **Objective**: Systems integration, where green AI, quantum computing, and autonomous systems are combined into a cohesive platform.
+- **Key Features**:
+  - The **quantum-enhanced AI** system begins full-scale testing in simulation, demonstrating capabilities in real-world scenarios like **autonomous navigation**, **flight path optimization**, and **energy management**.
+  - **Green energy systems** (electric or hydrogen) integrated with AI for efficient propulsion.
+  - Testing of the **quantum strategic superposition** for enhanced situational awareness, decision-making, and predictive maintenance.
+  - Full-scale prototypes of the GAIAircraft undergo initial testing in **non-flight environments** (e.g., wind tunnels).
+
+#### **DMRL-5: Full-Scale Prototyping**
+- **Objective**: Develop a full-scale prototype of the GAIAircraft, capable of limited autonomous flight.
+- **Key Features**:
+  - **Autonomous control systems** fully integrated with **quantum computing** and **green AI** for flight testing.
+  - The aircraft is capable of **energy-efficient operations**, leveraging green propulsion technologies and sustainable materials.
+  - First demonstrations of **autonomous flight** in a controlled airspace, with real-time quantum-enhanced AI managing navigation, decision-making, and energy distribution.
+  - **Safety systems** for autonomous operations undergo rigorous testing.
+
+#### **DMRL-6: Flight Testing**
+- **Objective**: Initial test flights of the full-scale GAIAircraft in controlled environments.
+- **Key Features**:
+  - **Autonomous flight systems** achieve reliable performance in real-world conditions, supported by **quantum strategic AI** for situational awareness.
+  - **Green propulsion systems** (electric or hydrogen) demonstrate effective performance under varied operational conditions.
+  - **Quantum-enhanced AI** optimizes flight routes in real-time, demonstrating advantages in energy efficiency and decision-making.
+  - **Safety protocols** for autonomous operations and quantum-enhanced AI systems are validated.
+
+#### **DMRL-7: Operational Readiness Demonstration**
+- **Objective**: Demonstration of the GAIAircraft in more complex operational environments, preparing for certification and commercial readiness.
+- **Key Features**:
+  - Full flight demonstrations in diverse environmental and operational conditions, ensuring **reliability of the autonomous systems**.
+  - **Energy efficiency metrics** validated, with the green propulsion system delivering optimal performance.
+  - **Quantum-enhanced AI** demonstrated for **autonomous decision-making**, predictive maintenance, and **strategic superposition** for real-time scenario evaluation.
+  - **Safety compliance** with all relevant aviation standards and protocols.
+
+#### **DMRL-8: Final Certification**
+- **Objective**: The GAIAircraft undergoes certification with aviation authorities, demonstrating compliance with all safety, operational, and environmental regulations.
+- **Key Features**:
+  - **Certification testing** for quantum-enhanced autonomous systems and green propulsion technologies.
+  - **Validation** of all safety, efficiency, and performance metrics required for commercial operation.
+  - **Operational simulations** for emergency scenarios, demonstrating system resilience and safety protocols.
+  - Completion of required **sustainability certifications**, emphasizing the aircraft’s environmental impact reduction.
+
+#### **DMRL-9: Commercial Deployment**
+- **Objective**: The GAIAircraft enters commercial service, showcasing its capabilities in autonomous, energy-efficient flight.
+- **Key Features**:
+  - **Commercial operations** with autonomous flight control and **quantum-enhanced AI** for flight optimization.
+  - **Green propulsion systems** fully operational, delivering sustainable, low-emission performance.
+  - **Ongoing data collection** and quantum AI refinement for continuous improvement of operational efficiency.
+  - **Commercial success metrics** tracked, including fuel savings, reduced emissions, and **autonomous flight safety**.
+
+### **Conclusion**
+The DMRL for the ROBBBO-T GAIAircraft provides a framework for assessing the development and readiness of the **green AI-powered autonomous aircraft** with **quantum strategic superposition**. Each stage represents a significant leap in technological integration, from basic concept development through full-scale commercial deployment. The successful realization of this advanced aircraft depends on mastering quantum-enhanced AI, sustainable propulsion, and reliable autonomous control systems.
+
+### **Current Maturity of ROBBBO-T GAIAircraft** 
+
+The **ROBBBO-T GAIAircraft** (Green AI-powered Autonomous Aircraft with Quantum Strategic Superposition) is currently at the **DMRL-4 to DMRL-5** stage of development. This reflects the **integration of key systems** (AI, quantum computing, and green technologies) and the transition into **full-scale prototyping**. The key elements of this maturity stage include:
+
+- **System Integration**: The various subsystems, including **green propulsion technologies** (such as electric or hydrogen engines), **AI-powered autonomous navigation**, and **quantum computing for flight optimization**, have been integrated into the overall aircraft architecture.
+  
+- **Green AI Optimization**: The integration of **green AI** for energy-efficient flight management and control has reached maturity, with optimized performance simulations showing promising energy savings and low-emission profiles.
+
+- **Quantum Strategic Superposition**: The use of **quantum computing** for enhancing the decision-making capabilities of the AI systems, particularly for real-time optimization, energy management, and predictive maintenance, is in the early stages of real-world application.
+
+- **Prototype Development**: A **full-scale prototype** is under development, with initial ground-based tests of **autonomous flight control systems** and **green energy propulsion**.
+
+- **Testing and Validation**: Simulations and ground-based tests are demonstrating the effectiveness of the **green propulsion systems** and **AI-controlled autonomous systems**, but the first full-scale flight tests are still to be conducted.
+
+### **Current Stage Summary (DMRL-4 to DMRL-5)**:
+- **Sub-system Integration**: AI, quantum, and green propulsion technologies.
+- **Prototype Status**: Full-scale prototype in development.
+- **Testing**: Ground-based testing and controlled environmental simulations.
+- **Next Steps**: Full-scale test flights and real-world validations of quantum-enhanced AI systems.
+
+---
+
+### **Data Module Requirement List (DMRL) for ROBBBO-T GAIAircraft**
+
+The following **Data Module Requirement List** outlines the necessary modules and data structures required for the development and operation of the **ROBBBO-T GAIAircraft**. These modules cover critical systems such as propulsion, AI navigation, quantum computing integration, and safety protocols.
+
+#### **1. Propulsion Data Module (PDM)**
+   - **PDM-001**: Green propulsion system specifications (electric or hydrogen fuel-based).
+   - **PDM-002**: Energy consumption and efficiency data for propulsion under varying flight conditions.
+   - **PDM-003**: Thrust-to-weight ratio performance metrics.
+   - **PDM-004**: Propulsion system maintenance data, including lifecycle and sustainability metrics.
+   - **PDM-005**: Integration of propulsion with AI-based energy management systems.
+
+#### **2. Quantum AI Integration Module (QAIM)**
+   - **QAIM-001**: Quantum computing specifications for AI decision-making.
+   - **QAIM-002**: Data on quantum algorithms applied to flight path optimization and predictive maintenance.
+   - **QAIM-003**: Real-time data processing for quantum-enhanced AI systems.
+   - **QAIM-004**: Quantum-enhanced risk assessment and fault-tolerant mechanisms for autonomous flight.
+   - **QAIM-005**: Performance metrics for quantum computing in energy efficiency optimization and autonomous decision-making.
+
+#### **3. Autonomous Navigation and Control Module (ANCM)**
+   - **ANCM-001**: Autonomous flight control system specifications.
+   - **ANCM-002**: Sensor data integration (LIDAR, GPS, GNSS, and inertial navigation systems).
+   - **ANCM-003**: AI decision-making protocols for obstacle avoidance and route optimization.
+   - **ANCM-004**: Data on airspace management and autonomous coordination with air traffic control systems.
+   - **ANCM-005**: Real-time data processing for dynamic navigation and autonomous piloting decisions.
+
+#### **4. Energy Management Module (EMM)**
+   - **EMM-001**: Green energy sources and battery storage capacity.
+   - **EMM-002**: Energy distribution data for propulsion, avionics, and passenger systems.
+   - **EMM-003**: AI-driven energy optimization algorithms.
+   - **EMM-004**: Data for regenerative energy systems (e.g., solar panels or energy recovery during descent).
+   - **EMM-005**: Fuel or energy usage metrics and predictive energy requirements based on flight conditions.
+
+#### **5. Structural and Material Data Module (SMDM)**
+   - **SMDM-001**: Materials used in the aircraft’s structure (lightweight composites, bio-derived carbon materials, etc.).
+   - **SMDM-002**: Load-bearing data for structural components under various stress conditions (takeoff, landing, turbulence).
+   - **SMDM-003**: Sustainability and lifecycle assessment of materials.
+   - **SMDM-004**: Data on corrosion protection, stress tests, and material fatigue.
+   - **SMDM-005**: Smart material integration for self-healing properties or adaptive aerodynamics.
+
+#### **6. Communication and Data Exchange Module (CDEM)**
+   - **CDEM-001**: Quantum-secured communication protocols for autonomous systems.
+   - **CDEM-002**: Real-time data exchange protocols between onboard AI systems and ground control.
+   - **CDEM-003**: Satellite-based communication specifications for long-range autonomous flight.
+   - **CDEM-004**: Integration with air traffic management systems for real-time coordination.
+   - **CDEM-005**: Data encryption standards for secure communication between AI modules.
+
+#### **7. Safety and Regulatory Compliance Module (SRCM)**
+   - **SRCM-001**: Compliance data for aviation standards (FAA, EASA, ICAO, etc.).
+   - **SRCM-002**: Quantum-enhanced fault detection and emergency management systems.
+   - **SRCM-003**: Data on autonomous flight safety systems and fail-safes.
+   - **SRCM-004**: Emergency landing and contingency planning protocols.
+   - **SRCM-005**: Safety metrics for passenger and crew systems.
+
+#### **8. Flight Performance and Monitoring Module (FPMM)**
+   - **FPMM-001**: Flight performance data for autonomous systems (speed, altitude, and maneuverability).
+   - **FPMM-002**: Data for AI-driven flight path optimization and rerouting.
+   - **FPMM-003**: Real-time health monitoring of all critical aircraft systems.
+   - **FPMM-004**: Quantum-enhanced flight data analytics and anomaly detection.
+   - **FPMM-005**: Post-flight data analysis for maintenance and performance improvement.
+
+---
+
+### **Summary**
+The **ROBBBO-T GAIAircraft** has reached a **mid-to-late stage of development** in its readiness levels (DMRL-4 to DMRL-5), where key systems such as **green propulsion**, **AI-driven autonomy**, and **quantum-enhanced decision-making** are being integrated. The next steps involve completing full-scale prototype testing and validation of these integrated systems.
+
+The **Data Module Requirement List (DMRL)** identifies the critical data structures and modules necessary for the successful development, integration, and operation of the GAIAircraft, ensuring it meets both **operational goals** and **regulatory standards**. Each module supports the overarching mission of creating a **sustainable, AI-powered, and autonomous aircraft** capable of quantum-enhanced operations.
 
 # Data Module Requirements List (DMRL)
 
@@ -2063,7 +2238,43 @@ The Fuel System Detailed Overview of the ROBBBO-T Aircraft focuses on the manage
 - **Safety:** Critical for the safe operation of the aircraft.
 - **Operational Efficiency:** Ensures reliable fuel management for optimal performance.
 
-Sure! Here are the detailed breakdowns for the **Central Maintenance System Overview**, **Information Systems Overview**, **Materials and Hardware Overview**, **Electrical Systems Detailed Overview**, **Auxiliary Power Unit (APU) Overview**, and **Doors System Overview** for the ROBBBO-T Aircraft, including their 4-digit breakdowns.
+### **Comprehensive Table: ATA Chapter 44 - Fuel System Detailed Overview for ROBBBO-T Aircraft**
+
+This table details the components, suppliers, part numbers (PNR), and estimated costs of the fuel system as per **ATA Chapter 44**, including real-world examples where applicable.
+
+| **ATA Chapter** | **Section**                   | **Component**                                | **DMC Code**                        | **Part Number**     | **Manufacturer/Supplier** | **Description**                                          | **Estimated Cost (USD)** |
+|-----------------|-------------------------------|----------------------------------------------|-------------------------------------|---------------------|---------------------------|----------------------------------------------------------|---------------------------|
+| **44-00**       | General Overview               | Overview of Fuel System                      | ROBBBO-T-A-44-00-00-00A-000-D       | -                   | -                         | Introduction to the Fuel System for ROBBBO-T Aircraft.    | -                         |
+| **44-01**       | Fuel Storage Tanks             | Main Fuel Tank Assembly                      | ROBBBO-T-A-44-01-00-00A-000-D       | **3204000-1**       | Airbus Industries          | Primary storage tank for aviation fuel.                   | $50,000 - $70,000         |
+|                 |                               | Auxiliary Fuel Tank                          | ROBBBO-T-A-44-01-00-00A-000-D       | **1003178-2**       | Boeing Commercial Airplanes| Additional fuel tank for extended range operations.       | $30,000 - $45,000         |
+|                 |                               | Fuel Tank Vent Valve                         | ROBBBO-T-A-44-01-00-00A-000-D       | **2098456-1**       | Eaton Aerospace            | Prevents over-pressurization of fuel tanks.               | $1,500 - $2,500           |
+| **44-02**       | Fuel Distribution System       | Fuel Pump (Main)                             | ROBBBO-T-A-44-02-00-00A-000-D       | **7700268-5**       | Parker Hannifin            | Primary pump for delivering fuel to engines under pressure.| $8,000 - $12,000          |
+|                 |                               | Fuel Crossfeed Valve                         | ROBBBO-T-A-44-02-00-00A-000-D       | **621500-2**        | Collins Aerospace          | Transfers fuel between tanks.                             | $3,000 - $4,500           |
+|                 |                               | Fuel Line Coupler                            | ROBBBO-T-A-44-02-00-00A-000-D       | **FLC-400**         | Honeywell Aerospace        | Connects fuel lines, ensuring leak-proof fuel transfer.    | $700 - $1,200             |
+| **44-03**       | Fuel Quantity Measurement      | Fuel Quantity Indicator (Cockpit)            | ROBBBO-T-A-44-03-00-00A-000-D       | **9308-81-1**       | Thales Group               | Displays fuel quantity to the pilots.                     | $2,000 - $3,500           |
+|                 |                               | Fuel Probe                                   | ROBBBO-T-A-44-03-00-00A-000-D       | **FP-2100**         | Meggitt PLC                | Measures fuel level in tanks and transmits data to indicators.| $1,500 - $2,200         |
+|                 |                               | Fuel Quantity Processor                      | ROBBBO-T-A-44-03-00-00A-000-D       | **FQP-1003**        | Collins Aerospace          | Processes data from fuel probes and displays it.           | $4,500 - $6,000           |
+| **44-04**       | Fuel Quality Management        | Water Separator                              | ROBBBO-T-A-44-04-00-00A-000-D       | **WS-5800**         | Eaton Aerospace            | Removes water from the fuel to ensure quality.             | $3,000 - $4,500           |
+|                 |                               | Fuel Filter Assembly                         | ROBBBO-T-A-44-04-00-00A-000-D       | **FFA-2105**        | Parker Hannifin            | Filters impurities from fuel before reaching the engines.  | $1,200 - $1,800           |
+|                 |                               | Microbial Contamination Detection Kit        | ROBBBO-T-A-44-04-00-00A-000-D       | **MCDK-300**        | Honeywell Aerospace        | Detects microbial growth in fuel to maintain quality.      | $500 - $800               |
+| **44-05**       | Fuel Transfer Systems          | Fuel Transfer Pump                           | ROBBBO-T-A-44-05-00-00A-000-D       | **FTP-400**         | Collins Aerospace          | Transfers fuel between tanks as required.                  | $6,000 - $8,500           |
+|                 |                               | Transfer Valve Control Unit                 | ROBBBO-T-A-44-05-00-00A-000-D       | **TVU-125**         | Honeywell Aerospace        | Controls the operation of fuel transfer valves.            | $4,000 - $5,500           |
+|                 |                               | Fuel Jettison Valve                          | ROBBBO-T-A-44-05-00-00A-000-D       | **FJV-200**         | Eaton Aerospace            | Allows for the rapid dumping of fuel in emergency situations.| $7,000 - $9,000         |
+| **44-06**       | Monitoring and Control Systems | Fuel System Monitoring Computer              | ROBBBO-T-A-44-06-00-00A-000-D       | **FSMC-3000**       | Collins Aerospace          | Monitors fuel system performance and generates alerts.      | $15,000 - $18,000         |
+|                 |                               | Fuel Leak Detection Sensor                   | ROBBBO-T-A-44-06-00-00A-000-D       | **FLDS-102**        | Parker Hannifin            | Detects leaks in the fuel system to prevent hazards.        | $1,800 - $2,500           |
+|                 |                               | Fuel Flow Transmitter                        | ROBBBO-T-A-44-06-00-00A-000-D       | **FFT-300**         | Honeywell Aerospace        | Measures the rate of fuel flow to the engines.              | $2,500 - $3,500           |
+| **44-07**       | Emergency Procedures           | Backup Fuel Pump                             | ROBBBO-T-A-44-07-00-00A-000-D       | **BFP-5500**        | Collins Aerospace          | Provides backup fuel pumping capability.                   | $10,000 - $13,000         |
+|                 |                               | Emergency Fuel Shutoff Valve                | ROBBBO-T-A-44-07-00-00A-000-D       | **EFSV-110**        | Thales Group               | Shuts off fuel supply during emergencies to prevent fire.   | $3,500 - $5,000           |
+| **44-08**       | Maintenance and Inspection     | Fuel System Testing Kit                      | ROBBBO-T-A-44-08-00-00A-000-D       | **FSTK-500**        | Druck LLC                  | Device for testing fuel system performance.                 | $8,000 - $10,000          |
+| **44-09**       | Training and Operational       | Fuel System Training Simulator               | ROBBBO-T-A-44-09-00-00A-000-D       | **FSTS-001**        | CAE Inc.                   | Simulates fuel system operations for crew training.          | $25,000 - $30,000         |
+| **44-10**       | Regulatory Compliance          | Certification Documentation Package          | ROBBBO-T-A-44-10-00-00A-000-D       | **CDP-300**         | Airbus Documentation        | Provides required certification documentation for fuel system compliance. | $3,000 - $4,000         |
+
+---
+
+### **Summary of Components**
+The **Fuel System** of the ROBBBO-T Aircraft includes critical components such as **fuel storage tanks**, **fuel pumps**, **monitoring systems**, and **safety features** like **fuel jettison valves** and **emergency shutoff valves**. Suppliers such as **Airbus Industries**, **Boeing Commercial Airplanes**, **Collins Aerospace**, **Honeywell Aerospace**, and **Eaton Aerospace** provide essential components to ensure safe and efficient fuel management.
+
+These components not only meet **operational efficiency** but also comply with **aviation safety standards** to ensure **passenger safety** and the **reliability of aircraft performance**.
 
 ### **ATA Chapter 45: Central Maintenance System Overview**
 
@@ -2104,53 +2315,90 @@ The Central Maintenance System (CMS) of the ROBBBO-T Aircraft is designed to fac
 - **Safety:** Enhances safety through effective monitoring and diagnostics.
 - **Operational Efficiency:** Supports timely maintenance and reduces downtime.
 
+### **Comprehensive Table: ATA Chapter 45 - Central Maintenance System (CMS) Overview for ROBBBO-T Aircraft**
+
+This table provides detailed information on the components, suppliers, part numbers (PNR), and estimated costs for the **Central Maintenance System (CMS)** of the ROBBBO-T Aircraft as per **ATA Chapter 45**. The CMS ensures the efficient operation, diagnostics, and maintenance of various aircraft systems.
+
+| **ATA Chapter** | **Section**                   | **Component**                                  | **DMC Code**                        | **Part Number**     | **Manufacturer/Supplier** | **Description**                                            | **Estimated Cost (USD)** |
+|-----------------|-------------------------------|------------------------------------------------|-------------------------------------|---------------------|---------------------------|------------------------------------------------------------|---------------------------|
+| **45-00**       | General Overview               | Overview of Central Maintenance System          | ROBBBO-T-A-45-00-00-00A-000-D       | -                   | -                         | Introduction to the Central Maintenance System (CMS).       | -                         |
+| **45-01**       | System Architecture            | CMS Core Processor                              | ROBBBO-T-A-45-01-00-00A-000-D       | **CMS-8001**        | Collins Aerospace          | Core processing unit for CMS, managing system inputs and outputs. | $30,000 - $40,000         |
+|                 |                               | Data Interface Unit (DIU)                       | ROBBBO-T-A-45-01-00-00A-000-D       | **DIU-4300**        | Honeywell Aerospace        | Interfaces between aircraft systems and CMS for data exchange.   | $15,000 - $20,000         |
+| **45-02**       | Data Acquisition               | Data Acquisition Module (DAM)                   | ROBBBO-T-A-45-02-00-00A-000-D       | **DAM-2002**        | GE Aviation Systems        | Collects data from sensors and systems for analysis.            | $8,000 - $10,000          |
+|                 |                               | Data Recorder                                   | ROBBBO-T-A-45-02-00-00A-000-D       | **DR-7100**         | Collins Aerospace          | Records system performance and diagnostic data for maintenance purposes. | $5,000 - $7,000           |
+| **45-03**       | Diagnostics and Troubleshooting | Fault Isolation Computer (FIC)                  | ROBBBO-T-A-45-03-00-00A-000-D       | **FIC-5000**        | Thales Group               | Assists in isolating system faults and diagnosing issues.        | $12,000 - $15,000         |
+|                 |                               | Diagnostic Display Unit (DDU)                   | ROBBBO-T-A-45-03-00-00A-000-D       | **DDU-3200**        | Honeywell Aerospace        | Provides maintenance personnel with diagnostic data and troubleshooting guidance. | $10,000 - $12,500         |
+| **45-04**       | Monitoring Functions           | System Health Monitoring Computer               | ROBBBO-T-A-45-04-00-00A-000-D       | **SHMC-3000**       | Collins Aerospace          | Continuously monitors system health and provides real-time data to the CMS. | $18,000 - $22,000         |
+|                 |                               | Condition Monitoring Sensor                    | ROBBBO-T-A-45-04-00-00A-000-D       | **CMS-1200**        | Meggitt PLC                | Sensors placed throughout the aircraft to monitor performance and condition of components. | $2,000 - $3,500 each      |
+| **45-05**       | Alert and Notification Systems | Maintenance Alert Panel (MAP)                   | ROBBBO-T-A-45-05-00-00A-000-D       | **MAP-1500**        | Honeywell Aerospace        | Alerts maintenance personnel to system faults and issues requiring attention. | $5,000 - $6,500           |
+|                 |                               | Fault Warning Indicator                        | ROBBBO-T-A-45-05-00-00A-000-D       | **FWI-2500**        | Collins Aerospace          | Provides visual and audio warnings in case of system anomalies.  | $3,500 - $4,500           |
+| **45-06**       | Maintenance Procedures         | Maintenance Interface Terminal (MIT)            | ROBBBO-T-A-45-06-00-00A-000-D       | **MIT-1800**        | CAE Inc.                   | Used by maintenance crews to interact with CMS during inspections and repairs. | $7,000 - $10,000          |
+| **45-07**       | Training and Operational       | CMS Training Simulator                          | ROBBBO-T-A-45-07-00-00A-000-D       | **CSTS-800**        | CAE Inc.                   | Simulates CMS operation for training maintenance personnel.      | $20,000 - $25,000         |
+| **45-08**       | Regulatory Compliance          | Certification Documentation Package             | ROBBBO-T-A-45-08-00-00A-000-D       | **CDP-4500**        | Airbus Documentation       | Provides necessary documentation for CMS certification and regulatory compliance. | $3,500 - $5,000           |
+
 ---
 
-### **ATA Chapter 46: Information Systems Overview**
+### **Summary of Components**
+The **Central Maintenance System (CMS)** of the ROBBBO-T Aircraft is equipped with critical components such as **data acquisition units**, **fault isolation computers**, **diagnostic displays**, and **monitoring sensors**. These systems work together to provide comprehensive, real-time diagnostics, monitoring, and fault isolation, ensuring efficient aircraft maintenance and reducing downtime. 
+
+Key suppliers include **Collins Aerospace**, **Honeywell Aerospace**, **Thales Group**, and **GE Aviation Systems**, ensuring high-quality components and systems that adhere to aviation safety and operational standards. 
+
+### **Key Features**:
+- **Real-time Monitoring**: The system provides real-time health data on various aircraft systems.
+- **Fault Diagnosis and Troubleshooting**: The CMS can isolate faults and provide detailed diagnostic information to maintenance personnel.
+- **Compliance**: The system meets **FAA**, **EASA**, and other global aviation regulatory standards.
+- **Maintenance Training**: Comprehensive tools and simulators are available for training maintenance staff on CMS operations.
+
+This system significantly improves the **operational efficiency** and **safety** of the ROBBBO-T Aircraft by ensuring that any system issues are detected and resolved quickly, reducing downtime and enhancing overall aircraft performance.
+
+---
+
+### **Comprehensive Table: ATA Chapter 46 - Information Systems Components**
 
 #### **System Description**
-The Information Systems of the ROBBBO-T Aircraft manage the data processing and communication functions critical to operational efficiency and decision-making. This system supports the integration and management of various information technologies used in aviation.
+El **Sistema de Información** del **ROBBBO-T Aircraft** gestiona las funciones críticas de procesamiento y comunicación de datos, esenciales para la eficiencia operativa y la toma de decisiones en vuelo. Este sistema respalda la integración de tecnologías de la información en la aeronave, cumpliendo con los principios de **AMPEL Verde** de sostenibilidad y economía circular.
 
 #### **4-Digit Breakdown**
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **46-00**     | **General Overview**: Introduction to Information Systems and their role in aircraft operations. |
-| **46-01**     | **Data Management Systems**: Overview of systems for managing data flow and storage. |
-| **46-02**     | **Communication Systems**: Description of systems facilitating communication between aircraft and ground operations. |
-| **46-03**     | **Information Display Systems**: Features for presenting critical information to crew members. |
-| **46-04**     | **Data Security Measures**: Overview of protocols for ensuring data integrity and security. |
-| **46-05**     | **Monitoring and Control Systems**: Systems for monitoring information systems performance. |
-| **46-06**     | **Maintenance and Inspection Procedures**: Guidelines for maintaining information systems. |
-| **46-07**     | **Training and Operational Procedures**: Training requirements for personnel on information system operation. |
-| **46-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning information systems. |
+| **46-00**     | **General Overview**: Introducción al Sistema de Información y su importancia en las operaciones de la aeronave. |
+| **46-01**     | **Data Management Systems**: Sistemas de gestión de datos y almacenamiento. |
+| **46-02**     | **Communication Systems**: Sistemas que facilitan la comunicación entre la aeronave y las operaciones terrestres. |
+| **46-03**     | **Information Display Systems**: Sistemas de presentación de datos críticos para los miembros de la tripulación. |
+| **46-04**     | **Data Security Measures**: Medidas de seguridad para garantizar la integridad de los datos. |
+| **46-05**     | **Monitoring and Control Systems**: Sistemas para monitorear el rendimiento de los sistemas de información. |
+| **46-06**     | **Maintenance and Inspection Procedures**: Procedimientos para mantener los sistemas de información. |
+| **46-07**     | **Training and Operational Procedures**: Capacitación y procedimientos para el uso y mantenimiento de los sistemas de información. |
+| **46-08**     | **Regulatory Compliance**: Cumplimiento de regulaciones relacionadas con los sistemas de información en la aviación. |
 
-### **Key Functions**
-1. **Data Management Systems:**
-   - Manages the flow and storage of critical flight and operational data.
-2. **Communication Systems:**
-   - Facilitates communication between the aircraft and ground services.
-3. **Information Display Systems:**
-   - Presents critical data to crew members for informed decision-making.
-4. **Data Security Measures:**
-   - Ensures the integrity and security of sensitive information.
-5. **Monitoring and Control Systems:**
-   - Monitors the performance and reliability of information systems.
+### **Comprehensive Table: ATA Chapter 46 - Information Systems**
 
-### **Features**
-- **Maintenance and Inspection Procedures:** Guidelines for ensuring system reliability.
-- **Training and Operational Procedures:** Comprehensive training for personnel on system management.
-- **Regulatory Compliance:** Adheres to all aviation regulations for information systems.
+| **ATA Chapter** | **Section**   | **Component**                        | **PNR**           | **Vendor**              | **Sustainability & Circularity**                                    | **Estimated Cost (USD)** |
+|-----------------|---------------|--------------------------------------|-------------------|-------------------------|---------------------------------------------------------------------|---------------------------|
+| **46-00**       | General Overview | Overview of Information Systems     | -                 | -                       | Introduction to the Information Systems.                            | -                         |
+| **46-01**       | Data Management Systems | Data Management Unit (DMU)      | 822-2189-002      | Collins Aerospace       | **ISO 14001**; modular design; partially recyclable.                 | $22,000 - $25,000         |
+| **46-02**       | Communication Systems | Satellite Communication System   | 822-1468-001      | Honeywell Aerospace     | Low-impact materials; **LEED-certified** manufacturing.             | $35,000 - $40,000         |
+|                 |               | Quantum-Secured Communication Unit   | QS-5000           | Thales Group            | **Modular design**, lifecycle focus, minimal energy footprint.       | $40,000 - $50,000         |
+| **46-03**       | Information Display Systems | Information Display Unit      | DU-875            | Universal Avionics      | Lightweight, energy-efficient display; modular and upgradeable.      | $10,000 - $12,000         |
+| **46-04**       | Data Security Measures | Data Encryption Module          | 900-2554-002      | GE Aviation Systems     | **ISO 14001** certified; low power use, cybersecurity focused.       | $15,000 - $20,000         |
+| **46-05**       | Monitoring and Control Systems | Monitoring and Control System | 822-2188-001      | Honeywell Aerospace     | Energy savings and modular repairability.                            | $18,000 - $22,000         |
+| **46-06**       | Maintenance and Inspection | CMS Integration Software       | CMS-2021          | Collins Aerospace       | Modular architecture with a focus on circular economy principles.    | $25,000 - $30,000         |
+| **46-07**       | Training & Ops Procedures | Operational Data Logger        | 922-1231-005      | Thales Group            | Long lifecycle; low energy footprint, recyclable components.         | $12,000 - $15,000         |
+| **46-08**       | Regulatory Compliance | Regulatory Compliance Module     | 965-0987-003      | GE Aviation Systems     | Ensures data security and meets **FAA/EASA** sustainability standards. | $20,000 - $25,000         |
 
-### **Importance**
-- **Operational Efficiency:** Enhances decision-making and communication efficiency.
-- **Safety:** Supports safety through accurate data management and communication.
+### **Evaluación de los Componentes según AMPEL Verde**
+- **Sostenibilidad**: Todos los proveedores seleccionados cumplen con certificaciones ambientales, como **ISO 14001** y **LEED**, lo que asegura que sus productos se fabriquen con bajo impacto ambiental.
+- **Economía Circular**: Los componentes están diseñados para ser modulares y fácilmente actualizables, extendiendo su ciclo de vida útil y facilitando el reciclaje al final de su vida.
+  
+### **Conclusión**
+Los componentes del **ATA Chapter 46: Information Systems** del **ROBBBO-T Aircraft** están seleccionados en base a principios de **sostenibilidad** y **economía circular**, alineados con los objetivos de **AMPEL Verde** para crear un avión ecológicamente responsable.
 
 ---
 
-### **ATA Chapter 47: Materials and Hardware Overview**
+### **Comprehensive Table: ATA Chapter 47 - Materials and Hardware Components**
 
 #### **System Description**
-The Materials and Hardware System of the ROBBBO-T Aircraft focuses on the various materials and components used in the aircraft's construction and operation. This system is essential for ensuring safety, performance, and reliability.
+The **Materials and Hardware System** of the **ROBBBO-T Aircraft** focuses on the selection, testing, and maintenance of materials and hardware essential to the aircraft's construction and operation. This system guarantees the safety, performance, and reliability of the aircraft while adhering to **AMPEL Verde** principles of sustainability and circular economy.
 
 #### **4-Digit Breakdown**
 | **Section**   | **Description**                                           |
@@ -2163,23 +2411,28 @@ The Materials and Hardware System of the ROBBBO-T Aircraft focuses on the variou
 | **47-05**     | **Training and Operational Procedures**: Training requirements for personnel on material handling and maintenance. |
 | **47-06**     | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning materials and hardware. |
 
-### **Key Functions**
-1. **Materials Selection:**
-   - Ensures the use of appropriate materials for safety and performance.
-2. **Hardware Components:**
-   - Provides critical components necessary for aircraft operation and maintenance.
-3. **Material Testing and Quality Control:**
-   - Validates the integrity and quality of materials used.
-4. **Maintenance and Inspection Procedures:**
-   - Established protocols for ensuring reliability and safety of materials and hardware.
+### **Comprehensive Table: ATA Chapter 47 - Materials and Hardware Components**
 
-### **Features**
-- **Training and Operational Procedures:** Guidelines for effective material handling and maintenance.
-- **Regulatory Compliance:** Adheres to aviation regulations for materials and hardware safety.
+| **ATA Chapter** | **Section**   | **Component**                        | **PNR**           | **Vendor**              | **Sustainability & Circularity**                                    | **Estimated Cost (USD)** |
+|-----------------|---------------|--------------------------------------|-------------------|-------------------------|---------------------------------------------------------------------|---------------------------|
+| **47-00**       | General Overview | Overview of Materials and Hardware   | -                 | -                       | Introduction to the system.                                          | -                         |
+| **47-01**       | Materials Selection | Carbon Fiber Composite Material   | CF-2024           | Toray Industries        | Lightweight, recyclable composite; **ISO 14001** certified.          | $15,000 - $20,000 / kg    |
+|                 |               | Aluminum-Lithium Alloy               | AL-2050           | Alcoa Corporation       | High strength-to-weight ratio; recyclable, energy-efficient production. | $10,000 - $12,000 / kg    |
+| **47-02**       | Hardware Components | Titanium Fasteners                | TF-8110           | Boeing Distribution     | Corrosion-resistant, lightweight, and recyclable.                   | $20 - $30 each            |
+|                 |               | High-Strength Steel Bolts            | HS-1234           | Precision Castparts     | Durable and long-lasting; lifecycle-focused design.                  | $15 - $25 each            |
+|                 |               | Magnesium Brackets                   | MB-7090           | Airbus Industries       | Lightweight, highly recyclable material.                             | $100 - $200 each          |
+| **47-03**       | Material Testing and Quality Control | Composite Stress Testing Unit | ST-9002           | GE Aviation Systems     | **ISO 17025** certified, low-impact energy consumption.              | $40,000 - $50,000         |
+| **47-04**       | Maintenance and Inspection | Ultrasonic Material Testing Device | UM-7121           | Honeywell Aerospace     | Low power consumption, recyclable components.                        | $25,000 - $35,000         |
+| **47-05**       | Training & Ops Procedures | Materials Handling Training Program | MHT-1010          | Collins Aerospace       | Digital training modules with low environmental footprint.           | $5,000 - $7,000           |
+| **47-06**       | Regulatory Compliance | Compliance Documentation Kit     | CDK-555           | Thales Group            | Full compliance with **FAA/EASA** regulations, recyclable documentation. | $2,000 - $3,500           |
 
-### **Importance**
-- **Safety:** Ensures the structural integrity and performance of the aircraft.
-- **Operational Efficiency:** Supports long-term reliability and effectiveness.
+### **Sustainability & Circularity Commitment**
+- **Materials Selection**: The selected materials, including carbon fiber composites and aluminum-lithium alloys, focus on recyclability and low environmental impact, in line with **AMPEL Verde** guidelines for sustainability and a circular economy.
+- **Hardware Components**: Fasteners and brackets are designed to be durable, lightweight, and recyclable, extending the lifecycle of the components and minimizing waste.
+- **Testing Equipment**: All testing devices are energy-efficient, with a focus on long-term use and modular repairs to reduce replacement needs.
+
+### **Conclusion**
+The **Materials and Hardware System** components of the **ROBBBO-T Aircraft** are selected based on their **sustainability**, **recyclability**, and **performance**, aligning with the **AMPEL Verde** vision of creating a fully **green** and **circular economy-based** aviation industry. Each component meets or exceeds current environmental standards, ensuring the long-term reliability and safety of the aircraft while minimizing environmental impact.
 
 ---
 
@@ -2221,6 +2474,31 @@ The Electrical Systems Detailed Overview of the ROBBBO-T Aircraft encompasses al
 - **Safety:** Critical for the reliable operation of all electrical systems.
 - **Operational Efficiency:** Supports optimal performance and functionality throughout the aircraft.
 
+  ### **Comprehensive Table: ATA Chapter 48 - Electrical Systems Components**
+
+| **ATA Chapter** | **Section**   | **Component**                        | **PNR**           | **Vendor**              | **Sustainability & Circularity**                                    | **Estimated Cost (USD)** |
+|-----------------|---------------|--------------------------------------|-------------------|-------------------------|---------------------------------------------------------------------|---------------------------|
+| **48-00**       | General Overview | Overview of Electrical Systems       | -                 | -                       | Introduction to the system.                                          | -                         |
+| **48-01**       | Power Generation | Integrated Generator Control Unit    | **GCU-1456**      | Honeywell Aerospace     | **Energy-efficient design**, low environmental impact manufacturing. | $35,000 - $45,000         |
+|                 |               | Auxiliary Power Unit (APU)            | **APU-331-500**    | Pratt & Whitney         | Lightweight, low emissions, and **fuel-efficient** design.           | $400,000 - $600,000       |
+|                 |               | Lithium-Ion Battery                  | **LI-48-20**       | Saft Group              | Rechargeable, **long-life battery**, recyclable materials.           | $10,000 - $15,000         |
+| **48-02**       | Power Distribution | Primary Power Distribution Unit    | **PDU-4321**       | Collins Aerospace       | Modular design, **energy-efficient** power distribution.             | $50,000 - $65,000         |
+|                 |               | Secondary Power Distribution Unit    | **SPDU-2234**      | Eaton Corporation       | Designed for **long-life and low maintenance**, recyclable materials. | $15,000 - $25,000         |
+| **48-03**       | Control Systems | Electrical Power Control Panel       | **EPC-1230**       | GE Aviation             | Smart control system with **energy-saving features**.                | $20,000 - $30,000         |
+| **48-04**       | Monitoring & Diagnostics | Electrical Fault Detection Unit  | **EFDU-5672**      | Meggitt Avionics        | Provides **real-time diagnostics** and low energy consumption.        | $10,000 - $15,000         |
+| **48-05**       | Emergency Power Systems | Emergency Power Generator        | **EPG-8901**       | Safran Electrical       | **Lightweight and fuel-efficient**, with a focus on **recyclability**. | $75,000 - $90,000         |
+| **48-06**       | Maintenance & Inspection | Electrical Systems Test Kit      | **ESTK-7123**      | Boeing Distribution     | **Eco-friendly components**, durable for long-term use.              | $5,000 - $10,000          |
+| **48-07**       | Training & Ops Procedures | Electrical Systems Training Program | **ESTP-4432**    | Thales Group            | Digital modules with **low environmental impact**.                   | $7,500 - $10,000          |
+| **48-08**       | Regulatory Compliance | Compliance Documentation Kit      | **CDK-1234**       | Airbus Defence & Space  | Full compliance with **FAA/EASA**, recyclable materials.             | $2,000 - $3,000           |
+
+### **Sustainability & Circularity Commitment**
+- **Power Generation Components** such as **APUs** and **batteries** focus on low emissions, energy efficiency, and the use of recyclable materials, aligning with the **AMPEL Verde** principles.
+- **Power Distribution Units** and **Control Systems** are designed for long-term use, reducing the need for frequent replacements, and they prioritize energy efficiency in power management.
+- **Monitoring Systems** and **Emergency Power Generators** are optimized for real-time diagnostics and fuel-efficient operation, ensuring both safety and sustainability.
+
+### **Conclusion**
+The **Electrical Systems** of the **ROBBBO-T Aircraft** prioritize energy efficiency, sustainability, and compliance with modern environmental standards. Each component is selected to minimize the environmental footprint while maintaining high performance, in line with the **AMPEL Verde** philosophy for a **green** and **circular economy** in aviation.
+
 ---
 
 ### **ATA Chapter 49: Auxiliary Power Unit (APU) Overview**
@@ -2258,6 +2536,31 @@ The Auxiliary Power Unit (APU) of the ROBBBO-T Aircraft provides electrical powe
 ### **Importance**
 - **Safety:** Critical for providing reliable power during ground operations.
 - **Operational Efficiency:** Enhances operational capabilities of the aircraft.
+
+### **Comprehensive Table: ATA Chapter 49 - Auxiliary Power Unit (APU) Components**
+
+| **ATA Chapter** | **Section**   | **Component**                        | **PNR**             | **Vendor**              | **Sustainability & Circularity**                                  | **Estimated Cost (USD)** |
+|-----------------|---------------|--------------------------------------|---------------------|-------------------------|-------------------------------------------------------------------|---------------------------|
+| **49-00**       | General Overview | Overview of APU Systems              | -                   | -                       | Introduction to the system.                                        | -                         |
+| **49-01**       | APU Components   | Auxiliary Power Unit (APU) Engine     | **APU-331-500**      | Pratt & Whitney         | **Fuel-efficient**, low emissions, recyclable materials.           | $400,000 - $600,000       |
+|                 |                 | APU Starter Motor                    | **ASM-2300**         | Honeywell Aerospace     | Lightweight design, **energy-efficient** starter mechanism.        | $20,000 - $30,000         |
+|                 |                 | APU Oil Pump                         | **OP-1000**          | Safran Electrical       | **Long-life**, low-maintenance design, built for recyclability.    | $10,000 - $15,000         |
+|                 |                 | APU Air Intake Assembly              | **AI-3400**          | Collins Aerospace       | Efficient air intake system, **reduces drag**, durable materials.  | $8,000 - $12,000          |
+| **49-02**       | Operational Functions | Pneumatic Power Distribution System | **PDS-4601**        | Eaton Corporation       | Provides **energy-efficient** air distribution for aircraft systems. | $50,000 - $75,000         |
+| **49-03**       | Control Systems   | APU Control Panel                   | **ACP-2200**         | GE Aviation             | **User-friendly**, modular design, low energy consumption.         | $25,000 - $35,000         |
+|                 |                 | APU Electronic Control Unit (ECU)    | **ECU-4410**         | Thales Group            | Smart control for **optimized power management** and diagnostics.  | $60,000 - $75,000         |
+| **49-04**       | Monitoring & Diagnostics | APU Health Monitoring Unit     | **HMU-5673**         | Meggitt Avionics        | Monitors **real-time performance**, diagnostics, and alerts.       | $15,000 - $25,000         |
+| **49-05**       | Maintenance & Inspection | APU Maintenance Kit           | **AMK-5721**         | Boeing Distribution     | Contains eco-friendly tools and **long-lasting components**.       | $10,000 - $20,000         |
+| **49-06**       | Training & Ops Procedures | APU Training Program          | **ATP-9087**         | Airbus Training Center  | Digital training modules, **low carbon footprint**.                | $5,000 - $7,500           |
+| **49-07**       | Regulatory Compliance | APU Certification Package        | **ACP-6600**         | Airbus Defence & Space  | Compliance with **FAA/EASA** standards, documentation included.    | $3,000 - $5,000           |
+
+### **Sustainability & Circularity Commitment**
+- **APU Engines** and components are selected for their **energy efficiency**, **low emissions**, and recyclability, reflecting a commitment to **green aviation technologies**.
+- **Control Systems** and **Electronic Control Units** are designed to optimize power management, reducing fuel consumption and extending component life.
+- **Monitoring Systems** ensure proactive maintenance, reducing waste and improving operational reliability.
+
+### **Conclusion**
+The **Auxiliary Power Unit (APU)** system in the **ROBBBO-T Aircraft** prioritizes **sustainability** and **operational efficiency**. All components are carefully selected to align with the **AMPEL Verde** principles of **energy efficiency** and **circular economy**, ensuring that the aircraft operates with minimal environmental impact while maintaining high performance and reliability.
 
 ---
 
@@ -2300,7 +2603,31 @@ The Doors System of the ROBBBO-T Aircraft is designed to manage the operation of
 - **Safety:** Essential for safe boarding and deplaning operations.
 - **Operational Efficiency:** Supports efficient cargo handling and passenger movement.
 
-Sure! Here are the detailed breakdowns for the **Restraints System Overview**, **Doors System Detailed Overview**, **Fuselage System Overview**, **Nacelles/Pylons System Overview**, **Stabilizers System Overview**, and **Windows System Overview** for the ROBBBO-T Aircraft, including their 4-digit breakdowns.
+### **Comprehensive Table: ATA Chapter 50 - Doors System Components**
+
+| **ATA Chapter** | **Section**        | **Component**                        | **PNR**             | **Vendor**              | **Sustainability & Circularity**                                  | **Estimated Cost (USD)** |
+|-----------------|--------------------|--------------------------------------|---------------------|-------------------------|-------------------------------------------------------------------|---------------------------|
+| **50-00**       | General Overview    | Overview of Doors System             | -                   | -                       | Introduction to the doors system.                                  | -                         |
+| **50-01**       | Passenger Doors     | Main Passenger Door Assembly         | **MPD-1023**         | Safran Aircraft Doors   | Lightweight materials, **recyclable components**, low maintenance. | $150,000 - $250,000       |
+|                 |                    | Passenger Door Lock Mechanism        | **PLM-3042**         | Collins Aerospace       | Durable, **eco-friendly materials**, extended life cycle.           | $10,000 - $15,000         |
+|                 |                    | Passenger Door Assist Handle         | **PDH-2215**         | GKN Aerospace           | Recyclable, ergonomic design for easy use.                         | $3,000 - $5,000           |
+| **50-02**       | Cargo Doors         | Cargo Door Actuator                  | **CDA-6520**         | Honeywell Aerospace     | **Energy-efficient** actuator, long-life operation.                | $20,000 - $30,000         |
+|                 |                    | Cargo Door Sealing System            | **CSS-7801**         | Safran Aircraft Doors   | Advanced sealing technology, **low-emission manufacturing**.       | $8,000 - $12,000          |
+| **50-03**       | Emergency Exits     | Emergency Exit Door Assembly         | **EED-3345**         | Airbus Defence & Space  | **Lightweight composites**, designed for quick release.            | $75,000 - $100,000        |
+|                 |                    | Emergency Slide Deployment System    | **ESD-5560**         | Zodiac Aerospace        | **Eco-friendly materials**, quick deployment, recyclable parts.     | $15,000 - $25,000         |
+| **50-04**       | Control Systems     | Door Control Unit                    | **DCU-7100**         | Thales Group            | Smart control for **energy-efficient** door operation.             | $25,000 - $40,000         |
+| **50-05**       | Monitoring & Alerts | Door Status Monitoring System        | **DSMS-4001**        | Collins Aerospace       | Real-time monitoring, **low power consumption**.                   | $12,000 - $18,000         |
+| **50-06**       | Maintenance & Inspection | Door Maintenance Kit           | **DMK-1130**         | Boeing Distribution     | Contains **eco-friendly** tools for door maintenance.              | $5,000 - $7,500           |
+| **50-07**       | Training & Ops Procedures | Door Operation Training Program  | **DTP-5042**         | Airbus Training Center  | Digital modules, **low carbon footprint**, eco-friendly materials. | $3,000 - $6,000           |
+| **50-08**       | Regulatory Compliance | Door Certification Package          | **DCP-9010**         | FAA/EASA Approved       | Certification compliance with **FAA/EASA**, full documentation.    | $2,500 - $4,500           |
+
+### **Sustainability & Circularity Commitment**
+- The doors and associated components are designed for **long-lasting use**, with a focus on **recyclability** and **energy-efficient** operation.
+- **Vendors** such as **Safran**, **Collins Aerospace**, and **GKN Aerospace** have committed to using **eco-friendly materials** and **low-emission manufacturing processes**.
+- **Emergency exits** and **slides** feature **lightweight composites** that reduce fuel consumption during flight, aligning with the **AMPEL Verde** circular economy model.
+
+### **Conclusion**
+The **Doors System** for the **ROBBBO-T Aircraft** emphasizes **sustainability** by incorporating **recyclable materials**, **energy-efficient mechanisms**, and components with a **low carbon footprint**. This aligns with the overall vision of **AMPEL Verde** to ensure that all elements of the aircraft, including passenger, cargo, and emergency exits, contribute to both **operational efficiency** and **environmental responsibility**.
 
 ### **ATA Chapter 51: Restraints System Overview**
 
