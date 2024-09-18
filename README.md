@@ -1614,273 +1614,409 @@ The Navigation System of the ROBBBO-T Aircraft is crucial for ensuring accurate 
 |                 |                               | Certification Documentation Package  | ROBBBO-T-A-34-90-00-00A-000-D       | **CDP-900**      | Airbus Documentation        | Documentation required for regulatory certification of navigation systems. | $1,500 - $2,500      |
 
 ---
+#### Additional Details:
 
-Additional Details:
-GNSS (Global Navigation Satellite System) Components:
+### **ATA Chapter 35: Oxygen System Overview**
+- GNSS (Global Navigation Satellite System) Components:
 GNSS Receiver and Antenna: Ensures accurate, real-time data acquisition for aircraft location, speed, and direction.
-INS (Inertial Navigation System) Components:
+- INS (Inertial Navigation System) Components:
 Inertial Reference Unit (IRU): Utilizes accelerometers and gyroscopes to compute aircraft position and movement, independent of external signals.
-FMS Integration Components:
+- FMS Integration Components:
 Flight Management Computer (FMC): Interfaces with GNSS, INS, and NAVAIDs to support optimal flight planning, execution, and fuel management.
-NAVAIDs (Navigation Aids) Components:
+- NAVAIDs (Navigation Aids) Components:
 ADF (Automatic Direction Finder): Supports traditional navigation by receiving ground-based radio signals.
-Monitoring and Control Systems:
+- Monitoring and Control Systems:
 Navigation Performance Monitor and Control Panel: Ensures all navigation systems are performing optimally, with built-in diagnostics for error detection.
-Conclusion:
-The Navigation System in ATA Chapter 34 is designed to enhance the safety and efficiency of flight operations by providing accurate and reliable navigation data through a combination of advanced satellite, inertial, and traditional navigation technologies. The system’s comprehensive integration with other aircraft systems ensures seamless performance under various operational conditions.
+### Conclusion:
+- The Navigation System in ATA Chapter 34 is designed to enhance the safety and efficiency of flight operations by providing accurate and reliable navigation data through a combination of advanced satellite, inertial, and traditional navigation technologies. The system’s comprehensive integration with other aircraft systems ensures seamless performance under various operational conditions.
 ---
 
 ### **ATA Chapter 35: Oxygen System Overview**
 
 #### **System Description**
-The Oxygen System of the ROBBBO-T Aircraft is designed to provide supplemental oxygen to passengers and crew in case of cabin depressurization or low atmospheric conditions. This system is crucial for ensuring safety and comfort during flight.
-
-#### **4-Digit Breakdown**
-| **Section**   | **Description**                                           |
-|---------------|-----------------------------------------------------------|
-| **35-00**     | **General Overview**: Introduction to the Oxygen System and its importance in flight safety. |
-| **35-01**     | **Oxygen Generation Systems**: Overview of systems used to generate oxygen for cabin use. |
-| **35-02**     | **Oxygen Storage Systems**: Description of oxygen cylinders and storage mechanisms on board. |
-| **35-03**     | **Distribution Systems**: Explanation of the systems that deliver oxygen to the cockpit and passenger cabin. |
-| **35-04**     | **Passenger Oxygen Masks**: Overview of the design and operation of passenger oxygen masks. |
-| **35-05**     | **Monitoring and Control Systems**: Features for monitoring oxygen system performance and alerts for anomalies. |
-| **35-06**     | **Emergency Procedures**: Guidelines for crew response during oxygen system activation. |
-| **35-07**     | **Maintenance and Inspection Procedures**: Recommendations for maintaining and inspecting the oxygen system. |
-| **35-08**     | **Training and Operational Procedures**: Guidelines for training personnel on the oxygen system operation. |
-| **35-09**     | **Regulatory Compliance**: Overview of compliance with aviation regulations regarding oxygen systems. |
-
-### **Key Functions**
-1. **Oxygen Generation Systems:**
-   - Provides supplemental oxygen during emergencies or low-pressure conditions.
-
-2. **Oxygen Storage Systems:**
-   - Safely stores oxygen for use when required.
-
-3. **Distribution Systems:**
-   - Delivers oxygen to crew and passengers as needed.
-
-4. **Passenger Oxygen Masks:**
-   - Provides masks to passengers in case of cabin depressurization.
-
-5. **Monitoring and Control Systems:**
-   - Monitors the status of the oxygen system and alerts the crew if necessary.
-
-### **Features**
-- **Emergency Procedures:** Established protocols for activating the oxygen system during emergencies.
-- **Maintenance and Inspection Procedures:** Guidelines for ensuring the oxygen system is fully operational.
-- **Training and Operational Procedures:** Comprehensive training for crew members on using the oxygen system.
-- **Regulatory Compliance:** Meets all relevant regulations for oxygen systems in aviation.
-
-### **Importance**
-- **Safety:** Critical for ensuring the safety and well-being of passengers and crew during emergencies.
-- **Operational Efficiency:** Supports safe operations under varying atmospheric conditions.
+The Oxygen System of the ROBBBO-T Aircraft is designed to provide supplemental oxygen to passengers and crew during emergencies such as cabin depressurization or low atmospheric oxygen levels. The system is essential for maintaining safety and comfort during flight, especially at high altitudes.
 
 ---
 
+### **4-Digit Breakdown of ATA Chapter 35: Oxygen System**
+
+| **Section**   | **Description**                                           |
+|---------------|-----------------------------------------------------------|
+| **35-00**     | **General Overview**: Introduction to the Oxygen System and its critical role in flight safety. |
+| **35-01**     | **Oxygen Generation Systems**: Overview of chemical and compressed oxygen generation systems used onboard. |
+| **35-02**     | **Oxygen Storage Systems**: Description of oxygen storage methods, including cylinders and other containers. |
+| **35-03**     | **Distribution Systems**: Explanation of the systems responsible for distributing oxygen throughout the aircraft. |
+| **35-04**     | **Passenger Oxygen Masks**: Overview of the deployment and functionality of passenger oxygen masks. |
+| **35-05**     | **Monitoring and Control Systems**: Features for monitoring oxygen levels and system performance, with alerts for issues. |
+| **35-06**     | **Emergency Procedures**: Guidelines for crew actions in the event of oxygen system activation. |
+| **35-07**     | **Maintenance and Inspection Procedures**: Recommendations for the maintenance and inspection of the oxygen system to ensure proper functionality. |
+| **35-08**     | **Training and Operational Procedures**: Guidelines for training crew on the operation and emergency protocols for the oxygen system. |
+| **35-09**     | **Regulatory Compliance**: Overview of compliance with aviation standards and regulations for oxygen systems. |
+
+---
+
+### **Comprehensive Table: ATA Chapter 35 - Oxygen System Components**
+
+| **ATA Chapter** | **Section** | **Component**                           | **DMC Code**                        | **Part Number**  | **Manufacturer**           | **Description**                                                | **Estimated Cost (USD)** |
+|-----------------|-------------|-----------------------------------------|-------------------------------------|------------------|-----------------------------|----------------------------------------------------------------|---------------------------|
+| **35-00**       | General Overview | Overview of the Oxygen System            | ROBBBO-T-A-35-00-00-00A-000-D        | -                | -                           | Introduction to the Oxygen System and its importance in aviation safety. | -                         |
+| **35-10**       | Oxygen Generation Systems | Chemical Oxygen Generator           | ROBBBO-T-A-35-10-00-00A-000-D        | **53622-02**     | B/E Aerospace               | Generates oxygen chemically for emergency use.                  | $4,000 - $6,000           |
+|                 |                | Compressed Oxygen Cylinder               | ROBBBO-T-A-35-10-00-00A-000-D        | **D18394-02**    | Collins Aerospace           | Stores compressed oxygen for supplemental use.                  | $8,000 - $12,000          |
+| **35-20**       | Oxygen Storage Systems | Oxygen Cylinder                      | ROBBBO-T-A-35-20-00-00A-000-D        | **64747-001**    | Zodiac Aerospace            | High-pressure cylinder for oxygen storage.                      | $3,500 - $5,500           |
+| **35-30**       | Distribution Systems | Oxygen Distribution Manifold           | ROBBBO-T-A-35-30-00-00A-000-D        | **74490-01**     | Honeywell Aerospace         | Distributes oxygen from the central supply to the cabin and cockpit. | $2,000 - $3,500           |
+|                 |                | Flow Control Regulator                   | ROBBBO-T-A-35-30-00-00A-000-D        | **15267-00**     | Safran Aerosystems          | Regulates the flow of oxygen to various parts of the aircraft.   | $1,500 - $2,500           |
+| **35-40**       | Passenger Oxygen Masks | Passenger Oxygen Mask Kit             | ROBBBO-T-A-35-40-00-00A-000-D        | **POM-600**      | Zodiac Aerospace            | Oxygen mask for passengers in case of cabin depressurization.   | $50 - $150 per unit       |
+|                 |                | Oxygen Mask Deployment Module            | ROBBBO-T-A-35-40-00-00A-000-D        | **30209-03**     | B/E Aerospace               | Deploys oxygen masks automatically during depressurization.     | $1,500 - $2,500           |
+| **35-50**       | Monitoring and Control Systems | Oxygen System Control Panel        | ROBBBO-T-A-35-50-00-00A-000-D        | **765-090**      | Collins Aerospace           | Allows the crew to monitor and control the oxygen system.       | $3,000 - $4,500           |
+|                 |                | Oxygen Pressure Indicator               | ROBBBO-T-A-35-50-00-00A-000-D        | **OPS-890**      | Honeywell Aerospace         | Provides real-time pressure readings for stored oxygen.         | $1,000 - $2,000           |
+| **35-60**       | Emergency Procedures | Oxygen Emergency Control Unit          | ROBBBO-T-A-35-60-00-00A-000-D        | **OECU-500**     | Safran Electronics          | Activates the emergency oxygen supply in case of system failure. | $5,000 - $7,000           |
+| **35-70**       | Maintenance and Inspection Procedures | Oxygen System Test Kit         | ROBBBO-T-A-35-70-00-00A-000-D        | **OSTK-800**     | Druck LLC                   | Tools for inspecting and testing oxygen system functionality.   | $4,000 - $6,000           |
+| **35-80**       | Training and Operational Procedures | Oxygen System Training Program   | ROBBBO-T-A-35-80-00-00A-000-D        | **OSTP-300**     | CAE Inc.                    | Provides comprehensive crew training on oxygen system operation and emergency response. | $3,000 - $5,000           |
+| **35-90**       | Regulatory Compliance | Oxygen System Compliance Kit          | ROBBBO-T-A-35-90-00-00A-000-D        | **OSC-700**      | Thales Group                | Ensures compliance with regulatory standards for oxygen systems. | $2,000 - $3,500           |
+
+---
+
+### **Additional Details:**
+
+- **Oxygen Generation Systems:**
+   - **Chemical Oxygen Generators:** Provide oxygen in emergencies using chemical reactions, typically used in passenger masks.
+   - **Compressed Oxygen Cylinders:** Store oxygen at high pressure for use by crew and passengers during emergencies.
+   
+- **Oxygen Storage Systems:**
+   - **Oxygen Cylinders:** High-pressure storage cylinders used to store oxygen for emergency use.
+
+- **Distribution Systems:**
+   - **Oxygen Manifolds and Regulators:** Ensure oxygen is distributed properly throughout the aircraft in controlled amounts.
+
+- **Passenger Oxygen Masks:**
+   - **Mask Kits and Deployment Systems:** Automatically deploy oxygen masks when needed during depressurization events.
+
+- **Monitoring and Control Systems:**
+   - **Control Panels and Pressure Indicators:** Allow for the monitoring of oxygen levels and control of the system from the cockpit.
+
+- **Emergency Procedures:**
+   - **Emergency Control Unit:** Activates backup systems and ensures oxygen supply during system failures.
+
+### **Conclusion:**
+
+The **Oxygen System** in ATA Chapter 35 ensures that passengers and crew are provided with life-saving oxygen in the event of cabin depressurization or other emergencies. The system includes oxygen generation, storage, distribution, and monitoring systems, all designed to meet strict aviation safety standards. Regular maintenance, inspections, and crew training are vital to the functionality and safety of the oxygen system.
+
+# ROBBBO-T-A-36-00-00-00A-000-D  Pneumatic System Overview 
 ### **ATA Chapter 36: Pneumatic System Overview**
 
 #### **System Description**
-The Pneumatic System of the ROBBBO-T Aircraft is responsible for generating and distributing compressed air used for various applications, including engine starting, cabin pressurization, and control surface actuation. This system is vital for the overall functionality of the aircraft.
+The Pneumatic System of the ROBBBO-T Aircraft is responsible for generating and distributing compressed air, which powers various critical aircraft functions, including engine starting, air conditioning, pressurization, and control surface actuation. This system plays an essential role in the overall functionality of the aircraft by utilizing compressed air from engines and the Auxiliary Power Unit (APU).
 
-#### **4-Digit Breakdown**
+---
+### **4-Digit Breakdown of ATA Chapter 36: Pneumatic System**
+
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **36-00**     | **General Overview**: Introduction to the Pneumatic System and its significance in aircraft operations. |
-| **36-01**     | **Pneumatic Power Generation**: Overview of the sources of compressed air, including engines and APU. |
-| **36-02**     | **Air Distribution Systems**: Description of the ducts and valves that distribute compressed air throughout the aircraft. |
-| **36-03**     | **Applications of Pneumatic Power**: Explanation of various uses of pneumatic power, including starting engines and controlling flight surfaces. |
-| **36-04**     | **Monitoring and Control Systems**: Features for monitoring system performance and air pressure levels. |
-| **36-05**     | **Emergency Procedures**: Guidelines for crew response in case of pneumatic system failures. |
-| **36-06**     | **Maintenance and Inspection Procedures**: Recommendations for maintaining and inspecting the pneumatic system. |
-| **36-07**     | **Training and Operational Procedures**: Guidelines for training personnel on the pneumatic system operation. |
-| **36-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning pneumatic systems. |
+| **36-00**     | **General Overview**: Introduction to the Pneumatic System and its importance in providing compressed air for critical aircraft operations. |
+| **36-01**     | **Pneumatic Power Generation**: Sources of compressed air, including engines, APU, and external ground supply. |
+| **36-02**     | **Air Distribution Systems**: Description of the ducts, valves, and controllers that distribute compressed air to various systems in the aircraft. |
+| **36-03**     | **Applications of Pneumatic Power**: Explanation of the uses of pneumatic power for engine start, cabin pressurization, and other systems. |
+| **36-04**     | **Monitoring and Control Systems**: Features that monitor and regulate system performance, air pressure, and distribution. |
+| **36-05**     | **Emergency Procedures**: Crew guidelines for managing pneumatic system failures or malfunctions. |
+| **36-06**     | **Maintenance and Inspection Procedures**: Regular maintenance and inspection procedures for the pneumatic system. |
+| **36-07**     | **Training and Operational Procedures**: Guidelines for crew training on system operation and troubleshooting. |
+| **36-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning the pneumatic system. |
 
-### **Key Functions**
-1. **Pneumatic Power Generation:**
-   - Generates compressed air from engines and APU for various systems.
+---
 
-2. **Air Distribution Systems:**
-   - Distributes compressed air to different aircraft systems as needed.
+### **Comprehensive Table: ATA Chapter 36 - Pneumatic System Components**
 
-3. **Applications of Pneumatic Power:**
-   - Utilizes compressed air for engine starting, cabin pressurization, and flight control operations.
+| **ATA Chapter** | **Section** | **Component**                           | **DMC Code**                        | **Part Number**  | **Manufacturer**           | **Description**                                                | **Estimated Cost (USD)** |
+|-----------------|-------------|-----------------------------------------|-------------------------------------|------------------|-----------------------------|----------------------------------------------------------------|---------------------------|
+| **36-00**       | General Overview | Overview of Pneumatic System           | ROBBBO-T-A-36-00-00-00A-000-D        | -                | -                           | Introduction to the pneumatic system and its role in aircraft operations. | -                         |
+| **36-10**       | Pneumatic Power Generation | Engine Bleed Air Valve            | ROBBBO-T-A-36-10-00-00A-000-D        | **4002000-12**   | Honeywell Aerospace         | Controls the flow of bleed air from engines for pneumatic use.             | $10,000 - $15,000         |
+|                 |                | APU Bleed Air Valve                     | ROBBBO-T-A-36-10-00-00A-000-D        | **50300-23**     | Parker Hannifin             | Manages the release of bleed air from the APU to supply pneumatic power.   | $7,000 - $9,000           |
+| **36-20**       | Air Distribution Systems | Pneumatic Distribution Manifold     | ROBBBO-T-A-36-20-00-00A-000-D        | **621004-01**    | Collins Aerospace           | Manifold that distributes compressed air to the appropriate systems.       | $6,500 - $9,000           |
+|                 |                | Pressure Regulator Valve                | ROBBBO-T-A-36-20-00-00A-000-D        | **D800-08**      | Safran Aerosystems          | Maintains and regulates air pressure within the pneumatic system.          | $4,000 - $6,500           |
+| **36-30**       | Applications of Pneumatic Power | Engine Start Valve             | ROBBBO-T-A-36-30-00-00A-000-D        | **7235000-01**   | Honeywell Aerospace         | Provides compressed air for starting aircraft engines.                     | $12,000 - $15,000         |
+|                 |                | Wing Anti-Ice Valve                      | ROBBBO-T-A-36-30-00-00A-000-D        | **VAI-2500**     | B/E Aerospace               | Controls air flow for wing de-icing using pneumatic power.                 | $5,000 - $7,500           |
+| **36-40**       | Monitoring and Control Systems | Pneumatic Pressure Sensor       | ROBBBO-T-A-36-40-00-00A-000-D        | **786-3412**     | Collins Aerospace           | Measures and transmits real-time air pressure data to the control system.  | $2,500 - $4,000           |
+|                 |                | Control and Monitoring Unit              | ROBBBO-T-A-36-40-00-00A-000-D        | **9875-012**     | Parker Hannifin             | Monitors system performance and manages control functions.                 | $8,000 - $10,000          |
+| **36-50**       | Emergency Procedures | Pneumatic System Emergency Valve     | ROBBBO-T-A-36-50-00-00A-000-D        | **763-2000**     | Safran Aerosystems          | Allows manual override in case of pneumatic system failure.                | $5,000 - $7,500           |
+| **36-60**       | Maintenance and Inspection Procedures | Pneumatic System Test Kit     | ROBBBO-T-A-36-60-00-00A-000-D        | **PSTK-500**     | Druck LLC                   | Kit for testing and verifying pneumatic system functionality.              | $7,000 - $9,500           |
+| **36-70**       | Training and Operational Procedures | Pneumatic System Training Program   | ROBBBO-T-A-36-70-00-00A-000-D        | **PSTP-700**     | CAE Inc.                    | Comprehensive crew training on pneumatic system operation and troubleshooting. | $5,000 - $8,000           |
+| **36-80**       | Regulatory Compliance | Pneumatic System Compliance Module     | ROBBBO-T-A-36-80-00-00A-000-D        | **PSCM-100**     | Thales Group                | Ensures compliance with regulatory standards for pneumatic systems.        | $3,000 - $5,000           |
 
-4. **Monitoring and Control Systems:**
-   - Provides real-time data on pneumatic system performance and pressure levels.
+---
 
-5. **Emergency Procedures:**
-   - Established protocols for managing pneumatic system failures.
+### **Additional Details:**
 
-### **Features**
-- **Maintenance and Inspection Procedures:** Guidelines for ensuring system integrity and performance.
-- **Training and Operational Procedures:** Comprehensive training for personnel on the operation of the pneumatic system.
-- **Regulatory Compliance:** Meets all aviation regulations concerning pneumatic systems.
+- **Pneumatic Power Generation:**
+   - **Engine and APU Bleed Air Valves:** Supply compressed air from the engines and Auxiliary Power Unit (APU) for use in various systems.
+   
+- **Air Distribution Systems:**
+   - **Manifolds and Regulators:** Distribute compressed air to the necessary systems, maintaining proper pressure levels.
 
-### **Importance**
-- **Safety:** Essential for safe operation and functionality of critical systems.
-- **Operational Efficiency:** Supports efficient aircraft performance under various conditions.
+- **Applications of Pneumatic Power:**
+   - **Engine Start and Anti-Icing:** Pneumatic power is essential for starting the engines and preventing ice buildup on the wings.
 
-Here are the detailed breakdowns for the **Water and Waste System Overview**, **Structures Overview**, **Integrated Modular Avionics (IMA) Overview**, **Propulsion System Overview**, and **Fuel System Detailed Overview** for the ROBBBO-T Aircraft, including their 4-digit breakdowns.
+- **Monitoring and Control Systems:**
+   - **Pressure Sensors and Control Units:** Monitor the status of the pneumatic system and regulate pressure levels to ensure proper operation.
+
+### **Conclusion:**
+
+The **Pneumatic System** in ATA Chapter 36 is integral to the functioning of multiple aircraft systems, including engine starting, anti-icing, and cabin pressurization. The system requires careful monitoring, regular maintenance, and proper training for crew members to ensure safe and efficient operation.
 
 ### **ATA Chapter 38: Water and Waste System Overview**
 
 #### **System Description**
-The Water and Waste System of the ROBBBO-T Aircraft manages the distribution of potable water and the disposal of waste materials. This system is vital for maintaining hygiene and comfort for passengers and crew during flight.
+The Water and Waste System of the ROBBBO-T Aircraft is responsible for the distribution of potable water and the collection, treatment, and disposal of waste. This system ensures passenger and crew comfort by providing clean drinking water and maintaining hygienic conditions during flight. The system is also crucial for environmental safety, ensuring waste is properly managed.
 
-#### **4-Digit Breakdown**
+---
+
+### **4-Digit Breakdown of ATA Chapter 38: Water and Waste System**
+
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **38-00**     | **General Overview**: Introduction to the Water and Waste System and its importance in aircraft operations. |
-| **38-01**     | **Potable Water System**: Overview of systems that provide clean drinking water to passengers and crew. |
-| **38-02**     | **Waste Collection and Disposal**: Description of systems for collecting and disposing of waste. |
-| **38-03**     | **Water Quality Monitoring**: Features for ensuring the quality of potable water throughout the flight. |
-| **38-04**     | **System Monitoring and Control**: Systems for monitoring performance and controlling water and waste functions. |
-| **38-05**     | **Emergency Procedures**: Guidelines for crew response to system failures or leaks. |
-| **38-06**     | **Maintenance and Inspection Procedures**: Recommendations for maintaining and inspecting the water and waste system. |
-| **38-07**     | **Training and Operational Procedures**: Guidelines for training personnel on system operation. |
-| **38-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations for water and waste systems. |
+| **38-00**     | **General Overview**: Introduction to the Water and Waste System and its significance in aircraft operations. |
+| **38-01**     | **Potable Water System**: Systems that store, filter, and distribute potable water to the cabin and galley. |
+| **38-02**     | **Waste Collection and Disposal**: Systems that manage the collection, treatment, and disposal of waste materials. |
+| **38-03**     | **Water Quality Monitoring**: Systems for ensuring the cleanliness and safety of potable water during flight. |
+| **38-04**     | **System Monitoring and Control**: Features that monitor water levels, waste capacity, and overall system performance. |
+| **38-05**     | **Emergency Procedures**: Guidelines for handling system failures or leaks in the water or waste systems. |
+| **38-06**     | **Maintenance and Inspection Procedures**: Regular maintenance protocols for the water and waste systems to ensure operational integrity. |
+| **38-07**     | **Training and Operational Procedures**: Training requirements for crew on the proper operation and management of the system. |
+| **38-08**     | **Regulatory Compliance**: Overview of aviation regulations and compliance concerning water quality and waste management. |
 
-### **Key Functions**
-1. **Potable Water System:**
-   - Provides safe drinking water for passengers and crew.
-2. **Waste Collection and Disposal:**
-   - Manages the collection and safe disposal of waste materials.
-3. **Water Quality Monitoring:**
-   - Ensures water quality meets health and safety standards.
-4. **System Monitoring and Control:**
-   - Monitors performance and alerts crew to any issues.
-5. **Emergency Procedures:**
-   - Protocols for managing failures or leaks in the system.
+---
 
-### **Features**
-- **Maintenance and Inspection Procedures:** Guidelines for ensuring system integrity.
-- **Training and Operational Procedures:** Training for crew on system management.
-- **Regulatory Compliance:** Meets all relevant aviation regulations.
+### **Comprehensive Table: ATA Chapter 38 - Water and Waste System Components**
 
-### **Importance**
-- **Safety:** Essential for passenger and crew hygiene.
-- **Operational Efficiency:** Supports comfortable conditions on board.
+| **ATA Chapter** | **Section** | **Component**                           | **DMC Code**                        | **Part Number**  | **Manufacturer**           | **Description**                                                | **Estimated Cost (USD)** |
+|-----------------|-------------|-----------------------------------------|-------------------------------------|------------------|-----------------------------|----------------------------------------------------------------|---------------------------|
+| **38-00**       | General Overview | Overview of Water and Waste System     | ROBBBO-T-A-38-00-00-00A-000-D        | -                | -                           | Introduction to the water and waste system and its key functions. | -                         |
+| **38-10**       | Potable Water System | Water Storage Tank                    | ROBBBO-T-A-38-10-00-00A-000-D        | **WST-200**      | Zodiac Aerospace            | Stores potable water for distribution throughout the aircraft.    | $10,000 - $15,000         |
+|                 |                | Water Filter Assembly                    | ROBBBO-T-A-38-10-00-00A-000-D        | **WF-900**       | Parker Hannifin             | Filters and purifies water before distribution.                    | $3,000 - $5,000           |
+| **38-20**       | Waste Collection and Disposal | Vacuum Waste Collection Unit      | ROBBBO-T-A-38-20-00-00A-000-D        | **VCU-500**      | Collins Aerospace           | Collects and manages waste using vacuum suction systems.           | $7,500 - $10,000          |
+|                 |                | Waste Treatment System                   | ROBBBO-T-A-38-20-00-00A-000-D        | **WTS-220**      | Safran Aerosystems          | Processes waste before disposal at designated facilities.          | $12,000 - $18,000         |
+| **38-30**       | Water Quality Monitoring | Water Quality Sensor              | ROBBBO-T-A-38-30-00-00A-000-D        | **WQS-1000**     | Honeywell Aerospace         | Monitors the cleanliness and safety of potable water.              | $2,500 - $4,000           |
+|                 |                | Water Temperature Sensor                 | ROBBBO-T-A-38-30-00-00A-000-D        | **WTS-300**      | Collins Aerospace           | Measures water temperature to ensure safe drinking conditions.     | $1,500 - $2,500           |
+| **38-40**       | System Monitoring and Control | Water/Waste Monitoring Unit      | ROBBBO-T-A-38-40-00-00A-000-D        | **WWMU-1200**    | Parker Hannifin             | Monitors water levels, waste capacity, and system functionality.   | $8,000 - $10,000          |
+|                 |                | Waste Compactor                          | ROBBBO-T-A-38-40-00-00A-000-D        | **WC-400**       | Safran Aerosystems          | Compacts waste for efficient storage and disposal.                 | $5,000 - $8,000           |
+| **38-50**       | Emergency Procedures | Water/Waste Emergency Shutoff Valve    | ROBBBO-T-A-38-50-00-00A-000-D        | **WSV-300**      | Eaton Aerospace             | Provides manual shutoff during system failure or leak.             | $3,000 - $5,000           |
+| **38-60**       | Maintenance and Inspection Procedures | Water System Test Kit        | ROBBBO-T-A-38-60-00-00A-000-D        | **WSTK-500**     | Druck LLC                   | Test kit for water system maintenance and performance checks.      | $5,000 - $7,500           |
+| **38-70**       | Training and Operational Procedures | Water/Waste System Training Module   | ROBBBO-T-A-38-70-00-00A-000-D        | **WWSTM-700**    | CAE Inc.                    | Crew training module for system operation and troubleshooting.      | $5,000 - $8,000           |
+| **38-80**       | Regulatory Compliance | Water/Waste Compliance Unit           | ROBBBO-T-A-38-80-00-00A-000-D        | **WWCU-100**     | Thales Group                | Ensures compliance with aviation regulations for water and waste systems. | $3,000 - $5,000           |
+
+---
+
+### **Additional Details:**
+
+- **Potable Water System:**
+   - **Water Storage and Filtration:** Provides clean drinking water, filtered and purified before distribution.
+   
+- **Waste Collection and Disposal:**
+   - **Vacuum Systems:** Manage efficient waste collection and disposal through vacuum suction and treatment.
+
+- **Water Quality Monitoring:**
+   - **Sensors and Monitoring:** Ensures water quality is maintained to the highest standards during flight.
+
+- **Monitoring and Control Systems:**
+   - **System Monitors:** Real-time monitoring of water levels, waste disposal capacity, and system performance to ensure smooth operation.
+
+### **Conclusion:**
+
+The **Water and Waste System** in ATA Chapter 38 ensures safe drinking water and efficient waste management for the comfort and hygiene of passengers and crew. The system includes monitoring, filtration, and disposal features, requiring regular maintenance, crew training, and compliance with aviation standards.
 
 ---
 
 ### **ATA Chapter 40: Structures Overview**
 
 #### **System Description**
-The Structures Overview of the ROBBBO-T Aircraft encompasses the airframe and other critical structural components. This system is essential for maintaining the integrity and safety of the aircraft throughout its operational life.
+The Structures System of the ROBBBO-T Aircraft includes all essential airframe and load-bearing components that maintain the aircraft's integrity and safety throughout its operational life. This system ensures that the aircraft can withstand flight loads, environmental conditions, and maintain durability over time.
 
-#### **4-Digit Breakdown**
+---
+
+### **4-Digit Breakdown of ATA Chapter 40: Structures System**
+
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **40-00**     | **General Overview**: Introduction to the Structures System and its importance in aircraft safety and performance. |
-| **40-01**     | **Airframe Structure**: Overview of the design and materials used in the airframe. |
-| **40-02**     | **Load-Bearing Components**: Description of components that support aircraft loads during flight and ground operations. |
-| **40-03**     | **Corrosion Protection**: Systems and practices for protecting structural components from corrosion. |
-| **40-04**     | **Structural Inspections**: Guidelines for conducting inspections to ensure structural integrity. |
-| **40-05**     | **Repair and Maintenance Procedures**: Recommendations for repairing and maintaining structural components. |
-| **40-06**     | **Training and Operational Procedures**: Training requirements for personnel on structural integrity management. |
-| **40-07**     | **Regulatory Compliance**: Overview of compliance with aviation regulations related to aircraft structures. |
+| **40-00**     | **General Overview**: Introduction to the Structures System and its role in ensuring aircraft safety and performance. |
+| **40-01**     | **Airframe Structure**: Detailed overview of the materials, design, and construction of the aircraft's airframe. |
+| **40-02**     | **Load-Bearing Components**: Description of the critical load-bearing elements such as wings, fuselage, and landing gear supports. |
+| **40-03**     | **Corrosion Protection**: Systems and processes for corrosion prevention, including coatings and protective treatments. |
+| **40-04**     | **Structural Inspections**: Procedures for conducting inspections to assess and maintain structural integrity. |
+| **40-05**     | **Repair and Maintenance Procedures**: Guidelines for repairing damaged structural components and maintaining overall system health. |
+| **40-06**     | **Training and Operational Procedures**: Required training for personnel involved in structural inspection and maintenance. |
+| **40-07**     | **Regulatory Compliance**: Overview of compliance with aviation safety regulations concerning the structural system of the aircraft. |
 
-### **Key Functions**
-1. **Airframe Structure:**
-   - Provides the framework and support for the aircraft.
-2. **Load-Bearing Components:**
-   - Ensures that the aircraft can withstand operational loads.
-3. **Corrosion Protection:**
-   - Protects structural integrity from environmental factors.
-4. **Structural Inspections:**
-   - Regular inspections to maintain safety and performance.
-5. **Repair and Maintenance Procedures:**
-   - Guidelines for repairs to ensure long-term durability.
+---
 
-### **Features**
-- **Training and Operational Procedures:** Training for maintenance personnel on structural integrity.
-- **Regulatory Compliance:** Adheres to all relevant aviation regulations for structural safety.
+### **Comprehensive Table: ATA Chapter 40 - Structures System Components**
 
-### **Importance**
-- **Safety:** Essential for the overall integrity of the aircraft.
-- **Operational Efficiency:** Supports long-term reliability and performance.
+| **ATA Chapter** | **Section** | **Component**                           | **DMC Code**                        | **Part Number**  | **Manufacturer**           | **Description**                                                | **Estimated Cost (USD)** |
+|-----------------|-------------|-----------------------------------------|-------------------------------------|------------------|-----------------------------|----------------------------------------------------------------|---------------------------|
+| **40-00**       | General Overview | Overview of Structures System         | ROBBBO-T-A-40-00-00-00A-000-D        | -                | -                           | Introduction to the structures system and its key functions.     | -                         |
+| **40-10**       | Airframe Structure | Fuselage Frame Assembly              | ROBBBO-T-A-40-10-00-00A-000-D        | **FSA-1200**     | Airbus Industries           | Primary structural frame for fuselage assembly.                 | $150,000 - $200,000       |
+|                 |                | Wing Spar Structure                    | ROBBBO-T-A-40-10-00-00A-000-D        | **WSS-3400**     | Boeing Commercial Airplanes | Major load-bearing structure in the wings for flight loads.     | $300,000 - $500,000       |
+|                 |                | Tail Section Assembly                  | ROBBBO-T-A-40-10-00-00A-000-D        | **TSA-2200**     | Lockheed Martin             | Structural assembly for the tail section of the aircraft.        | $80,000 - $120,000        |
+| **40-20**       | Load-Bearing Components | Landing Gear Support Structure     | ROBBBO-T-A-40-20-00-00A-000-D        | **LGS-5000**     | Safran Landing Systems      | Structural support for main landing gear attachment.             | $100,000 - $150,000       |
+|                 |                | Engine Pylon Mount                     | ROBBBO-T-A-40-20-00-00A-000-D        | **EPM-2300**     | General Electric Aviation   | Supports engine mounting to the fuselage.                        | $200,000 - $250,000       |
+| **40-30**       | Corrosion Protection | Corrosion-Resistant Coating         | ROBBBO-T-A-40-30-00-00A-000-D        | **CRC-800**      | 3M Aerospace                | Coating applied to structural components to prevent corrosion.   | $5,000 - $8,000           |
+|                 |                | Anodized Aluminum Treatment            | ROBBBO-T-A-40-30-00-00A-000-D        | **AAT-300**      | Honeywell Aerospace         | Electrochemical treatment to enhance corrosion resistance.        | $3,000 - $5,000           |
+| **40-40**       | Structural Inspections | Non-Destructive Testing (NDT) Kit   | ROBBBO-T-A-40-40-00-00A-000-D        | **NDTK-1000**    | Olympus Corporation         | Kit for performing non-destructive tests on structural components. | $10,000 - $15,000         |
+|                 |                | Ultrasonic Inspection Device           | ROBBBO-T-A-40-40-00-00A-000-D        | **UID-550**      | GE Inspection Technologies  | Handheld ultrasonic device for structural integrity checks.       | $7,500 - $10,000          |
+| **40-50**       | Repair and Maintenance Procedures | Composite Repair Kit           | ROBBBO-T-A-40-50-00-00A-000-D        | **CRK-400**      | Boeing Commercial Airplanes | Kit for repairing composite structural components.                | $8,000 - $12,000          |
+|                 |                | Riveting Tool Set                      | ROBBBO-T-A-40-50-00-00A-000-D        | **RTS-700**      | Snap-on Industrial          | Tools for riveting structural repairs.                            | $2,500 - $4,000           |
+| **40-60**       | Training and Operational Procedures | Structural Integrity Training Module | ROBBBO-T-A-40-60-00-00A-000-D  | **SITM-900**    | CAE Inc.                    | Training module for crew on structural inspection and repairs.     | $10,000 - $15,000         |
+| **40-70**       | Regulatory Compliance | Structural Compliance Documentation | ROBBBO-T-A-40-70-00-00A-000-D        | **SCD-100**      | Thales Group                | Ensures compliance with aviation safety regulations for structures. | $3,000 - $5,000           |
+
+---
+
+### **Additional Details:**
+
+- **Airframe Structure:**
+   - **Fuselage and Wing Structures:** Primary components that form the aircraft’s frame and support aerodynamic loads.
+   
+- **Load-Bearing Components:**
+   - **Landing Gear and Engine Mounting:** Crucial components that handle ground and in-flight stresses.
+
+- **Corrosion Protection:**
+   - **Coatings and Treatments:** Protect the aircraft from environmental damage and corrosion, ensuring long-term durability.
+
+- **Structural Inspections:**
+   - **Non-Destructive Testing:** Techniques like ultrasonic testing and visual inspections to detect structural fatigue and ensure safety.
+
+### **Conclusion:**
+
+The **Structures System** in ATA Chapter 40 is critical for maintaining the aircraft's airworthiness and longevity. It includes the airframe, load-bearing components, and corrosion protection, requiring regular inspections, repairs, and compliance with aviation regulations. Proper training and maintenance ensure the system remains reliable, supporting the overall safety and performance of the aircraft.
 
 ---
 
 ### **ATA Chapter 42: Integrated Modular Avionics (IMA) Overview**
 
 #### **System Description**
-The Integrated Modular Avionics (IMA) System of the ROBBBO-T Aircraft provides a modern architecture for avionics systems, allowing for efficient integration and management of various aircraft functions. This system enhances operational capabilities and reduces weight.
+The Integrated Modular Avionics (IMA) System of the ROBBBO-T Aircraft is a modern avionics architecture that integrates multiple aircraft systems into a single modular platform. By consolidating various avionics functions, the IMA system enhances operational efficiency, reliability, and reduces overall weight and complexity.
 
-#### **4-Digit Breakdown**
+---
+
+### **4-Digit Breakdown of ATA Chapter 42: Integrated Modular Avionics (IMA) System**
+
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **42-00**     | **General Overview**: Introduction to the IMA System and its significance in modern aviation. |
-| **42-01**     | **Modular Architecture**: Overview of the modular design that allows for flexible integration of avionics systems. |
-| **42-02**     | **Data Communication Networks**: Description of the networks that facilitate data exchange between systems. |
-| **42-03**     | **System Redundancy and Fail-Safes**: Features that ensure continued operation in case of failures. |
-| **42-04**     | **User Interfaces**: Overview of interfaces for pilots to interact with the IMA system. |
-| **42-05**     | **Monitoring and Diagnostics**: Systems for real-time monitoring and diagnostics of avionics performance. |
-| **42-06**     | **Maintenance and Inspection Procedures**: Guidelines for maintaining and inspecting IMA systems. |
-| **42-07**     | **Training and Operational Procedures**: Training requirements for personnel on IMA operation and management. |
-| **42-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning IMA systems. |
+| **42-00**     | **General Overview**: Introduction to the IMA System and its role in enhancing avionics integration and performance. |
+| **42-01**     | **Modular Architecture**: Overview of the system's modular design, enabling the integration of avionics functions in a flexible and scalable way. |
+| **42-02**     | **Data Communication Networks**: Description of the communication networks that facilitate the exchange of data between avionics subsystems. |
+| **42-03**     | **System Redundancy and Fail-Safes**: Discussion of the redundancy and fail-safe mechanisms that ensure continuous operation in case of failures. |
+| **42-04**     | **User Interfaces**: Overview of pilot interfaces for interacting with the IMA system. |
+| **42-05**     | **Monitoring and Diagnostics**: Systems for real-time monitoring, fault detection, and diagnostics of avionics performance. |
+| **42-06**     | **Maintenance and Inspection Procedures**: Guidelines for maintaining and inspecting the IMA system to ensure operational integrity. |
+| **42-07**     | **Training and Operational Procedures**: Training requirements for flight crew and maintenance personnel on the operation and management of the IMA system. |
+| **42-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations governing the installation and operation of IMA systems. |
 
-### **Key Functions**
-1. **Modular Architecture:**
-   - Facilitates the integration of multiple avionics functions in a compact system.
-2. **Data Communication Networks:**
-   - Enables seamless data exchange between various systems.
-3. **System Redundancy and Fail-Safes:**
-   - Provides backup capabilities to enhance reliability.
-4. **User Interfaces:**
-   - Intuitive interfaces for effective pilot interaction with avionics systems.
-5. **Monitoring and Diagnostics:**
-   - Real-time performance monitoring and diagnostics to ensure system integrity.
+---
 
-### **Features**
-- **Maintenance and Inspection Procedures:** Established protocols for ensuring system functionality.
-- **Training and Operational Procedures:** Comprehensive training for personnel on system use.
-- **Regulatory Compliance:** Meets all aviation regulations for avionics systems.
+### **Comprehensive Table: ATA Chapter 42 - Integrated Modular Avionics System Components**
 
-### **Importance**
-- **Safety:** Enhances operational safety through integrated and reliable systems.
-- **Operational Efficiency:** Supports efficient aircraft operation through advanced avionics.
+| **ATA Chapter** | **Section** | **Component**                           | **DMC Code**                        | **Part Number**  | **Manufacturer**           | **Description**                                                | **Estimated Cost (USD)** |
+|-----------------|-------------|-----------------------------------------|-------------------------------------|------------------|-----------------------------|----------------------------------------------------------------|---------------------------|
+| **42-00**       | General Overview | Overview of IMA System                | ROBBBO-T-A-42-00-00-00A-000-D        | -                | -                           | Introduction to the IMA system and its key components.           | -                         |
+| **42-10**       | Modular Architecture | Avionics Module Assembly            | ROBBBO-T-A-42-10-00-00A-000-D        | **IMA-2200**     | Collins Aerospace           | Core module assembly that houses multiple avionics functions.    | $100,000 - $150,000       |
+|                 |                | Processing Module                      | ROBBBO-T-A-42-10-00-00A-000-D        | **PM-110**       | Honeywell Aerospace         | Processes data from various aircraft systems.                    | $80,000 - $120,000        |
+| **42-20**       | Data Communication Networks | Avionics Data Bus Router         | ROBBBO-T-A-42-20-00-00A-000-D        | **ADB-400**      | GE Aviation Systems         | Routes data between avionics systems through the IMA.            | $20,000 - $30,000         |
+|                 |                | Fiber Optic Data Link                  | ROBBBO-T-A-42-20-00-00A-000-D        | **FOD-300**      | Thales Group                | High-speed data transmission link for avionics communication.     | $10,000 - $15,000         |
+| **42-30**       | System Redundancy and Fail-Safes | Redundant Avionics Module     | ROBBBO-T-A-42-30-00-00A-000-D        | **RIM-500**      | Honeywell Aerospace         | Backup module that ensures continued operation during failures.   | $90,000 - $120,000        |
+|                 |                | Fail-Safe Control Unit                 | ROBBBO-T-A-42-30-00-00A-000-D        | **FSCU-900**     | Collins Aerospace           | Manages redundancy and fail-safe operations within the IMA.       | $15,000 - $20,000         |
+| **42-40**       | User Interfaces | Avionics Control Panel                 | ROBBBO-T-A-42-40-00-00A-000-D        | **ACP-300**      | Rockwell Collins            | Pilot interface for interacting with avionics systems.            | $7,000 - $10,000          |
+|                 |                | Central Display Unit (CDU)             | ROBBBO-T-A-42-40-00-00A-000-D        | **CDU-875**      | Universal Avionics          | Displays system status and allows for manual system inputs.       | $12,000 - $15,000         |
+| **42-50**       | Monitoring and Diagnostics | Avionics Monitoring Unit         | ROBBBO-T-A-42-50-00-00A-000-D        | **AMU-700**      | Honeywell Aerospace         | Continuously monitors avionics system performance and health.      | $18,000 - $22,000         |
+|                 |                | Diagnostic Data Recorder               | ROBBBO-T-A-42-50-00-00A-000-D        | **DDR-400**      | GE Aviation Systems         | Records avionics system diagnostics for maintenance purposes.      | $10,000 - $12,000         |
+| **42-60**       | Maintenance and Inspection Procedures | IMA System Tester           | ROBBBO-T-A-42-60-00-00A-000-D        | **IMST-500**     | Druck LLC                  | Tester for validating the performance and integrity of IMA systems. | $20,000 - $25,000         |
+| **42-70**       | Training and Operational Procedures | IMA Training Simulator       | ROBBBO-T-A-42-70-00-00A-000-D        | **IMTS-100**     | CAE Inc.                    | Simulator for training pilots and maintenance personnel on the IMA system. | $50,000 - $75,000         |
+| **42-80**       | Regulatory Compliance | IMA System Compliance Package       | ROBBBO-T-A-42-80-00-00A-000-D        | **IMA-COM-300**  | Thales Group                | Ensures the IMA system meets all aviation regulations and safety standards. | $15,000 - $20,000         |
+
+---
+
+### **Additional Details:**
+
+- **Modular Architecture:**
+   - **Avionics Module Assembly:** Key components integrated into a flexible, scalable architecture for easy maintenance and upgrades.
+   
+- **Data Communication Networks:**
+   - **Data Bus Routers and Links:** Facilitate high-speed, reliable data transfer between avionics modules.
+
+- **System Redundancy and Fail-Safes:**
+   - **Redundant Systems:** Provide backup in case of component failure, ensuring the safety and integrity of the avionics system.
+
+- **Monitoring and Diagnostics:**
+   - **Continuous Performance Monitoring:** Tracks system health in real-time and records data for preventive maintenance.
+
+### **Conclusion:**
+
+The **Integrated Modular Avionics (IMA) System** in ATA Chapter 42 provides the technological backbone for managing the avionics systems of the ROBBBO-T Aircraft. Its modular architecture, combined with data communication networks, redundancy, and fail-safes, ensures high reliability and performance. Regular maintenance, compliance with aviation regulations, and effective training are critical for the optimal operation of this system.
 
 ---
 
 ### **ATA Chapter 43: Propulsion System Overview**
 
 #### **System Description**
-The Propulsion System of the ROBBBO-T Aircraft is responsible for providing the thrust necessary for flight. This system encompasses engines, fuel systems, and associated components that ensure optimal performance and efficiency.
+The Propulsion System of the ROBBBO-T Aircraft is responsible for generating the necessary thrust to sustain flight. This system includes engines, thrust management systems, fuel delivery systems, and engine control components, ensuring the aircraft's performance and operational efficiency are maintained at optimal levels.
 
-#### **4-Digit Breakdown**
+---
+
+### **4-Digit Breakdown of ATA Chapter 43: Propulsion System**
+
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **43-00**     | **General Overview**: Introduction to the Propulsion System and its critical role in aircraft operations. |
-| **43-01**     | **Engine Types and Configurations**: Overview of the types of engines used in the ROBBBO-T Aircraft. |
-| **43-02**     | **Thrust Management Systems**: Description of systems that control engine thrust during flight. |
-| **43-03**     | **Fuel Delivery Systems**: Explanation of the systems that supply fuel to the engines. |
-| **43-04**     | **Engine Control Systems**: Features that manage engine performance and operation. |
-| **43-05**     | **Monitoring and Diagnostics**: Systems for real-time monitoring and diagnostics of engine performance. |
-| **43-06**     | **Maintenance and Inspection Procedures**: Guidelines for maintaining and inspecting the propulsion system. |
-| **43-07**     | **Training and Operational Procedures**: Training requirements for personnel on propulsion system operation. |
-| **43-08**     | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning propulsion systems. |
+| **43-00**     | **General Overview**: Introduction to the Propulsion System, outlining its critical function in enabling flight. |
+| **43-01**     | **Engine Types and Configurations**: Overview of the engines installed on the ROBBBO-T Aircraft, including their configurations and specifications. |
+| **43-02**     | **Thrust Management Systems**: Systems that regulate and optimize thrust output during different phases of flight. |
+| **43-03**     | **Fuel Delivery Systems**: Components responsible for supplying fuel to the engines, ensuring efficient combustion. |
+| **43-04**     | **Engine Control Systems**: Advanced systems that monitor and adjust engine performance in real-time. |
+| **43-05**     | **Monitoring and Diagnostics**: Systems that continuously monitor engine health and provide diagnostics for potential issues. |
+| **43-06**     | **Maintenance and Inspection Procedures**: Procedures for maintaining the propulsion system, including scheduled inspections and repairs. |
+| **43-07**     | **Training and Operational Procedures**: Comprehensive training for crew and maintenance personnel on the safe and efficient operation of the propulsion system. |
+| **43-08**     | **Regulatory Compliance**: Ensuring that the propulsion system meets all relevant aviation regulations and standards. |
 
-### **Key Functions**
-1. **Engine Types and Configurations:**
-   - Provides the necessary thrust for aircraft operations.
-2. **Thrust Management Systems:**
-   - Controls engine thrust during different phases of flight.
-3. **Fuel Delivery Systems:**
-   - Ensures efficient and reliable fuel supply to engines.
-4. **Engine Control Systems:**
-   - Manages engine performance and operational parameters.
-5. **Monitoring and Diagnostics:**
-   - Continuous performance monitoring to ensure safety and efficiency.
+---
 
-### **Features**
-- **Maintenance and Inspection Procedures:** Protocols for ensuring propulsion system reliability.
-- **Training and Operational Procedures:** Comprehensive training for crew on system operation.
-- **Regulatory Compliance:** Adheres to aviation regulations for propulsion systems.
+### **Comprehensive Table: ATA Chapter 43 - Propulsion System Components**
 
-### **Importance**
-- **Safety:** Essential for the safe operation of the aircraft.
-- **Operational Efficiency:** Supports optimal performance and fuel efficiency.
+| **ATA Chapter** | **Section** | **Component**                        | **DMC Code**                        | **Part Number**  | **Manufacturer**           | **Description**                                                | **Estimated Cost (USD)** |
+|-----------------|-------------|--------------------------------------|-------------------------------------|------------------|-----------------------------|----------------------------------------------------------------|---------------------------|
+| **43-00**       | General Overview | Overview of Propulsion System        | ROBBBO-T-A-43-00-00-00A-000-D        | -                | -                           | Introduction to the propulsion system and its components.       | -                         |
+| **43-10**       | Engine Types and Configurations | Turbofan Engine Assembly          | ROBBBO-T-A-43-10-00-00A-000-D        | **TFE-700**      | Honeywell Aerospace         | Turbofan engine assembly providing thrust for the ROBBBO-T Aircraft. | $5,000,000 - $7,500,000   |
+|                 |                | Engine Nacelle                        | ROBBBO-T-A-43-10-00-00A-000-D        | **EN-250**       | Collins Aerospace           | Housing for the engine assembly to ensure aerodynamic efficiency. | $500,000 - $700,000       |
+|                 |                | Engine Pylon Assembly                 | ROBBBO-T-A-43-10-00-00A-000-D        | **EPA-200**      | GE Aviation Systems         | Structural attachment between the engine and the aircraft wing.   | $300,000 - $450,000       |
+| **43-20**       | Thrust Management Systems | Thrust Reverser Assembly          | ROBBBO-T-A-43-20-00-00A-000-D        | **TRA-6000**     | Safran Electronics & Defense | System for reducing landing distance by reversing engine thrust. | $800,000 - $1,000,000     |
+|                 |                | Thrust Lever Control Unit             | ROBBBO-T-A-43-20-00-00A-000-D        | **TLCU-300**     | Honeywell Aerospace         | Controls engine thrust during takeoff, climb, and cruise.        | $250,000 - $300,000       |
+| **43-30**       | Fuel Delivery Systems | Fuel Pump Assembly                  | ROBBBO-T-A-43-30-00-00A-000-D        | **FPA-400**      | Eaton Aerospace             | Pumps fuel from the tanks to the engines for combustion.         | $100,000 - $150,000       |
+|                 |                | Fuel Injector Nozzles                 | ROBBBO-T-A-43-30-00-00A-000-D        | **FIN-150**      | Collins Aerospace           | Atomizes fuel for efficient combustion in the engine.            | $50,000 - $70,000         |
+| **43-40**       | Engine Control Systems | Full Authority Digital Engine Control (FADEC) | ROBBBO-T-A-43-40-00-00A-000-D | **FADEC-250**    | BAE Systems                 | Electronically controls engine parameters for optimal performance. | $500,000 - $650,000       |
+|                 |                | Engine Control Unit (ECU)             | ROBBBO-T-A-43-40-00-00A-000-D        | **ECU-700**      | Honeywell Aerospace         | Manages engine operation and diagnostics in real-time.           | $300,000 - $450,000       |
+| **43-50**       | Monitoring and Diagnostics | Engine Performance Monitoring Unit | ROBBBO-T-A-43-50-00-00A-000-D        | **EPMU-900**     | GE Aviation Systems         | Monitors engine performance and alerts the crew to anomalies.     | $150,000 - $200,000       |
+|                 |                | Vibration Monitoring System           | ROBBBO-T-A-43-50-00-00A-000-D        | **VMS-800**      | Safran Electronics & Defense | Detects engine vibrations to ensure structural integrity.         | $100,000 - $130,000       |
+| **43-60**       | Maintenance and Inspection Procedures | Engine Inspection Camera         | ROBBBO-T-A-43-60-00-00A-000-D        | **EIC-500**      | Snap-on Industrial          | Tool for visual inspections of internal engine components.        | $30,000 - $50,000         |
+| **43-70**       | Training and Operational Procedures | Engine Training Simulator         | ROBBBO-T-A-43-70-00-00A-000-D        | **ETS-001**      | CAE Inc.                    | Simulator for training crew on engine operation and emergency handling. | $250,000 - $400,000       |
+| **43-80**       | Regulatory Compliance | Propulsion System Compliance Package | ROBBBO-T-A-43-80-00-00A-000-D        | **PSCP-100**     | Airbus Documentation        | Complete documentation package ensuring compliance with regulatory standards. | $30,000 - $50,000         |
+
+---
+
+### **Additional Information:**
+
+- **Engine Types and Configurations:**
+   - **Turbofan Engine Assembly** provides primary thrust for the ROBBBO-T Aircraft, designed for efficiency and reliability.
+   
+- **Thrust Management Systems:**
+   - **Thrust Reverser Assembly** enables deceleration during landing by reversing engine thrust direction.
+
+- **Fuel Delivery Systems:**
+   - **Fuel Injector Nozzles** ensure proper fuel atomization, critical for efficient engine combustion.
+
+- **Engine Control Systems:**
+   - **Full Authority Digital Engine Control (FADEC)** enhances engine performance by automating complex control tasks.
+
+- **Monitoring and Diagnostics:**
+   - **Engine Performance Monitoring Unit (EPMU)** continuously tracks performance, providing real-time feedback on engine health.
+
+### **Conclusion:**
+
+The **Propulsion System** outlined in ATA Chapter 43 is a critical component of the ROBBBO-T Aircraft, enabling flight through efficient thrust generation and management. The system's sophisticated control, monitoring, and diagnostic tools ensure safety, performance, and regulatory compliance. Proper maintenance and crew training are essential for sustaining optimal performance throughout the aircraft's service life.
 
 ---
 
