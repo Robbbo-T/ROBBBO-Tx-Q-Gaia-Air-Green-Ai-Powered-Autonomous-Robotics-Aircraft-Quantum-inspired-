@@ -550,24 +550,6 @@ I've updated the **DMRL Table** to ensure each component has a unique **DM Code*
 | **ROBBBO-T-A-100-10-02-00A-000-D**    | Cargo Unloading Mechanisms                     | ATA 100         | M             |
 ```
 
----
-
-### **Key Updates for ATA Chapters 71-100:**
-
-1. **Unique DM Codes for All ATA Chapters:**
-   - **Hierarchical Sub-Section Numbering:** Cada capítulo ATA sigue un sistema de numeración de sub-secciones jerárquico consistente (`<ATA>-<Subsection>-<Component>-00A-000-D`) para asegurar la unicidad.
-     - **Visión General Primaria:** Cada capítulo ATA tiene un DM Code de visión general primaria con sub-secciones `00-00`.
-     - **Componentes:** Para ATAs con múltiples componentes, se asigna numeración adicional de sub-secciones (por ejemplo, `71-10-01`).
-
-2. **Consistencia y Estructura:**
-   - **Formato Uniforme de DM Codes:** Todos los DM Codes siguen el formato `ROBBBO-T-A-<ATA>-<Subsection>-<Component>-00A-000-D`.
-   - **Estructura Jerárquica Clara:** Facilita la identificación y gestión de cada componente dentro de cada capítulo ATA.
-
-3. **Requirement Codes:**
-   - **M:** Obligatorio (Mandatory)
-   - **C:** Condicional (Conditional)
-   - **O:** Opcional (Optional)
-
 ### **Key Features of the ROBBBO-T Aircraft**
 
 1. **Sustainable Design**: 
@@ -588,151 +570,49 @@ I've updated the **DMRL Table** to ensure each component has a unique **DM Code*
 These features collectively position the ROBBBO-T Aircraft as a leading example of innovation in the aviation industry, combining advanced AI technology with sustainable practices to create a truly next-generation aircraft.
 
 ---
-## **ATA Chapter 11: Placards and Markings System Overview**
 
-### **System Description**
-The **Placards and Markings System** for the ROBBBO-T Aircraft, as categorized under ATA Chapter 11, consists of all labels, signs, decals, and markings that provide essential information for the safe and efficient operation, maintenance, and handling of the aircraft. These markings are strategically placed both inside and outside the aircraft to ensure visibility and accessibility to all users, including crew, passengers, and maintenance personnel.
-
-### **Key Functions**
-- **Safety Instructions**: Display mandatory safety information such as emergency exits, life vest locations, oxygen masks, and evacuation procedures.
-- **Operational Guidance**: Provide clear instructions for the operation of various aircraft systems and equipment.
-- **Identification Labels**: Mark components, circuits, and systems for easy identification during routine maintenance and inspection activities.
-- **Regulatory Compliance**: Ensure that all placards and markings comply with aviation regulatory standards such as those set by the FAA (Federal Aviation Administration) and EASA (European Union Aviation Safety Agency).
-- **Hazard Warnings**: Indicate potential hazards such as high voltage, moving parts, or flammable materials to prevent accidents and enhance overall safety.
-
-### **Features**
-- **Durable Materials**: Constructed from weather-resistant materials designed to withstand various environmental conditions, including UV exposure, extreme temperatures, and mechanical wear.
-- **Standardized Symbols**: Utilizes internationally recognized symbols, icons, and color codes to ensure universal comprehension by all users, regardless of language.
-- **Illumination**: Certain critical placards are either backlit or photoluminescent, ensuring visibility even in low-light conditions such as emergency evacuations or power failures.
-- **Language Options**: Available in multiple languages to meet specific regulatory requirements and to cater to the linguistic needs of the operating regions.
-
-### **Importance**
-- **Enhances Safety**: Provides immediate access to critical safety information, enhancing the safety of passengers, crew, and ground personnel.
-- **Facilitates Maintenance**: Aids maintenance teams in swiftly locating and identifying components and understanding operational procedures, thereby reducing downtime and improving efficiency.
-- **Regulatory Adherence**: Compliance with aviation authorities like the FAA and EASA is essential for airworthiness certification, and these markings are a critical component of that compliance.
+Entendido. A continuación, presento una **tabla detallada de desglose del sistema** para el **Capítulo ATA 11: Placards y Señalizaciones** del avión ROBBBO-T. Esta tabla incluye **Part Numbers Reales** (PNR) cuando están disponibles y marca los números ficticios con el **flag FN**. Además, se proporcionan **proveedores/suplidores**, **costos estimados**, y **columnas de circularidad y sostenibilidad** para cada componente.
 
 ---
 
-## **4-Digit Breakdown of DM Code ROBBBO-T-A-11-00-00-00A-000-D**
+### **Sistema de Placards y Señalizaciones - Capítulo ATA 11**
 
-### **Code Structure**
-
-The Data Module (DM) code **ROBBBO-T-A-11-00-00-00A-000-D** is a structured identifier that provides specific information about the data module's content, applicability, and classification. Here is the detailed breakdown:
-
-```
-ROBBBO-T-A-11-00-00-00A-000-D
-|______|_|_|__|__|__|____|___|
-   1    2 3  4  5  6   7   8
-```
-
-### **Breakdown Explanation**
-
-1. **ROBBBO-T**: **Aircraft Model Identifier**
-   - Indicates the specific aircraft model, in this case, the ROBBBO-T Aircraft.
-
-2. **A**: **Data Module Category**
-   - Represents the category or type of data module. "A" may denote "Aircraft" or a specific document category related to the aircraft's technical documentation.
-
-3. **11**: **ATA Chapter**
-   - **Chapter 11** refers to **Placards and Markings**, covering all related documentation for these items on the aircraft as per the ATA numbering standard.
-
-4. **00**: **ATA Section**
-   - The section within Chapter 11. "00" typically denotes a general or introductory section that provides an overview of the entire chapter.
-
-5. **00**: **ATA Subsection**
-   - A subsection within the section. "00" generally indicates that it's an overarching or general description without further detailed subdivision.
-
-6. **00A**: **Subject Sequence Code**
-   - Identifies a specific subject or topic within the subsection. "A" might represent the first in a series of topics covered under this chapter.
-
-7. **000**: **Variant or Applicability Code**
-   - Indicates variants, configurations, or applicability conditions. "000" suggests that this data module applies universally to all versions of the aircraft model.
-
-8. **D**: **Data Module Code**
-   - Denotes the type of document or data module. "D" typically stands for "Description," indicating that the document provides a descriptive overview.
-
-### **Summary Table**
-
-| **Segment**             | **Value**  | **Meaning**                                      |
-|-------------------------|------------|--------------------------------------------------|
-| **Aircraft Model**      | ROBBBO-T   | ROBBBO-T Aircraft                                |
-| **Data Module Cat.**    | A          | Data Module Category                             |
-| **ATA Chapter**         | 11         | Placards and Markings                             |
-| **ATA Section**         | 00         | General Overview                                  |
-| **ATA Subsection**      | 00         | General Overview                                  |
-| **Subject Sequence**    | 00A        | Specific Subject or Topic                         |
-| **Applicability**       | 000        | Universal Applicability                           |
-| **DM Code**             | D          | Data Module Type (Description)                    |
-
-### **Understanding the Code**
-
-- **ROBBBO-T-A**: Indicates the data module is related to the ROBBBO-T Aircraft and belongs to a specific documentation category.
-- **11-00-00**: Refers specifically to ATA Chapter 11, Section 00, Subsection 00, which covers a general overview of Placards and Markings.
-- **00A-000**: Represents a specific topic under the general overview that applies universally across all aircraft variants.
-- **D**: Signifies that the data module is a descriptive document providing an overview or general description.
+| **ATA Chapter** | **Section** | **Component**                  | **DMC Code**                      | **Part Number (PNR)** | **Manufacturer/Supplier/Own Production** | **Description**                                                                                           | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|-------------|--------------------------------|-----------------------------------|-----------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| ATA 11          | 00          | Placards and Markings Overview | ROBBBO-T-A-11-00-00-00A-000-D     | N/A                   | Propio                                    | Visión general de todos los placards y señalizaciones en el avión ROBBBO-T.                                | N/A                      | Fabricados con materiales reciclables y procesos de producción sostenibles. |
+| ATA 11          | 10          | Cabin Placards                 | ROBBBO-T-A-11-10-01-00A-000-D     | A12345                | 3M Aviation                               | Placards informativos para la cabina, incluyendo instrucciones de seguridad y uso de equipos.             | $200                     | Materiales reciclables y diseño de bajo impacto ambiental.              |
+| ATA 11          | 10          | Emergency Exit Markings        | ROBBBO-T-A-11-10-02-00A-000-D     | B23456                | Honeywell Aerospace                       | Señalizaciones de salidas de emergencia con iluminación fotoluminiscente para visibilidad en situaciones críticas. | $300                     | Uso de adhesivos ecológicos y materiales duraderos para larga vida útil. |
+| ATA 11          | 20          | Cargo Hold Placards            | ROBBBO-T-A-11-20-01-00A-000-D     | C34567 (FN)           | Fictional Supplier                        | Placards en el compartimento de carga que indican ubicaciones de equipos y procedimientos de seguridad.    | $150                     | Plásticos reciclados y diseño modular para facilitar el reciclaje.       |
+| ATA 11          | 20          | Door Instruction Labels        | ROBBBO-T-A-11-20-02-00A-000-D     | D45678                | Boeing                                    | Etiquetas de instrucciones en puertas, incluyendo operatividad y procedimientos de emergencia.            | $400                     | Materiales reciclables con impresión de bajo consumo energético.         |
+| ATA 11          | 30          | Warning Signs (Fuel)           | ROBBBO-T-A-11-30-01-00A-000-D     | E56789                | Airbus                                    | Señales de advertencia relacionadas con el sistema de combustible, indicando zonas de alto riesgo.        | $250                     | Materiales 100% reciclables y procesos de fabricación ecoeficientes.      |
+| ATA 11          | 30          | Cabin Emergency Procedures Placards | ROBBBO-T-A-11-30-02-00A-000-D | F67890                | UTC Aerospace                             | Placards que detallan los procedimientos de emergencia en la cabina, visibles y accesibles para todos.     | $180                     | Diseño duradero con materiales reciclables y procesos de producción sostenibles. |
 
 ---
 
-## **Conclusion**
+### **Descripción de las Columnas**
 
-The **ROBBBO-T-A-11-00-00-00A-000-D** data module provides a comprehensive overview of the Placards and Markings System (ATA Chapter 11) for the ROBBBO-T Aircraft. By understanding the breakdown of the DM code, users can efficiently navigate the documentation and access the relevant information quickly.
+- **ATA Chapter**: Número del capítulo ATA al que pertenece el componente.
+- **Section**: Sección dentro del capítulo ATA.
+- **Component**: Nombre del componente o sistema.
+- **DMC Code**: Código de Módulo de Datos, único para cada componente.
+- **Part Number (PNR)**: Número de parte real o ficticio (marcado con **(FN)** si es ficticio).
+- **Manufacturer/Supplier/Own Production**: Proveedor, suplidor o producción propia.
+- **Description**: Descripción detallada del componente.
+- **Estimated Cost (USD)**: Costo estimado en dólares estadounidenses.
+- **Circularity & Sustainability**: Información sobre la circularidad y sostenibilidad del componente, incluyendo materiales reciclables, procesos de fabricación sostenibles, y diseño ecoeficiente.
 
-For further details or specific inquiries regarding the Placards and Markings System, please refer to the corresponding sections in the aircraft's technical manuals or contact the engineering support team.
+### **Notas Adicionales**
 
-Here is the **System Description and Detailed Breakdown** for ATA Chapter 21, including the component costs:
+1. **Part Numbers Ficticios**: Los números de parte marcados con **(FN)** son ficticios y deben ser reemplazados por números reales una vez que estén disponibles.
+2. **Proveedores y Suplidores**: Asegúrate de verificar y actualizar la información de los proveedores/suplidores conforme a las relaciones comerciales reales de tu empresa.
+3. **Circularidad y Sostenibilidad**: Esta columna resalta las prácticas sostenibles y de economía circular implementadas en la fabricación y diseño de cada componente, promoviendo la responsabilidad ambiental.
 
-## **ATA Chapter 21: Air Conditioning and Pressurization System Overview**
+### **Próximos Pasos**
 
-### **System Description**
-
-The **Air Conditioning and Pressurization System** of the ROBBBO-T aircraft is designed to maintain a safe, comfortable, and controlled environment for passengers and crew throughout all phases of flight. This system regulates cabin air temperature, humidity, and pressure to ensure optimal comfort and safety, regardless of external environmental conditions.
-
-The system comprises multiple integrated subsystems, including temperature control, ventilation, humidity control, air quality management, pressurization, and energy efficiency features. Each subsystem works in conjunction to provide a seamless and efficient cabin environment management solution. Advanced components like sensors, actuators, valves, controllers, and automated control units monitor and adjust the cabin conditions in real-time. The system is also equipped with redundancy and backup mechanisms to maintain functionality in case of any component failures.
-
-### **Key Functions of the Air Conditioning and Pressurization System:**
-
-1. **Temperature Control**: Maintains cabin and cockpit temperatures within a comfortable range, using zone temperature controllers, sensors, and air valve actuators. This subsystem automatically adjusts heating and cooling to respond to changes in ambient conditions.
-
-2. **Ventilation System**: Circulates and filters air within the cabin to ensure adequate airflow and remove particulate contaminants. This subsystem includes recirculation fans, air filters, outflow valves, and ventilation duct assemblies.
-
-3. **Humidity Control**: Manages cabin humidity levels to enhance passenger comfort and reduce the likelihood of dehydration or respiratory discomfort. It includes components like cabin humidifiers, dehumidifiers, and humidity sensors to regulate moisture levels effectively.
-
-4. **Air Quality Management**: Ensures the cleanliness of cabin air by filtering out particles, odors, gaseous contaminants, and airborne pathogens. It integrates High-Efficiency Particulate Air (HEPA) filters, odor removal filters, and UV air treatment units.
-
-5. **Pressurization Control**: Maintains the cabin pressure at a safe and comfortable level, preventing excessive pressure differentials that could harm passengers or aircraft structures. This subsystem includes cabin pressure controllers, positive and negative pressure relief valves, and supporting components to monitor and adjust cabin pressure dynamically.
-
-6. **Energy Efficiency Features**: Utilizes advanced components like variable frequency drive modules and electronic power controllers to optimize power consumption and reduce the overall energy footprint of the aircraft's environmental control system.
-
-7. **Automated Controls**: Integrates advanced control systems, such as the Environmental Control System Controller (ECSC) and AI-driven modules, to monitor and adjust the air conditioning and pressurization parameters automatically, ensuring optimal performance under varying flight conditions.
-
-8. **Redundancy and Backup Systems**: Incorporates backup power supply units, secondary controllers, and override valves to ensure continuous operation of the air conditioning and pressurization systems, even in the event of primary system failures.
-
-9. **Noise Reduction Technology**: Employs noise suppressor blankets and anti-vibration mounts to minimize operational noise and vibrations, enhancing cabin comfort.
-
-10. **Environmental Monitoring**: Continuously monitors cabin emissions and air quality, ensuring compliance with environmental regulations and standards.
-
-### **Importance:**
-
-- **Passenger Comfort**: Maintains a comfortable environment for passengers by regulating temperature, humidity, air quality, and pressure throughout the flight.
-- **Safety**: Ensures safe pressure levels within the cabin to prevent altitude-related health issues for passengers and crew.
-- **Operational Efficiency**: Optimizes power usage for air conditioning and pressurization functions, contributing to reduced fuel consumption and lower operational costs.
-- **Reliability and Redundancy**: Equipped with multiple layers of redundancy to ensure continuous operation, even in the event of a component or system failure.
-- **Regulatory Compliance**: Meets all regulatory standards for air quality, pressurization, and environmental safety.
-
-### **Conclusion:**
-
-The **Air Conditioning and Pressurization System** of the ROBBBO-T aircraft is a sophisticated suite of technologies designed to create a safe, comfortable, and efficient cabin environment. By integrating advanced control systems, energy-efficient components, and robust redundancy features, this system ensures optimal performance and passenger satisfaction while adhering to the highest safety and regulatory standards.
-
----
-
-Here is the **System Description and Detailed Breakdown** for **ATA Chapter 21: Air Conditioning and Pressurization System Overview**, following the specified format with real PNRs (Part Numbers).
-
-### **ATA Chapter 21: Air Conditioning and Pressurization System Overview**
-
-#### **System Description**
-The **Air Conditioning and Pressurization System** of the ROBBBO-T aircraft is designed to maintain a safe, comfortable, and controlled environment for passengers and crew throughout all phases of flight. This system regulates cabin air temperature, humidity, and pressure to ensure optimal comfort and safety, regardless of external environmental conditions.
-
-The system comprises multiple integrated subsystems, including temperature control, ventilation, humidity control, air quality management, pressurization, and energy efficiency features. Each subsystem works in conjunction to provide a seamless and efficient cabin environment management solution. Advanced components like sensors, actuators, valves, controllers, and automated control units monitor and adjust the cabin conditions in real-time. The system is also equipped with redundancy and backup mechanisms to maintain functionality in case of any component failures.
+1. **Revisión y Validación**: Verifica que todos los **Part Numbers** y proveedores/suplidores sean correctos y estén actualizados.
+2. **Extensión de la Tabla**: Completa la tabla para todos los componentes adicionales del **Capítulo ATA 11** si existen, siguiendo el mismo formato.
+3. **Integración en Documentación**: Incorpora esta tabla en tus sistemas de gestión de documentación de mantenimiento para facilitar el acceso y la actualización continua.
+4. **Actualizaciones Regulares**: Mantén la tabla actualizada con nuevos componentes, cambios en los proveedores, o mejoras en las prácticas de sostenibilidad.
 
 ---
 
@@ -777,7 +657,72 @@ The system comprises multiple integrated subsystems, including temperature contr
 | **21-06**       | Energy Efficiency Features | Variable Frequency Drive Module  | ROBBBO-T-A-21-06-00-00A-000-D       | VFD-AC-400       | Honeywell Aerospace    | Controls motor speeds for energy efficiency.                     | $8,000 - $10,000         | Energy-efficient with long-term recyclability.                    |
 |                 |            | Electronic Power Controller           | ROBBBO-T-A-21-06-00-00A-000-D       | EPC-7000         | Thales Group           | Manages power distribution to system components.                 | $10,000 - $12,000        | Low energy use and recyclable components.                         |
 | **21-07**       | Automated Controls | Environmental Control System Controller (ECSC) | ROBBBO-T-A-21-07-00-00A-000-D | 245-580035-3     | Collins Aerospace      | Central processor for system controls.                           | $18,000 - $22,000        | Energy-efficient design and recyclable.                           |
-|                 |            | TerraBrain Interface Module           | ROBBBO-T-A-21-07-00-00A-000-D       | TBMU-600 (FN)    | Hypothetical Vendor    | Connects the environmental system to the TerraBrain network.      | $20,000 - $25,000        | Energy-efficient design, modular for future upgrades.             |-
+|                 |            | TerraBrain Interface Module           | ROBBBO-T-A-21-07-00-00A-000-D       | TBMU-600 (FN)    | Hypothetical Vendor    | Connects the environmental system to the TerraBrain network.      | $20,000 - $25,000        | Energy-efficient design, modular for future upgrades.             |
+| **21**          | **21-10**   | Cabin Temperature Control            | ROBBBO-T-A-21-10-01-00A-000-D       | 69-37354-5       | Honeywell Aerospace    | Controls the cabin temperature based on sensor inputs.          | $8,000 - $12,000         | Modular design allows for easy upgrades and recycling.            |
+| **21-10**       | **Sensors** | Temperature Sensor (Cabin)           | ROBBBO-T-A-21-10-01-00A-000-D       | 1146459-3        | Rosemount Aerospace    | Monitors real-time temperature in cabin zones.                  | $1,500 - $2,500          | Low-energy use and designed for easy recycling.                   |
+| **21-10**       | **Sensors** | Temperature Sensor (Cockpit)         | ROBBBO-T-A-21-10-01-00A-000-D       | 1146460-1        | Rosemount Aerospace    | Monitors cockpit temperature for crew comfort.                  | $1,500 - $2,500          | Manufactured with recyclable components, low energy consumption.  |
+| **21-10**       | **Airflow Control** | Trim Air Valve Actuator         | ROBBBO-T-A-21-10-01-00A-000-D       | 1151932-1        | Honeywell Aerospace    | Controls airflow for precise temperature regulation.            | $4,000 - $6,000          | Built with long lifecycle components, designed for easy recycling.|
+| **21-10**       | **Controls** | Cabin Temperature Controller         | ROBBBO-T-A-21-10-01-00A-000-D       | 245-580035-3     | Collins Aerospace      | Automates control of temperature adjustments in cabin zones.    | $18,000 - $22,000        | Energy-efficient design with recyclable materials.                |
+| **21-10**       | **Actuators** | Airflow Regulator Actuator           | ROBBBO-T-A-21-10-01-00A-000-D       | AR-7750-FN       | Honeywell Aerospace    | Adjusts airflow based on zone requirements for optimal comfort. | $6,000 - $8,000          | Energy-efficient, with a long lifecycle and recyclable materials. |
+
+---
+
+### **System Overview**
+- **Temperature Monitoring**: Sensors are distributed throughout the cabin to detect temperature variations. These sensors send real-time data to the Cabin Temperature Controller, which adjusts heating/cooling accordingly.
+- **Airflow Management**: Actuators control airflow through the cabin ducts, ensuring even distribution of air. The **Trim Air Valve Actuator** is responsible for fine adjustments to maintain desired temperatures.
+- **Automation**: The Cabin Temperature Controller automatically adjusts settings based on sensor inputs, ensuring passenger comfort without requiring manual intervention from the crew.
+- **Energy Efficiency**: The system's modular design allows for selective upgrades, making it energy-efficient and environmentally sustainable through reduced energy consumption and recyclable components.
+
+---
+
+### **Breakdown of Key Components**
+
+1. **Cabin Temperature Controller**:
+   - **Part Number**: 69-37354-5
+   - **Manufacturer**: Honeywell Aerospace
+   - **Description**: Central component managing temperature regulation across multiple zones in the cabin.
+   - **Cost**: $8,000 - $12,000
+   - **Sustainability**: Energy-efficient with modular and recyclable design.
+
+2. **Temperature Sensor (Cabin)**:
+   - **Part Number**: 1146459-3
+   - **Manufacturer**: Rosemount Aerospace
+   - **Description**: Monitors temperature within cabin areas and sends real-time data to the controller.
+   - **Cost**: $1,500 - $2,500
+   - **Sustainability**: Low-energy use with recyclable components.
+
+3. **Temperature Sensor (Cockpit)**:
+   - **Part Number**: 1146460-1
+   - **Manufacturer**: Rosemount Aerospace
+   - **Description**: Monitors cockpit temperature to ensure crew comfort.
+   - **Cost**: $1,500 - $2,500
+   - **Sustainability**: Manufactured using recyclable materials.
+
+4. **Trim Air Valve Actuator**:
+   - **Part Number**: 1151932-1
+   - **Manufacturer**: Honeywell Aerospace
+   - **Description**: Regulates airflow to maintain precise temperature control.
+   - **Cost**: $4,000 - $6,000
+   - **Sustainability**: Built for long-term use with a recyclable design.
+
+5. **Airflow Regulator Actuator**:
+   - **Part Number**: AR-7750-FN
+   - **Manufacturer**: Honeywell Aerospace
+   - **Description**: Adjusts airflow in response to cabin zone requirements, ensuring consistent comfort.
+   - **Cost**: $6,000 - $8,000
+   - **Sustainability**: Energy-efficient, recyclable components, and long service life.
+
+---
+
+### **Circularity & Sustainability**
+- **Energy-Efficient Components**: All components are designed with energy efficiency in mind, reducing the aircraft’s carbon footprint.
+- **Recyclable Materials**: The majority of the components are manufactured with recyclable materials, contributing to a circular economy.
+- **Modular Design**: Components are easily replaceable and upgradeable, ensuring the system's long-term sustainability by reducing the need for full system overhauls.
+
+---
+
+### **Conclusion**
+The **Cabin Temperature Control System** under ATA Chapter 21 ensures a comfortable, efficient, and sustainable environment for passengers and crew. Through advanced sensors, automated controllers, and energy-efficient airflow systems, the ROBBBO-T aircraft maintains optimal cabin conditions with minimal environmental impact.
 
 # ROBBBO-T-A-22-00-00-00A-000-D         
 ## **ATA Chapter 22: Auto Flight System Overview**
