@@ -232,75 +232,13 @@ Below is the expanded Data Module Requirements List (DMRL) for the ROBBBO-T Airc
 - **C** - Conditional
 - **O** - Optional
 
-### DMRL Table
+## DMRL Table
 
 I've updated the **DMRL Table** to ensure each component has a unique **DM Code**. This will facilitate accurate tracking and management of each component within maintenance documentation system.
 
-### **Updated DMRL Table with Unique DM Codes for ATA Chapter 39**
-
-Below is the revised section for **ATA Chapter 39**, ensuring that each component has a distinct **DM Code**. The additional sub-section numbers help in uniquely identifying each component.
-
-| **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
-|---------------------------------------|------------------------------------------------|-----------------|-----------------|
-| **ROBBBO-T-A-39-00-00-00A-000-D**     | Quantum and AI Powering Systems Overview       | ATA 39          | M               |
-| **ROBBBO-T-A-39-01-01-00A-000-D**     | Quantum Processor                              | ATA 39          | M               |
-| **ROBBBO-T-A-39-01-02-00A-000-D**     | Quantum Memory Storage                         | ATA 39          | C               |
-| **ROBBBO-T-A-39-02-01-00A-000-D**     | AI Accelerator Module                          | ATA 39          | C               |
-| **ROBBBO-T-A-39-02-02-00A-000-D**     | Deep Learning Processing Unit (DLPU)           | ATA 39          | C               |
-| **ROBBBO-T-A-39-03-01-00A-000-D**     | Energy Optimization AI Module                  | ATA 39          | C               |
-| **ROBBBO-T-A-39-03-02-00A-000-D**     | Quantum Energy Distribution Unit (QEDU)        | ATA 39          | C               |
-| **ROBBBO-T-A-39-04-01-00A-000-D**     | Quantum AI Decision Engine                     | ATA 39          | M               |
-| **ROBBBO-T-A-39-04-02-00A-000-D**     | Predictive Maintenance AI Module               | ATA 39          | C               |
-| **ROBBBO-T-A-39-05-01-00A-000-D**     | AI Monitoring Interface                        | ATA 39          | C               |
-| **ROBBBO-T-A-39-05-02-00A-000-D**     | Quantum System Health Monitoring Unit          | ATA 39          | C               |
-| **ROBBBO-T-A-39-06-01-00A-000-D**     | Quantum AI Backup Unit                         | ATA 39          | M               |
-| **ROBBBO-T-A-39-06-02-00A-000-D**     | Quantum AI Fail-Safe Module                    | ATA 39          | C               |
-| **ROBBBO-T-A-39-07-01-00A-000-D**     | AI/Quantum System Maintenance Module           | ATA 39          | C               |
-| **ROBBBO-T-A-39-07-02-00A-000-D**     | AI Maintenance Interface                       | ATA 39          | C               |
-| **ROBBBO-T-A-39-08-01-00A-000-D**     | Training System Module                         | ATA 39          | O               |
-| **ROBBBO-T-A-39-09-01-00A-000-D**     | Compliance Management System                   | ATA 39          | C               |
-| **ROBBBO-T-A-39-09-02-00A-000-D**     | Certification Documentation Package            | ATA 39          | C               |
-
-### **Explanation of Changes:**
-
-1. **Unique DM Codes:**
-   - **Sub-Section Numbers:** Added an additional sub-section number to each **DM Code** (e.g., `39-01-01`, `39-01-02`, etc.) to ensure uniqueness.
-   - **Hierarchical Structure:** Maintained the existing hierarchical pattern while differentiating each component within the section.
-
-2. **Requirement Codes:**
-   - **M**: Mandatory
-   - **C**: Conditional
-   - **O**: Optional
-
-### **Circularity & Sustainability Considerations for ATA Chapter 39:**
-
-- **Recyclability:**
-  - **Quantum Processors & Memory:** Designed using recyclable materials to facilitate end-of-life processing.
-  - **AI Modules:** Components like the AI Accelerator Module and DLPU are built with recyclable parts.
-
-- **Energy Efficiency:**
-  - **Low-Energy Consumption:** Quantum processors and AI accelerators are optimized for minimal energy usage.
-  - **Energy Optimization AI Module:** Enhances overall system energy efficiency during operations.
-
-- **Durability:**
-  - **Long-Lasting Components:** High-durability components reduce the need for frequent replacements, promoting sustainability.
-  
-- **Green Manufacturing Practices:**
-  - **Sustainable Production:** Manufacturers emphasize the use of renewable energy sources and minimizing waste in production processes.
-  - **Circular Economy Integration:** Designs support easy upgrades, repairs, and recycling of parts and materials.
-
-- **Digital Documentation:**
-  - **Eco-Friendly Training:** Training modules and maintenance systems are available in digital formats to reduce paper usage.
-
-### **Updated Comprehensive DMRL Table with ATA Chapter 39**
-
-To provide clarity, here's the complete **DMRL Table** including the updated **ATA Chapter 39**:
-
-Vamos a dividir la tabla y comenzar con los **ATA Chapters 11-30** para asegurar que el formato y la información se ajusten correctamente a tus necesidades. Aquí está la tabla con los **ATA Chapters 11-30**, utilizando el esquema de sub-secciones tal como solicitaste.
-
 ---
 
-### **Comprehensive DMRL Table (ATA 11-30)**
+# **Comprehensive DMRL Table (ATA 11-100)**
 
 | **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
 |---------------------------------------|------------------------------------------------|-----------------|-----------------|
@@ -337,14 +275,6 @@ Vamos a dividir la tabla y comenzar con los **ATA Chapters 11-30** para asegurar
 | **ROBBBO-T-A-30-00-00-00A-000-D**     | Ice and Rain Protection System Overview        | ATA 30          | M               |
 | **ROBBBO-T-A-30-10-01-00A-000-D**     | Wing Ice Protection System                     | ATA 30          | M               |
 | **ROBBBO-T-A-30-10-02-00A-000-D**     | Cockpit Windshield De-icing System             | ATA 30          | M               |
-Entiendo, continuaremos con los **ATA Chapters 31-37** siguiendo el mismo formato y estructura jerárquica para asegurar la **unicidad de los DM Codes** y facilitar la **gestión y seguimiento** dentro de tu sistema de documentación de mantenimiento.
-
----
-
-### **Comprehensive DMRL Table (ATA 31-37)**
-
-| **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
-|---------------------------------------|------------------------------------------------|-----------------|-----------------|
 | **ROBBBO-T-A-31-00-00-00A-000-D**     | Indicating/Recording Systems Overview          | ATA 31          | M               |
 | **ROBBBO-T-A-31-10-01-00A-000-D**     | Flight Data Recorders                          | ATA 31          | M               |
 | **ROBBBO-T-A-31-10-02-00A-000-D**     | Cockpit Voice Recorders                        | ATA 31          | M               |
@@ -376,8 +306,6 @@ Entiendo, continuaremos con los **ATA Chapters 31-37** siguiendo el mismo format
 | **ROBBBO-T-A-36-20-01-00A-000-D**     | Engine Starting Pneumatics                     | ATA 36          | C               |
 | **ROBBBO-T-A-36-20-02-00A-000-D**     | Air Conditioning Pneumatics                    | ATA 36          | C               |
 | **ROBBBO-T-A-37-00-00-00A-000-D**     | [Reserved for Future Use]                      | ATA 37          | -               |
-| **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
-|---------------------------------------|------------------------------------------------|-----------------|-----------------|
 | **ROBBBO-T-A-38-00-00-00A-000-D**     | Water and Waste System Overview                | ATA 38          | C               |
 | **ROBBBO-T-A-38-10-01-00A-000-D**     | Water Storage Tank                             | ATA 38          | C               |
 | **ROBBBO-T-A-38-10-02-00A-000-D**     | Water Filter Assembly                          | ATA 38          | C               |
