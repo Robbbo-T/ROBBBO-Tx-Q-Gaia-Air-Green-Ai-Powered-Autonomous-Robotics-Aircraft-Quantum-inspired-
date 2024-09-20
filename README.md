@@ -296,182 +296,349 @@ Below is the revised section for **ATA Chapter 39**, ensuring that each componen
 
 To provide clarity, here's the complete **DMRL Table** including the updated **ATA Chapter 39**:
 
+Vamos a dividir la tabla y comenzar con los **ATA Chapters 11-30** para asegurar que el formato y la información se ajusten correctamente a tus necesidades. Aquí está la tabla con los **ATA Chapters 11-30**, utilizando el esquema de sub-secciones tal como solicitaste.
+
+---
+
+### **Comprehensive DMRL Table (ATA 11-30)**
+
 | **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
 |---------------------------------------|------------------------------------------------|-----------------|-----------------|
-| ROBBBO-T-A-11-00-00-00A-000-D         | Placards and Markings Overview                 | ATA 11          | M               |
-| ROBBBO-T-A-21-00-00-00A-000-D         | Air Conditioning System Overview               | ATA 21          | M               |
-| ROBBBO-T-A-22-00-00-00A-000-D         | Auto Flight System Overview                    | ATA 22          | M               |
-| ROBBBO-T-A-23-00-00-00A-000-D         | Communications System Overview                 | ATA 23          | M               |
-| ROBBBO-T-A-24-00-00-00A-000-D         | Electrical Power System Overview               | ATA 24          | M               |
-| ROBBBO-T-A-25-00-00-00A-000-D         | Equipment/Furnishings Overview                 | ATA 25          | C               |
-| ROBBBO-T-A-26-00-00-00A-000-D         | Fire Protection System Overview                | ATA 26          | M               |
-| ROBBBO-T-A-27-00-00-00A-000-D         | Flight Controls System Overview                | ATA 27          | M               |
-| ROBBBO-T-A-28-00-00-00A-000-D         | Fuel System Overview                           | ATA 28          | M               |
-| ROBBBO-T-A-29-00-00-00A-000-D         | Hydraulic Power System Overview                | ATA 29          | M               |
-| ROBBBO-T-A-30-00-00-00A-000-D         | Ice and Rain Protection System Overview        | ATA 30          | M               |
-| ROBBBO-T-A-31-00-00-00A-000-D         | Indicating/Recording Systems Overview          | ATA 31          | M               |
-| ROBBBO-T-A-32-00-00-00A-000-D         | Landing Gear System Overview                   | ATA 32          | M               |
-| ROBBBO-T-A-33-00-00-00A-000-D         | Lights System Overview                         | ATA 33          | M               |
-| ROBBBO-T-A-34-00-00-00A-000-D         | Navigation System Overview                     | ATA 34          | M               |
-| ROBBBO-T-A-35-00-00-00A-000-D         | Oxygen System Overview                         | ATA 35          | C               |
-| ROBBBO-T-A-36-00-00-00A-000-D         | Pneumatic System Overview                      | ATA 36          | C               |
-| ROBBBO-T-A-38-00-00-00A-000-D         | Water and Waste System Overview                | ATA 38          | C               |
-| **ROBBBO-T-A-39-00-00-00A-000-D**     | **Quantum and AI Powering Systems Overview**   | **ATA 39**      | **M**           |
-| ROBBBO-T-A-39-01-01-00A-000-D         | Quantum Processor                              | ATA 39          | M               |
-| ROBBBO-T-A-39-01-02-00A-000-D         | Quantum Memory Storage                         | ATA 39          | C               |
-| ROBBBO-T-A-39-02-01-00A-000-D         | AI Accelerator Module                          | ATA 39          | C               |
-| ROBBBO-T-A-39-02-02-00A-000-D         | Deep Learning Processing Unit (DLPU)           | ATA 39          | C               |
-| ROBBBO-T-A-39-03-01-00A-000-D         | Energy Optimization AI Module                  | ATA 39          | C               |
-| ROBBBO-T-A-39-03-02-00A-000-D         | Quantum Energy Distribution Unit (QEDU)        | ATA 39          | C               |
-| ROBBBO-T-A-39-04-01-00A-000-D         | Quantum AI Decision Engine                     | ATA 39          | M               |
-| ROBBBO-T-A-39-04-02-00A-000-D         | Predictive Maintenance AI Module               | ATA 39          | C               |
-| ROBBBO-T-A-39-05-01-00A-000-D         | AI Monitoring Interface                        | ATA 39          | C               |
-| ROBBBO-T-A-39-05-02-00A-000-D         | Quantum System Health Monitoring Unit          | ATA 39          | C               |
-| ROBBBO-T-A-39-06-01-00A-000-D         | Quantum AI Backup Unit                         | ATA 39          | M               |
-| ROBBBO-T-A-39-06-02-00A-000-D         | Quantum AI Fail-Safe Module                    | ATA 39          | C               |
-| ROBBBO-T-A-39-07-01-00A-000-D         | AI/Quantum System Maintenance Module           | ATA 39          | C               |
-| ROBBBO-T-A-39-07-02-00A-000-D         | AI Maintenance Interface                       | ATA 39          | C               |
-| ROBBBO-T-A-39-08-01-00A-000-D         | Training System Module                         | ATA 39          | O               |
-| ROBBBO-T-A-39-09-01-00A-000-D         | Compliance Management System                   | ATA 39          | C               |
-| ROBBBO-T-A-39-09-02-00A-000-D         | Certification Documentation Package            | ATA 39          | C               |
-| ROBBBO-T-A-40-00-00-00A-000-D         | Structures Overview                            | ATA 40          | M               |
-| ROBBBO-T-A-42-00-00-00A-000-D         | Integrated Modular Avionics (IMA) Overview     | ATA 42          | M               |
-| ROBBBO-T-A-43-00-00-00A-000-D         | Propulsion System Overview                     | ATA 43          | M               |
-| ROBBBO-T-A-44-00-00-00A-000-D         | Fuel System Detailed Overview                  | ATA 44          | C               |
-| ROBBBO-T-A-45-00-00-00A-000-D         | Central Maintenance System Overview            | ATA 45          | M               |
-| ROBBBO-T-A-46-00-00-00A-000-D         | Information Systems Overview                   | ATA 46          | C               |
-| ROBBBO-T-A-47-00-00-00A-000-D         | Materials and Hardware Overview                | ATA 47          | O               |
-| ROBBBO-T-A-48-00-00-00A-000-D         | Electrical Systems Detailed Overview           | ATA 48          | C               |
-| ROBBBO-T-A-49-00-00-00A-000-D         | Auxiliary Power Unit (APU) Overview            | ATA 49          | M               |
-| ROBBBO-T-A-50-00-00-00A-000-D         | Doors System Overview                          | ATA 50          | C               |
-| ROBBBO-T-A-51-00-00-00A-000-D         | Restraints System Overview                     | ATA 51          | O               |
-| ROBBBO-T-A-52-00-00-00A-000-D         | Doors System Detailed Overview                 | ATA 52          | O               |
-| ROBBBO-T-A-53-00-00-00A-000-D         | Fuselage System Overview                       | ATA 53          | M               |
-| ROBBBO-T-A-54-00-00-00A-000-D         | Nacelles/Pylons System Overview                | ATA 54          | M               |
-| ROBBBO-T-A-55-00-00-00A-000-D         | Stabilizers System Overview                    | ATA 55          | M               |
-| ROBBBO-T-A-56-00-00-00A-000-D         | Windows System Overview                        | ATA 56          | C               |
-| ROBBBO-T-A-57-00-00-00A-000-D         | Wings System Overview                          | ATA 57          | M               |
-| ROBBBO-T-A-58-00-00-00A-000-D         | Emergency Equipment Overview                   | ATA 58          | O               |
-| ROBBBO-T-A-59-00-00-00A-000-D         | Passenger Service Units Overview               | ATA 59          | O               |
-| ROBBBO-T-A-60-00-00-00A-000-D         | Advanced Avionics Overview                     | ATA 60          | C               |
-| ROBBBO-T-A-61-00-00-00A-000-D         | Interior Lighting System Overview              | ATA 61          | O               |
-| ROBBBO-T-A-62-00-00-00A-000-D         | Seats System Overview                          | ATA 62          | O               |
-| ROBBBO-T-A-63-00-00-00A-000-D         | Interior Structures Overview                   | ATA 63          | C               |
-| ROBBBO-T-A-64-00-00-00A-000-D         | Navigation Systems Detailed Overview           | ATA 64          | C               |
-| ROBBBO-T-A-65-00-00-00A-000-D         | Auxiliary Power Systems Overview               | ATA 65          | C               |
-| ROBBBO-T-A-66-00-00-00A-000-D         | Cargo Systems Overview                         | ATA 66          | M               |
-| ROBBBO-T-A-67-00-00-00A-000-D         | Environmental Control Systems Overview         | ATA 67          | M               |
-| ROBBBO-T-A-68-00-00-00A-000-D         | Indicating Systems Detailed Overview           | ATA 68          | C               |
-| ROBBBO-T-A-69-00-00-00A-000-D         | Health Monitoring Systems Overview             | ATA 69          | O               |
-| ROBBBO-T-A-70-00-00-00A-000-D         | Central Maintenance Systems Detailed Overview  | ATA 70          | C               |
-| ROBBBO-T-A-71-00-00-00A-000-D         | Power Plant System Overview                    | ATA 71          | M               |
-| ROBBBO-T-A-72-00-00-00A-000-D         | Engine System Overview                         | ATA 72          | M               |
-| ROBBBO-T-A-73-00-00-00A-000-D         | Engine Fuel and Control System Overview        | ATA 73          | M               |
-| ROBBBO-T-A-74-00-00-00A-000-D         | Engine Ignition System Overview                | ATA 74          | C               |
-| ROBBBO-T-A-75-00-00-00A-000-D         | Air System Overview                            | ATA 75          | C               |
-| ROBBBO-T-A-76-00-00-00A-000-D         | Engine Controls System Overview                | ATA 76          | C               |
-| ROBBBO-T-A-77-00-00-00A-000-D         | Engine Indicating System Overview              | ATA 77          | C               |
-| ROBBBO-T-A-78-00-00-00A-000-D         | Exhaust System Overview                        | ATA 78          | C               |
-| ROBBBO-T-A-79-00-00-00A-000-D         | Oil System Overview                            | ATA 79          | C               |
-| ROBBBO-T-A-80-00-00-00A-000-D         | Starting System Overview                       | ATA 80          | C               |
-| ROBBBO-T-A-81-00-00-00A-000-D         | Turbine System Overview                        | ATA 81          | C               |
-| ROBBBO-T-A-82-00-00-00A-000-D         | Water Injection System Overview                | ATA 82          | C               |
-| ROBBBO-T-A-83-00-00-00A-000-D         | Accessory Gearboxes System Overview            | ATA 83          | C               |
-| ROBBBO-T-A-84-00-00-00A-000-D         | Propeller System Overview                      | ATA 84          | C               |
-| ROBBBO-T-A-85-00-00-00A-000-D         | Fuel Tank Inerting System Overview             | ATA 85          | C               |
-| ROBBBO-T-A-86-00-00-00A-000-D         | Engine Vibration Analysis System Overview      | ATA 86          | O               |
-| ROBBBO-T-A-87-00-00-00A-000-D         | Powerplant Installation System Overview        | ATA 87          | C               |
-| ROBBBO-T-A-88-00-00-00A-000-D         | Engine Vibration Monitoring System Overview    | ATA 88          | O               |
-| ROBBBO-T-A-89-00-00-00A-000-D         | Auxiliary Systems Overview                     | ATA 89          | C               |
-| ROBBBO-T-A-90-00-00-00A-000-D         | Recorders System Overview                      | ATA 90          | C               |
-| ROBBBO-T-A-91-00-00-00A-000-D         | Wiring System Overview                         | ATA 91          | M               |
-| ROBBBO-T-A-92-00-00-00A-000-D         | Electrical System Overview                     | ATA 92          | M               |
-| ROBBBO-T-A-93-00-00-00A-000-D         | Ice Protection System Overview                 | ATA 93          | C               |
-| ROBBBO-T-A-94-00-00-00A-000-D         | Navigation and Lighting System Overview        | ATA 94          | C               |
-| ROBBBO-T-A-95-00-00-00A-000-D         | Passenger Comfort System Overview              | ATA 95          | O               |
-| ROBBBO-T-A-96-00-00-00A-000-D         | Environmental Control System Overview          | ATA 96          | M               |
-| ROBBBO-T-A-97-00-00-00A-000-D         | Crew Comfort System Overview                   | ATA 97          | O               |
-| ROBBBO-T-A-98-00-00-00A-000-D         | Water Injection Cooling System Overview        | ATA 98          | O               |
-| ROBBBO-T-A-99-00-00-00A-000-D         | Main Rotor Transmission System Overview        | ATA 99          | O               |
-| ROBBBO-T-A-100-00-00-00A-000-D        | Cargo Handling System Overview                 | ATA 100          | M               |
+| **ROBBBO-T-A-11-00-00-00A-000-D**     | Placards and Markings Overview                 | ATA 11          | M               |
+| **ROBBBO-T-A-11-10-01-00A-000-D**     | Cabin Placards                                 | ATA 11          | M               |
+| **ROBBBO-T-A-11-10-02-00A-000-D**     | Emergency Exit Markings                        | ATA 11          | M               |
+| **ROBBBO-T-A-21-00-00-00A-000-D**     | Air Conditioning System Overview               | ATA 21          | M               |
+| **ROBBBO-T-A-21-10-01-00A-000-D**     | Cabin Temperature Control                      | ATA 21          | M               |
+| **ROBBBO-T-A-21-10-02-00A-000-D**     | Airflow Management System                      | ATA 21          | M               |
+| **ROBBBO-T-A-22-00-00-00A-000-D**     | Auto Flight System Overview                    | ATA 22          | M               |
+| **ROBBBO-T-A-22-10-01-00A-000-D**     | Flight Control Computer                        | ATA 22          | M               |
+| **ROBBBO-T-A-22-10-02-00A-000-D**     | Autopilot System                               | ATA 22          | M               |
+| **ROBBBO-T-A-23-00-00-00A-000-D**     | Communications System Overview                 | ATA 23          | M               |
+| **ROBBBO-T-A-23-10-01-00A-000-D**     | VHF Radio System                               | ATA 23          | M               |
+| **ROBBBO-T-A-23-10-02-00A-000-D**     | Satellite Communication System                 | ATA 23          | M               |
+| **ROBBBO-T-A-24-00-00-00A-000-D**     | Electrical Power System Overview               | ATA 24          | M               |
+| **ROBBBO-T-A-24-10-01-00A-000-D**     | AC Power Generation                            | ATA 24          | M               |
+| **ROBBBO-T-A-24-10-02-00A-000-D**     | DC Power Distribution                          | ATA 24          | M               |
+| **ROBBBO-T-A-25-00-00-00A-000-D**     | Equipment/Furnishings Overview                 | ATA 25          | C               |
+| **ROBBBO-T-A-25-10-01-00A-000-D**     | Cabin Seats                                    | ATA 25          | C               |
+| **ROBBBO-T-A-25-10-02-00A-000-D**     | Galley Equipment                               | ATA 25          | C               |
+| **ROBBBO-T-A-26-00-00-00A-000-D**     | Fire Protection System Overview                | ATA 26          | M               |
+| **ROBBBO-T-A-26-10-01-00A-000-D**     | Smoke Detection System                         | ATA 26          | M               |
+| **ROBBBO-T-A-26-10-02-00A-000-D**     | Fire Extinguishing System                      | ATA 26          | M               |
+| **ROBBBO-T-A-27-00-00-00A-000-D**     | Flight Controls System Overview                | ATA 27          | M               |
+| **ROBBBO-T-A-27-10-01-00A-000-D**     | Primary Flight Control System                  | ATA 27          | M               |
+| **ROBBBO-T-A-27-10-02-00A-000-D**     | Secondary Flight Control System                | ATA 27          | M               |
+| **ROBBBO-T-A-28-00-00-00A-000-D**     | Fuel System Overview                           | ATA 28          | M               |
+| **ROBBBO-T-A-28-10-01-00A-000-D**     | Fuel Pump System                               | ATA 28          | M               |
+| **ROBBBO-T-A-28-10-02-00A-000-D**     | Fuel Quantity Indication System                | ATA 28          | M               |
+| **ROBBBO-T-A-29-00-00-00A-000-D**     | Hydraulic Power System Overview                | ATA 29          | M               |
+| **ROBBBO-T-A-29-10-01-00A-000-D**     | Hydraulic Pump Unit                            | ATA 29          | M               |
+| **ROBBBO-T-A-29-10-02-00A-000-D**     | Hydraulic Reservoir                            | ATA 29          | M               |
+| **ROBBBO-T-A-30-00-00-00A-000-D**     | Ice and Rain Protection System Overview        | ATA 30          | M               |
+| **ROBBBO-T-A-30-10-01-00A-000-D**     | Wing Ice Protection System                     | ATA 30          | M               |
+| **ROBBBO-T-A-30-10-02-00A-000-D**     | Cockpit Windshield De-icing System             | ATA 30          | M               |
+Entiendo, continuaremos con los **ATA Chapters 31-37** siguiendo el mismo formato y estructura jerárquica para asegurar la **unicidad de los DM Codes** y facilitar la **gestión y seguimiento** dentro de tu sistema de documentación de mantenimiento.
 
 ---
 
-### **Key Updates:**
+### **Comprehensive DMRL Table (ATA 31-37)**
 
-1. **Unique DM Codes in ATA 39:**
-   - **Quantum and AI Systems Overview:** `ROBBBO-T-A-39-00-00-00A-000-D`
-   - **Quantum Computing Systems:**
-     - Quantum Processor: `ROBBBO-T-A-39-01-01-00A-000-D`
-     - Quantum Memory Storage: `ROBBBO-T-A-39-01-02-00A-000-D`
-   - **AI Powering Systems:**
-     - AI Accelerator Module: `ROBBBO-T-A-39-02-01-00A-000-D`
-     - Deep Learning Processing Unit (DLPU): `ROBBBO-T-A-39-02-02-00A-000-D`
-   - **Energy Management Integration:**
-     - Energy Optimization AI Module: `ROBBBO-T-A-39-03-01-00A-000-D`
-     - Quantum Energy Distribution Unit (QEDU): `ROBBBO-T-A-39-03-02-00A-000-D`
-   - **Real-Time Decision Systems:**
-     - Quantum AI Decision Engine: `ROBBBO-T-A-39-04-01-00A-000-D`
-     - Predictive Maintenance AI Module: `ROBBBO-T-A-39-04-02-00A-000-D`
-   - **Monitoring and Diagnostics:**
-     - AI Monitoring Interface: `ROBBBO-T-A-39-05-01-00A-000-D`
-     - Quantum System Health Monitoring Unit: `ROBBBO-T-A-39-05-02-00A-000-D`
-   - **Safety Protocols and Fail-Safes:**
-     - Quantum AI Backup Unit: `ROBBBO-T-A-39-06-01-00A-000-D`
-     - Quantum AI Fail-Safe Module: `ROBBBO-T-A-39-06-02-00A-000-D`
-   - **Maintenance and Inspection:**
-     - AI/Quantum System Maintenance Module: `ROBBBO-T-A-39-07-01-00A-000-D`
-     - AI Maintenance Interface: `ROBBBO-T-A-39-07-02-00A-000-D`
-   - **Training and Operational Procedures:**
-     - Training System Module: `ROBBBO-T-A-39-08-01-00A-000-D`
-   - **Regulatory Compliance:**
-     - Compliance Management System: `ROBBBO-T-A-39-09-01-00A-000-D`
-     - Certification Documentation Package: `ROBBBO-T-A-39-09-02-00A-000-D`
-
-2. **Ensured Uniqueness:**
-   - Each component within **ATA 39** now has a distinct **DM Code**, preventing any overlap and ensuring precise tracking.
-
-3. **Consistency Across ATA Chapters:**
-   - Maintained the existing pattern for **DM Codes** across all ATA chapters to ensure uniformity and ease of management.
-
-### **Recommendations:**
-
-1. **Verification of DM Codes:**
-   - **Uniqueness:** Ensure that the newly assigned **DM Codes** do not conflict with existing codes outside **ATA 39**.
-   - **System Integration:** Update your maintenance documentation systems to reflect these changes accurately.
-
-2. **Future Additions:**
-   - **Consistency:** When adding new components in any ATA chapter, continue the hierarchical and unique **DM Code** structure to maintain clarity.
-   - **Documentation:** Keep a centralized record of all **DM Codes** to prevent future duplications.
-
-3. **Manufacturer Coordination:**
-   - **Confirmation:** Verify the **Part Numbers (PNRs)** and **DM Codes** with respective manufacturers to ensure accuracy and compliance.
-   - **Updates:** Inform manufacturers about the updated **DM Codes** if they are responsible for generating or using them.
-
-4. **Training and Communication:**
-   - **Staff Training:** Ensure that all relevant personnel are informed about the updated **DM Codes** and understand the importance of maintaining uniqueness.
-   - **Documentation:** Update all training materials, manuals, and digital systems to reflect the new **DM Codes**.
-
-### **Circularity & Sustainability Enhancements:**
-
-- **Recyclable Materials:** Emphasize the use of recyclable materials across all components to support end-of-life processing.
-- **Energy Efficiency:** Continue optimizing systems for low energy consumption to reduce the environmental footprint.
-- **Durability:** Focus on durable designs to minimize the need for frequent replacements, promoting sustainability.
-- **Green Manufacturing:** Collaborate with manufacturers that prioritize sustainable and circular economy practices.
+| **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
+|---------------------------------------|------------------------------------------------|-----------------|-----------------|
+| **ROBBBO-T-A-31-00-00-00A-000-D**     | Indicating/Recording Systems Overview          | ATA 31          | M               |
+| **ROBBBO-T-A-31-10-01-00A-000-D**     | Flight Data Recorders                          | ATA 31          | M               |
+| **ROBBBO-T-A-31-10-02-00A-000-D**     | Cockpit Voice Recorders                        | ATA 31          | M               |
+| **ROBBBO-T-A-31-20-01-00A-000-D**     | Display Systems                                | ATA 31          | M               |
+| **ROBBBO-T-A-31-20-02-00A-000-D**     | Indicator Lights                               | ATA 31          | M               |
+| **ROBBBO-T-A-32-00-00-00A-000-D**     | Landing Gear System Overview                   | ATA 32          | M               |
+| **ROBBBO-T-A-32-10-01-00A-000-D**     | Landing Gear Actuators                         | ATA 32          | M               |
+| **ROBBBO-T-A-32-10-02-00A-000-D**     | Landing Gear Control Units                     | ATA 32          | M               |
+| **ROBBBO-T-A-32-20-01-00A-000-D**     | Nose Landing Gear Systems                      | ATA 32          | M               |
+| **ROBBBO-T-A-32-20-02-00A-000-D**     | Main Landing Gear Systems                      | ATA 32          | M               |
+| **ROBBBO-T-A-33-00-00-00A-000-D**     | Lights System Overview                         | ATA 33          | M               |
+| **ROBBBO-T-A-33-10-01-00A-000-D**     | Navigation Lights                              | ATA 33          | M               |
+| **ROBBBO-T-A-33-10-02-00A-000-D**     | Landing Lights                                 | ATA 33          | M               |
+| **ROBBBO-T-A-33-20-01-00A-000-D**     | Beacon Lights                                  | ATA 33          | M               |
+| **ROBBBO-T-A-33-20-02-00A-000-D**     | Taxi Lights                                    | ATA 33          | M               |
+| **ROBBBO-T-A-34-00-00-00A-000-D**     | Navigation System Overview                     | ATA 34          | M               |
+| **ROBBBO-T-A-34-10-01-00A-000-D**     | Global Navigation Satellite Systems (GNSS)     | ATA 34          | M               |
+| **ROBBBO-T-A-34-10-02-00A-000-D**     | Inertial Navigation Systems                    | ATA 34          | M               |
+| **ROBBBO-T-A-34-20-01-00A-000-D**     | Radio Navigation Systems                       | ATA 34          | M               |
+| **ROBBBO-T-A-34-20-02-00A-000-D**     | Visual Navigation Aids                         | ATA 34          | M               |
+| **ROBBBO-T-A-35-00-00-00A-000-D**     | Oxygen System Overview                         | ATA 35          | C               |
+| **ROBBBO-T-A-35-10-01-00A-000-D**     | Oxygen Supply Tanks                            | ATA 35          | C               |
+| **ROBBBO-T-A-35-10-02-00A-000-D**     | Oxygen Delivery Systems                        | ATA 35          | C               |
+| **ROBBBO-T-A-35-20-01-00A-000-D**     | Emergency Oxygen Masks                         | ATA 35          | C               |
+| **ROBBBO-T-A-35-20-02-00A-000-D**     | Portable Oxygen Systems                        | ATA 35          | C               |
+| **ROBBBO-T-A-36-00-00-00A-000-D**     | Pneumatic System Overview                      | ATA 36          | C               |
+| **ROBBBO-T-A-36-10-01-00A-000-D**     | Pneumatic Distribution Lines                   | ATA 36          | C               |
+| **ROBBBO-T-A-36-10-02-00A-000-D**     | Pneumatic Valves                               | ATA 36          | C               |
+| **ROBBBO-T-A-36-20-01-00A-000-D**     | Engine Starting Pneumatics                     | ATA 36          | C               |
+| **ROBBBO-T-A-36-20-02-00A-000-D**     | Air Conditioning Pneumatics                    | ATA 36          | C               |
+| **ROBBBO-T-A-37-00-00-00A-000-D**     | [Reserved for Future Use]                      | ATA 37          | -               |
+| **DM Code**                           | **Title**                                      | **ATA Chapter** | **Requirement** |
+|---------------------------------------|------------------------------------------------|-----------------|-----------------|
+| **ROBBBO-T-A-38-00-00-00A-000-D**     | Water and Waste System Overview                | ATA 38          | C               |
+| **ROBBBO-T-A-38-10-01-00A-000-D**     | Water Storage Tank                             | ATA 38          | C               |
+| **ROBBBO-T-A-38-10-02-00A-000-D**     | Water Filter Assembly                          | ATA 38          | C               |
+| **ROBBBO-T-A-38-20-01-00A-000-D**     | Vacuum Waste Collection Unit                   | ATA 38          | C               |
+| **ROBBBO-T-A-38-20-02-00A-000-D**     | Waste Treatment System                         | ATA 38          | C               |
+| **ROBBBO-T-A-38-30-01-00A-000-D**     | Water Quality Sensor                           | ATA 38          | C               |
+| **ROBBBO-T-A-38-30-02-00A-000-D**     | Water Temperature Sensor                       | ATA 38          | C               |
+| **ROBBBO-T-A-38-40-01-00A-000-D**     | Water/Waste Monitoring Unit                    | ATA 38          | C               |
+| **ROBBBO-T-A-38-40-02-00A-000-D**     | Waste Compactor                                | ATA 38          | C               |
+| **ROBBBO-T-A-38-50-01-00A-000-D**     | Water/Waste Emergency Shutoff Valve            | ATA 38          | C               |
+| **ROBBBO-T-A-38-60-01-00A-000-D**     | Water System Test Kit                          | ATA 38          | C               |
+| **ROBBBO-T-A-38-70-01-00A-000-D**     | Water/Waste System Training Module             | ATA 38          | O               |
+| **ROBBBO-T-A-38-80-01-00A-000-D**     | Water/Waste Compliance Unit                    | ATA 38          | C               |
+| **ROBBBO-T-A-39-00-00-00A-000-D**     | Quantum and AI Powering Systems Overview       | ATA 39          | M               |
+| **ROBBBO-T-A-39-10-01-00A-000-D**     | Quantum Processor                              | ATA 39          | M               |
+| **ROBBBO-T-A-39-10-02-00A-000-D**     | Quantum Memory Storage                         | ATA 39          | C               |
+| **ROBBBO-T-A-39-20-01-00A-000-D**     | AI Accelerator Module                          | ATA 39          | C               |
+| **ROBBBO-T-A-39-20-02-00A-000-D**     | Deep Learning Processing Unit (DLPU)           | ATA 39          | C               |
+| **ROBBBO-T-A-39-30-01-00A-000-D**     | Energy Optimization AI Module                  | ATA 39          | C               |
+| **ROBBBO-T-A-39-30-02-00A-000-D**     | Quantum Energy Distribution Unit (QEDU)        | ATA 39          | C               |
+| **ROBBBO-T-A-39-40-01-00A-000-D**     | Quantum AI Decision Engine                     | ATA 39          | M               |
+| **ROBBBO-T-A-39-40-02-00A-000-D**     | Predictive Maintenance AI Module               | ATA 39          | C               |
+| **ROBBBO-T-A-39-50-01-00A-000-D**     | AI Monitoring Interface                        | ATA 39          | C               |
+| **ROBBBO-T-A-39-50-02-00A-000-D**     | Quantum System Health Monitoring Unit          | ATA 39          | C               |
+| **ROBBBO-T-A-39-60-01-00A-000-D**     | Quantum AI Backup Unit                         | ATA 39          | M               |
+| **ROBBBO-T-A-39-60-02-00A-000-D**     | Quantum AI Fail-Safe Module                    | ATA 39          | C               |
+| **ROBBBO-T-A-39-70-01-00A-000-D**     | AI/Quantum System Maintenance Module           | ATA 39          | C               |
+| **ROBBBO-T-A-39-70-02-00A-000-D**     | AI Maintenance Interface                       | ATA 39          | C               |
+| **ROBBBO-T-A-39-80-01-00A-000-D**     | Training System Module                         | ATA 39          | O               |
+| **ROBBBO-T-A-39-90-01-00A-000-D**     | Compliance Management System                   | ATA 39          | C               |
+| **ROBBBO-T-A-39-90-02-00A-000-D**     | Certification Documentation Package            | ATA 39          | C               |
+| **ROBBBO-T-A-40-00-00-00A-000-D**     | Structures Overview                            | ATA 40          | M               |
+| **ROBBBO-T-A-40-10-01-00A-000-D**     | Fuselage Frame Structures                      | ATA 40          | M               |
+| **ROBBBO-T-A-40-10-02-00A-000-D**     | Wing Structural Components                     | ATA 40          | M               |
+| **ROBBBO-T-A-40-20-01-00A-000-D**     | Empennage Structures                           | ATA 40          | M               |
+| **ROBBBO-T-A-40-20-02-00A-000-D**     | Landing Gear Mount Structures                  | ATA 40          | M               |
+| **ROBBBO-T-A-42-00-00-00A-000-D**     | Integrated Modular Avionics (IMA) Overview     | ATA 42          | M               |
+| **ROBBBO-T-A-42-10-01-00A-000-D**     | IMA Control Units                              | ATA 42          | M               |
+| **ROBBBO-T-A-42-10-02-00A-000-D**     | IMA Communication Interfaces                   | ATA 42          | M               |
+| **ROBBBO-T-A-42-20-01-00A-000-D**     | IMA Power Supply Units                         | ATA 42          | M               |
+| **ROBBBO-T-A-42-20-02-00A-000-D**     | IMA Cooling Systems                            | ATA 42          | M               |
+| **ROBBBO-T-A-43-00-00-00A-000-D**     | Propulsion System Overview                     | ATA 43          | M               |
+| **ROBBBO-T-A-43-10-01-00A-000-D**     | Engine Mount Structures                        | ATA 43          | M               |
+| **ROBBBO-T-A-43-10-02-00A-000-D**     | Thrust Reverser Systems                        | ATA 43          | M               |
+| **ROBBBO-T-A-43-20-01-00A-000-D**     | Propeller Control Systems                      | ATA 43          | M               |
+| **ROBBBO-T-A-43-20-02-00A-000-D**     | Propeller Pitch Adjustment Units               | ATA 43          | M               |
+| **ROBBBO-T-A-44-00-00-00A-000-D**     | Fuel System Detailed Overview                  | ATA 44          | C               |
+| **ROBBBO-T-A-44-10-01-00A-000-D**     | Fuel Pumps                                     | ATA 44          | C               |
+| **ROBBBO-T-A-44-10-02-00A-000-D**     | Fuel Control Units                             | ATA 44          | C               |
+| **ROBBBO-T-A-44-20-01-00A-000-D**     | Fuel Injection Systems                         | ATA 44          | C               |
+| **ROBBBO-T-A-44-20-02-00A-000-D**     | Fuel Distribution Lines                        | ATA 44          | C               |
+| **ROBBBO-T-A-45-00-00-00A-000-D**     | Central Maintenance System Overview            | ATA 45          | M               |
+| **ROBBBO-T-A-45-10-01-00A-000-D**     | Maintenance Control Units                      | ATA 45          | M               |
+| **ROBBBO-T-A-45-10-02-00A-000-D**     | Maintenance Scheduling Systems                 | ATA 45          | M               |
+| **ROBBBO-T-A-46-00-00-00A-000-D**     | Information Systems Overview                   | ATA 46          | C               |
+| **ROBBBO-T-A-46-10-01-00A-000-D**     | Avionics Communication Systems                 | ATA 46          | C               |
+| **ROBBBO-T-A-46-10-02-00A-000-D**     | Data Management Units                          | ATA 46          | C               |
+| **ROBBBO-T-A-46-20-01-00A-000-D**     | Passenger Information Systems                  | ATA 46          | C               |
+| **ROBBBO-T-A-46-20-02-00A-000-D**     | Crew Communication Interfaces                  | ATA 46          | C               |
+| **ROBBBO-T-A-47-00-00-00A-000-D**     | Materials and Hardware Overview                | ATA 47          | O               |
+| **ROBBBO-T-A-47-10-01-00A-000-D**     | Structural Materials                           | ATA 47          | O               |
+| **ROBBBO-T-A-47-10-02-00A-000-D**     | Fasteners and Connectors                       | ATA 47          | O               |
+| **ROBBBO-T-A-47-20-01-00A-000-D**     | Composite Materials                            | ATA 47          | O               |
+| **ROBBBO-T-A-47-20-02-00A-000-D**     | Hardware Assembly Components                   | ATA 47          | O               |
+| **ROBBBO-T-A-48-00-00-00A-000-D**     | Electrical Systems Detailed Overview           | ATA 48          | C               |
+| **ROBBBO-T-A-48-10-01-00A-000-D**     | Electrical Distribution Panels                 | ATA 48          | C               |
+| **ROBBBO-T-A-48-10-02-00A-000-D**     | Circuit Breakers and Fuses                     | ATA 48          | C               |
+| **ROBBBO-T-A-48-20-01-00A-000-D**     | Power Supply Units                             | ATA 48          | C               |
+| **ROBBBO-T-A-48-20-02-00A-000-D**     | Electrical Wiring Harnesses                    | ATA 48          | C               |
+| **ROBBBO-T-A-49-00-00-00A-000-D**     | Auxiliary Power Unit (APU) Overview            | ATA 49          | M               |
+| **ROBBBO-T-A-49-10-01-00A-000-D**     | APU Control Units                              | ATA 49          | M               |
+| **ROBBBO-T-A-49-10-02-00A-000-D**     | APU Power Modules                              | ATA 49          | M               |
+| **ROBBBO-T-A-50-00-00-00A-000-D**     | Doors System Overview                          | ATA 50          | C               |
+| **ROBBBO-T-A-50-10-01-00A-000-D**     | Main Doors Systems                             | ATA 50          | C               |
+| **ROBBBO-T-A-50-10-02-00A-000-D**     | Emergency Exit Doors                           | ATA 50          | C               |
+| **ROBBBO-T-A-51-00-00-00A-000-D**     | Restraints System Overview                     | ATA 51          | O               |
+| **ROBBBO-T-A-51-10-01-00A-000-D**     | Seatbelt Restraints                            | ATA 51          | O               |
+| **ROBBBO-T-A-51-10-02-00A-000-D**     | Harness Restraints                             | ATA 51          | O               |
+| **ROBBBO-T-A-52-00-00-00A-000-D**     | Doors System Detailed Overview                 | ATA 52          | O               |
+| **ROBBBO-T-A-52-10-01-00A-000-D**     | Sliding Door Mechanisms                        | ATA 52          | O               |
+| **ROBBBO-T-A-52-10-02-00A-000-D**     | Door Actuators                                 | ATA 52          | O               |
+| **ROBBBO-T-A-53-00-00-00A-000-D**     | Fuselage System Overview                       | ATA 53          | M               |
+| **ROBBBO-T-A-53-10-01-00A-000-D**     | Fuselage Frame Structures                      | ATA 53          | M               |
+| **ROBBBO-T-A-53-10-02-00A-000-D**     | Fuselage Skin Panels                           | ATA 53          | M               |
+| **ROBBBO-T-A-54-00-00-00A-000-D**     | Nacelles/Pylons System Overview                | ATA 54          | M               |
+| **ROBBBO-T-A-54-10-01-00A-000-D**     | Nacelle Mount Structures                       | ATA 54          | M               |
+| **ROBBBO-T-A-54-10-02-00A-000-D**     | Pylon Hydraulic Systems                        | ATA 54          | M               |
+| **ROBBBO-T-A-55-00-00-00A-000-D**     | Stabilizers System Overview                    | ATA 55          | M               |
+| **ROBBBO-T-A-55-10-01-00A-000-D**     | Horizontal Stabilizers                         | ATA 55          | M               |
+| **ROBBBO-T-A-55-10-02-00A-000-D**     | Vertical Stabilizers                           | ATA 55          | M               |
+| **ROBBBO-T-A-56-00-00-00A-000-D**     | Windows System Overview                        | ATA 56          | C               |
+| **ROBBBO-T-A-56-10-01-00A-000-D**     | Window Mechanisms                              | ATA 56          | C               |
+| **ROBBBO-T-A-56-10-02-00A-000-D**     | Window Sealing Systems                         | ATA 56          | C               |
+| **ROBBBO-T-A-57-00-00-00A-000-D**     | Wings System Overview                          | ATA 57          | M               |
+| **ROBBBO-T-A-57-10-01-00A-000-D**     | Wing Structural Components                     | ATA 57          | M               |
+| **ROBBBO-T-A-57-10-02-00A-000-D**     | Wing Control Surfaces                          | ATA 57          | M               |
+| **ROBBBO-T-A-58-00-00-00A-000-D**     | Emergency Equipment Overview                   | ATA 58          | O               |
+| **ROBBBO-T-A-58-10-01-00A-000-D**     | Emergency Medical Kits                         | ATA 58          | O               |
+| **ROBBBO-T-A-58-10-02-00A-000-D**     | Emergency Locator Transmitters                 | ATA 58          | O               |
+| **ROBBBO-T-A-59-00-00-00A-000-D**     | Passenger Service Units Overview               | ATA 59          | O               |
+| **ROBBBO-T-A-59-10-01-00A-000-D**     | In-Flight Entertainment Systems                | ATA 59          | O               |
+| **ROBBBO-T-A-59-10-02-00A-000-D**     | Passenger Information Displays                 | ATA 59          | O               |
+| **ROBBBO-T-A-60-00-00-00A-000-D**     | Advanced Avionics Overview                     | ATA 60          | C               |
+| **ROBBBO-T-A-60-10-01-00A-000-D**     | Avionics Control Units                         | ATA 60          | C               |
+| **ROBBBO-T-A-60-10-02-00A-000-D**     | Avionics Data Processing Systems               | ATA 60          | C               |
+| **ROBBBO-T-A-61-00-00-00A-000-D**     | Interior Lighting System Overview              | ATA 61          | O               |
+| **ROBBBO-T-A-61-10-01-00A-000-D**     | Cabin Lighting Modules                         | ATA 61          | O               |
+| **ROBBBO-T-A-61-10-02-00A-000-D**     | Emergency Lighting Systems                     | ATA 61          | O               |
+| **ROBBBO-T-A-62-00-00-00A-000-D**     | Seats System Overview                          | ATA 62          | O               |
+| **ROBBBO-T-A-62-10-01-00A-000-D**     | Passenger Seats                                | ATA 62          | O               |
+| **ROBBBO-T-A-62-10-02-00A-000-D**     | Crew Seats                                     | ATA 62          | O               |
+| **ROBBBO-T-A-63-00-00-00A-000-D**     | Interior Structures Overview                   | ATA 63          | C               |
+| **ROBBBO-T-A-63-10-01-00A-000-D**     | Cabin Floor Structures                         | ATA 63          | C               |
+| **ROBBBO-T-A-63-10-02-00A-000-D**     | Overhead Compartments                          | ATA 63          | C               |
+| **ROBBBO-T-A-64-00-00-00A-000-D**     | Navigation Systems Detailed Overview           | ATA 64          | C               |
+| **ROBBBO-T-A-64-10-01-00A-000-D**     | Global Navigation Satellite Systems (GNSS)     | ATA 64          | C               |
+| **ROBBBO-T-A-64-10-02-00A-000-D**     | Inertial Navigation Systems                    | ATA 64          | C               |
+| **ROBBBO-T-A-65-00-00-00A-000-D**     | Auxiliary Power Systems Overview               | ATA 65          | C               |
+| **ROBBBO-T-A-65-10-01-00A-000-D**     | Auxiliary Power Units (APU)                    | ATA 65          | C               |
+| **ROBBBO-T-A-65-10-02-00A-000-D**     | Auxiliary Power Control Systems                | ATA 65          | C               |
+| **ROBBBO-T-A-66-00-00-00A-000-D**     | Cargo Systems Overview                         | ATA 66          | M               |
+| **ROBBBO-T-A-66-10-01-00A-000-D**     | Cargo Loading Systems                          | ATA 66          | M               |
+| **ROBBBO-T-A-66-10-02-00A-000-D**     | Cargo Storage Compartments                     | ATA 66          | M               |
+| **ROBBBO-T-A-67-00-00-00A-000-D**     | Environmental Control Systems Overview         | ATA 67          | M               |
+| **ROBBBO-T-A-67-10-01-00A-000-D**     | Cabin Pressure Control Systems                 | ATA 67          | M               |
+| **ROBBBO-T-A-67-10-02-00A-000-D**     | Temperature Control Units                      | ATA 67          | M               |
+| **ROBBBO-T-A-68-00-00-00A-000-D**     | Indicating Systems Detailed Overview           | ATA 68          | C               |
+| **ROBBBO-T-A-68-10-01-00A-000-D**     | Engine Indicating Instruments                  | ATA 68          | C               |
+| **ROBBBO-T-A-68-10-02-00A-000-D**     | Fuel Flow Indication Systems                   | ATA 68          | C               |
+| **ROBBBO-T-A-69-00-00-00A-000-D**     | Health Monitoring Systems Overview             | ATA 69          | O               |
+| **ROBBBO-T-A-69-10-01-00A-000-D**     | Engine Health Monitoring Units                 | ATA 69          | O               |
+| **ROBBBO-T-A-69-10-02-00A-000-D**     | Structural Health Monitoring Systems           | ATA 69          | O               |
+| **ROBBBO-T-A-70-00-00-00A-000-D**     | Central Maintenance Systems Detailed Overview  | ATA 70          | C               |
+| **ROBBBO-T-A-70-10-01-00A-000-D**     | Maintenance Tracking Systems                   | ATA 70          | C               |
+| **ROBBBO-T-A-70-10-02-00A-000-D**     | Maintenance Scheduling Modules                 | ATA 70          | C               |
+| **ROBBBO-T-A-71-00-00-00A-000-D**     | Power Plant System Overview                    | ATA 71          | M             |
+| **ROBBBO-T-A-71-10-01-00A-000-D**     | Power Plant Control System                     | ATA 71          | M             |
+| **ROBBBO-T-A-71-10-02-00A-000-D**     | Power Plant Cooling System                     | ATA 71          | M             |
+| **ROBBBO-T-A-71-20-01-00A-000-D**     | Power Plant Exhaust System                     | ATA 71          | C             |
+| **ROBBBO-T-A-71-20-02-00A-000-D**     | Power Plant Fuel Supply System                 | ATA 71          | C             |
+| **ROBBBO-T-A-72-00-00-00A-000-D**     | Engine System Overview                         | ATA 72          | M             |
+| **ROBBBO-T-A-72-10-01-00A-000-D**     | Engine Control Unit (ECU)                      | ATA 72          | M             |
+| **ROBBBO-T-A-72-10-02-00A-000-D**     | Engine Monitoring System                       | ATA 72          | C             |
+| **ROBBBO-T-A-72-20-01-00A-000-D**     | Engine Fuel System                             | ATA 72          | M             |
+| **ROBBBO-T-A-72-20-02-00A-000-D**     | Engine Air Inlet System                        | ATA 72          | C             |
+| **ROBBBO-T-A-73-00-00-00A-000-D**     | Engine Fuel and Control System Overview        | ATA 73          | M             |
+| **ROBBBO-T-A-73-10-01-00A-000-D**     | Fuel Control Unit                              | ATA 73          | M             |
+| **ROBBBO-T-A-73-10-02-00A-000-D**     | Fuel Injection System                          | ATA 73          | C             |
+| **ROBBBO-T-A-73-20-01-00A-000-D**     | Fuel Distribution Lines                        | ATA 73          | C             |
+| **ROBBBO-T-A-73-20-02-00A-000-D**     | Fuel Pump                                      | ATA 73          | M             |
+| **ROBBBO-T-A-74-00-00-00A-000-D**     | Engine Ignition System Overview                | ATA 74          | C             |
+| **ROBBBO-T-A-74-10-01-00A-000-D**     | Ignition Control Module                        | ATA 74          | C             |
+| **ROBBBO-T-A-74-10-02-00A-000-D**     | Spark Plug System                              | ATA 74          | C             |
+| **ROBBBO-T-A-74-20-01-00A-000-D**     | Ignition Timing Unit                           | ATA 74          | C             |
+| **ROBBBO-T-A-75-00-00-00A-000-D**     | Air System Overview                            | ATA 75          | C             |
+| **ROBBBO-T-A-75-10-01-00A-000-D**     | Engine Air Management Unit                     | ATA 75          | C             |
+| **ROBBBO-T-A-75-10-02-00A-000-D**     | Air Filter System                              | ATA 75          | C             |
+| **ROBBBO-T-A-75-20-01-00A-000-D**     | Air Ducting System                             | ATA 75          | C             |
+| **ROBBBO-T-A-75-20-02-00A-000-D**     | Air Flow Regulator                             | ATA 75          | C             |
+| **ROBBBO-T-A-76-00-00-00A-000-D**     | Engine Controls System Overview                | ATA 76          | C             |
+| **ROBBBO-T-A-76-10-01-00A-000-D**     | Throttle Control System                        | ATA 76          | C             |
+| **ROBBBO-T-A-76-10-02-00A-000-D**     | Throttle Linkage System                        | ATA 76          | C             |
+| **ROBBBO-T-A-76-20-01-00A-000-D**     | Electronic Engine Control (EEC)                | ATA 76          | M             |
+| **ROBBBO-T-A-76-20-02-00A-000-D**     | Engine Actuator Unit                           | ATA 76          | C             |
+| **ROBBBO-T-A-77-00-00-00A-000-D**     | Engine Indicating System Overview              | ATA 77          | C             |
+| **ROBBBO-T-A-77-10-01-00A-000-D**     | Engine Performance Indicators                  | ATA 77          | C             |
+| **ROBBBO-T-A-77-10-02-00A-000-D**     | Engine Temperature Monitoring System           | ATA 77          | C             |
+| **ROBBBO-T-A-78-00-00-00A-000-D**     | Exhaust System Overview                        | ATA 78          | C             |
+| **ROBBBO-T-A-78-10-01-00A-000-D**     | Exhaust Manifold                               | ATA 78          | C             |
+| **ROBBBO-T-A-78-10-02-00A-000-D**     | Exhaust Heat Shields                           | ATA 78          | C             |
+| **ROBBBO-T-A-78-20-01-00A-000-D**     | Exhaust Gas Temperature Sensors                | ATA 78          | C             |
+| **ROBBBO-T-A-78-20-02-00A-000-D**     | Exhaust Backpressure Regulator                 | ATA 78          | C             |
+| **ROBBBO-T-A-79-00-00-00A-000-D**     | Oil System Overview                            | ATA 79          | C             |
+| **ROBBBO-T-A-79-10-01-00A-000-D**     | Engine Oil Pump                                | ATA 79          | C             |
+| **ROBBBO-T-A-79-10-02-00A-000-D**     | Oil Pressure Regulator                         | ATA 79          | C             |
+| **ROBBBO-T-A-79-20-01-00A-000-D**     | Oil Cooling System                             | ATA 79          | C             |
+| **ROBBBO-T-A-79-20-02-00A-000-D**     | Oil Filter System                              | ATA 79          | C             |
+| **ROBBBO-T-A-80-00-00-00A-000-D**     | Starting System Overview                       | ATA 80          | C             |
+| **ROBBBO-T-A-80-10-01-00A-000-D**     | Starter Motor                                  | ATA 80          | C             |
+| **ROBBBO-T-A-80-10-02-00A-000-D**     | Starting Relay                                 | ATA 80          | C             |
+| **ROBBBO-T-A-80-20-01-00A-000-D**     | Ignition Start Switch                          | ATA 80          | C             |
+| **ROBBBO-T-A-80-20-02-00A-000-D**     | Starter Control Circuit                        | ATA 80          | C             |
+| **ROBBBO-T-A-81-00-00-00A-000-D**     | Turbine System Overview                        | ATA 81          | C             |
+| **ROBBBO-T-A-81-10-01-00A-000-D**     | Turbine Control Modules                        | ATA 81          | C             |
+| **ROBBBO-T-A-81-10-02-00A-000-D**     | Turbine Performance Monitoring Systems         | ATA 81          | C             |
+| **ROBBBO-T-A-82-00-00-00A-000-D**     | Water Injection System Overview                | ATA 82          | C             |
+| **ROBBBO-T-A-82-10-01-00A-000-D**     | Water Injection Pumps                          | ATA 82          | C             |
+| **ROBBBO-T-A-82-10-02-00A-000-D**     | Water Injection Control Units                  | ATA 82          | C             |
+| **ROBBBO-T-A-83-00-00-00A-000-D**     | Accessory Gearboxes System Overview            | ATA 83          | C             |
+| **ROBBBO-T-A-83-10-01-00A-000-D**     | Gearbox Control Modules                        | ATA 83          | C             |
+| **ROBBBO-T-A-83-10-02-00A-000-D**     | Gearbox Lubrication Systems                    | ATA 83          | C             |
+| **ROBBBO-T-A-84-00-00-00A-000-D**     | Propeller System Overview                      | ATA 84          | C             |
+| **ROBBBO-T-A-84-10-01-00A-000-D**     | Propeller Control Units                        | ATA 84          | C             |
+| **ROBBBO-T-A-84-10-02-00A-000-D**     | Propeller Pitch Adjustment Systems             | ATA 84          | C             |
+| **ROBBBO-T-A-85-00-00-00A-000-D**     | Fuel Tank Inerting System Overview             | ATA 85          | C             |
+| **ROBBBO-T-A-85-10-01-00A-000-D**     | Fuel Tank Inert Gas Systems                    | ATA 85          | C             |
+| **ROBBBO-T-A-85-10-02-00A-000-D**     | Fuel Tank Ventilation Systems                  | ATA 85          | C             |
+| **ROBBBO-T-A-86-00-00-00A-000-D**     | Engine Vibration Analysis System Overview      | ATA 86          | O             |
+| **ROBBBO-T-A-86-10-01-00A-000-D**     | Vibration Sensors                              | ATA 86          | O             |
+| **ROBBBO-T-A-86-10-02-00A-000-D**     | Vibration Analysis Modules                     | ATA 86          | O             |
+| **ROBBBO-T-A-87-00-00-00A-000-D**     | Powerplant Installation System Overview        | ATA 87          | C             |
+| **ROBBBO-T-A-87-10-01-00A-000-D**     | Powerplant Mounting Structures                 | ATA 87          | C             |
+| **ROBBBO-T-A-87-10-02-00A-000-D**     | Powerplant Electrical Connections              | ATA 87          | C             |
+| **ROBBBO-T-A-88-00-00-00A-000-D**     | Engine Vibration Monitoring System Overview    | ATA 88          | O             |
+| **ROBBBO-T-A-88-10-01-00A-000-D**     | Vibration Monitoring Sensors                   | ATA 88          | O             |
+| **ROBBBO-T-A-88-10-02-00A-000-D**     | Vibration Data Analysis Systems                | ATA 88          | O             |
+| **ROBBBO-T-A-89-00-00-00A-000-D**     | Auxiliary Systems Overview                     | ATA 89          | C             |
+| **ROBBBO-T-A-89-10-01-00A-000-D**     | Auxiliary Lighting Systems                     | ATA 89          | C             |
+| **ROBBBO-T-A-89-10-02-00A-000-D**     | Auxiliary Control Units                        | ATA 89          | C             |
+| **ROBBBO-T-A-90-00-00-00A-000-D**     | Recorders System Overview                      | ATA 90          | C             |
+| **ROBBBO-T-A-90-10-01-00A-000-D**     | Flight Data Recorders                          | ATA 90          | C             |
+| **ROBBBO-T-A-90-10-02-00A-000-D**     | Cockpit Voice Recorders                        | ATA 90          | C             |
+| **ROBBBO-T-A-91-00-00-00A-000-D**     | Wiring System Overview                         | ATA 91          | M             |
+| **ROBBBO-T-A-91-10-01-00A-000-D**     | Electrical Wiring Harnesses                    | ATA 91          | M             |
+| **ROBBBO-T-A-91-10-02-00A-000-D**     | Power Distribution Cables                      | ATA 91          | M             |
+| **ROBBBO-T-A-92-00-00-00A-000-D**     | Electrical System Overview                     | ATA 92          | M             |
+| **ROBBBO-T-A-92-10-01-00A-000-D**     | Electrical Power Distribution Systems          | ATA 92          | M             |
+| **ROBBBO-T-A-92-10-02-00A-000-D**     | Electrical Control Modules                     | ATA 92          | M             |
+| **ROBBBO-T-A-93-00-00-00A-000-D**     | Ice Protection System Overview                 | ATA 93          | C             |
+| **ROBBBO-T-A-93-10-01-00A-000-D**     | Wing Ice Protection Systems                    | ATA 93          | C             |
+| **ROBBBO-T-A-93-10-02-00A-000-D**     | Engine Ice Protection Systems                  | ATA 93          | C             |
+| **ROBBBO-T-A-94-00-00-00A-000-D**     | Navigation and Lighting System Overview        | ATA 94          | C             |
+| **ROBBBO-T-A-94-10-01-00A-000-D**     | Navigation Lighting Systems                    | ATA 94          | C             |
+| **ROBBBO-T-A-94-10-02-00A-000-D**     | Cockpit Lighting Systems                       | ATA 94          | C             |
+| **ROBBBO-T-A-95-00-00-00A-000-D**     | Passenger Comfort System Overview              | ATA 95          | O             |
+| **ROBBBO-T-A-95-10-01-00A-000-D**     | In-Flight Entertainment Systems                | ATA 95          | O             |
+| **ROBBBO-T-A-95-10-02-00A-000-D**     | Climate Control Systems                        | ATA 95          | O             |
+| **ROBBBO-T-A-96-00-00-00A-000-D**     | Environmental Control System Overview          | ATA 96          | M             |
+| **ROBBBO-T-A-96-10-01-00A-000-D**     | Cabin Air Management Systems                   | ATA 96          | M             |
+| **ROBBBO-T-A-96-10-02-00A-000-D**     | Temperature and Humidity Control Systems       | ATA 96          | M             |
+| **ROBBBO-T-A-97-00-00-00A-000-D**     | Crew Comfort System Overview                   | ATA 97          | O             |
+| **ROBBBO-T-A-97-10-01-00A-000-D**     | Crew Seating Systems                           | ATA 97          | O             |
+| **ROBBBO-T-A-97-10-02-00A-000-D**     | Crew Rest Facilities                           | ATA 97          | O             |
+| **ROBBBO-T-A-98-00-00-00A-000-D**     | Water Injection Cooling System Overview        | ATA 98          | O             |
+| **ROBBBO-T-A-98-10-01-00A-000-D**     | Water Injection Pumps                          | ATA 98          | O             |
+| **ROBBBO-T-A-98-10-02-00A-000-D**     | Water Injection Control Units                  | ATA 98          | O             |
+| **ROBBBO-T-A-99-00-00-00A-000-D**     | Main Rotor Transmission System Overview        | ATA 99          | O             |
+| **ROBBBO-T-A-99-10-01-00A-000-D**     | Rotor Transmission Gearboxes                   | ATA 99          | O             |
+| **ROBBBO-T-A-99-10-02-00A-000-D**     | Rotor Transmission Control Systems             | ATA 99          | O             |
+| **ROBBBO-T-A-100-00-00-00A-000-D**    | Cargo Handling System Overview                 | ATA 100         | M             |
+| **ROBBBO-T-A-100-10-01-00A-000-D**    | Cargo Loading Systems                          | ATA 100         | M             |
+| **ROBBBO-T-A-100-10-02-00A-000-D**    | Cargo Unloading Mechanisms                     | ATA 100         | M             |
+```
 
 ---
 
-### **Next Steps:**
+### **Key Updates for ATA Chapters 71-100:**
 
-- **Review the Updated DMRL Table:** Ensure that all **DM Codes** are correctly assigned and do not overlap with other ATA chapters.
-- **Implement Changes:** Update your maintenance systems and documentation to incorporate the new **DM Codes**.
-- **Ongoing Management:** Regularly audit your **DM Codes** to maintain their uniqueness and relevance as new components are added.
+1. **Unique DM Codes for All ATA Chapters:**
+   - **Hierarchical Sub-Section Numbering:** Cada capítulo ATA sigue un sistema de numeración de sub-secciones jerárquico consistente (`<ATA>-<Subsection>-<Component>-00A-000-D`) para asegurar la unicidad.
+     - **Visión General Primaria:** Cada capítulo ATA tiene un DM Code de visión general primaria con sub-secciones `00-00`.
+     - **Componentes:** Para ATAs con múltiples componentes, se asigna numeración adicional de sub-secciones (por ejemplo, `71-10-01`).
 
-If you need further assistance with updating other ATA chapters, verifying **DM Codes**, or integrating these changes into your systems, feel free to reach out!
+2. **Consistencia y Estructura:**
+   - **Formato Uniforme de DM Codes:** Todos los DM Codes siguen el formato `ROBBBO-T-A-<ATA>-<Subsection>-<Component>-00A-000-D`.
+   - **Estructura Jerárquica Clara:** Facilita la identificación y gestión de cada componente dentro de cada capítulo ATA.
 
----
-
-The **ROBBBO-T Aircraft** integrates several advanced features that enhance its sustainability, efficiency, and operational capabilities:
+3. **Requirement Codes:**
+   - **M:** Obligatorio (Mandatory)
+   - **C:** Condicional (Conditional)
+   - **O:** Opcional (Optional)
 
 ### **Key Features of the ROBBBO-T Aircraft**
 
