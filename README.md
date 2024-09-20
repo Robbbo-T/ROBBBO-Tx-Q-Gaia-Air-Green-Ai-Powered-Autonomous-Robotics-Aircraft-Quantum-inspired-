@@ -589,30 +589,9 @@ Entendido. A continuación, presento una **tabla detallada de desglose del siste
 
 ---
 
-### **Descripción de las Columnas**
+### **System Description: ATA Chapter 21 - Air Conditioning and Pressurization System Overview**
 
-- **ATA Chapter**: Número del capítulo ATA al que pertenece el componente.
-- **Section**: Sección dentro del capítulo ATA.
-- **Component**: Nombre del componente o sistema.
-- **DMC Code**: Código de Módulo de Datos, único para cada componente.
-- **Part Number (PNR)**: Número de parte real o ficticio (marcado con **(FN)** si es ficticio).
-- **Manufacturer/Supplier/Own Production**: Proveedor, suplidor o producción propia.
-- **Description**: Descripción detallada del componente.
-- **Estimated Cost (USD)**: Costo estimado en dólares estadounidenses.
-- **Circularity & Sustainability**: Información sobre la circularidad y sostenibilidad del componente, incluyendo materiales reciclables, procesos de fabricación sostenibles, y diseño ecoeficiente.
-
-### **Notas Adicionales**
-
-1. **Part Numbers Ficticios**: Los números de parte marcados con **(FN)** son ficticios y deben ser reemplazados por números reales una vez que estén disponibles.
-2. **Proveedores y Suplidores**: Asegúrate de verificar y actualizar la información de los proveedores/suplidores conforme a las relaciones comerciales reales de tu empresa.
-3. **Circularidad y Sostenibilidad**: Esta columna resalta las prácticas sostenibles y de economía circular implementadas en la fabricación y diseño de cada componente, promoviendo la responsabilidad ambiental.
-
-### **Próximos Pasos**
-
-1. **Revisión y Validación**: Verifica que todos los **Part Numbers** y proveedores/suplidores sean correctos y estén actualizados.
-2. **Extensión de la Tabla**: Completa la tabla para todos los componentes adicionales del **Capítulo ATA 11** si existen, siguiendo el mismo formato.
-3. **Integración en Documentación**: Incorpora esta tabla en tus sistemas de gestión de documentación de mantenimiento para facilitar el acceso y la actualización continua.
-4. **Actualizaciones Regulares**: Mantén la tabla actualizada con nuevos componentes, cambios en los proveedores, o mejoras en las prácticas de sostenibilidad.
+The **Air Conditioning and Pressurization System** in the ROBBBO-T aircraft ensures an optimal cabin environment by regulating temperature, humidity, air quality, and cabin pressure. Designed with advanced sensors and actuators, the system dynamically adapts to maintain passenger and crew comfort in all flight conditions. It incorporates energy-efficient technology to minimize environmental impact while maintaining compliance with regulatory standards.
 
 ---
 
@@ -620,109 +599,60 @@ Entendido. A continuación, presento una **tabla detallada de desglose del siste
 
 | **Section**   | **Description**                                           |
 |---------------|-----------------------------------------------------------|
-| **21-00**     | **General Overview**: Introduction to the Air Conditioning and Pressurization System and its importance in flight operations. |
-| **21-01**     | **Temperature Control**: Mechanisms and components responsible for regulating cabin and cockpit temperatures. |
-| **21-02**     | **Ventilation Systems**: Details on air supply and circulation methods to ensure adequate airflow and oxygen levels. |
-| **21-03**     | **Humidity Control**: Methods for maintaining appropriate humidity levels, including dehumidification processes. |
-| **21-04**     | **Pressurization Support**: Interaction with the aircraft's pressurization system to ensure safe cabin pressure. |
-| **21-05**     | **Air Quality Management**: Filtration systems and mechanisms to manage air quality and remove contaminants. |
-| **21-06**     | **Energy Efficiency Features**: Technologies employed to minimize energy consumption in line with sustainable design principles. |
-| **21-07**     | **Automated Controls**: Overview of the TerraBrain SuperSystem integration for intelligent monitoring and real-time adjustments. |
-| **21-08**     | **Redundancy and Backup Systems**: Explanation of the backup features that ensure system reliability and continuous operation. |
-| **21-09**     | **Noise Reduction Technology**: Design features aimed at reducing operational noise for enhanced passenger comfort. |
-| **21-10**     | **Environmental Compliance**: Overview of how the system meets regulatory standards for emissions and environmental impact. |
+| **21-00**     | **General Overview**: Covers system importance, components, and overall function. |
+| **21-01**     | **Temperature Control**: Covers components regulating cabin and cockpit temperatures. |
+| **21-02**     | **Ventilation Systems**: Focuses on airflow systems ensuring oxygen levels and circulation. |
+| **21-03**     | **Humidity Control**: Explains mechanisms for maintaining optimal humidity. |
+| **21-04**     | **Pressurization Support**: Interaction with pressurization systems to maintain safe pressure. |
+| **21-05**     | **Air Quality Management**: Describes filters and other systems ensuring clean air. |
+| **21-06**     | **Energy Efficiency Features**: Highlights energy-saving components for sustainable operation. |
+| **21-07**     | **Automated Controls**: Integration with TerraBrain SuperSystem for real-time adjustments. |
+| **21-08**     | **Redundancy and Backup Systems**: Backup features ensuring continuous functionality. |
+| **21-09**     | **Noise Reduction Technology**: Design features reducing operational noise for comfort. |
+| **21-10**     | **Environmental Compliance**: Ensures compliance with environmental regulations. |
 
 ---
 
-| **ATA Chapter** | **Section** | **Component**                        | **DMC Code**                        | **Part Number**  | **Manufacturer**       | **Description**                                                | **Estimated Cost (USD)** | **Circularity & Sustainability**                                  |
-|-----------------|------------|--------------------------------------|-------------------------------------|------------------|------------------------|----------------------------------------------------------------|--------------------------|-------------------------------------------------------------------|
-| **21-00**       | General Overview | Overview of Air Conditioning System   | ROBBBO-T-A-21-00-00-00A-000-D       | -                | -                      | Introduction to the Air Conditioning and Pressurization System. | -                        | Focus on energy-efficient design and use of recyclable materials. |
-| **21-01**       | Temperature Control | Zone Temperature Controller          | ROBBBO-T-A-21-01-00-00A-000-D       | 69-37354-5       | Honeywell Aerospace    | Regulates temperature settings automatically.                   | $8,000 - $12,000         | Modular design allows for easy upgrades and recyclability.        |
-|                 |            | Temperature Sensor (Cabin)            | ROBBBO-T-A-21-01-00-00A-000-D       | 1146459-3        | Rosemount Aerospace    | Monitors cabin temperature levels.                              | $1,500 - $2,500          | Low-energy use and designed for easy recycling.                   |
-|                 |            | Temperature Sensor (Cockpit)          | ROBBBO-T-A-21-01-00-00A-000-D       | 1146460-1        | Rosemount Aerospace    | Monitors cockpit temperature levels.                            | $1,500 - $2,500          | Manufactured with recyclable components, low energy consumption.  |
-|                 |            | Trim Air Valve Actuator               | ROBBBO-T-A-21-01-00-00A-000-D       | 1151932-1        | Honeywell Aerospace    | Controls airflow for precise temperature control.               | $4,000 - $6,000          | Built with long lifecycle components, designed for easy recycling.|
-| **21-02**       | Ventilation Systems | Recirculation Fan                    | ROBBBO-T-A-21-02-00-00A-000-D       | 103648-5         | Hamilton Sundstrand    | Circulates air within the cabin.                                 | $3,000 - $4,500          | Energy-efficient motors and recyclable materials used.            |
-|                 |            | Air Filter Element                    | ROBBBO-T-A-21-02-00-00A-000-D       | 2614000-2        | Pall Aerospace         | Filters recirculated cabin air.                                  | $500 - $800              | High recyclability and long service life for sustainability.       |
-|                 |            | Outflow Valve                         | ROBBBO-T-A-21-02-00-00A-000-D       | 103982-2         | Honeywell Aerospace    | Controls the outflow of air from the aircraft.                   | $5,000 - $7,000          | Energy-efficient valve, designed for long use and easy recycling.  |
-|                 |            | Ventilation Duct Assembly             | ROBBBO-T-A-21-02-00-00A-000-D       | 1142332-1        | Boeing                 | Distributes air throughout the cabin and cockpit.                | $2,500 - $4,000          | Recyclable materials and low-energy insulation used.               |
-| **21-03**       | Humidity Control   | Cabin Humidifier System              | ROBBBO-T-A-21-03-00-00A-000-D       | HCS-100          | CTT Systems            | Adds moisture to the air when needed.                            | $15,000 - $20,000        | Low energy use, designed for recycling.                           |
-|                 |            | Dehumidifier Pack                     | ROBBBO-T-A-21-03-00-00A-000-D       | DHP-254          | Liebherr Aerospace     | Removes excess moisture from the air.                            | $12,000 - $16,000        | Eco-friendly materials and low-energy consumption.                |
-|                 |            | Humidity Sensor                       | ROBBBO-T-A-21-03-00-00A-000-D       | HS-2000          | Honeywell Aerospace    | Monitors cabin humidity levels.                                  | $1,200 - $2,000          | Recyclable components, low environmental impact.                  |
-| **21-04**       | Pressurization Support | Cabin Pressure Controller          | ROBBBO-T-A-21-04-00-00A-000-D       | 103976-1         | Honeywell Aerospace    | Regulates cabin pressure levels.                                 | $18,000 - $25,000        | Designed for long-term use, easily recyclable.                    |
-|                 |            | Positive Pressure Relief Valve        | ROBBBO-T-A-21-04-00-00A-000-D       | 103980-2         | Meggitt PLC            | Prevents over-pressurization of the cabin.                       | $5,500 - $7,500          | Recyclable materials and components.                              |
-|                 |            | Negative Pressure Relief Valve        | ROBBBO-T-A-21-04-00-00A-000-D       | 103982-1         | Meggitt PLC            | Prevents negative pressure differentials.                        | $5,500 - $7,000          | Long-term use, recyclable parts.                                  |
-| **21-05**       | Air Quality Management | HEPA Air Filter                     | ROBBBO-T-A-21-05-00-00A-000-D       | AG3300-1         | Pall Aerospace         | Filters out particles and contaminants.                          | $3,000 - $4,000          | High recyclability, designed for efficient filtering.              |
-|                 |            | Odor and Gas Removal Filter           | ROBBBO-T-A-21-05-00-00A-000-D       | AG2040-1         | Pall Aerospace         | Removes odors and gaseous contaminants.                          | $3,500 - $5,000          | Eco-friendly design with recyclable components.                   |
-|                 |            | UV Air Treatment Unit                 | ROBBBO-T-A-21-05-00-00A-000-D       | UV-C1000         | Honeywell Aerospace    | Uses UV light to eliminate airborne pathogens.                   | $10,000 - $15,000        | Low energy consumption, designed for eco-friendly operations.      |
-| **21-06**       | Energy Efficiency Features | Variable Frequency Drive Module  | ROBBBO-T-A-21-06-00-00A-000-D       | VFD-AC-400       | Honeywell Aerospace    | Controls motor speeds for energy efficiency.                     | $8,000 - $10,000         | Energy-efficient with long-term recyclability.                    |
-|                 |            | Electronic Power Controller           | ROBBBO-T-A-21-06-00-00A-000-D       | EPC-7000         | Thales Group           | Manages power distribution to system components.                 | $10,000 - $12,000        | Low energy use and recyclable components.                         |
-| **21-07**       | Automated Controls | Environmental Control System Controller (ECSC) | ROBBBO-T-A-21-07-00-00A-000-D | 245-580035-3     | Collins Aerospace      | Central processor for system controls.                           | $18,000 - $22,000        | Energy-efficient design and recyclable.                           |
-|                 |            | TerraBrain Interface Module           | ROBBBO-T-A-21-07-00-00A-000-D       | TBMU-600 (FN)    | Hypothetical Vendor    | Connects the environmental system to the TerraBrain network.      | $20,000 - $25,000        | Energy-efficient design, modular for future upgrades.             |
-| **21**          | **21-10**   | Cabin Temperature Control            | ROBBBO-T-A-21-10-01-00A-000-D       | 69-37354-5       | Honeywell Aerospace    | Controls the cabin temperature based on sensor inputs.          | $8,000 - $12,000         | Modular design allows for easy upgrades and recycling.            |
-| **21-10**       | **Sensors** | Temperature Sensor (Cabin)           | ROBBBO-T-A-21-10-01-00A-000-D       | 1146459-3        | Rosemount Aerospace    | Monitors real-time temperature in cabin zones.                  | $1,500 - $2,500          | Low-energy use and designed for easy recycling.                   |
-| **21-10**       | **Sensors** | Temperature Sensor (Cockpit)         | ROBBBO-T-A-21-10-01-00A-000-D       | 1146460-1        | Rosemount Aerospace    | Monitors cockpit temperature for crew comfort.                  | $1,500 - $2,500          | Manufactured with recyclable components, low energy consumption.  |
-| **21-10**       | **Airflow Control** | Trim Air Valve Actuator         | ROBBBO-T-A-21-10-01-00A-000-D       | 1151932-1        | Honeywell Aerospace    | Controls airflow for precise temperature regulation.            | $4,000 - $6,000          | Built with long lifecycle components, designed for easy recycling.|
-| **21-10**       | **Controls** | Cabin Temperature Controller         | ROBBBO-T-A-21-10-01-00A-000-D       | 245-580035-3     | Collins Aerospace      | Automates control of temperature adjustments in cabin zones.    | $18,000 - $22,000        | Energy-efficient design with recyclable materials.                |
-| **21-10**       | **Actuators** | Airflow Regulator Actuator           | ROBBBO-T-A-21-10-01-00A-000-D       | AR-7750-FN       | Honeywell Aerospace    | Adjusts airflow based on zone requirements for optimal comfort. | $6,000 - $8,000          | Energy-efficient, with a long lifecycle and recyclable materials. |
+### **Breakdown Table: ATA Chapter 21 - Components**
+
+| **ATA Chapter** | **Section** | **Component**                    | **DMC Code**                    | **Part Number**  | **Manufacturer**       | **Description**                                                | **Estimated Cost (USD)** | **Circularity & Sustainability**                                      |
+|-----------------|------------|----------------------------------|---------------------------------|------------------|------------------------|----------------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **21-00**       | General Overview | Overview of Air Conditioning System | ROBBBO-T-A-21-00-00-00A-000-D   | -                | -                      | Introduction to the air conditioning and pressurization system. | -                        | Energy-efficient and recyclable design.                                 |
+| **21-01**       | Temperature Control | Zone Temperature Controller     | ROBBBO-T-A-21-01-00-00A-000-D   | 69-37354-5       | Honeywell Aerospace    | Automatically regulates temperature settings.                   | $8,000 - $12,000         | Modular, recyclable design for easy upgrades.                          |
+| **21-01**       | Temperature Control | Temperature Sensor (Cabin)      | ROBBBO-T-A-21-01-00-00A-000-D   | 1146459-3        | Rosemount Aerospace    | Monitors cabin temperature levels.                              | $1,500 - $2,500          | Low energy consumption and recyclable materials.                       |
+| **21-01**       | Temperature Control | Temperature Sensor (Cockpit)    | ROBBBO-T-A-21-01-00-00A-000-D   | 1146460-1        | Rosemount Aerospace    | Monitors cockpit temperature.                                   | $1,500 - $2,500          | Energy-efficient and designed for easy recycling.                       |
+| **21-01**       | Temperature Control | Trim Air Valve Actuator         | ROBBBO-T-A-21-01-00-00A-000-D   | 1151932-1        | Honeywell Aerospace    | Controls airflow for precise temperature regulation.            | $4,000 - $6,000          | Built with long-life materials for easy recyclability.                  |
+| **21-02**       | Ventilation Systems | Recirculation Fan               | ROBBBO-T-A-21-02-00-00A-000-D   | 103648-5         | Hamilton Sundstrand    | Circulates air throughout the cabin.                             | $3,000 - $4,500          | Energy-efficient motors, recyclable materials.                          |
+| **21-02**       | Ventilation Systems | Air Filter Element              | ROBBBO-T-A-21-02-00-00A-000-D   | 2614000-2        | Pall Aerospace         | Filters recirculated air in the cabin.                           | $500 - $800              | High recyclability and designed for long service life.                   |
+| **21-02**       | Ventilation Systems | Outflow Valve                   | ROBBBO-T-A-21-02-00-00A-000-D   | 103982-2         | Honeywell Aerospace    | Controls outflow of air from the aircraft.                       | $5,000 - $7,000          | Long-lasting and energy-efficient components.                           |
+| **21-02**       | Ventilation Systems | Ventilation Duct Assembly       | ROBBBO-T-A-21-02-00-00A-000-D   | 1142332-1        | Boeing                 | Distributes air throughout the cabin and cockpit.                | $2,500 - $4,000          | Recyclable materials used with low-energy insulation.                    |
+| **21-03**       | Humidity Control   | Cabin Humidifier System          | ROBBBO-T-A-21-03-00-00A-000-D   | HCS-100          | CTT Systems            | Adds moisture to the cabin air as needed.                        | $15,000 - $20,000        | Designed for low energy use and recyclability.                          |
+| **21-03**       | Humidity Control   | Dehumidifier Pack               | ROBBBO-T-A-21-03-00-00A-000-D   | DHP-254          | Liebherr Aerospace     | Removes excess moisture from the air.                            | $12,000 - $16,000        | Environmentally friendly materials and low-energy consumption.           |
+| **21-03**       | Humidity Control   | Humidity Sensor                 | ROBBBO-T-A-21-03-00-00A-000-D   | HS-2000          | Honeywell Aerospace    | Monitors cabin humidity levels.                                  | $1,200 - $2,000          | Recyclable components with a low environmental impact.                   |
+| **21-04**       | Pressurization Support | Cabin Pressure Controller      | ROBBBO-T-A-21-04-00-00A-000-D   | 103976-1         | Honeywell Aerospace    | Regulates cabin pressure levels.                                 | $18,000 - $25,000        | Long-term use with recyclable materials.                                 |
+| **21-04**       | Pressurization Support | Positive Pressure Relief Valve | ROBBBO-T-A-21-04-00-00A-000-D   | 103980-2         | Meggitt PLC            | Prevents cabin over-pressurization.                              | $5,500 - $7,500          | Recyclable materials and components for sustainability.                  |
+| **21-04**       | Pressurization Support | Negative Pressure Relief Valve | ROBBBO-T-A-21-04-00-00A-000-D   | 103982-1         | Meggitt PLC            | Prevents negative pressure differentials.                        | $5,500 - $7,000          | Recyclable and designed for long-term use.                              |
+| **21-05**       | Air Quality Management | HEPA Air Filter               | ROBBBO-T-A-21-05-00-00A-000-D   | AG3300-1         | Pall Aerospace         | Filters out particles and contaminants.                          | $3,000 - $4,000          | High recyclability and designed for efficient filtering.                 |
+| **21-05**       | Air Quality Management | Odor and Gas Removal Filter   | ROBBBO-T-A-21-05-00-00A-000-D   | AG2040-1         | Pall Aerospace         | Removes odors and gaseous contaminants.                          | $3,500 - $5,000          | Eco-friendly design and recyclable components.                            |
+| **21-05**       | Air Quality Management | UV Air Treatment Unit         | ROBBBO-T-A-21-05-00-00A-000-D   | UV-C1000         | Honeywell Aerospace    | Uses UV light to eliminate airborne pathogens.                   | $10,000 - $15,000        | Low energy consumption and eco-friendly materials.                        |
+| **21-06**       | Energy Efficiency Features | Variable Frequency Drive   | ROBBBO-T-A-21-06-00-00A-000-D   | VFD-AC-400       | Honeywell Aerospace    | Controls motor speeds for energy efficiency.                     | $8,000 - $10,000         | Energy-efficient, with a focus on recyclability.                          |
+| **ATA Chapter** | **Section** | **Component**                    | **DMC Code**                    | **Part Number**  | **Manufacturer**       | **Description**                                                | **Estimated Cost (USD)** | **Circularity & Sustainability**                                      |
+| **21-06**       | Energy Efficiency Features | Electronic Power Controller   | ROBBBO-T-A-21-06-00-00A-000-D   | EPC-7000         | Thales Group           | Manages power distribution to system components.                 | $10,000 - $12,000        | Low energy use and recyclable components.                               |
+| **21-07**       | Automated Controls | Environmental Control System Controller (ECSC) | ROBBBO-T-A-21-07-00-00A-000-D | 245-580035-3     | Collins Aerospace      | Central processor for system controls.                           | $18,000 - $22,000        | Energy-efficient design and recyclable.                                  |
+|                 |            | TerraBrain Interface Module       | ROBBBO-T-A-21-07-00-00A-000-D   | TBMU-600 (FN)    | Hypothetical Vendor    | Connects the environmental system to the TerraBrain network.      | $20,000 - $25,000        | Energy-efficient design, modular for future upgrades.                   |
+| **21-08**       | Redundancy and Backup Systems | Backup Airflow Controller     | ROBBBO-T-A-21-08-00-00A-000-D   | BAC-75-000-1     | Hamilton Sundstrand    | Provides redundancy for airflow management.                      | $12,000 - $16,000        | Designed for long-term use, recyclable components.                        |
+| **21-09**       | Noise Reduction Technology | Cabin Noise Dampener Unit    | ROBBBO-T-A-21-09-00-00A-000-D   | ND-9800-5        | Meggitt PLC            | Reduces operational noise in cabin.                               | $8,000 - $10,000         | Noise reduction features, recyclable materials.                         |
+| **21-10**       | Environmental Compliance | Emissions Control Unit         | ROBBBO-T-A-21-10-00-00A-000-D   | EC-5000-2        | CTT Systems            | Reduces emissions from system components.                         | $10,000 - $15,000        | Environmentally compliant, recyclable components.                        |
+| **21-10**       | Temperature Control | Cabin Temperature Control Unit  | ROBBBO-T-A-21-10-01-00A-000-D   | 69-37354-5       | Honeywell Aerospace    | Controls the cabin temperature based on sensor inputs.            | $8,000 - $12,000         | Modular design allows for easy upgrades and recycling.                  |
+| **21-10**       | Sensors     | Temperature Sensor (Cabin)        | ROBBBO-T-A-21-10-01-00A-000-D   | 1146459-3        | Rosemount Aerospace    | Monitors real-time temperature in cabin zones.                    | $1,500 - $2,500          | Low-energy use and designed for easy recycling.                         |
+| **21-10**       | Sensors     | Temperature Sensor (Cockpit)      | ROBBBO-T-A-21-10-01-00A-000-D   | 1146460-1        | Rosemount Aerospace    | Monitors cockpit temperature for crew comfort.                    | $1,500 - $2,500          | Manufactured with recyclable components, low energy consumption.        |
+| **21-10**       | Airflow Control | Trim Air Valve Actuator          | ROBBBO-T-A-21-10-01-00A-000-D   | 1151932-1        | Honeywell Aerospace    | Controls airflow for precise temperature regulation.              | $4,000 - $6,000          | Built with long lifecycle components, designed for easy recycling.       |
+| **21-10**       | Controls    | Cabin Temperature Controller       | ROBBBO-T-A-21-10-01-00A-000-D   | 245-580035-3     | Collins Aerospace      | Automates control of temperature adjustments in cabin zones.      | $18,000 - $22,000        | Energy-efficient design with recyclable materials.                      |
+| **21-10**       | Actuators   | Airflow Regulator Actuator         | ROBBBO-T-A-21-10-01-00A-000-D   | AR-7750-FN       | Honeywell Aerospace    | Regulates airflow within the cabin for optimal temperature control. | $5,000 - $7,500          | Built with sustainability in mind, with recyclable components.          |
 
 ---
 
-### **System Overview**
-- **Temperature Monitoring**: Sensors are distributed throughout the cabin to detect temperature variations. These sensors send real-time data to the Cabin Temperature Controller, which adjusts heating/cooling accordingly.
-- **Airflow Management**: Actuators control airflow through the cabin ducts, ensuring even distribution of air. The **Trim Air Valve Actuator** is responsible for fine adjustments to maintain desired temperatures.
-- **Automation**: The Cabin Temperature Controller automatically adjusts settings based on sensor inputs, ensuring passenger comfort without requiring manual intervention from the crew.
-- **Energy Efficiency**: The system's modular design allows for selective upgrades, making it energy-efficient and environmentally sustainable through reduced energy consumption and recyclable components.
-
----
-
-### **Breakdown of Key Components**
-
-1. **Cabin Temperature Controller**:
-   - **Part Number**: 69-37354-5
-   - **Manufacturer**: Honeywell Aerospace
-   - **Description**: Central component managing temperature regulation across multiple zones in the cabin.
-   - **Cost**: $8,000 - $12,000
-   - **Sustainability**: Energy-efficient with modular and recyclable design.
-
-2. **Temperature Sensor (Cabin)**:
-   - **Part Number**: 1146459-3
-   - **Manufacturer**: Rosemount Aerospace
-   - **Description**: Monitors temperature within cabin areas and sends real-time data to the controller.
-   - **Cost**: $1,500 - $2,500
-   - **Sustainability**: Low-energy use with recyclable components.
-
-3. **Temperature Sensor (Cockpit)**:
-   - **Part Number**: 1146460-1
-   - **Manufacturer**: Rosemount Aerospace
-   - **Description**: Monitors cockpit temperature to ensure crew comfort.
-   - **Cost**: $1,500 - $2,500
-   - **Sustainability**: Manufactured using recyclable materials.
-
-4. **Trim Air Valve Actuator**:
-   - **Part Number**: 1151932-1
-   - **Manufacturer**: Honeywell Aerospace
-   - **Description**: Regulates airflow to maintain precise temperature control.
-   - **Cost**: $4,000 - $6,000
-   - **Sustainability**: Built for long-term use with a recyclable design.
-
-5. **Airflow Regulator Actuator**:
-   - **Part Number**: AR-7750-FN
-   - **Manufacturer**: Honeywell Aerospace
-   - **Description**: Adjusts airflow in response to cabin zone requirements, ensuring consistent comfort.
-   - **Cost**: $6,000 - $8,000
-   - **Sustainability**: Energy-efficient, recyclable components, and long service life.
-
----
-
-### **Circularity & Sustainability**
-- **Energy-Efficient Components**: All components are designed with energy efficiency in mind, reducing the aircraft’s carbon footprint.
-- **Recyclable Materials**: The majority of the components are manufactured with recyclable materials, contributing to a circular economy.
-- **Modular Design**: Components are easily replaceable and upgradeable, ensuring the system's long-term sustainability by reducing the need for full system overhauls.
-
----
-
-### **Conclusion**
-The **Cabin Temperature Control System** under ATA Chapter 21 ensures a comfortable, efficient, and sustainable environment for passengers and crew. Through advanced sensors, automated controllers, and energy-efficient airflow systems, the ROBBBO-T aircraft maintains optimal cabin conditions with minimal environmental impact.
+This breakdown highlights each component within the **Air Conditioning and Pressurization System** of the ROBBBO-T aircraft, with a focus on part numbers, manufacturers, estimated costs, and sustainability factors, in line with circular economy principles.
 
 # ROBBBO-T-A-22-00-00-00A-000-D         
 ## **ATA Chapter 22: Auto Flight System Overview**
