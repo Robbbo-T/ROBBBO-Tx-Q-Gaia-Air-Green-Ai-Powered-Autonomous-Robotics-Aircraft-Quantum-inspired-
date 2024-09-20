@@ -8,7 +8,7 @@
 
 **Ampel ChatGPT**
 
-------AmpelVerde es una metodología completa y ágil que Amedeo ha desarrollado para crear un avión 100% verde y sostenible. Este proyecto se integra en una cadena de producción totalmente ecológica, utilizando diversas tecnologías de vanguardia, como la robótica avanzada, la inteligencia artificial, la inteligencia cuántica, nuevas tecnologías de red, nuevos materiales, y modos de producción innovadores.
+AmpelVerde es una metodología completa y ágil que Amedeo ha desarrollado para crear un avión 100% verde y sostenible. Este proyecto se integra en una cadena de producción totalmente ecológica, utilizando diversas tecnologías de vanguardia, como la robótica avanzada, la inteligencia artificial, la inteligencia cuántica, nuevas tecnologías de red, nuevos materiales, y modos de producción innovadores.
 Elementos clave de la metodología AmpelVerde:
 1.	Robótica avanzada:Implementación de robots para optimizar procesos de fabricación y reducir el impacto ambiental.
 2.	Inteligencia artificial y cuántica: Uso de AI para predecir y mejorar la eficiencia operativa, y de tecnologías cuánticas para abordar problemas computacionales complejos.
