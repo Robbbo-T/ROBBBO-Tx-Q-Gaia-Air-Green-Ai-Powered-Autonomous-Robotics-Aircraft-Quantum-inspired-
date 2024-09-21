@@ -1,4 +1,4 @@
-# ROBBBO-T Aircraft, the #WB (White Book) of green aviation
+# ROBBBO-T Aircraft, the #WB (White Book) of Green Aviation
 
 ## Developer
 
