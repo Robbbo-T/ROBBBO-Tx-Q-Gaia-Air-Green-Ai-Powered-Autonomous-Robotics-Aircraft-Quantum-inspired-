@@ -187,11 +187,11 @@ To realize the full potential of the **ROBBBO-Tx-Q Gaia Air**, the following ste
 
 ---
 
+# Data Module Requirements List (DMRL)
+
+
 **Nota:** Asegúrate de reemplazar los **Números de Parte (PNRs)** ficticios con los reales proporcionados por los fabricantes correspondientes. Esta documentación debe actualizarse regularmente para reflejar las últimas actualizaciones de hardware y software, así como los cambios en las normativas y estándares de la industria.
 
-**Si necesitas más información o asistencia con secciones específicas o componentes, por favor, házmelo saber. Estoy aquí para ayudarte a desarrollar y estructurar tu proyecto de manera óptima.**
-
-# Data Module Requirements List (DMRL)
 
 Below is the expanded Data Module Requirements List (DMRL) for the ROBBBO-T Aircraft, encompassing all ATA chapters 11 to 100. Each Data Module (DM) is assigned a unique code, title, applicability to the corresponding ATA chapter, and its requirement status categorized as Mandatory (**M**), Conditional (**C**), or Optional (**O**).
 
