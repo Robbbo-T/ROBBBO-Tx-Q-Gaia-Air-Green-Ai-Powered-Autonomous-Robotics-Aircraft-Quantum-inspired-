@@ -1,179 +1,173 @@
-## **The ROBBBO-Tx-Q Gaia Air: The White Book (WB) of Green Aviation Through the Conceptualization of a Green AI-Powered Autonomous Robotics Aircraft, Quantum Inspired**
-
-### **Developer**
-**Amedeo Pelliccia**
-
-### **Initiative**
-**Ampel ChatGPT**
-
-The project **ROBBBO-Tx-Q Gaia Air**, authored by Amedeo Pelliccia and supported by the Ampel ChatGPT initiative, focuses on developing a **Green AI-Powered Autonomous Robotics Aircraft, Quantum Inspired**. This aircraft integrates cutting-edge technologies like AI, robotics, quantum computing, and sustainability practices, setting new benchmarks in environmental responsibility, operational efficiency, and technological advancement. The initiative aims to revolutionize aviation with a net-positive environmental impact, following circular economy principles and leveraging advanced AI for route optimization, predictive maintenance, and sustainable manufacturing.
+Claro, a continuación te presento una **Introducción** refinada y cohesiva para el documento **Data Module Requirement (DMR)** del proyecto **RobbboTx Gaia Air**. Esta introducción está diseñada para atraer tanto a inversores como a jefes de ingeniería, destacando las fortalezas del proyecto, su enfoque en la sostenibilidad y las innovaciones tecnológicas que lo distinguen en la industria aeroespacial.
 
 ---
 
-# **Project Name: Robbbo-Tx-Q Gaia Air (Green AI-Powered Autonomous Robotics Aircraft, Quantum Inspired)
+# **RobbboTx Gaia Air: Liderando la Revolución de la Aviación Sostenible a través de la Innovación Tecnológica**
 
-### **Introduction**
+## **Introducción**
 
-In an era where sustainability and technological innovation are paramount, **ROBBBO-Tx-Q Gaia Air** emerges as a revolutionary force in the aerospace industry. Documented comprehensively in the **White Book (WB) of Green Aviation**, this pioneering initiative, led by visionary aerospace engineer **Amedeo Pelliccia** under the **Ampel ChatGPT** initiative, aims to transform the aviation landscape by integrating sustainable practices with cutting-edge technologies. **ROBBBO-Tx-Q Gaia Air**—a **Green AI-Powered Autonomous Robotics Aircraft, Quantum Inspired**—is designed to set new standards in environmental responsibility, operational efficiency, and technological advancement.
+En un mundo cada vez más consciente de la necesidad de sostenibilidad y avance tecnológico, el proyecto **RobbboTx Gaia Air** emerge como una iniciativa revolucionaria en la industria aeroespacial. Liderado por el experimentado ingeniero aeroespacial **Amedeo Pelliccia** bajo la innovadora iniciativa **Ampel ChatGPT**, **Gaia Air** combina tecnologías de vanguardia como la inteligencia artificial (IA), la robótica autónoma, la impresión 3D y soluciones inspiradas en la computación cuántica para redefinir los estándares de la aviación verde.
 
----
+### **Visión y Misión Transformadora**
 
-### **Mission and Vision**
+**Gaia Air** no solo busca mejorar la eficiencia y reducir los costos en la fabricación y operación de aeronaves, sino que también se compromete a minimizar el impacto ambiental de la aviación. La misión del proyecto es revolucionar el sector aeroespacial mediante la implementación de soluciones sostenibles y tecnologías avanzadas que promuevan una economía circular, optimicen el consumo de recursos y reduzcan significativamente las emisiones de carbono. Aspiramos a que **Gaia Air** se convierta en un referente mundial en la aviación verde, estableciendo nuevos estándares de eficiencia y sostenibilidad para futuras generaciones.
 
-#### **Mission**
-To transform the aerospace industry with sustainable solutions and advanced technologies. **ROBBBO-Tx-Q Gaia Air** integrates circularity practices and emerging technologies to create more efficient, safer, and environmentally friendly aviation.
+### **Innovación y Sostenibilidad Integradas**
 
-#### **Vision**
-To lead the sustainable aviation revolution, positioning **ROBBBO-Tx-Q Gaia Air** as a global reference in innovation, efficiency, and ecological responsibility. The goal is to establish new standards that inspire the industry to adopt greener, circular models of production and operation.
+La integración de **brazos robóticos**, **drones autónomos** e **impresoras 3D** permite una producción más rápida y eficiente, reduciendo la necesidad de mano de obra manual y minimizando los residuos. **Gaia Air** se alinea con las tendencias actuales de la industria hacia la sostenibilidad y la responsabilidad ambiental, empleando materiales reciclables y biodegradables, optimizando el consumo energético y adoptando prácticas de manufactura esbelta para reducir la generación de residuos.
 
----
+### **Gestión Integral de Riesgos y Recursos Humanos**
 
-### **Current Technological Environment**
+Con una evaluación de riesgos detallada y un buffer de contingencia del 15-20%, **Gaia Air** está preparada para enfrentar desafíos potenciales como retrasos en certificaciones, interrupciones en la cadena de suministro y sobrecostos inesperados. Una planificación estratégica de recursos humanos garantiza que los 160 profesionales contratados posean la combinación adecuada de experiencia técnica y habilidades innovadoras para cumplir con los ambiciosos objetivos del proyecto, asegurando una ejecución eficiente y un equipo sólido capaz de llevar a cabo las metas del proyecto.
 
-The aerospace sector is at a pivotal moment, facing the dual challenge of meeting increasing demand while minimizing its environmental impact. Advances in **automation**, **artificial intelligence (AI)**, **blockchain**, and **additive manufacturing (3D printing)** present unprecedented opportunities to enhance operational efficiency, reduce emissions, and optimize resource utilization. **ROBBBO-Tx-Q Gaia Air** leverages these technologies to address sustainability challenges, setting a new benchmark for green aviation.
+### **Tecnología de Vanguardia para una Aviación Sostenible**
 
----
+El uso de **algoritmos de IA** para la optimización de rutas y el mantenimiento predictivo, junto con **blockchain** para garantizar la transparencia y trazabilidad en la cadena de suministro, posiciona a **Gaia Air** como un líder en innovación tecnológica. La adopción de **soluciones inspiradas en la computación cuántica** amplía las capacidades computacionales, permitiendo resolver problemas complejos y mejorar la eficiencia operativa de manera significativa. La computación cuántica permitirá mejorar la eficiencia de los cálculos complejos relacionados con la optimización de rutas y la reducción de costos operativos.
 
-### **Key Components and Innovations**
+### **Impacto Ambiental y Eficiencia Operacional**
 
-1. **Circularity and Sustainability (ATA 00):**
-   - **Waste Reduction and Lifecycle Optimization:** Utilizes recyclable materials, emission control, and sustainable supply chain management to minimize environmental impact.
+**Gaia Air** se compromete a lograr una reducción del 30% en la huella de carbono comparada con la fabricación tradicional de aeronaves, mediante el uso de materiales ecológicos, fuentes de energía renovable y procesos de fabricación optimizados. Además, la eficiencia operativa se incrementará en un 25% gracias a la automatización avanzada, lo que no solo mejora la producción sino que también reduce el consumo de combustible y las emisiones durante las operaciones de vuelo. Esta mejora se logrará a través de la optimización en la planificación de rutas y la implementación de sistemas avanzados de gestión de combustible.
 
-2. **Emerging Technologies (ATA 02, 03, 07, 39):**
-   - **Machine Learning, Blockchain, and Additive Manufacturing:** Enhance production efficiency, maintenance processes, security protocols, and traceability of aircraft components.
+### **Atractivo para Inversionistas y Liderazgo de Ingeniería**
 
-3. **Standard Technical Documentation (ATA 06):**
-   - **Digital Tools Compliance:** Employs industry standards like S1000D and SPECATA100 for efficient management of comprehensive technical documentation.
+La combinación de una visión clara, una planificación financiera detallada y una gestión de riesgos proactiva hace que **Gaia Air** sea una inversión atractiva para inversores que buscan proyectos con alto potencial de retorno y compromiso con la sostenibilidad. Para los jefes de ingeniería, el proyecto ofrece la oportunidad de trabajar con tecnologías de vanguardia en un entorno que valora la innovación, la eficiencia y la responsabilidad ambiental. **Gaia Air** no solo representa una oportunidad de inversión sólida, sino también una contribución significativa hacia un futuro más sostenible y tecnológicamente avanzado en la industria aeroespacial.
 
-4. **Control and Monitoring Systems (ATA 45):**
-   - **Real-Time Monitoring:** Advanced systems ensure component health and operational efficiency, enhancing safety and reducing costs.
+### **Conclusión**
 
-5. **Energy Efficiency (ATA 04):**
-   - **Optimized Fuel Consumption and Emissions Reduction:** Achieved through aerodynamic design, lightweight materials, and efficient engines.
-
-6. **Advanced Flight Control (ATA 39):**
-   - **AI-Optimized Automatic Control Systems:** Manage flight paths and engine performance to improve safety and environmental performance.
+El **Data Module Requirement (DMR)** del proyecto **RobbboTx Gaia Air** presenta una hoja de ruta detallada y estratégica que no solo aborda los aspectos técnicos y financieros del proyecto, sino que también resalta su compromiso con la sostenibilidad y la innovación. Al integrar prácticas de economía circular, tecnologías avanzadas y una gestión de recursos robusta, **Gaia Air** está preparada para liderar una transformación significativa en la industria aeroespacial, estableciendo nuevos estándares para una aviación más verde y eficiente. Invitamos a inversores y líderes del sector a formar parte de esta emocionante transformación hacia un futuro más verde y tecnológicamente avanzado en la aviación.
 
 ---
 
-### **AmpelVerde Methodology**
-
-At the core of **ROBBBO-Tx-Q Gaia Air** lies the **AmpelVerde Methodology**, a comprehensive framework designed to support the aircraft's fully ecological production chain. This methodology integrates:
-
-- **Advanced Robotics:** Optimizes manufacturing processes to minimize environmental impact.
-- **Artificial and Quantum Intelligence:** Enhances operational efficiency and addresses complex computational challenges.
-- **New Network Technologies:** Develops efficient networks to improve connectivity and reduce energy consumption.
-- **Sustainable Materials:** Innovates with eco-friendly, lightweight materials to decrease fuel usage and emissions.
-- **Innovative Communication Devices:** Creates ethical and responsible communication solutions for diverse environments.
-
-The **AmpelVerde Methodology** promotes a fully ecological production chain, aiming to achieve net-zero emissions and transform aviation practices toward sustainability.
+**Fecha de Aprobación:** Septiembre 2024
 
 ---
 
-### **Objective**
+## **Anexos**
 
-**AmpelVerde** aspires to transform aviation towards complete sustainability while establishing ethical standards for technological usage. The initiative aims to position **ROBBBO-Tx-Q Gaia Air** as the first aerospace project with a net-positive impact on global "net-zero" policies, setting a precedent for environmentally responsible aviation.
+### **Visualización del Cronograma**
 
----
 
-### **Key Characteristics of the ROBBBO-Tx-Q Gaia Air**
+![Untitled diagram-2024-09-24-184954](https://github.com/user-attachments/assets/da15ac4e-a17b-41d5-8b66-1d2349ade6d6)
 
-1. **Holistic Sustainability Approach:**
-   - Integrates sustainability principles throughout its entire lifecycle—from design and manufacturing to operation and end-of-life management.
+### **Matriz de Riesgos**
 
-2. **Circular Economy Principles:**
-   - **Design for Disassembly:** Components are designed for easy disassembly, allowing efficient recycling and reuse at the end of the aircraft's life.
-   - **Material Selection:** Utilizes recyclable composites, bio-based polymers, and low-carbon metals to reduce environmental impact.
+| **Riesgo**                                | **Probabilidad** | **Impacto**  | **Prioridad** |
+|-------------------------------------------|------------------|--------------|---------------|
+| Falla o mal funcionamiento de componentes | Media            | Alta         | Alta          |
+| Deficiencias en impresión 3D/automatización| Media            | Alta         | Alta          |
+| Retrasos en pruebas de prototipo          | Media            | Alta         | Alta          |
+| Problemas de integración de software/sistemas| Alta             | Media        | Alta          |
+| Retrasos en certificaciones y aprobaciones | Alta             | Alta         | Crítico       |
+| Incumplimiento de normativas de seguridad  | Baja             | Alta         | Media         |
+| Cumplimiento ambiental                    | Media            | Media        | Media         |
+| Sobrecostos                               | Media            | Alta         | Alta          |
+| Interrupciones en la cadena de suministro | Media            | Alta         | Alta          |
+| Fluctuaciones en costos de materiales      | Media            | Media        | Media         |
+| Falta de personal capacitado               | Media            | Alta         | Alta          |
+| Retrasos en el proyecto                    | Media            | Alta         | Alta          |
+| Falta de comunicación en el equipo         | Media            | Media        | Media         |
+| Retrasos en la entrega de componentes      | Media            | Media        | Media         |
+| Fallo de proveedores                       | Baja             | Alta         | Media         |
+| Disrupciones globales en la cadena de suministro| Media        | Alta         | Alta          |
+| Desastres naturales/clima extremo          | Baja             | Alta         | Media         |
+| Inestabilidad política o económica         | Media            | Media        | Media         |
+| Competencia en el mercado                  | Media            | Media        | Media         |
 
-3. **Advanced Technologies Integration:**
-   - **Blockchain Technology:** Implements blockchain for component traceability, supply chain transparency, and automated certification processes.
-   - **Machine Learning and AI:** Employs AI for route optimization, predictive maintenance, and aerospace design enhancements.
-   - **Agile Methodologies:** Adopts Scrum and Kanban in design and production processes to improve efficiency and adaptability.
+*Descripción: Una matriz de riesgos que categoriza cada riesgo por su probabilidad e impacto, ayudando a priorizar los esfuerzos de mitigación.*
 
-4. **Innovative Design Strategies:**
-   - **Eco-Efficient Tools:** Uses advanced design tools to optimize components for minimal material use and maximum efficiency.
-   - **Sustainable Manufacturing:** Incorporates energy-efficient manufacturing processes, including additive manufacturing and renewable energy utilization.
+### **Asignación del Presupuesto del Proyecto**
 
-5. **Lifecycle Management:**
-   - **Predictive Maintenance:** Uses machine learning algorithms to anticipate maintenance needs, extending component lifespan and reducing waste.
-   - **End-of-Life Recycling:** Establishes processes for recycling and repurposing materials and components, minimizing landfill waste.
+import matplotlib.pyplot as plt
 
----
+# Budget categories and their respective allocations
+categories = [
+    'R&D (Research and Development)',
+    'Materials and Components',
+    'Manufacturing and Production',
+    'Personnel and HR (Hiring, Training, Salaries)',
+    'Testing and Certification',
+    'Marketing and Business Development',
+    'Logistics and Supply Chain Management',
+    'Contingency and Risk Management',
+    'Technology Licensing and Intellectual Property'
+]
 
-### **What Differentiates the ROBBBO-Tx-Q Gaia Air from Other Green Aviation Projects**
+# Corresponding budget percentages
+allocations = [25, 20, 15, 10, 10, 5, 5, 5, 5]
 
-- **Comprehensive Lifecycle Sustainability:** Addresses sustainability at every stage, including material sourcing, manufacturing, operation, and decommissioning.
-- **Integration of Multiple Advanced Technologies:** Utilizes blockchain, AI, machine learning, and agile methodologies for synergistic benefits enhancing overall sustainability and efficiency.
-- **Circular Economy Implementation:** Fully embraces circular economy concepts, aiming to eliminate waste and continually reuse resources.
-- **Design for Reusability and Recycling:** Emphasizes designing components that can be easily disassembled and repurposed, setting a new standard in aircraft design philosophy.
+# Create pie chart
+plt.figure(figsize=(8, 8))
+plt.pie(allocations, labels=categories, autopct='%1.1f%%', startangle=140)
+plt.title('RobbboTx Gaia Air: Budget Distribution')
+plt.axis('equal')  # Equal aspect ratio ensures the pie is drawn as a circle.
 
----
+# Display the chart
+plt.show()
 
-### **Contributions to the Industry**
 
-1. **Setting New Sustainability Standards:**
-   - Demonstrates that comprehensive sustainability is achievable, encouraging the aerospace industry to adopt more ambitious environmental goals.
+## **Glosario de Términos**
 
-2. **Technological Innovation:**
-   - **Blockchain in Aviation:** Pioneers the use of blockchain for secure, transparent supply chains and maintenance records.
-   - **AI and Machine Learning Applications:** Advances the use of AI for operational efficiency, leading to industry-wide reductions in fuel consumption and emissions.
-
-3. **Advancing Circular Economy Practices:**
-   - **Resource Efficiency:** Shows how materials can be kept in use longer through recycling and reusability.
-   - **Waste Reduction:** Implements strategies that significantly reduce waste generation throughout the aircraft's lifecycle.
-
-4. **Enhancing Operational Efficiency:**
-   - **Fuel Savings:** AI-optimized routes and aerodynamic designs contribute to lower fuel usage.
-   - **Maintenance Optimization:** Predictive maintenance reduces downtime and extends the life of components.
-
-5. **Industry Collaboration and Agile Practices:**
-   - Encourages the use of agile methodologies, fostering better collaboration and faster innovation cycles within the industry.
-
-6. **Regulatory Compliance and Social Responsibility:**
-   - **Environmental Leadership:** Positions the aircraft as a benchmark for meeting and exceeding international environmental regulations.
-   - **Transparency:** Blockchain technology enhances transparency in operations and supply chains, building trust with stakeholders.
-
----
-
-### **Impact and Benefits**
-
-**ROBBBO-Tx-Q Gaia Air** not only represents a technological advancement but also has the potential to transform the aerospace industry in multiple dimensions:
-
-- **Reduction of Emissions:** By optimizing fuel consumption and integrating renewable energy sources, Gaia Air significantly lowers greenhouse gas emissions compared to traditional aircraft.
-- **Increase in Operational Efficiency:** Autonomy and predictive maintenance capabilities reduce operational costs and improve aircraft availability.
-- **Improvement in Safety:** Advanced monitoring and diagnostic systems, combined with real-time analytics, enhance the safety profile of the aircraft, reducing the likelihood of accidents and operational disruptions.
-- **Flexibility and Adaptability:** The modular architecture allows for easy updates and adaptability to various aviation sectors, ensuring long-term relevance and applicability.
-- **Environmental Leadership:** Establishes ROBBBO-T Aircraft as a leader in green aviation, inspiring industry-wide adoption of sustainable practices and technologies.
-
----
-
-### **Future Prospects**
-
-The **ROBBBO-Tx-Q Gaia Air** represents the beginning of a new era in aviation. Future developments will focus on:
-
-- **Enhancing Autonomy:** Further advancements in AI and robotics to increase the aircraft's autonomous capabilities.
-- **Expanding Quantum Intelligence:** Integrating more sophisticated quantum computing technologies to handle increasingly complex computational tasks.
-- **Integrating Sustainable Technologies:** Continuously adopting and refining sustainable technologies to improve efficiency and reduce environmental impact.
-- **Scalability:** Developing scalable solutions that can be adapted to various aviation sectors, ensuring broad applicability and impact.
-
-**ROBBBO-T Aircraft** aims to continuously innovate, ensuring that **Gaia Air** remains at the cutting edge of green aviation and continues to lead the industry toward a more sustainable and technologically advanced future.
+- **IA (Inteligencia Artificial):** Simulación de procesos de inteligencia humana por máquinas, especialmente sistemas informáticos.
+- **EASA (Agencia de Seguridad Aérea de la Unión Europea):** Agencia responsable de la seguridad aérea civil en Europa.
+- **FAA (Administración Federal de Aviación):** Autoridad aeronáutica nacional de los Estados Unidos.
+- **DO-160:** Estándar para condiciones ambientales y procedimientos de prueba para equipos aéreos.
+- **FAR Parte 25:** Regulaciones Federales de Aviación Parte 25, que cubren estándares de aeronavegabilidad para aviones de categoría de transporte.
+- **LCA (Evaluación del Ciclo de Vida):** Técnica para evaluar los impactos ambientales asociados con todas las etapas de la vida de un producto.
+- **ROS (Sistema Operativo de Robot):** Marco flexible para escribir software de robot.
+- **MQTT (Protocolo de Transporte de Telemetría por Cola de Mensajes):** Protocolo de mensajería ligero para pequeños sensores y dispositivos móviles.
+- **Jira:** Herramienta de gestión de proyectos utilizada para el seguimiento de incidencias y la gestión ágil de proyectos.
 
 ---
 
-### **Conclusion**
+## **Consideraciones Legales y Éticas**
 
-**ROBBBO-Tx-Q Gaia Air**, as outlined in **The White Book (WB) of Green Aviation**, sets a new benchmark for sustainable and innovative aviation. By seamlessly integrating artificial intelligence, quantum intelligence, and autonomous robotics with sustainable practices, **Gaia Air** not only meets the current demands of the aerospace industry but also paves the way for a more sustainable and efficient future. This **White Book** serves as a testament to the potential of innovative thinking and technological prowess in transforming industries and addressing global challenges.
+- **Privacidad de Datos:**
+  - **Consideración:** Asegurar que todos los sistemas de IA cumplan con el GDPR y otras regulaciones relevantes de protección de datos.
+  - **Mitigación:** Implementar encriptación robusta de datos, controles de acceso y auditorías regulares.
+  
+- **Propiedad Intelectual:**
+  - **Consideración:** Proteger tecnologías y diseños propietarios.
+  - **Mitigación:** Obtener patentes para innovaciones únicas y establecer acuerdos claros de propiedad intelectual con socios.
+  
+- **Uso Ético de la IA:**
+  - **Consideración:** Asegurar que los sistemas de IA operen de manera transparente y sin sesgos.
+  - **Mitigación:** Desarrollar directrices éticas para el desarrollo de IA, realizar evaluaciones de sesgos y mantener supervisión humana cuando sea necesario.
+  
+- **Estándares de Seguridad:**
+  - **Consideración:** Adherirse a todos los estándares de seguridad para proteger tanto a los trabajadores como a los usuarios finales.
+  - **Mitigación:** Implementar protocolos de seguridad comprensivos, capacitación regular en seguridad y monitoreo continuo.
 
 ---
 
-### **Next Steps**
+## **Recomendaciones Finales**
 
-To realize the full potential of the **ROBBBO-Tx-Q Gaia Air**, the following steps are essential:
+1. **Integrar Todas las Secciones Presupuestarias:** Asegurar que todas las secciones relacionadas con el presupuesto estén alineadas y claramente indiquen si cubren todo el proyecto o fases específicas. Esto evita confusiones y proporciona una hoja de ruta financiera clara.
 
-1. **Develop Chapter Content:** Expand each section with detailed information, case studies, graphics, and practical examples to illustrate best practices and sustainable technologies.
-2. **Include References and Resources:** Add references to regulations, research, and additional resources for readers to explore the topics covered further.
-3. **Integrate Graphics and Tables:** Use visualizations to facilitate understanding of complex concepts and highlight key data on sustainability and emerging technologies.
-4. **Review and Validate:** Ensure that all content complies with aerospace industry standards and principles of sustainability and circularity.
+2. **Mejorar la Representación Visual:** Incorporar ayudas visuales como gráficos, tablas y diagramas para complementar la información textual, haciendo que el documento sea más atractivo y fácil de entender.
+
+3. **Detallar Comunicación y Responsabilidades:** Definir claramente las estrategias de comunicación y responsabilidades del equipo para asegurar una ejecución fluida del proyecto y una clara rendición de cuentas.
+
+4. **Expandir Aspectos Legales y Éticos:** Abordar proactivamente consideraciones legales y éticas puede prevenir posibles problemas y mejorar la confianza de los stakeholders.
+
+5. **Actualizaciones y Revisiones Regulares:** Establecer un calendario para actualizaciones y revisiones regulares del DMR para mantenerlo al día con los desarrollos y cambios del proyecto.
+
+---
+
+## **Conclusión**
+
+El **Data Module Requirement (DMR)** del proyecto **RobbboTx Gaia Air** es un documento robusto y bien estructurado que describe eficazmente el alcance del proyecto, sus riesgos, presupuesto y consideraciones estratégicas. Al incorporar las sugerencias anteriores, se puede mejorar aún más su claridad, integridad y utilidad, asegurando que el proyecto se mantenga en curso y cumpla con sus objetivos ambiciosos en la aviación verde. **Gaia Air** no solo representa una oportunidad de inversión sólida, sino también una contribución significativa hacia un futuro más sostenible y tecnológicamente avanzado en la industria aeroespacial.
+
+Invitamos a inversores y líderes del sector a formar parte de esta emocionante transformación hacia un futuro más verde y tecnológicamente avanzado en la aviación.
+
+Si necesitas asistencia adicional para crear ayudas visuales, desarrollar secciones específicas en mayor detalle o cualquier otro aspecto de la documentación del proyecto, no dudes en contactarme.
+
+---
+
+**Fecha de Aprobación:** Septiembre 2024
+
+---
+
+**Nota:** Asegúrate de reemplazar los enlaces de las imágenes con las rutas correctas donde se encuentren alojadas las visualizaciones en tu repositorio de GitHub u otro entorno de presentación.
 
 ---
 
@@ -257,7 +251,7 @@ Providing a granular breakdown enhances transparency and facilitates better fina
 | **Additional Resources**     | €1,500,000               | Materials, logistics, and miscellaneous expenses   |
 | **Total Component Cost**     | **€10,700,000**          |                                                    |
 
-![Untitled diagram-2024-09-24-184954](https://github.com/user-attachments/assets/da15ac4e-a17b-41d5-8b66-1d2349ade6d6)
+
 
 ---
 
