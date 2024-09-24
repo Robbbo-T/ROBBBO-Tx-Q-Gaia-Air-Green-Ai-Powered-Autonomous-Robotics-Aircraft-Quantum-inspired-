@@ -6,6 +6,8 @@
 ### **Initiative**
 **Ampel ChatGPT**
 
+The project **ROBBBO-Tx-Q Gaia Air**, authored by Amedeo Pelliccia and supported by the Ampel ChatGPT initiative, focuses on developing a **Green AI-Powered Autonomous Robotics Aircraft, Quantum Inspired**. This aircraft integrates cutting-edge technologies like AI, robotics, quantum computing, and sustainability practices, setting new benchmarks in environmental responsibility, operational efficiency, and technological advancement. The initiative aims to revolutionize aviation with a net-positive environmental impact, following circular economy principles and leveraging advanced AI for route optimization, predictive maintenance, and sustainable manufacturing.
+
 ---
 
 # **Project Name: Robbbo-Tx-Q Gaia Air (Green AI-Powered Autonomous Robotics Aircraft, Quantum Inspired)
