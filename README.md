@@ -5115,9 +5115,7 @@ This section serves as a structured framework for understanding maintenance and 
 This table outlines maintenance tasks to facilitate effective scheduling and resource management.
 
 | **Pageblock No.** | **Task Type**         | **Description**                                             | **DM Code**                        | **Expected Duration** | **Frequency** |
-|-------------------|-----------------------|-------------------------------------------------------------|
-
-------------------------------------|-----------------------|----------------|
+|-------------------|-----------------------|-------------------------------------------------------------|------------------------------------|-----------------------|----------------|
 | **MP01**          | Installation/Removal  | Installation/removal of Flight Control Computer (FCC)        | ROBBBO-T-A-22-01-00-00A-000-D      | 2 hours               | As needed       |
 | **MP02**          | Inspection            | Inspect Autothrottle Control Unit for functionality          | ROBBBO-T-A-22-05-00-00A-000-D      | 1 hour                | Every 500 flight hours |
 | **MP03**          | Cleaning              | Clean the Mode Control Panel to ensure operational clarity   | ROBBBO-T-A-22-07-00-00A-000-D      | 30 minutes            | Every 250 flight hours |
@@ -5297,9 +5295,7 @@ The **Electrical Power System** (ATA Chapter 24) is essential for supplying, dis
 ## 6. Load Management
 
 | **Item No.** | **Part Name**             | **Part Number (PNR)** | **Manufacturer**       | **Description**                                                 | **Qty** | **Estimated Cost (USD)** | **Circularity**         | **Sustainability**          | **Reusability**            | **Sustainable Repairability** |
-|--------------|---------------------------|-----------------------|------------------------|----------------------------------------------------------------
-
--|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
+|--------------|---------------------------|-----------------------|------------------------|-----------------------------------------------------------------|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
 | **24-04-1**  | Load Management Controller | LMC6001               | Honeywell Aerospace    | Manages distribution of electrical loads across systems.        | 1       | $10,000 - $12,500        | Recyclable                | Energy-efficient             | Reusable components        | Easy access for repairs       |
 | **24-04-2**  | Power Management System   | PMS7000               | Thales Group           | Optimizes power usage and system efficiency.                    | 1       | $15,000 - $20,000        | Repairable parts           | Low emissions                | Modular design              | Simple replacement            |
 | **24-04-3**  | Load Shedding Module      | **LSM-4500** (FN)     | Hypothetical Vendor    | Automatically disconnects non-essential loads during anomalies. | 1       | $7,000 - $9,000          | Recyclable materials       | Efficient operation           | Easily replaceable          | Designed for modular upgrades  |
@@ -5448,10 +5444,7 @@ The **Equipment and Furnishings System** (ATA Chapter 25) is essential for enhan
 
 ## 6. Maintenance Pageblocks Table (MP01 to MP09)
 
-| **Pageblock No.**
-
- | **Task Type**         | **Description**                                                         | **DM Code**                      |
-|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **Pageblock No.** | **Task Type**         | **Description**                                                           | **DM Code** |-------------------|-----------------------|-------------------------------------------------------------------------|-----------------------------------|
 | **MP01**          | Installation/Removal   | Installation/removal of Passenger Seat Assembly                          | ROBBBO-T-A-25-01-00-00A-000-D    |
 | **MP02**          | Inspection             | Inspect Galley Equipment for functionality and compliance               | ROBBBO-T-A-25-02-00-00A-000-D    |
 | **MP03**          | Troubleshooting        | Troubleshoot Lavatory Systems for functionality issues                  | ROBBBO-T-A-25-03-00-00A-000-D    |
