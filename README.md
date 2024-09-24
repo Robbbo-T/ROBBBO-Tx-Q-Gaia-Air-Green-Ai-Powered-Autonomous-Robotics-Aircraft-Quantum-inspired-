@@ -82,6 +82,9 @@ Providing a granular breakdown enhances transparency and facilitates better fina
 | **Additional Resources**     | €1,500,000               | Materials, logistics, and miscellaneous expenses   |
 | **Total Component Cost**     | **€10,700,000**          |                                                    |
 
+![Untitled diagram-2024-09-24-184954](https://github.com/user-attachments/assets/da15ac4e-a17b-41d5-8b66-1d2349ade6d6)
+
+file:///C:/Users/amate/Downloads/Untitled%20diagram-2024-09-24-185022.svg
 ---
 
 ## **4. Overall Risk Level and Mitigation Plan**
