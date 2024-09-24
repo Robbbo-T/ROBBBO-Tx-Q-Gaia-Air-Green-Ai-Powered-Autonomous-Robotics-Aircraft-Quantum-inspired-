@@ -130,15 +130,9 @@ El **Data Module Requirement (DMR)** del proyecto **RobbboTx Gaia Air** es un do
 
 Invitamos a inversores y líderes del sector a formar parte de esta emocionante transformación hacia un futuro más verde y tecnológicamente avanzado en la aviación.
 
-Si necesitas asistencia adicional para crear ayudas visuales, desarrollar secciones específicas en mayor detalle o cualquier otro aspecto de la documentación del proyecto, no dudes en contactarme.
-
 ---
 
 **Fecha de Aprobación:** Septiembre 2024
-
----
-
-**Nota:** Asegúrate de reemplazar los enlaces de las imágenes con las rutas correctas donde se encuentren alojadas las visualizaciones en tu repositorio de GitHub u otro entorno de presentación.
 
 ---
 
@@ -153,6 +147,8 @@ Si necesitas asistencia adicional para crear ayudas visuales, desarrollar seccio
 ---
 
 # **Fin del Executive Summary**
+
+---
 
 The **RobbboTx Gaia Air** project is an ambitious, cutting-edge green aviation initiative that aligns with Amedeo's vision of disruptive, sustainable innovation. The integration of robotics, 3D printing, and AI-driven automation sets the project apart, making it a leader in next-generation aerospace technology.
 
