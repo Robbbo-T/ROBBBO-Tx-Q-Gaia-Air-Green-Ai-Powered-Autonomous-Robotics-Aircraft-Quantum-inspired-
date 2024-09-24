@@ -1,7 +1,3 @@
-Claro, a continuación te presento una **Introducción** refinada y cohesiva para el documento **Data Module Requirement (DMR)** del proyecto **RobbboTx Gaia Air**. Esta introducción está diseñada para atraer tanto a inversores como a jefes de ingeniería, destacando las fortalezas del proyecto, su enfoque en la sostenibilidad y las innovaciones tecnológicas que lo distinguen en la industria aeroespacial.
-
----
-
 # **RobbboTx Gaia Air: Liderando la Revolución de la Aviación Sostenible a través de la Innovación Tecnológica**
 
 ## **Introducción**
@@ -77,32 +73,7 @@ El **Data Module Requirement (DMR)** del proyecto **RobbboTx Gaia Air** presenta
 
 ### **Asignación del Presupuesto del Proyecto**
 
-import matplotlib.pyplot as plt
-
-# Budget categories and their respective allocations
-categories = [
-    'R&D (Research and Development)',
-    'Materials and Components',
-    'Manufacturing and Production',
-    'Personnel and HR (Hiring, Training, Salaries)',
-    'Testing and Certification',
-    'Marketing and Business Development',
-    'Logistics and Supply Chain Management',
-    'Contingency and Risk Management',
-    'Technology Licensing and Intellectual Property'
-]
-
-# Corresponding budget percentages
-allocations = [25, 20, 15, 10, 10, 5, 5, 5, 5]
-
-# Create pie chart
-plt.figure(figsize=(8, 8))
-plt.pie(allocations, labels=categories, autopct='%1.1f%%', startangle=140)
-plt.title('RobbboTx Gaia Air: Budget Distribution')
-plt.axis('equal')  # Equal aspect ratio ensures the pie is drawn as a circle.
-
-# Display the chart
-plt.show()
+![output](https://github.com/user-attachments/assets/7bbbc70f-c950-4b15-8c4d-4a4a6e106927)
 
 
 ## **Glosario de Términos**
