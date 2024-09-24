@@ -4883,8 +4883,6 @@ Integrar el **Sistema de Placards y Señalizaciones** en el proyecto **ROBBBO-Tx
 Este estructura comprensiva para **ATA Chapter 11: Sistema de Placards y Señalizaciones Overview** sigue el **template estandarizado** para todos los capítulos ATA, asegurando consistencia y una cobertura exhaustiva de los aspectos de **Placards y Señalizaciones** del **ROBBBO-Tx Gaia Air Aircraft**. 
 
 
-Here is the **ATA Chapter 21: Air Conditioning and Pressurization System Overview**, formatted with comprehensive technical details, including IPL/IPD breakdown, Installation Figures with Reusability, and Maintenance Pageblocks:
-
 ---
 
 # **ATA Chapter 21: Air Conditioning and Pressurization System Overview**
@@ -4895,59 +4893,65 @@ The **Air Conditioning and Pressurization System** (ATA Chapter 21) of the **ROB
 
 ---
 
+Certainly! Here’s a comprehensive rewrite of your document, incorporating all the suggested enhancements:
+
+---
+
 ### **1. 4-Digit Breakdown of ATA Chapter 21: Air Conditioning and Pressurization System**
 
-| **Section Code**          | **Description**                                                                                          |
-|---------------------------|----------------------------------------------------------------------------------------------------------|
-| **21-00-00-00A-000-D**    | **General Overview**: Covers system importance, components, and overall function.                        |
-| **21-10-01-00A-000-D**    | **Temperature Control**: Details components regulating cabin and cockpit temperatures.                  |
-| **21-10-02-00A-000-D**    | **Ventilation Systems**: Focuses on airflow systems ensuring oxygen levels and circulation.              |
-| **21-10-03-00A-000-D**    | **Humidity Control**: Explains mechanisms for maintaining optimal humidity.                             |
-| **21-10-04-00A-000-D**    | **Pressurization Support**: Interaction with pressurization systems to maintain safe pressure.           |
-| **21-10-05-00A-000-D**    | **Air Quality Management**: Describes filters and systems ensuring clean air.                            |
-| **21-10-06-00A-000-D**    | **Energy Efficiency Features**: Highlights energy-saving components for sustainable operation.            |
-| **21-10-07-00A-000-D**    | **Automated Controls**: Integration with TerraBrain SuperSystem for real-time adjustments.               |
-| **21-10-08-00A-000-D**    | **Redundancy and Backup Systems**: Backup features ensuring continuous functionality.                     |
-| **21-10-09-00A-000-D**    | **Noise Reduction Technology**: Design features reducing operational noise for comfort.                   |
-| **21-10-10-00A-000-D**    | **Environmental Compliance**: Ensures compliance with environmental regulations.                         |
+| **Section Code**          | **Description**                                                                                          | **Significance**                                                                                                                                          |
+|---------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **21-00-00-00A-000-D**    | **General Overview**: Covers system importance, components, and overall function.                        | Provides a foundational understanding of how the air conditioning and pressurization system operates, emphasizing its role in passenger comfort and safety. |
+| **21-10-01-00A-000-D**    | **Temperature Control**: Details components regulating cabin and cockpit temperatures.                  | Ensures optimal thermal conditions, directly impacting passenger and crew comfort while maintaining safe operating conditions.                               |
+| **21-10-02-00A-000-D**    | **Ventilation Systems**: Focuses on airflow systems ensuring oxygen levels and circulation.              | Critical for maintaining air quality and preventing the buildup of carbon dioxide, enhancing overall cabin environment.                                      |
+| **21-10-03-00A-000-D**    | **Humidity Control**: Explains mechanisms for maintaining optimal humidity.                             | Affects comfort levels and can prevent condensation and related issues, ensuring a pleasant environment for passengers.                                     |
+| **21-10-04-00A-000-D**    | **Pressurization Support**: Interaction with pressurization systems to maintain safe pressure.           | Vital for ensuring structural integrity and safety at high altitudes, protecting passengers from hypoxia.                                                   |
+| **21-10-05-00A-000-D**    | **Air Quality Management**: Describes filters and systems ensuring clean air.                            | Essential for health and comfort, filters out pollutants and allergens, ensuring a safe cabin environment.                                                  |
+| **21-10-06-00A-000-D**    | **Energy Efficiency Features**: Highlights energy-saving components for sustainable operation.            | Supports eco-friendly practices and reduces operational costs, aligning with green aviation initiatives.                                                   |
+| **21-10-07-00A-000-D**    | **Automated Controls**: Integration with TerraBrain SuperSystem for real-time adjustments.               | Enhances system responsiveness and efficiency through advanced AI-driven controls, ensuring optimal performance.                                           |
+| **21-10-08-00A-000-D**    | **Redundancy and Backup Systems**: Backup features ensuring continuous functionality.                     | Increases system reliability and safety, ensuring functionality during failures or maintenance activities.                                                 |
+| **21-10-09-00A-000-D**    | **Noise Reduction Technology**: Design features reducing operational noise for comfort.                   | Improves passenger experience by minimizing noise levels, creating a more pleasant cabin environment.                                                      |
+| **21-10-10-00A-000-D**    | **Environmental Compliance**: Ensures compliance with environmental regulations.                         | Critical for meeting regulatory standards and promoting sustainable aviation practices.                                                                     |
 
 ---
 
 ### **2. Comprehensive Component Table**
 
-This table includes real and fictional part numbers (PNRs), descriptions, costs, and sustainability considerations.
+This table includes real and fictional part numbers (PNRs), descriptions, costs, sustainability considerations, and lifecycle stages.
 
-| **ATA Chapter** | **Section**                | **Component**                              | **DMC Code**                        | **Part Number (PNR)**  | **Manufacturer/Supplier** | **Description**                                              | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
-|-----------------|----------------------------|--------------------------------------------|-------------------------------------|------------------------|---------------------------|--------------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
-| ATA 21          | General Overview           | Air Conditioning System Overview           | ROBBBO-T-A-21-00-00-00A-000-D       | N/A                    | Own Production            | Introduction to the air conditioning and pressurization system. | N/A                      | Energy-efficient and recyclable design.                                 |
-| ATA 21          | Temperature Control        | Zone Temperature Controller                | ROBBBO-T-A-21-10-01-00A-000-D       | ZTC-5000               | Honeywell Aerospace       | Automatically regulates temperature settings.                | $10,000 - $15,000         | Modular, recyclable design for easy upgrades.                          |
-| ATA 21          | Temperature Control        | Cabin Temperature Sensor                   | ROBBBO-T-A-21-10-01-00A-000-D       | TS-210-CB              | Rosemount Aerospace       | Monitors cabin temperature levels.                           | $1,500 - $2,500 each      | Low energy consumption and recyclable materials.                       |
-| ATA 21          | Temperature Control        | Cockpit Temperature Sensor                 | ROBBBO-T-A-21-10-01-00A-000-D       | TS-220-CP              | Rosemount Aerospace       | Monitors cockpit temperature levels.                         | $1,500 - $2,500 each      | Energy-efficient and designed for easy recycling.                       |
-| ATA 21          | Temperature Control        | Trim Air Valve Actuator                    | ROBBBO-T-A-21-10-01-00A-000-D       | TAVA-1150              | Honeywell Aerospace       | Controls airflow for precise temperature regulation.         | $4,000 - $6,000 each      | Built with long-life materials for easy recyclability.                  |
-| ATA 21          | Ventilation Systems        | High-Efficiency Recirculation Fan          | ROBBBO-T-A-21-10-02-00A-000-D       | HRF-300                | Hamilton Sundstrand       | Provides efficient air circulation.                          | $4,000 - $5,500 each      | Energy-efficient motors, recyclable materials.                          |
-| ATA 21          | Ventilation Systems        | Air Filter Element                         | ROBBBO-T-A-21-10-02-00A-000-D       | AFE-500-H14            | Pall Aerospace            | Filters recirculated air.                                    | $500 - $800 each          | High recyclability and designed for long service life.                   |
-| ATA 21          | Ventilation Systems        | Ventilation Duct Assembly                  | ROBBBO-T-A-21-10-02-00A-000-D       | VDA-1142               | Boeing                    | Distributes air throughout the cabin and cockpit.            | $2,500 - $4,000           | Recyclable materials used with low-energy insulation.                    |
-| ATA 21          | Ventilation Systems        | Airflow Regulator Actuator                 | ROBBBO-T-A-21-10-02-00A-000-D       | ARA-7750-FN            | Honeywell Aerospace       | Regulates airflow within the cabin.                          | $5,000 - $7,500 each      | Built with sustainability in mind, with recyclable components.          |
-| ATA 21          | Pressurization Support      | Smart Outflow Valve                        | ROBBBO-T-A-21-10-03-00A-000-D       | SOV-1000               | Liebherr Aerospace        | Regulates cabin pressure.                                    | $12,000 - $16,000 each    | Long-term use with recyclable materials.                                 |
-| ATA 21          | Pressurization Support      | Cabin Pressure Controller                  | ROBBBO-T-A-21-10-03-00A-000-D       | CPC-3000               | Meggitt PLC               | Controls overall cabin pressure levels.                      | $18,000 - $25,000         | Long-term use with recyclable materials.                                 |
-| ATA 21          | Pressurization Support      | Positive Pressure Relief Valve             | ROBBBO-T-A-21-10-03-00A-000-D       | PPRV-103980-2          | Meggitt PLC               | Prevents cabin over-pressurization.                           | $5,500 - $7,500 each      | Recyclable materials and components for sustainability.                  |
-| ATA 21          | Pressurization Support      | Negative Pressure Relief Valve             | ROBBBO-T-A-21-10-03-00A-000-D       | NPRV-103982-1          | Meggitt PLC               | Prevents negative pressure differentials.                     | $5,500 - $7,000 each      | Recyclable and designed for long-term use.                              |
-| ATA 21          | Air Quality Management      | HEPA Air Filter                            | ROBBBO-T-A-21-10-05-00A-000-D       | AG3300-1               | Pall Aerospace            | Filters out particles and contaminants.                       | $3,000 - $4,000 each      | High recyclability and designed for efficient filtering.                 |
-| ATA 21          | Air Quality Management      | Odor and Gas Removal Filter                | ROBBBO-T-A-21-10-05-00A-000-D       | AG2040-1               | Pall Aerospace            | Removes odors and gaseous contaminants.                       | $3,500 - $5,000 each      | Eco-friendly design and recyclable components.                            |
-| ATA 21          | Air Quality Management      | UV Air Treatment Unit                      | ROBBBO-T-A-21-10-05-00A-000-D       | UV-C1000               | Honeywell Aerospace       | Uses UV light to eliminate airborne pathogens.                | $10,000 - $15,000          | Low energy consumption and eco-friendly materials.                        |
-| ATA 21          | Energy Efficiency Features   | Variable Frequency Drive                   | ROBBBO-T-A-21-10-06-00A-000-D       | VFD-AC-400             | Honeywell Aerospace       | Controls motor speeds for energy efficiency.                 | $
+| **ATA Chapter** | **Section**                | **Component**                              | **DMC Code**                        | **Part Number (PNR)**  | **Manufacturer/Supplier** | **Description**                                              | **Estimated Cost (USD)** | **Lifecycle Stage** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------------------|-------------------------------------|------------------------|---------------------------|--------------------------------------------------------------|--------------------------|---------------------|------------------------------------------------------------------------|
+| ATA 21          | General Overview           | Air Conditioning System Overview           | ROBBBO-T-A-21-00-00-00A-000-D       | N/A                    | Own Production            | Introduction to the air conditioning and pressurization system. | N/A                      | New                 | Energy-efficient and recyclable design.                                 |
+| ATA 21          | Temperature Control        | Zone Temperature Controller                | ROBBBO-T-A-21-10-01-00A-000-D       | ZTC-5000               | Honeywell Aerospace       | Automatically regulates temperature settings.                | $10,000 - $15,000         | New                 | Modular, recyclable design for easy upgrades.                          |
+| ATA 21          | Temperature Control        | Cabin Temperature Sensor                   | ROBBBO-T-A-21-10-01-00A-000-D       | TS-210-CB              | Rosemount Aerospace       | Monitors cabin temperature levels.                           | $1,500 - $2,500 each      | New                 | Low energy consumption and recyclable materials.                       |
+| ATA 21          | Temperature Control        | Cockpit Temperature Sensor                 | ROBBBO-T-A-21-10-01-00A-000-D       | TS-220-CP              | Rosemount Aerospace       | Monitors cockpit temperature levels.                         | $1,500 - $2,500 each      | New                 | Energy-efficient and designed for easy recycling.                       |
+| ATA 21          | Temperature Control        | Trim Air Valve Actuator                    | ROBBBO-T-A-21-10-01-00A-000-D       | TAVA-1150              | Honeywell Aerospace       | Controls airflow for precise temperature regulation.         | $4,000 - $6,000 each      | New                 | Built with long-life materials for easy recyclability.                  |
+| ATA 21          | Ventilation Systems        | High-Efficiency Recirculation Fan          | ROBBBO-T-A-21-10-02-00A-000-D       | HRF-300                | Hamilton Sundstrand       | Provides efficient air circulation.                          | $4,000 - $5,500 each      | New                 | Energy-efficient motors, recyclable materials.                          |
+| ATA 21          | Ventilation Systems        | Air Filter Element                         | ROBBBO-T-A-21-10-02-00A-000-D       | AFE-500-H14            | Pall Aerospace            | Filters recirculated air.                                    | $500 - $800 each          | New                 | High recyclability and designed for long service life.                   |
+| ATA 21          | Ventilation Systems        | Ventilation Duct Assembly                  | ROBBBO-T-A-21-10-02-00A-000-D       | VDA-1142               | Boeing                    | Distributes air throughout the cabin and cockpit.            | $2,500 - $4,000           | New                 | Recyclable materials used with low-energy insulation.                    |
+| ATA 21          | Ventilation Systems        | Airflow Regulator Actuator                 | ROBBBO-T-A-21-10-02-00A-000-D       | ARA-7750-FN            | Honeywell Aerospace       | Regulates airflow within the cabin.                          | $5,000 - $7,500 each      | New                 | Built with sustainability in mind, with recyclable components.          |
+| ATA 21          | Pressurization Support      | Smart Outflow Valve                        | ROBBBO-T-A-21-10-03-00A-000-D       | SOV-1000               | Liebherr Aerospace        | Regulates cabin pressure.                                    | $12,000 - $16,000 each    | New                 | Long-term use with recyclable materials.                                 |
+| ATA 21          | Pressurization Support      | Cabin Pressure Controller                  | ROBBBO-T-A-21-10-03-00A-000-D       | CPC-3000               | Meggitt PLC               | Controls overall cabin pressure levels.                      | $18,000 - $25,000         | New                 | Long-term use with recyclable materials.                                 |
+| ATA 21          | Pressurization Support      | Positive Pressure Relief Valve             | ROBBBO-T-A-21-10-03-00A-000-D       | PPRV-103980-2          | Meggitt PLC               | Prevents cabin over-pressurization.                           | $5,500 - $7,500 each      | New                 | Recyclable materials and components for sustainability.                  |
+| ATA 21          | Pressurization Support      | Negative Pressure Relief Valve             | ROBBBO-T-A-21-10-03-00A-000-D       | NPRV-103982-1          | Meggitt PLC               | Prevents negative pressure differentials.                     | $5,500 - $7,000 each      | New                 | Recyclable and designed for long-term use.                              |
+| ATA 21          | Air Quality Management      | HEPA Air Filter                            | ROBBBO-T-A-21-10-05-00A-000-D       | AG3300-1               | Pall Aerospace            | Filters out particles and contaminants.                       | $3,000 - $4,000 each      | New                 | High recyclability and designed for efficient filtering.                 |
+| ATA 21          | Air Quality Management      | Odor and Gas Removal Filter                | ROBBBO-T-A-21-10-05-00A-000-D       | AG2040-1               | Pall Aerospace            | Removes odors and gaseous contaminants.                       | $3,500 - $5,000 each      | New                 | Eco-friendly design and recyclable components.                            |
+| ATA 21          | Air Quality Management      | UV Air Treatment Unit                      | ROBBBO-T-A-21-10-05-00A-000-D       | UV-C1000               | Honeywell Aerospace       | Uses UV light to eliminate airborne pathogens.                | $10
 
-8,000 - $10,000          | Energy-efficient, with a focus on recyclability.                          |
-| ATA 21          | Energy Efficiency Features   | Electronic Power Controller                | ROBBBO-T-A-21-10-06-00A-000-D       | EPC-7000               | Thales Group              | Manages power distribution to system components.             | $10,000 - $12,000         | Low energy use and recyclable components.                               |
-| ATA 21          | Automated Controls           | AI Control Module                          | ROBBBO-T-A-21-10-07-00A-000-D       | AI-CM-600              | IBM Aerospace             | Machine learning for adaptive optimization.                  | $20,000 - $25,000         | Energy-efficient design and recyclable materials.                        |
-| ATA 21          | Automated Controls           | Environmental Control System Controller    | ROBBBO-T-A-21-10-07-00A-000-D       | ECSC-245-580035-3      | Collins Aerospace         | Central processor for system controls.                       | $18,000 - $22,000         | Energy-efficient design and recyclable materials.                        |
-| ATA 21          | Redundancy and Backup Systems | Backup Airflow Controller                  | ROBBBO-T-A-21-10-08-00A-000-D       | BAC-75-000-1           | Hamilton Sundstrand        | Provides redundancy for airflow management.                   | $12,000 - $16,000         | Designed for long-term use, recyclable components.                        |
-| ATA 21          | Noise Reduction Technology    | Cabin Noise Dampener Unit                  | ROBBBO-T-A-21-10-09-00A-000-D       | ND-9800-5              | Meggitt PLC               | Reduces operational noise in cabin.                           | $8,000 - $10,000          | Noise reduction features, recyclable materials.                         |
-| ATA 21          | Environmental Compliance     | Emissions Control Unit                     | ROBBBO-T-A-21-10-10-00A-000-D       | EC-5000-2              | CTT Systems               | Reduces emissions from system components.                     | $10,000 - $15,000         | Environmentally compliant, recyclable components.                        |
+,000 - $15,000          | New                 | Low energy consumption and eco-friendly materials.                        |
+| ATA 21          | Energy Efficiency Features   | Variable Frequency Drive                   | ROBBBO-T-A-21-10-06-00A-000-D       | VFD-AC-400             | Honeywell Aerospace       | Controls motor speeds for energy efficiency.                 | $8,000 - $10,000          | New                 | Energy-efficient, with a focus on recyclability.                          |
+| ATA 21          | Energy Efficiency Features   | Electronic Power Controller                | ROBBBO-T-A-21-10-06-00A-000-D       | EPC-7000               | Thales Group              | Manages power distribution to system components.             | $10,000 - $12,000         | New                 | Low energy use and recyclable components.                               |
+| ATA 21          | Automated Controls           | AI Control Module                          | ROBBBO-T-A-21-10-07-00A-000-D       | AI-CM-600              | IBM Aerospace             | Machine learning for adaptive optimization.                  | $20,000 - $25,000         | New                 | Energy-efficient design and recyclable materials.                        |
+| ATA 21          | Automated Controls           | Environmental Control System Controller    | ROBBBO-T-A-21-10-07-00A-000-D       | ECSC-245-580035-3      | Collins Aerospace         | Central processor for system controls.                       | $18,000 - $22,000         | New                 | Energy-efficient design and recyclable materials.                        |
+| ATA 21          | Redundancy and Backup Systems | Backup Airflow Controller                  | ROBBBO-T-A-21-10-08-00A-000-D       | BAC-75-000-1           | Hamilton Sundstrand        | Provides redundancy for airflow management.                   | $12,000 - $16,000         | New                 | Designed for long-term use, recyclable components.                        |
+| ATA 21          | Noise Reduction Technology    | Cabin Noise Dampener Unit                  | ROBBBO-T-A-21-10-09-00A-000-D       | ND-9800-5              | Meggitt PLC               | Reduces operational noise in cabin.                           | $8,000 - $10,000          | New                 | Noise reduction features, recyclable materials.                         |
+| ATA 21          | Environmental Compliance     | Emissions Control Unit                     | ROBBBO-T-A-21-10-10-00A-000-D       | EC-5000-2              | CTT Systems               | Reduces emissions from system components.                     | $10,000 - $15,000         | New                 | Environmentally compliant, recyclable components.                        |
 
 ---
 
 ### **3. IPL/IPD Breakdown (5-Digit)**
+
+This section provides a structured framework for understanding maintenance and operational guidance for air conditioning and pressurization systems.
 
 | **Section Code** | **Component** | **DM Code** | **Part Number** | **Manufacturer** | **Description** | **Estimated Cost (USD)** | **Sustainability** |
 |------------------|---------------|-------------|-----------------|------------------|-----------------|--------------------------|--------------------|
@@ -4961,53 +4965,59 @@ This table includes real and fictional part numbers (PNRs), descriptions, costs,
 
 ### **4. IPC Installation Figures (6-8 Digit) with Reusability Column**
 
-| **Figure No.**   | **Title** | **DM Code** | **Description** | **Reusability** |
-|------------------|-----------|-------------|-----------------|-----------------|
-| **21-10-01-01**  | Installation of Zone Temperature Controller | ROBBBO-T-A-21-10-01-00A-000-D | Detailed installation of the ZTC-5000 including mounting and wiring. | Reusable if undamaged; components designed for long-term use. |
-| **21-10-01-02**  | Installation of Cabin Temperature Sensors | ROBBBO-T-A-21-10-01-00A-000-D | Placement and wiring of TS-210-CB in various cabin zones. | Reusable with periodic recalibration. |
-| **21-10-01-03**  | Installation of Cockpit Temperature Sensors | ROBBBO-T-A-21-10-01-00A-000-D | Installation and wiring of TS-220-CP in the cockpit. | Reusable; replace if sensor accuracy degrades. |
-| **21-10-01-04**  | Installation of Trim Air Valve Actuator | ROBBBO-T-A-21-10-01-00A-000-D | Mounting and connection of TAVA-1150 for airflow control. | Reusable; inspect during routine maintenance. |
-| **21-10-02-01**  | Installation of High-Efficiency Recirculation Fan | ROBBBO-T-A-21-10-02-00A-000-D | Step-by-step guide for installing HRF-300 including duct connections. | Reusable; check for wear on bearings and motor. |
-| **21-10-02-02**  | Installation of Air Filter Element | ROBBBO-T-A-21-10-02-00A-000-D | Installation of AFE-500-H14 in the recirculation system. | Not reusable; replace at service intervals. |
-| **21-10-02-03**  | Installation of Ventilation Duct Assembly | ROBBBO-T-A-21-10-02-00A-000-D | Assembly and attachment of VDA-1142 ductwork. | Reusable; replace seals and gaskets as needed. |
-| **21-10-02-04**  | Installation of Airflow Regulator Actuator | ROBBBO-T-A-21-10-02-00A-000-D | Detailed process for installing ARA-7750-FN including calibration. | Reusable with recalibration during scheduled maintenance. |
-| **21-10-03-01**  | Installation of Smart Outflow Valve | ROBBBO-T-A-21-10-03-00A-000-D | Installation of SOV-1000, including mechanical and electrical connections. | Reusable; replace only in case of malfunction or wear. |
-| **21-10-03-02**  | Installation of Cabin Pressure Controller | ROBBBO-T-A-21-10-03-00A-000-D | Mounting and wiring of CPC-3000 for cabin pressure regulation. | Reusable; replace only if calibration fails. |
-| **21-10-03-03**  | Installation of Positive Pressure Relief Valve | ROBBBO-T-A-21-10-03-00A-000-D | Installation of PPRV-103980-2 for over-pressurization prevention. | Reusable; inspect for valve integrity and recalibrate if necessary. |
-| **21-10-03-04**  | Installation of Negative Pressure Relief Valve | ROBBBO-T-A-21-10-03-00A-000-D | Detailed installation of NPRV-103982-1 for pressure relief. | Reusable; inspect regularly for functional integrity. |
-| **21-10-04-01**  | Installation of Aerogel-Insulated Ducting | ROBBBO-T-A-21-10-04-00A-000-D | Ducting layout and insulation application for AID-800. | Reusable; check insulation condition during inspection. |
-| **21-10-04-02**  | Installation of Zonal Control Dampers | ROBBBO-T-A-21-10-04-00A-000-D | Installation of ZCD-300-ID for airflow management in cabin zones. | Reusable; recalibrate as needed for proper airflow control. |
-| **21-10-04-03**  | Installation of Ducting Seals | ROBBBO-T-A-21-10-04-00A-000-D | Application of bio-based polymer seals for airtight connections. | Not reusable; replace seals during duct maintenance. |
-| **21-10-05-01**  | Installation of Cabin Humidifier | ROBBBO-T-A-21-10-05-00A-000-D | Mounting and integration of ACH-2500 for humidity control. | Reusable; check for wear and performance degradation. |
+This section outlines installation processes and reusability of components, with maintenance tips for ensuring longevity.
+
+| **Figure No.**   | **Title** | **DM Code** | **Description** | **Reusability** | **Maintenance Tips** |
+|------------------|-----------|-------------|-----------------|-----------------|----------------------|
+| **21-10-01-01**  | Installation of Zone Temperature Controller | ROBBBO-T-A-21-10-01-00A-000-D | Detailed installation of the ZTC-5000 including mounting and wiring. | Reusable if undamaged; components designed for long-term use. | Inspect connections periodically; check for wear. |
+| **21-10-01-02**  | Installation of Cabin Temperature Sensors | ROBBBO-T-A-21-10-01-00A-000-D | Placement and wiring of TS-210-CB in various cabin zones. | Reusable with periodic recalibration. | Schedule calibration every 1,000 flight hours. |
+| **21-10-01-03**  | Installation of Cockpit Temperature Sensors | ROBBBO-T-A-21-10-01-00A-000-D | Installation and wiring of TS-220-CP in the cockpit. | Reusable; replace if sensor accuracy degrades. | Regularly check for accuracy during pre-flight checks. |
+| **21-10-01-04**  | Installation of Trim Air Valve Actuator | ROBBBO-T-A-21-10-01-00A-000-D | Mounting and connection of TAVA-1150 for airflow control. | Reusable; inspect during routine maintenance. | Conduct annual inspections and lubricate as needed. |
+| **21-10-02-01**  | Installation of High-Efficiency Recirculation Fan | ROBBBO-T-A-21-10-02-00A-000-D | Step-by-step guide for installing HRF-300 including duct connections. | Reusable; check for wear on bearings and motor. | Lubricate bearings every 500 flight hours. |
+| **21-10-02-02**  | Installation of Air Filter Element | ROBBBO-T-A-21-10-02-00A-000-D | Installation of AFE-500-H14 in the recirculation system. | Not reusable; replace at service intervals. | Change filters every 250 flight hours for optimal performance. |
+| **21-10-02-03**  | Installation of Ventilation Duct Assembly | ROBBBO-T-A-21-10-02-00A-000-D | Assembly and attachment of VDA-1142 ductwork. | Reusable; replace seals and gaskets as needed. | Inspect seals during maintenance checks; replace every 1,000 flight hours. |
+| **21-10-02-04**  | Installation of Airflow Regulator Actuator | ROBBBO-T-A-21-10-02-00A-000-D | Detailed process for installing ARA-7750-FN including calibration. | Reusable with recalibration during scheduled maintenance. | Recalibrate annually or after any maintenance activities. |
+| **21-10-03-01**  | Installation of Smart Outflow Valve | ROBBBO-T-A-21-10-03-00A-000-D | Installation of SOV-1000, including mechanical and electrical connections. | Reusable; replace only in case of malfunction or wear. | Regularly inspect for signs of wear; test functionality every 500 flight hours. |
+| **21-10-03-02**  | Installation of Cabin Pressure Controller | ROBBBO-T-A-21-10-03-00A-000-D | Mounting and wiring of CPC-3000 for cabin pressure regulation. | Reusable; replace only if calibration fails. | Monitor calibration annually; test during system checks. |
+| **21-10-03-03**  | Installation of Positive Pressure Relief Valve | ROBBBO-T-A-21-10-03-00A-000-D | Installation of PPRV-103980-2 for over-pressurization prevention. | Reusable; inspect for valve integrity and recalibrate if necessary. | Conduct functional tests during scheduled maintenance. |
+| **21-10-03-04**  | Installation of Negative Pressure Relief Valve | ROBBBO-T-A-21-10-03-00A-000-D | Detailed installation of NPRV-103982-1 for pressure relief. | Reusable; inspect regularly for functional integrity. | Inspect during routine maintenance checks every 500 flight hours. |
+| **21-10-04-01**  | Installation of Aerogel-Insulated Ducting | ROBBBO-T-A-21-10-04-00A-000-D | Ducting layout and insulation application for AID-800.
+
+ | Reusable; check insulation condition during inspection. | Inspect insulation for damage and wear annually. |
+| **21-10-04-02**  | Installation of Zonal Control Dampers | ROBBBO-T-A-21-10-04-00A-000-D | Installation of ZCD-300-ID for airflow management in cabin zones. | Reusable; recalibrate as needed for proper airflow control. | Recalibrate during each major maintenance cycle. |
+| **21-10-04-03**  | Installation of Ducting Seals | ROBBBO-T-A-21-10-04-00A-000-D | Application of bio-based polymer seals for airtight connections. | Not reusable; replace seals during duct maintenance. | Schedule replacement every 1,000 flight hours. |
+| **21-10-05-01**  | Installation of Cabin Humidifier | ROBBBO-T-A-21-10-05-00A-000-D | Mounting and integration of ACH-2500 for humidity control. | Reusable; check for wear and performance degradation. | Inspect functionality every 1,000 flight hours; replace components as necessary. |
 
 ---
 
 ### **5. Maintenance Pageblocks Table (MP01 to MP09)**
 
-| **Pageblock No.** | **Task Type** | **Description** | **DM Code** |
-|-------------------|---------------|-----------------|-------------|
-| **MP01**          | Installation/Removal | Installation/removal of Zone Temperature Controller (ZTC-5000) | ROBBBO-T-A-21-10-01-00
+This table provides a clear overview of maintenance tasks, helping to ensure effective scheduling and resource management.
 
-A-000-D |
-| **MP02**          | Inspection | Inspect cabin temperature sensors for functionality | ROBBBO-T-A-21-10-01-00A-000-D |
-| **MP03**          | Cleaning | Cleaning air filter elements (AFE-500-H14) | ROBBBO-T-A-21-10-02-00A-000-D |
-| **MP04**          | Troubleshooting | Troubleshoot airflow issues with Recirculation Fan | ROBBBO-T-A-21-10-02-00A-000-D |
-| **MP05**          | Fault Isolation | Isolate fault in Cabin Pressure Controller (CPC-3000) | ROBBBO-T-A-21-10-03-00A-000-D |
-| **MP06**          | Replacement | Replace Smart Outflow Valve (SOV-1000) | ROBBBO-T-A-21-10-03-00A-000-D |
-| **MP07**          | Calibration | Calibrate Trim Air Valve Actuator (TAVA-1150) | ROBBBO-T-A-21-10-01-00A-000-D |
-| **MP08**          | Performance Check | Perform system-wide pressure check | ROBBBO-T-A-21-10-03-00A-000-D |
-| **MP09**          | Software Update | Update firmware for Environmental Control System Controller (ECSC-245) | ROBBBO-T-A-21-10-07-00A-000-D |
+| **Pageblock No.** | **Task Type** | **Description** | **DM Code** | **Expected Duration** | **Frequency** |
+|-------------------|---------------|-----------------|-------------|-----------------------|----------------|
+| **MP01**          | Installation/Removal | Installation/removal of Zone Temperature Controller (ZTC-5000) | ROBBBO-T-A-21-10-01-00A-000-D | 2 hours               | As needed       |
+| **MP02**          | Inspection | Inspect cabin temperature sensors for functionality | ROBBBO-T-A-21-10-01-00A-000-D | 1 hour                | Every 500 flight hours |
+| **MP03**          | Cleaning | Cleaning air filter elements (AFE-500-H14) | ROBBBO-T-A-21-10-02-00A-000-D | 30 minutes            | Every 250 flight hours |
+| **MP04**          | Troubleshooting | Troubleshoot airflow issues with Recirculation Fan | ROBBBO-T-A-21-10-02-00A-000-D | 1 hour                | As needed       |
+| **MP05**          | Fault Isolation | Isolate fault in Cabin Pressure Controller (CPC-3000) | ROBBBO-T-A-21-10-03-00A-000-D | 1-2 hours            | As needed       |
+| **MP06**          | Replacement | Replace Smart Outflow Valve (SOV-1000) | ROBBBO-T-A-21-10-03-00A-000-D | 1 hour                | As needed       |
+| **MP07**          | Calibration | Calibrate Trim Air Valve Actuator (TAVA-1150) | ROBBBO-T-A-21-10-01-00A-000-D | 1 hour                | Annually       |
+| **MP08**          | Performance Check | Perform system-wide pressure check | ROBBBO-T-A-21-10-03-00A-000-D | 1 hour                | Every 1,000 flight hours |
+| **MP09**          | Software Update | Update firmware for Environmental Control System Controller (ECSC-245) | ROBBBO-T-A-21-10-07-00A-000-D | 30 minutes            | As needed       |
 
 ---
 
 ### **6. System Operation**
 
-The Air Conditioning and Pressurization System operates through coordinated subsystems, ensuring optimal cabin conditions, including:
+The Air Conditioning and Pressurization System operates through coordinated subsystems, ensuring optimal cabin conditions. Below is a summary of these interactions:
 
-- **Airflow Management**: Regulated by the **Recirculation Fan (HRF-300)** and **Airflow Regulator Actuator (ARA-7750-FN)**.
-- **Temperature Control**: Managed by the **Zone Temperature Controller (ZTC-5000)** and **Trim Air Valve Actuator (TAVA-1150)**.
-- **Pressurization**: Controlled by the **Cabin Pressure Controller (CPC-3000)** and **Smart Outflow Valve (SOV-1000)**.
-- **Humidity Control**: Handled by the **Advanced Cabin Humidifier (ACH-2500)**.
+- **Airflow Management**: Regulated by the **Recirculation Fan (HRF-300)** and **Airflow Regulator Actuator (ARA-7750-FN)**, these components ensure effective air circulation.
+- **Temperature Control**: Managed by the **Zone Temperature Controller (ZTC-5000)** and **Trim Air Valve Actuator (TAVA-1150)**, which maintain comfortable thermal conditions.
+- **Pressurization**: Controlled by the **Cabin Pressure Controller (CPC-3000)** and **Smart Outflow Valve (SOV-1000)**, critical for structural integrity and passenger safety.
+- **Humidity Control**: Handled by the **Advanced Cabin Humidifier (ACH-2500)**, ensuring optimal humidity levels.
+
+*Consider adding a flow diagram to visually represent these interactions, including a legend for clarity.*
 
 ---
 
@@ -5015,9 +5025,9 @@ The Air Conditioning and Pressurization System operates through coordinated subs
 
 **Scheduled Maintenance**: All critical components undergo mandatory inspections to ensure optimal system functionality.
 
-**Predictive Maintenance**: AI diagnostics monitor system components in real-time to predict maintenance needs.
+**Predictive Maintenance**: Utilizing AI diagnostics, system components are monitored in real-time to predict maintenance needs, improving reliability and reducing downtime. Examples of AI tools used include machine learning algorithms that analyze operational data for predictive insights.
 
-**Troubleshooting**: Utilize built-in sensors and diagnostics to identify and resolve issues quickly.
+**Troubleshooting**: Built-in sensors and diagnostics facilitate quick identification and resolution of issues, maintaining operational efficiency.
 
 **Documentation**: Reference **Technical Publications Work Data (TPWD)** and **Technical Publication Specification List (TPSL)** for detailed maintenance instructions.
 
@@ -5025,8 +5035,13 @@ The Air Conditioning and Pressurization System operates through coordinated subs
 
 ### **8. Conclusion**
 
-The **Air Conditioning and Pressurization System** in the ROBBBO-Tx Gaia Air Aircraft is critical for passenger comfort and safety. It incorporates advanced sensors, AI-driven controls, and energy-efficient components, aligning with green aviation initiatives. Detailed DM codes, PNRs, and technical publications ensure comprehensive maintenance and operation of the system.
+The **Air Conditioning and Pressurization System** in the ROBBBO-Tx Gaia Air Aircraft is critical for passenger comfort and safety. It integrates advanced sensors, AI-driven controls, and energy-efficient components, aligning with green aviation initiatives. 
 
+**Future Innovations**: Ongoing upgrades are planned to enhance system efficiency and sustainability, showcasing a commitment to continual improvement and responsiveness to emerging technologies.
+
+---
+
+This comprehensive document provides a clear, organized overview of the Air Conditioning and Pressurization System, focusing on efficiency, sustainability, and operational effectiveness. Let me know if you'd like to make further adjustments!
 ---
 
 I'll create the document for **ATA Chapter 22 - Auto Flight System** based on the structure we've used for ATA 21 and provide the comprehensive details.
@@ -5037,25 +5052,25 @@ I'll create the document for **ATA Chapter 22 - Auto Flight System** based on th
 
 #### **System Description for Auto Flight System (AFS)**
 
-The **Auto Flight System (AFS)** in the **ROBBBO-T aircraft** automates critical flight control functions, enhancing safety and operational efficiency. It integrates autopilot, autothrottle, and flight management systems, utilizing advanced sensors and computers to manage the aircraft's flight path, speed, and stability. Designed with energy-efficient components and sustainable materials, the system aligns with environmental compliance standards and supports the goals of green aviation.
+The **Auto Flight System (AFS)** in the **ROBBBO-T aircraft** automates essential flight control functions, significantly enhancing safety and operational efficiency. By integrating autopilot, autothrottle, and flight management systems, the AFS utilizes advanced sensors and computing technologies to manage the aircraft's flight path, speed, and stability. Designed with energy-efficient components and sustainable materials, the system adheres to environmental compliance standards and supports the objectives of green aviation.
 
 ---
 
 ### **1. 4-Digit Breakdown of ATA Chapter 22: Auto Flight System**
 
-| **Section Code** | **Description**                                                                                                                                                     |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **22-00-00-00A-000-D** | **General Overview**: Introduction to the Auto Flight System, its purpose, and its significance in modern aviation.                                                 |
-| **22-01-00-00A-000-D** | **Flight Control Laws**: Explanation of algorithms and control laws governing auto flight operations, including pitch, roll, and yaw controls.                      |
-| **22-02-00-00A-000-D** | **Navigation Integration**: Overview of how the AFS integrates with internal and external navigation aids, ensuring accurate routing and waypoint tracking.          |
-| **22-03-00-00A-000-D** | **Autopilot Functions**: Details on autopilot capabilities, such as altitude hold, lateral navigation (LNAV), and vertical navigation (VNAV), including flight control surfaces. |
-| **22-04-00-00A-000-D** | **Flight Management System (FMS)**: Description of how the FMS interfaces with the AFS for flight plan management, performance optimization, and real-time flight path adjustments. |
-| **22-05-00-00A-000-D** | **Autothrottle System**: Mechanisms for automatically adjusting engine thrust to maintain optimal speed, fuel efficiency, and flight performance.                    |
-| **22-06-00-00A-000-D** | **System Monitoring and Alerts**: Continuous monitoring of the AFS with real-time alerts for the flight crew in case of performance deviations, faults, or system failures. |
-| **22-07-00-00A-000-D** | **Pilot Interfaces**: Overview of pilot control interfaces, such as mode control panels and flight director displays, allowing pilots to interact with and monitor the AFS. |
-| **22-08-00-00A-000-D** | **Redundancy and Safety Features**: Backup systems, including redundant flight control computers and autothrottle units, designed to ensure reliable operation in case of primary system failure. |
-| **22-09-00-00A-000-D** | **Training and Procedures**: Information on standard operating procedures and training requirements for pilots and maintenance staff related to the Auto Flight System. |
-| **22-10-00-00A-000-D** | **Environmental Compliance**: Overview of how the AFS meets regulatory standards, focusing on environmental impact, fuel efficiency, and compliance with international safety regulations. |
+| **Section Code**          | **Description**                                                                                                                                                     |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **22-00-00-00A-000-D**    | **General Overview**: Introduction to the Auto Flight System, its purpose, and significance in modern aviation.                                                    |
+| **22-01-00-00A-000-D**    | **Flight Control Laws**: Explanation of the algorithms and control laws governing auto flight operations, including pitch, roll, and yaw control.                   |
+| **22-02-00-00A-000-D**    | **Navigation Integration**: Overview of how the AFS integrates with internal and external navigation aids, ensuring accurate routing and waypoint tracking.         |
+| **22-03-00-00A-000-D**    | **Autopilot Functions**: Details on autopilot capabilities, such as altitude hold, lateral navigation (LNAV), and vertical navigation (VNAV), including control surface functions. |
+| **22-04-00-00A-000-D**    | **Flight Management System (FMS)**: Description of how the FMS interfaces with the AFS for flight plan management, performance optimization, and real-time adjustments. |
+| **22-05-00-00A-000-D**    | **Autothrottle System**: Mechanisms for automatically adjusting engine thrust to maintain optimal speed, fuel efficiency, and overall flight performance.            |
+| **22-06-00-00A-000-D**    | **System Monitoring and Alerts**: Continuous monitoring of the AFS with real-time alerts for the flight crew in case of performance deviations, faults, or system failures. |
+| **22-07-00-00A-000-D**    | **Pilot Interfaces**: Overview of pilot control interfaces, including mode control panels and flight director displays, facilitating pilot interaction with the AFS. |
+| **22-08-00-00A-000-D**    | **Redundancy and Safety Features**: Backup systems, including redundant flight control computers and autothrottle units, designed to ensure reliable operation in case of primary system failure. |
+| **22-09-00-00A-000-D**    | **Training and Procedures**: Information on standard operating procedures and training requirements for pilots and maintenance staff regarding the Auto Flight System. |
+| **22-10-00-00A-000-D**    | **Environmental Compliance**: Overview of how the AFS meets regulatory standards, focusing on environmental impact, fuel efficiency, and compliance with international safety regulations. |
 
 ---
 
@@ -5063,27 +5078,29 @@ The **Auto Flight System (AFS)** in the **ROBBBO-T aircraft** automates critical
 
 This table includes real and fictional part numbers (PNRs), descriptions, costs, and sustainability considerations.
 
-| **ATA Chapter** | **Section** | **Component**                   | **DMC Code**            | **Part Number (PNR)** | **Manufacturer/Supplier** | **Description**                                             | **Estimated Cost (USD)** | **Circularity & Sustainability** |
-|-----------------|-------------|---------------------------------|-------------------------|-----------------------|---------------------------|-------------------------------------------------------------|--------------------------|----------------------------------|
-| ATA 22          | General Overview | Auto Flight System Overview | ROBBBO-T-A-22-00-00-00A-000-D | N/A                    | Own Production            | Introduction to the Auto Flight System                       | N/A                      | Energy-efficient and recyclable design |
-| ATA 22          | Flight Control Laws | Flight Control Computer (FCC) | ROBBBO-T-A-22-01-00-00A-000-D | FCC-5000               | Honeywell Aerospace       | Governs autopilot and flight controls                        | $45,000 - $60,000        | Modular, recyclable, low energy consumption |
-| ATA 22          | Flight Control Laws | Control Surface Actuator        | ROBBBO-T-A-22-01-00-00A-000-D | CSA-7001               | Moog Inc.                 | Controls ailerons, elevators, and rudders                    | $25,000 - $35,000        | Long lifecycle, recyclable materials |
-| ATA 22          | Navigation Integration | Navigation Data Processing Unit | ROBBBO-T-A-22-02-00-00A-000-D | NDPU-4000              | Thales Group              | Integrates GPS and INS data                                  | $35,000 - $50,000        | Low energy use, upgradable, recyclable |
-| ATA 22          | Autopilot Functions | Autopilot Command Module        | ROBBBO-T-A-22-03-00-00A-000-D | ACM-2002               | Collins Aerospace         | Provides autopilot capabilities                              | $30,000 - $40,000        | Modular upgrades, recyclable components |
-| ATA 22          | Flight Management System | Flight Management Computer    | ROBBBO-T-A-22-04-00-00A-000-D | FMC-3000               | Honeywell Aerospace       | Manages flight plans and performance                         | $75,000 - $100,000       | Energy-efficient, recyclable materials |
-| ATA 22          | Autothrottle System | Autothrottle Control Unit        | ROBBBO-T-A-22-05-00-00A-000-D | ACU-5500               | Safran Electronics        | Adjusts engine thrust automatically                          | $50,000 - $65,000        | Recyclable, energy-efficient design |
-| ATA 22          | System Monitoring   | System Performance Monitoring Unit | ROBBBO-T-A-22-06-00-00A-000-D | SPMU-1000              | Meggitt Avionics          | Monitors AFS performance                                     | $18,000 - $25,000        | Modular, upgradable, low power consumption |
-| ATA 22          | Pilot Interfaces    | Mode Control Panel              | ROBBBO-T-A-22-07-00-00A-000-D | MCP-900                | Collins Aerospace         | Pilot interface for AFS configuration                        | $20,000 - $30,000        | Long-lasting, recyclable materials |
-| ATA 22          | Redundancy & Safety | Backup Flight Control Computer   | ROBBBO-T-A-22-08-00-00A-000-D | BFCC-6000              | Honeywell Aerospace       | Provides redundancy for flight control                       | $50,000 - $65,000        | Recyclable, low power consumption |
-| ATA 22          | Environmental Compliance | Energy Efficiency Module      | ROBBBO-T-A-22-10-00-00A-000-D | EEM-500                | Honeywell Aerospace       | Optimizes system energy use                                  | $8,000 - $10,000         | Enhances efficiency, supports sustainability goals |
+| **ATA Chapter** | **Section**                | **Component**                   | **DMC Code**            | **Part Number (PNR)** | **Manufacturer/Supplier** | **Description**                                             | **Estimated Cost (USD)** | **Circularity & Sustainability** |
+|-----------------|----------------------------|---------------------------------|-------------------------|-----------------------|---------------------------|-------------------------------------------------------------|--------------------------|----------------------------------|
+| ATA 22          | General Overview           | Auto Flight System Overview     | ROBBBO-T-A-22-00-00-00A-000-D | N/A                    | Own Production            | Introduction to the Auto Flight System                       | N/A                      | Energy-efficient and recyclable design |
+| ATA 22          | Flight Control Laws        | Flight Control Computer (FCC)   | ROBBBO-T-A-22-01-00-00A-000-D | FCC-5000               | Honeywell Aerospace       | Governs autopilot and flight controls                        | $45,000 - $60,000        | Modular, recyclable, low energy consumption |
+| ATA 22          | Flight Control Laws        | Control Surface Actuator (CSA)  | ROBBBO-T-A-22-01-00-00A-000-D | CSA-7001               | Moog Inc.                 | Controls ailerons, elevators, and rudders                    | $25,000 - $35,000        | Long lifecycle, recyclable materials |
+| ATA 22          | Navigation Integration      | Navigation Data Processing Unit  | ROBBBO-T-A-22-02-00-00A-000-D | NDPU-4000              | Thales Group              | Integrates GPS and INS data                                  | $35,000 - $50,000        | Low energy use, upgradable, recyclable |
+| ATA 22          | Autopilot Functions        | Autopilot Command Module (ACM)  | ROBBBO-T-A-22-03-00-00A-000-D | ACM-2002               | Collins Aerospace         | Provides autopilot capabilities                              | $30,000 - $40,000        | Modular upgrades, recyclable components |
+| ATA 22          | Flight Management System    | Flight Management Computer (FMC) | ROBBBO-T-A-22-04-00-00A-000-D | FMC-3000               | Honeywell Aerospace       | Manages flight plans and performance                         | $75,000 - $100,000       | Energy-efficient, recyclable materials |
+| ATA 22          | Autothrottle System        | Autothrottle Control Unit (ACU) | ROBBBO-T-A-22-05-00-00A-000-D | ACU-5500               | Safran Electronics        | Automatically adjusts engine thrust                           | $50,000 - $65,000        | Recyclable, energy-efficient design |
+| ATA 22          | System Monitoring          | System Performance Monitoring Unit| ROBBBO-T-A-22-06-00-00A-000-D | SPMU-1000              | Meggitt Avionics          | Monitors AFS performance                                     | $18,000 - $25,000        | Modular, upgradable, low power consumption |
+| ATA 22          | Pilot Interfaces           | Mode Control Panel              | ROBBBO-T-A-22-07-00-00A-000-D | MCP-900                | Collins Aerospace         | Pilot interface for AFS configuration                        | $20,000 - $30,000        | Long-lasting, recyclable materials |
+| ATA 22          | Redundancy & Safety       | Backup Flight Control Computer   | ROBBBO-T-A-22-08-00-00A-000-D | BFCC-6000              | Honeywell Aerospace       | Provides redundancy for flight control                       | $50,000 - $65,000        | Recyclable, low power consumption |
+| ATA 22          | Environmental Compliance    | Energy Efficiency Module        | ROBBBO-T-A-22-10-00-00A-000-D | EEM-500                | Honeywell Aerospace       | Optimizes system energy use                                  | $8,000 - $10,000         | Enhances efficiency, supports sustainability goals |
 
 ---
 
 ### **3. IPL/IPD Breakdown**
 
+This section serves as a structured framework for understanding maintenance and operational guidance for the Auto Flight System.
+
 | **Section Code** | **Component**                    | **DM Code** | **Part Number** | **Manufacturer** | **Description**                      | **Estimated Cost (USD)** | **Sustainability**             |
 |------------------|----------------------------------|-------------|-----------------|------------------|--------------------------------------|--------------------------|-------------------------------|
-| **22-00**        | Auto Flight System Overview      | ROBBBO-T-A-22-00-00-00A-000-D | N/A              | Own Production  | General overview of AFS             | N/A                      | Recyclable, energy-efficient |
+| **22-00**        | Auto Flight System Overview      | ROBBBO-T-A-22-00-00-00A-000-D | N/A              | Own Production  | General overview of the AFS          | N/A                      | Recyclable, energy-efficient  |
 | **22-01**        | Flight Control Computer (FCC)    | ROBBBO-T-A-22-01-00-00A-000-D | FCC-5000         | Honeywell Aerospace | Governs autopilot functions         | $45,000 - $60,000         | Modular, recyclable components |
 
 ---
@@ -5092,160 +5109,169 @@ This table includes real and fictional part numbers (PNRs), descriptions, costs,
 
 | **Figure No.**   | **Title**                          | **DM Code** | **Description**                                | **Reusability**                          |
 |------------------|------------------------------------|-------------|-----------------------------------------------|------------------------------------------|
-| **22-01-01**     | Installation of Flight Control Computer (FCC) | ROBBBO-T-A-22-01-00-00A-000-D | Mounting and electrical connections | Reusable, inspect during maintenance     |
-| **22-03-01**     | Installation of Autopilot Command Module (ACM) | ROBBBO-T-A-22-03-00-00A-000-D | Mechanical installation and wiring  | Reusable, recalibrate as needed          |
+| **22-01-01**     | Installation of Flight Control Computer (FCC) | ROBBBO-T-A-22-01-00-00A-000-D | Mounting and electrical connections          | Reusable, inspect during maintenance     |
+| **22-03-01**     | Installation of Autopilot Command Module (ACM) | ROBBBO-T-A-22-03-00-00A-000-D | Mechanical installation and wiring          | Reusable, recalibrate as needed          |
 
 ---
 
 ### **5. Maintenance Pageblocks Table (MP01 to MP09)**
 
-| **Pageblock No.** | **Task Type**         | **Description**                                             | **DM Code**                        |
-|-------------------|-----------------------|-------------------------------------------------------------|------------------------------------|
-| **MP01**          | Installation/Removal  | Installation/removal of Flight Control Computer (FCC)        | ROBBBO-T-A-22-01-00-00A-000-D      |
-| **MP02
+This table outlines maintenance tasks to facilitate effective scheduling and resource management.
 
-**          | Inspection            | Inspect Autothrottle Control Unit for functionality          | ROBBBO-T-A-22-05-00-00A-000-D      |
+| **Pageblock No.** | **Task Type**         | **Description**                                             | **DM Code**                        | **Expected Duration** | **Frequency** |
+|-------------------|-----------------------|-------------------------------------------------------------|
+
+------------------------------------|-----------------------|----------------|
+| **MP01**          | Installation/Removal  | Installation/removal of Flight Control Computer (FCC)        | ROBBBO-T-A-22-01-00-00A-000-D      | 2 hours               | As needed       |
+| **MP02**          | Inspection            | Inspect Autothrottle Control Unit for functionality          | ROBBBO-T-A-22-05-00-00A-000-D      | 1 hour                | Every 500 flight hours |
+| **MP03**          | Cleaning              | Clean the Mode Control Panel to ensure operational clarity   | ROBBBO-T-A-22-07-00-00A-000-D      | 30 minutes            | Every 250 flight hours |
+| **MP04**          | Troubleshooting       | Troubleshoot Autopilot Command Module issues                  | ROBBBO-T-A-22-03-00-00A-000-D      | 1 hour                | As needed       |
+| **MP05**          | Calibration           | Calibrate Flight Management Computer (FMC)                   | ROBBBO-T-A-22-04-00-00A-000-D      | 1 hour                | Annually       |
+| **MP06**          | Fault Isolation       | Isolate faults in Flight Control laws                        | ROBBBO-T-A-22-01-00-00A-000-D      | 1-2 hours             | As needed       |
+| **MP07**          | Performance Check     | Perform system-wide performance check                        | ROBBBO-T-A-22-06-00-00A-000-D      | 1 hour                | Every 1,000 flight hours |
+| **MP08**          | Software Update       | Update firmware for the Energy Efficiency Module              | ROBBBO-T-A-22-10-00-00A-000-D      | 30 minutes            | As needed       |
+| **MP09**          | Documentation Review  | Review training materials and procedures for pilots          | ROBBBO-T-A-22-09-00-00A-000-D      | 1 hour                | Every 6 months |
 
 ---
 
 ### **6. System Operation**
 
-The Auto Flight System operates through the integration of components such as:
+The Auto Flight System operates through the integration of various components to ensure efficient and safe flight operations:
 
-- **Flight Control**: Managed by **Flight Control Computer (FCC-5000)**, controlling surfaces via **Control Surface Actuators (CSA-7001)**.
-- **Navigation**: **Navigation Data Processing Unit (NDPU-4000)** processes GPS and INS data for flight path accuracy.
+- **Flight Control**: Managed by the **Flight Control Computer (FCC-5000)**, which regulates control surfaces via **Control Surface Actuators (CSA-7001)**.
+- **Navigation**: The **Navigation Data Processing Unit (NDPU-4000)** processes GPS and INS data for precise flight path tracking.
+- **Autothrottle**: The **Autothrottle Control Unit (ACU-5500)** automatically adjusts engine thrust for optimal speed and fuel efficiency.
 
 ---
 
 ### **7. Sustainability Practices**
 
-- **Energy Efficiency**: Components designed for low power consumption.
-- **Recyclable Materials**: Use of eco-friendly and recyclable materials across systems.
-- **Lifecycle Management**: Built-in modularity allows for upgrades and long-term sustainability.
+- **Energy Efficiency**: All components are designed for low power consumption, contributing to overall operational efficiency.
+- **Recyclable Materials**: Eco-friendly materials are utilized across the system to enhance sustainability.
+- **Lifecycle Management**: Modular designs allow for easy upgrades and repairs, extending the lifecycle of components.
 
 ---
 
-# ATA Chapter 23: Communications System Overview
+
+### **ATA Chapter 23: Communications System Overview**
 
 ## System Description
-The **Communications System** (ATA Chapter 23) is critical for ensuring reliable, real-time communication between the flight crew, air traffic control (ATC), ground services, and passengers. It supports both voice and data transmission, integrating with other onboard systems like navigation and flight management to optimize operational efficiency. This chapter provides a detailed description of the system’s components—including **DM Codes**, **Part Numbers (PNRs)**, **Illustrated Parts Lists (IPL/IPD)**—and outlines how sustainability and environmental compliance are achieved through modern design practices.
+The **Communications System** (ATA Chapter 23) is essential for maintaining reliable, real-time communication among the flight crew, air traffic control (ATC), ground services, and passengers. It supports both voice and data transmission and integrates with other onboard systems, such as navigation and flight management, to optimize operational efficiency. This chapter provides a detailed description of the system’s components, including **DM Codes**, **Part Numbers (PNRs)**, and **Illustrated Parts Lists (IPL/IPD)**, and outlines how sustainability and environmental compliance are achieved through modern design practices.
 
 ## Key Functions of the Communications System
-1. **Voice Communication**: VHF and HF radios enable short- and long-range voice communication with ATC and other aircraft.
-2. **Data Communication**: Systems such as ACARS and SATCOM transmit flight data and operational messages.
-3. **Emergency Communication**: Backup systems, like Emergency Locator Transmitters (ELT), ensure connectivity in emergencies.
-4. **Crew Intercom Systems**: Enables communication between cockpit and cabin crew.
-5. **Integration with Other Systems**: The communications system integrates with navigation, flight management, and surveillance systems.
+1. **Voice Communication**: VHF and HF radios facilitate short- and long-range voice communication with ATC and other aircraft.
+2. **Data Communication**: Systems like ACARS and SATCOM transmit flight data and operational messages efficiently.
+3. **Emergency Communication**: Backup systems, including Emergency Locator Transmitters (ELT), ensure connectivity during emergencies.
+4. **Crew Intercom Systems**: Enable seamless communication between cockpit and cabin crew.
+5. **Integration with Other Systems**: The communications system interfaces with navigation, flight management, and surveillance systems.
 6. **Monitoring and Alerts**: Real-time monitoring of system health with alerts for malfunctions or performance issues.
-7. **Redundancy**: Includes backup systems and components to maintain functionality during failures.
-8. **Pilot Interfaces**: Control panels and displays provide easy access to communication controls and status.
+7. **Redundancy**: Incorporates backup systems and components to maintain functionality during failures.
+8. **Pilot Interfaces**: Control panels and displays provide easy access to communication controls and system status.
 
 ## 4-Digit Breakdown of ATA Chapter 23
-| **Section** | **Description**                                                                                                                |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **23-00**   | General Overview: Introduction to the Communications System and its role in aviation operations.                             |
-| **23-01**   | Voice Communication Systems: Overview of cockpit and cabin voice communication capabilities, including intercom systems.    |
-| **23-02**   | Data Communication Systems: Explanation of data link systems for transmitting flight information and operational data.        |
-| **23-03**   | Radio Systems: Details on VHF, HF, and satellite communication systems used for voice and data transmission.                 |
-| **23-04**   | Emergency Communication Systems: Features of backup communication systems to ensure connectivity during emergencies.          |
-| **23-05**   | Cockpit Display Interfaces: Description of displays and controls used for managing communication systems in the cockpit.     |
-| **23-06**   | Integration with Other Systems: Overview of how the communications system integrates with navigation, surveillance, and flight management systems. |
-| **23-07**   | Monitoring and Alert Features: Systems for monitoring communication performance and generating alerts for any issues.         |
-| **23-08**   | Redundancy and Reliability Features: Discussion of backup systems and protocols to ensure continuous operation.               |
-| **23-09**   | Training and Operational Procedures: Guidelines for pilot training and standard operating procedures for using the communications system. |
-| **23-10**   | Regulatory Compliance: Overview of compliance with aviation communication standards and regulations.                           |
+| **Section Code**          | **Description**                                                                                                                                                     |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **23-00-00-00A-000-D**    | **General Overview**: Introduction to the Communications System and its vital role in aviation operations.                                                         |
+| **23-01-00-00A-000-D**    | **Voice Communication Systems**: Overview of cockpit and cabin voice communication capabilities, including intercom systems.                                     |
+| **23-02-00-00A-000-D**    | **Data Communication Systems**: Explanation of data link systems for transmitting flight information and operational data.                                       |
+| **23-03-00-00A-000-D**    | **Radio Systems**: Details on VHF, HF, and satellite communication systems used for voice and data transmission.                                                 |
+| **23-04-00-00A-000-D**    | **Emergency Communication Systems**: Features of backup communication systems that ensure connectivity during emergencies.                                        |
+| **23-05-00-00A-000-D**    | **Cockpit Display Interfaces**: Description of displays and controls used for managing communication systems in the cockpit.                                     |
+| **23-06-00-00A-000-D**    | **Integration with Other Systems**: Overview of how the communications system integrates with navigation, surveillance, and flight management systems.              |
+| **23-07-00-00A-000-D**    | **Monitoring and Alert Features**: Systems for monitoring communication performance and generating alerts for any issues.                                          |
+| **23-08-00-00A-000-D**    | **Redundancy and Reliability Features**: Discussion of backup systems and protocols to ensure continuous operation.                                                |
+| **23-09-00-00A-000-D**    | **Training and Operational Procedures**: Guidelines for pilot training and standard operating procedures for utilizing the communications system effectively.      |
+| **23-10-00-00A-000-D**    | **Regulatory Compliance**: Overview of compliance with aviation communication standards and regulations.                                                          |
 
 ## Comprehensive Component Table
-| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+| **ATA Chapter** | **Section**                | **Component**                  | **DMC Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
 |-----------------|----------------------------|--------------------------------|----------------------------------|------------------------|------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
-| **23-00**       | General Overview            | Communications System Overview | ROBBBO-T-A-23-00-00-00A-000-D    | N/A                    | Own Production         | Provides an overview of the entire communication system | N/A                      | Modular, energy-efficient design with recyclable materials             |
-| **23-01**       | Voice Communication Systems | VHF Radio Transceiver          | ROBBBO-T-A-23-01-00-00A-000-D    | VHF-1234 (FN)          | Hypothetical Vendor    | Provides short-range VHF communication                  | $10,000 - $15,000        | Recyclable materials, designed for easy maintenance                    |
+| **23-00**       | General Overview            | Communications System Overview | ROBBBO-T-A-23-00-00-00A-000-D    | N/A                    | Own Production         | Provides an overview of the entire communications system | N/A                      | Modular, energy-efficient design with recyclable materials             |
+| **23-01**       | Voice Communication Systems | VHF Radio Transceiver          | ROBBBO-T-A-23-01-00-00A-000-D    | VHF-1234 (FN)          | Hypothetical Vendor    | Facilitates short-range VHF communication               | $10,000 - $15,000        | Recyclable materials, designed for easy maintenance                    |
 | **23-01**       | Voice Communication Systems | Audio Control Panel            | ROBBBO-T-A-23-01-00-00A-000-D    | ACP-8901               | Collins Aerospace      | Manages communication channels and audio settings       | $5,000 - $8,000          | Modular design for easy repairs, recyclable materials                   |
 | **23-01**       | Voice Communication Systems | Flight Deck Interphone System  | ROBBBO-T-A-23-01-00-00A-000-D    | INT-2056               | Honeywell Aerospace    | Enables internal communication between cockpit and cabin | $7,000 - $10,000         | Eco-friendly, recyclable materials                                      |
-| **23-02**       | Data Communication Systems  | ACARS Communication Module     | ROBBBO-T-A-23-02-00-00A-000-D    | ACARS-9876             | Collins Aerospace      | Sends operational data between aircraft and ground      | $20,000 - $25,000        | Low-energy, recyclable and upgradable components                       |
-| **23-02**       | Data Communication Systems  | SATCOM System                  | ROBBBO-T-A-23-02-00-00A-000-D    | SATCOM-5678 (FN)       | Hypothetical Vendor    | Provides satellite communication capabilities           | $50,000 - $70,000        | Modular design for future upgrades                                      |
-| **23-03**       | Radio Systems               | HF Radio Transceiver           | ROBBBO-T-A-23-03-00-00A-000-D    | HF-4321 (FN)           | Hypothetical Vendor    | Provides long-range HF communication                    | $20,000 - $30,000        | Recyclable materials, energy-efficient design                          |
-| **23-04**       | Emergency Communication     | Emergency Locator Transmitter  | ROBBBO-T-A-23-04-00-00A-000-D    | ELT-7785               | Honeywell Aerospace    | Sends emergency distress signals                        | $12,000 - $15,000        | Long-lasting, minimal energy consumption                               |
-| **23-05**       | Cockpit Display Interfaces  | Multifunction Display Unit     | ROBBBO-T-A-23-05-00-00A-000-D    | MFD-8000               | Collins Aerospace      | Displays communication system settings                  | $25,000 - $30,000        | Energy-efficient, recyclable components                                 |
+| **23-02**       | Data Communication Systems  | ACARS Communication Module     | ROBBBO-T-A-23-02-00-00A-000-D    | ACARS-9876             | Collins Aerospace      | Sends operational data between aircraft and ground      | $20,000 - $25,000        | Low-energy, recyclable, and upgradable components                       |
+| **23-02**       | Data Communication Systems  | SATCOM System                  | ROBBBO-T-A-23-02-00-00A-000-D    | SATCOM-5678 (FN)       | Hypothetical Vendor    | Provides satellite communication capabilities            | $50,000 - $70,000        | Modular design for future upgrades                                      |
+| **23-03**       | Radio Systems               | HF Radio Transceiver           | ROBBBO-T-A-23-03-00-00A-000-D    | HF-4321 (FN)           | Hypothetical Vendor    | Facilitates long-range HF communication                 | $20,000 - $30,000        | Recyclable materials, energy-efficient design                          |
+| **23-04**       | Emergency Communication     | Emergency Locator Transmitter   | ROBBBO-T-A-23-04-00-00A-000-D    | ELT-7785               | Honeywell Aerospace    | Sends emergency distress signals                         | $12,000 - $15,000        | Long-lasting, minimal energy consumption                               |
+| **23-05**       | Cockpit Display Interfaces  | Multifunction Display Unit      | ROBBBO-T-A-23-05-00-00A-000-D    | MFD-8000               | Collins Aerospace      | Displays communication system settings                   | $25,000 - $30,000        | Energy-efficient, recyclable components                                 |
 | **23-06**       | Integration with Other Systems | Communication Interface Module | ROBBBO-T-A-23-06-00-00A-000-D    | CIM-5500               | Thales Group           | Integrates communication with navigation systems        | $12,000 - $15,000        | Recyclable materials, low energy consumption                           |
-| **23-07**       | Monitoring and Alerts       | Communication Monitoring Unit  | ROBBBO-T-A-23-07-00-00A-000-D    | CMU-3200               | Meggitt Avionics       | Monitors system performance and generates alerts         | $10,000 - $12,000        | Modular, upgradable, low power consumption                             |
-| **23-08**       | Redundancy and Reliability  | Backup VHF Radio Transceiver   | ROBBBO-T-A-23-08-00-00A-000-D    | VHF-1234B (FN)         | Hypothetical Vendor    | Backup for VHF communication                            | $10,000 - $15,000        | Built for modularity and recyclability                                 |
+| **23-07**       | Monitoring and Alerts       | Communication Monitoring Unit   | ROBBBO-T-A-23-07-00-00A-000-D    | CMU-3200               | Meggitt Avionics       | Monitors system performance and generates alerts        | $10,000 - $12,000        | Modular, upgradable, low power consumption                             |
+| **23-08**       | Redundancy and Reliability  | Backup VHF Radio Transceiver    | ROBBBO-T-A-23-08-00-00A-000-D    | VHF-1234B (FN)         | Hypothetical Vendor    | Backup system for VHF communication                     | $10,000 - $15,000        | Built for modularity and recyclability                                 |
 | **23-10**       | Regulatory Compliance       | Compliance Documentation Package | ROBBBO-T-A-23-10-00-00A-000-D    | CCM-5555               | Thales Group           | Ensures regulatory compliance with communication standards | $10,000 - $12,000        | Ensures compliance with environmental standards                         |
 
 ## IPL/IPD Breakdown
-| **Section** | **Component**                          | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**                                        |
-|-------------|----------------------------------------|----------------------------------|------------------------|------------------------|---------------------------------------------------------|--------------------------|----------------------------------------------------------|
-| 23-00       | Communications System Overview         | ROBBBO-T-A-23-00-00-00A-000-D    | N/A                    | Own Production         | Overview of the communication system                     | N/A                      | Modular design, recyclable components                     |
-| 23-01       | VHF Radio Transceiver                  | ROBBBO-T-A-23-01-00-00A-000-D    | VHF-1234 (FN)          | Hypothetical Vendor    | Provides VHF communication for short-range voice        | $10,000 - $15,000        | Recyclable materials, designed for easy maintenance      |
-| 23-01       | Audio Control Panel                    | ROBBBO-T-A-23-01-00-00A-000-D    | ACP-8901               | Collins Aerospace      | Manages communication channels and audio settings       | $5,000 - $8,000          | Modular and recyclable components                         |
-| 23-01       | Flight Deck Interphone System          | ROBBBO-T-A-23-01-00-00A-000-D    | INT-
+| **Section Code** | **Component**                          | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**                                        |
+|------------------|----------------------------------------|----------------------------------|------------------------|------------------------|---------------------------------------------------------|--------------------------|----------------------------------------------------------|
+| **23-00**        | Communications System Overview         | ROBBBO-T-A-23-00-00-00A-000-D    | N/A                    | Own Production         | Overview of the communication system                     | N/A                      | Modular design, recyclable components                     |
+| **23-01**        | VHF Radio Transceiver                  | ROBBBO-T-A-23-01-00-00A-000-D    | VHF-1234 (FN)          | Hypothetical
 
-2056               | Honeywell Aerospace    | Enables internal communication between cockpit and cabin | $7,000 - $10,000         | Eco-friendly, recyclable materials                        |
-| 23-02       | ACARS Communication Module              | ROBBBO-T-A-23-02-00-00A-000-D    | ACARS-9876             | Collins Aerospace      | Sends operational data between aircraft and ground      | $20,000 - $25,000        | Low-energy, recyclable and upgradable components         |
-| 23-02       | SATCOM System                          | ROBBBO-T-A-23-02-00-00A-000-D    | SATCOM-5678 (FN)       | Hypothetical Vendor    | Provides satellite communication capabilities            | $50,000 - $70,000        | Modular design for future upgrades                        |
-| 23-03       | HF Radio Transceiver                   | ROBBBO-T-A-23-03-00-00A-000-D    | HF-4321 (FN)           | Hypothetical Vendor    | Provides long-range HF communication                     | $20,000 - $30,000        | Recyclable materials, energy-efficient design            |
-| 23-04       | Emergency Locator Transmitter          | ROBBBO-T-A-23-04-00-00A-000-D    | ELT-7785               | Honeywell Aerospace    | Sends emergency distress signals                         | $12,000 - $15,000        | Long-lasting, minimal energy consumption                 |
-| 23-05       | Multifunction Display Unit             | ROBBBO-T-A-23-05-00-00A-000-D    | MFD-8000               | Collins Aerospace      | Displays communication system settings                   | $25,000 - $30,000        | Energy-efficient, recyclable components                   |
-| 23-06       | Communication Interface Module         | ROBBBO-T-A-23-06-00-00A-000-D    | CIM-5500               | Thales Group           | Integrates communication with navigation systems         | $12,000 - $15,000        | Recyclable materials, low energy consumption             |
-| 23-07       | Communication Monitoring Unit          | ROBBBO-T-A-23-07-00-00A-000-D    | CMU-3200               | Meggitt Avionics       | Monitors system performance and generates alerts        | $10,000 - $12,000        | Modular, upgradable, low power consumption               |
-| 23-08       | Backup VHF Radio Transceiver           | ROBBBO-T-A-23-08-00-00A-000-D    | VHF-1234B (FN)         | Hypothetical Vendor    | Backup for VHF communication                             | $10,000 - $15,000        | Built for modularity and recyclability                   |
-| 23-10       | Compliance Documentation               | ROBBBO-T-A-23-10-00-00A-000-D    | CCM-5555               | Thales Group           | Ensures regulatory compliance with communication standards | $10,000 - $12,000        | Ensures compliance with environmental standards           |
+ Vendor    | Provides VHF communication for short-range voice        | $10,000 - $15,000        | Recyclable materials, designed for easy maintenance      |
+| **23-01**        | Audio Control Panel                    | ROBBBO-T-A-23-01-00-00A-000-D    | ACP-8901               | Collins Aerospace      | Manages communication channels and audio settings       | $5,000 - $8,000          | Modular and recyclable components                         |
+| **23-01**        | Flight Deck Interphone System          | ROBBBO-T-A-23-01-00-00A-000-D    | INT-2056               | Honeywell Aerospace    | Enables internal communication between cockpit and cabin | $7,000 - $10,000         | Eco-friendly, recyclable materials                        |
+| **23-02**        | ACARS Communication Module              | ROBBBO-T-A-23-02-00-00A-000-D    | ACARS-9876             | Collins Aerospace      | Sends operational data between aircraft and ground      | $20,000 - $25,000        | Low-energy, recyclable and upgradable components         |
+| **23-02**        | SATCOM System                          | ROBBBO-T-A-23-02-00-00A-000-D    | SATCOM-5678 (FN)       | Hypothetical Vendor    | Provides satellite communication capabilities            | $50,000 - $70,000        | Modular design for future upgrades                        |
+| **23-03**        | HF Radio Transceiver                   | ROBBBO-T-A-23-03-00-00A-000-D    | HF-4321 (FN)           | Hypothetical Vendor    | Provides long-range HF communication                     | $20,000 - $30,000        | Recyclable materials, energy-efficient design            |
+| **23-04**        | Emergency Locator Transmitter          | ROBBBO-T-A-23-04-00-00A-000-D    | ELT-7785               | Honeywell Aerospace    | Sends emergency distress signals                         | $12,000 - $15,000        | Long-lasting, minimal energy consumption                 |
+| **23-05**        | Multifunction Display Unit             | ROBBBO-T-A-23-05-00-00A-000-D    | MFD-8000               | Collins Aerospace      | Displays communication system settings                   | $25,000 - $30,000        | Energy-efficient, recyclable components                   |
+| **23-06**        | Communication Interface Module         | ROBBBO-T-A-23-06-00-00A-000-D    | CIM-5500               | Thales Group           | Integrates communication with navigation systems         | $12,000 - $15,000        | Recyclable materials, low energy consumption             |
+| **23-07**        | Communication Monitoring Unit          | ROBBBO-T-A-23-07-00-00A-000-D    | CMU-3200               | Meggitt Avionics       | Monitors system performance and generates alerts        | $10,000 - $12,000        | Modular, upgradable, low power consumption               |
+| **23-08**        | Backup VHF Radio Transceiver           | ROBBBO-T-A-23-08-00-00A-000-D    | VHF-1234B (FN)         | Hypothetical Vendor    | Backup for VHF communication                             | $10,000 - $15,000        | Built for modularity and recyclability                   |
+| **23-10**        | Compliance Documentation               | ROBBBO-T-A-23-10-00-00A-000-D    | CCM-5555               | Thales Group           | Ensures regulatory compliance with communication standards | $10,000 - $12,000        | Ensures compliance with environmental standards           |
 
 ## IPC Installation Figures (IF) with Reusability
 | **Figure No.** | **Title**                                     | **DM Code**                      | **Description**                                                                                       | **Reusability**                                      |
 |----------------|-----------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 23-01-01       | Installation of VHF Radio Transceiver         | ROBBBO-T-A-23-01-01-00A-D        | Installation of VHF radio transceiver with wiring and antenna integration                             | Reusable, recalibration possible after maintenance   |
-| 23-01-02       | Installation of Audio Control Panel           | ROBBBO-T-A-23-01-02-00A-D        | Installation of the Audio Control Panel in the cockpit, showing wiring and integration                | Long-lasting, easily replaceable                     |
-| 23-02-01       | Installation of ACARS Communication Module     | ROBBBO-T-A-23-02-01-00A-D        | Installation procedure for ACARS module with data bus connections                                      | Supports multiple software updates, modular          |
-| 23-02-02       | Installation of SATCOM System                  | ROBBBO-T-A-23-02-02-00A-D        | Mounting and integration of the SATCOM system and antenna                                              | Easily upgradeable, reusable components               |
-| 23-03-01       | Installation of HF Radio Transceiver           | ROBBBO-T-A-23-03-01-00A-D        | Electrical installation and mounting of the HF transceiver with antenna connections                    | Modular installation for future upgrades              |
-| 23-04-01       | Installation of Emergency Locator Transmitter  | ROBBBO-T-A-23-04-01-00A-D        | Installation of the ELT, including secure mounting and power connections                               | Designed for long-term use, reusability under inspection cycles |
-| 23-05-01       | Installation of Multifunction Display Unit     | ROBBBO-T-A-23-05-01-00A-D        | Installation of MFD in the cockpit, wiring integration with communication systems                      | Reusable display, easily replaceable                  |
-| 23-06-01       | Installation of Communication Interface Module  | ROBBBO-T-A-23-06-01-00A-D        | Interface module integration with navigation and FMS systems                                           | Modular and upgradeable for future systems           |
-| 23-07-01       | Installation of Communication Monitoring Unit   | ROBBBO-T-A-23-07-01-00A-D        | Installation procedure for the CMU, monitoring communication system performance                        | Reusable with software upgrades                       |
-| 23-08-01       | Installation of Backup VHF Radio Transceiver    | ROBBBO-T-A-23-08-01-00A-D        | Mounting and connection of backup VHF radio for redundancy                                             | Modular and easily upgradeable design                 |
+| **23-01-01**   | Installation of VHF Radio Transceiver         | ROBBBO-T-A-23-01-01-00A-D        | Installation of VHF radio transceiver with wiring and antenna integration                             | Reusable, recalibration possible after maintenance   |
+| **23-01-02**   | Installation of Audio Control Panel           | ROBBBO-T-A-23-01-02-00A-D        | Installation of the Audio Control Panel in the cockpit, showing wiring and integration                | Long-lasting, easily replaceable                     |
+| **23-02-01**   | Installation of ACARS Communication Module     | ROBBBO-T-A-23-02-01-00A-D        | Installation procedure for ACARS module with data bus connections                                      | Supports multiple software updates, modular          |
+| **23-02-02**   | Installation of SATCOM System                  | ROBBBO-T-A-23-02-02-00A-D        | Mounting and integration of the SATCOM system and antenna                                              | Easily upgradeable, reusable components               |
+| **23-03-01**   | Installation of HF Radio Transceiver           | ROBBBO-T-A-23-03-01-00A-D        | Electrical installation and mounting of the HF transceiver with antenna connections                    | Modular installation for future upgrades              |
+| **23-04-01**   | Installation of Emergency Locator Transmitter  | ROBBBO-T-A-23-04-01-00A-D        | Installation of the ELT, including secure mounting and power connections                               | Designed for long-term use, reusability under inspection cycles |
+| **23-05-01**   | Installation of Multifunction Display Unit     | ROBBBO-T-A-23-05-01-00A-D        | Installation of MFD in the cockpit, wiring integration with communication systems                      | Reusable display, easily replaceable                  |
+| **23-06-01**   | Installation of Communication Interface Module  | ROBBBO-T-A-23-06-01-00A-D        | Interface module integration with navigation and FMS systems                                           | Modular and upgradeable for future systems           |
+| **23-07-01**   | Installation of Communication Monitoring Unit   | ROBBBO-T-A-23-07-01-00A-D        | Installation procedure for the CMU, monitoring communication system performance                        | Reusable with software upgrades                       |
+| **23-08-01**   | Installation of Backup VHF Radio Transceiver    | ROBBBO-T-A-23-08-01-00A-D        | Mounting and connection of backup VHF radio for redundancy                                             | Modular and easily upgradeable design                 |
 
 ## Maintenance Pageblocks Table (MP01 to MP09)
 | **Pageblock No.** | **Task Type**        | **Description**                                                        | **DM Code**                      |
 |-------------------|----------------------|------------------------------------------------------------------------|----------------------------------|
-| MP01              | Installation/Removal  | Installation/removal of VHF Radio Transceiver                          | ROBBBO-T-A-23-01-00-00A-000-D    |
-| MP02              | Inspection            | Inspect Audio Control Panel for functionality and connectivity issues  | ROBBBO-T-A-23-01-00-00A-000-D    |
-| MP03              | Troubleshooting       | Troubleshoot SATCOM System for signal and connectivity issues          | ROBBBO-T-A-23-02-00-00A-000-D    |
-| MP04              | Software Updates      | Perform software updates on ACARS Communication Module                  | ROBBBO-T-A-23-02-00-00A-000-D    |
-| MP05              | Testing               | Test the Emergency Locator Transmitter for proper signal output        | ROBBBO-T-A-23-04-00-00A-000-D    |
-| MP06              | Inspection            | Inspect HF Radio Transceiver for long-range communication performance   | ROBBBO-T-A-23-03-00-00A-000-D    |
-| MP07              | Maintenance           | Perform routine checks on Communication Monitoring Unit                 | ROBBBO-T-A-23-07-00-00A-000-D    |
-| MP08              | Calibration           | Calibrate Multifunction Display Unit                                    | ROBBBO-T-A-23-05-00-00A-000-D    |
-| MP09              | Testing               | Validate installation and functionality of Communication Interface Module| ROBBBO-T-A-23-06-00-00A-000-D    |
+| **MP01**          | Installation/Removal  | Installation/removal of VHF Radio Transceiver                          | ROBBBO-T-A-23-01-00-00A-000-D    |
+| **MP02**          | Inspection            | Inspect Audio Control Panel for functionality and connectivity issues  | ROBBBO-T-A-23-01-00-00A-000-D    |
+| **MP03**          | Troubleshooting       | Troubleshoot SATCOM System for signal and connectivity issues          | ROBBBO-T-A-23-02-00-00A-000-D    |
+| **MP04**          | Software Updates      | Perform software updates on ACARS Communication Module                  | ROBBBO-T-A-23-02-00-00A-000-D    |
+| **MP05**          | Testing               | Test the Emergency Locator Transmitter for proper signal output        | ROBBBO-T-A-23-04-00-00A-000-D    |
+| **MP06**          | Inspection            | Inspect HF Radio Transceiver for long-range communication performance   | ROBBBO-T-A-23-03-00-00A-000-D    |
+| **MP07**          | Maintenance           | Perform routine checks on Communication Monitoring Unit                 | ROBBBO-T-A-23-07-00-00A-000-D    |
+| **MP08**          | Calibration           | Calibrate Multifunction Display Unit                                    | ROBBBO-T-A-23-05-00-00A-000-D    |
+| **MP09**          | Testing               | Validate installation and functionality of Communication Interface Module| ROBBBO-T-A-23-06-00-00A-000-D    |
 
 ---
 
-This comprehensive overview encapsulates the **Communications System** within the **ROBBBO-T Aircraft**, detailing its components, functions, sustainability efforts, installation processes, and maintenance requirements. Let me know if you need further refinements or wish to proceed to the next ATA chapter!
-
-Certainly! Here’s the complete structured document for ATA Chapter 24: Electrical Power System.
+This comprehensive overview encapsulates the **Communications System** within the **ROBBBO-T Aircraft**, detailing its components, functions, sustainability efforts, installation processes, and maintenance requirements. If you need further adjustments or wish to proceed to the next ATA chapter, just let me know!
 
 ---
 
-# ATA Chapter 24: Electrical Power System
+### **ATA Chapter 24: Electrical Power System Overview**
 
 ## 1. Introduction
-The Electrical Power System (ATA Chapter 24) is critical for supplying, distributing, and managing electrical power throughout the aircraft. It ensures the functionality of essential systems such as avionics, lighting, environmental controls, and flight controls. The system includes power generation components like generators and auxiliary power units (APUs), distribution networks, battery systems, and control units. Designed with redundancy and safety features, the system maintains continuous power supply even under adverse conditions or emergencies. This chapter provides a comprehensive overview of the system, detailed descriptions of its components—including DM Codes, Part Numbers (PNRs) (fictitious ones are marked with (FN)), Illustrated Parts Lists (IPL/IPD), Estimated Costs, and outlines sustainable practices aligned with environmental standards.
+The **Electrical Power System** (ATA Chapter 24) is essential for supplying, distributing, and managing electrical power throughout the aircraft. It ensures the functionality of critical systems such as avionics, lighting, environmental controls, and flight controls. The system incorporates power generation components, including generators and auxiliary power units (APUs), distribution networks, battery systems, and control units. With built-in redundancy and safety features, the system maintains a continuous power supply, even in adverse conditions or emergencies. This chapter provides a comprehensive overview of the system, detailed descriptions of its components—including **DM Codes**, **Part Numbers (PNRs)** (fictitious ones marked with (FN)), **Illustrated Parts Lists (IPL/IPD)**, estimated costs, and outlines sustainable practices aligned with environmental standards.
 
 ## 2. 4-Digit Breakdown of ATA Chapter 24: Electrical Power System
 
-| **Section** | **Description**                                                                                                                                           |
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **24-00**   | **General Overview**: Introduction to the Electrical Power System and its importance in aircraft operations.                                              |
-| **24-01**   | **Power Generation Systems**: Overview of generators and auxiliary power units (APUs) responsible for power generation.                                   |
-| **24-02**   | **Power Distribution Systems**: Details on electrical distribution networks, including buses and circuit protection.                                      |
-| **24-03**   | **Battery Systems**: Explanation of onboard battery types, management, and backup functionalities.                                                        |
-| **24-04**   | **Load Management**: Mechanisms for monitoring and managing electrical loads across various systems.                                                      |
-| **24-05**   | **Monitoring and Control Systems**: Features for real-time monitoring of power system performance and alerts for anomalies.                               |
-| **24-06**   | **Redundancy and Reliability Features**: Discussion on backup systems and protocols to ensure continuous power availability.                              |
-| **24-07**   | **Integration with Other Systems**: Overview of how the electrical power system integrates with avionics and other aircraft systems.                      |
-| **24-08**   | **Training and Operational Procedures**: Guidelines for maintenance and standard operating procedures for managing the electrical power system.           |
-| **24-09**   | **Regulatory Compliance**: Overview of compliance with aviation electrical standards and regulations.                                                     |
-| **24-10**   | **Environmental Compliance**: Overview of how the electrical power system meets environmental standards, focusing on energy efficiency and sustainability. |
+| **Section Code**          | **Description**                                                                                                                                           |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **24-00-00-00A-000-D**    | **General Overview**: Introduction to the Electrical Power System and its critical role in aircraft operations.                                          |
+| **24-01-00-00A-000-D**    | **Power Generation Systems**: Overview of generators and auxiliary power units (APUs) responsible for power generation.                                   |
+| **24-02-00-00A-000-D**    | **Power Distribution Systems**: Details on electrical distribution networks, including buses and circuit protection.                                      |
+| **24-03-00-00A-000-D**    | **Battery Systems**: Explanation of onboard battery types, management, and backup functionalities.                                                        |
+| **24-04-00-00A-000-D**    | **Load Management**: Mechanisms for monitoring and managing electrical loads across various systems.                                                      |
+| **24-05-00-00A-000-D**    | **Monitoring and Control Systems**: Features for real-time monitoring of power system performance and alerts for anomalies.                               |
+| **24-06-00-00A-000-D**    | **Redundancy and Reliability Features**: Discussion of backup systems and protocols to ensure continuous power availability.                              |
+| **24-07-00-00A-000-D**    | **Integration with Other Systems**: Overview of how the electrical power system integrates with avionics and other aircraft systems.                      |
+| **24-08-00-00A-000-D**    | **Training and Operational Procedures**: Guidelines for maintenance and standard operating procedures for managing the electrical power system.           |
+| **24-09-00-00A-000-D**    | **Regulatory Compliance**: Overview of compliance with aviation electrical standards and regulations.                                                     |
+| **24-10-00-00A-000-D**    | **Environmental Compliance**: Overview of how the electrical power system meets environmental standards, focusing on energy efficiency and sustainability. |
 
 ## 3. Power Generation Systems
 
@@ -5278,10 +5304,10 @@ The Electrical Power System (ATA Chapter 24) is critical for supplying, distribu
 ## 6. Load Management
 
 | **Item No.** | **Part Name**             | **Part Number (PNR)** | **Manufacturer**       | **Description**                                                 | **Qty** | **Estimated Cost (USD)** | **Circularity**         | **Sustainability**          | **Reusability**            | **Sustainable Repairability** |
-|--------------|---------------------------|-----------------------|------------------------|-----------------------------------------------------------------|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
-| **24-04-1**  | Load Management Controller | LMC6001               | Honeywell Aerospace    | Manages distribution of electrical loads across systems.        | 1       | $10,000 - $12,500        | Recyclable                | Energy-efficient             | Reusable components        | Easy access
+|--------------|---------------------------|-----------------------|------------------------|----------------------------------------------------------------
 
- for repairs       |
+-|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
+| **24-04-1**  | Load Management Controller | LMC6001               | Honeywell Aerospace    | Manages distribution of electrical loads across systems.        | 1       | $10,000 - $12,500        | Recyclable                | Energy-efficient             | Reusable components        | Easy access for repairs       |
 | **24-04-2**  | Power Management System   | PMS7000               | Thales Group           | Optimizes power usage and system efficiency.                    | 1       | $15,000 - $20,000        | Repairable parts           | Low emissions                | Modular design              | Simple replacement            |
 | **24-04-3**  | Load Shedding Module      | **LSM-4500** (FN)     | Hypothetical Vendor    | Automatically disconnects non-essential loads during anomalies. | 1       | $7,000 - $9,000          | Recyclable materials       | Efficient operation           | Easily replaceable          | Designed for modular upgrades  |
 | **24-04-4**  | Load Relay Panel          | LRP8000               | Collins Aerospace      | Houses relays for controlling power to various systems.         | 1       | $5,000 - $7,000          | Recyclable                | Long-lasting                 | Reusable                    | Easy access for repairs       |
@@ -5326,13 +5352,13 @@ The Electrical Power System (ATA Chapter 24) is critical for supplying, distribu
 | **Item No.** | **Part Name**                    | **Part Number (PNR)** | **Manufacturer**      | **Description**                                                  | **Qty** | **Estimated Cost (USD)** | **Circularity**         | **Sustainability**          | **Reusability**            | **Sustainable Repairability** |
 |--------------|----------------------------------|-----------------------|-----------------------|------------------------------------------------------------------|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
 | **24-09-1**  | Compliance Documentation Package | RCM1001               | Thales Group          | Documentation for regulatory compliance of electrical systems.   | 1       | $12,000 - $15,000        | Recyclable                | Efficient operation           | Reusable                    | Easy access for updates       |
-| **24-09-2**  | Emissions Monitoring Unit        | EMU300                | Meggitt Avionics      | Monitors system emissions for compliance with environmental standards. | 1       | $12,000 - $15,000        | Recyclable                | Long lifecycle               | Easily replaceable          | Designed for modular upgrades  |
+| **24-09-2**  | Emissions Monitoring Unit        | EMU300                | Meggitt Avionics      | Monitors system emissions for compliance with environmental standards. | 1       | $12,000 - $15,000        | Recyclable                | Long lifecycle               | Easily replaceable          | Designed
+
+ for modular upgrades  |
 | **24-09-3**  | Energy Efficiency Module         | EEM500                | Honeywell Aerospace   | Optimizes system energy use to meet environmental regulations.   | 1       | $8,000 - $10,000         | Recyclable                | Low emissions                | Easily replaceable          | Simple replacement            |
 
 ## 12. Performance Monitoring
-- **Real
-
--time Monitoring Systems**: Description of tools and technologies for continuous performance tracking.
+- **Real-time Monitoring Systems**: Description of tools and technologies for continuous performance tracking.
 - **Key Performance Indicators (KPIs)**: Metrics for evaluating system efficiency, such as power output, load management, and response times.
 - **Data Analysis**: Procedures for analyzing performance data to identify trends and areas for improvement.
 
@@ -5375,2372 +5401,727 @@ The Electrical Power System is essential for the safe and efficient operation of
 
 This structured overview encapsulates the key elements of maintaining optimal efficiency, sustainability, quality, and security for the Electrical Power System in the aircraft.
 
----
+# ATA Chapter 25: Equipment and Furnishings System Overview
+
+## 1. Introduction
+The **Equipment and Furnishings System** (ATA Chapter 25) is essential for enhancing passenger comfort, crew functionality, and overall operational efficiency within the aircraft. This system encompasses all interior components, including seating, galleys, lavatories, and cargo areas, ensuring compliance with safety and regulatory standards. It integrates seamlessly with other systems such as environmental controls and avionics, contributing to the aircraft's holistic operation. This chapter provides a comprehensive overview of the system, including detailed descriptions of components—featuring DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), Estimated Costs, and sustainable practices aligned with environmental regulations.
+
+## 2. 4-Digit Breakdown of ATA Chapter 25: Equipment and Furnishings System
+
+| **Section** | **Description**                                                                                                                                               |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **25-00**   | **General Overview**: Introduction to the Equipment and Furnishings System and its role in enhancing aircraft operations.                                      |
+| **25-01**   | **Seating Systems**: Overview of passenger and crew seating configurations, materials, and safety features.                                                   |
+| **25-02**   | **Galley Equipment**: Details on the cooking, heating, and storage systems used in aircraft galleys for meal preparation and service.                        |
+| **25-03**   | **Lavatory Systems**: Description of lavatory features, including waste management, water systems, and sanitation protocols.                                   |
+| **25-04**   | **Cargo and Baggage Handling**: Overview of systems for managing cargo and passenger baggage, including compartments and handling equipment.                  |
+| **25-05**   | **Interior Furnishings**: Details on decorative and functional furnishings, including panels, lighting, and storage solutions that enhance passenger experience. |
+| **25-06**   | **Safety Equipment**: Information on emergency and safety equipment installed within the aircraft, including life vests and oxygen systems.                     |
+| **25-07**   | **Monitoring and Control Systems**: Features for monitoring the condition and functionality of equipment and furnishings.                                       |
+| **25-08**   | **Integration with Other Systems**: Overview of how the Equipment and Furnishings System integrates with environmental controls and electrical systems.         |
+| **25-09**   | **Training and Operational Procedures**: Guidelines for personnel on the use and maintenance of equipment and furnishings.                                     |
+| **25-10**   | **Regulatory Compliance**: Overview of compliance with safety and operational standards in aviation regarding equipment and furnishings.                       |
+| **25-11**   | **Environmental Compliance**: Description of how the Equipment and Furnishings System adheres to environmental regulations, focusing on material sustainability.  |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **25-00**       | General Overview            | Equipment and Furnishings Overview | ROBBBO-T-A-25-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Equipment and Furnishings System        | N/A                      | Energy-efficient and designed for recyclability                        |
+| **25-01**       | Seating Systems             | Passenger Seat Assembly      | ROBBBO-T-A-25-01-00-00A-000-D    | PS-2000                  | Collins Aerospace        | Provides comfortable seating for passengers               | $10,000 - $15,000 each   | Recyclable materials, designed for easy maintenance                    |
+| **25-01**       | Seating Systems             | Crew Seat Assembly           | ROBBBO-T-A-25-01-00-00A-000-D    | CS-1500                  | Zodiac Aerospace         | Ergonomically designed seats for flight crew             | $8,000 - $12,000 each    | Modular design for easy repairs, recyclable components                 |
+| **25-02**       | Galley Equipment            | Galley Module                | ROBBBO-T-A-25-02-00-00A-000-D    | GAL-3000                 | GKN Aerospace            | Complete galley system for food preparation               | $50,000 - $70,000        | Low energy use, recyclable and upgradable components                   |
+| **25-02**       | Galley Equipment            | Oven and Warmer              | ROBBBO-T-A-25-02-00-00A-000-D    | OVEN-400                 | Collins Aerospace        | Used for heating and cooking in the galley               | $15,000 - $20,000        | Energy-efficient, designed for recyclability                          |
+| **25-03**       | Lavatory Systems            | Lavatory Module              | ROBBBO-T-A-25-03-00-00A-000-D    | LAV-500                  | Zodiac Aerospace         | Complete lavatory system for passenger use                | $20,000 - $30,000        | Eco-friendly design, recyclable components                             |
+| **25-03**       | Lavatory Systems            | Waste Management System      | ROBBBO-T-A-25-03-00-00A-000-D    | WMS-800                  | Honeywell Aerospace      | Manages waste and ensures hygiene in lavatories           | $10,000 - $15,000        | Long lifecycle, designed for easy maintenance                          |
+| **25-04**       | Cargo and Baggage Handling  | Cargo Handling System        | ROBBBO-T-A-25-04-00-00A-000-D    | CHS-600                  | Thales Group            | System for managing cargo and baggage loading            | $25,000 - $35,000        | Modular, recyclable materials                                          |
+| **25-05**       | Interior Furnishings        | Cabin Interior Panels        | ROBBBO-T-A-25-05-00-00A-000-D    | CIP-1000                 | Airbus Defence & Space   | Decorative and functional panels in the cabin            | $50,000 - $70,000        | Recyclable materials, low waste                                        |
+| **25-06**       | Safety Equipment            | Life Vest                    | ROBBBO-T-A-25-06-00-00A-000-D    | LV-500                   | Zodiac Aerospace         | Provides flotation in emergencies                          | $500 - $1,000 each       | Recyclable and designed for durability                                 |
+| **25-07**       | Monitoring and Control Systems | System Monitoring Unit      | ROBBBO-T-A-25-07-00-00A-000-D    | SMU-2000                 | Meggitt Avionics        | Monitors performance of equipment and furnishings         | $12,000 - $15,000        | Energy-efficient, modular design                                       |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|--------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **25-00**   | Equipment and Furnishings Overview | ROBBBO-T-A-25-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the Equipment and Furnishings System        | N/A                      | Energy-efficient and recyclable  |
+| **25-01**   | Passenger Seat Assembly        | ROBBBO-T-A-25-01-00-00A-000-D    | PS-2000                  | Collins Aerospace      | Provides seating for passengers                           | $10,000 - $15,000        | Recyclable materials            |
+| **25-02**   | Galley Module                  | ROBBBO-T-A-25-02-00-00A-000-D    | GAL-3000                 | GKN Aerospace          | Complete galley system                                    | $50,000 - $70,000        | Low energy use                  |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                   | **DM Code**                      | **Description**                                                               | **Reusability**                                      |
+|----------------|---------------------------------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **25-01-01**   | Installation of Passenger Seat Assembly     | ROBBBO-T-A-25-01-00-00A-000-D    | Installation procedure for passenger seating, including mounting and safety checks | Reusable, periodic inspection required               |
+| **25-02-01**   | Installation of Galley Module               | ROBBBO-T-A-25-02-00-00A-000-D    | Step-by-step installation of galley equipment, including connections and layout | Modular design, easily replaceable                   |
+| **25-03-01**   | Installation of Lavatory Module             | ROBBBO-T-A-25-03-00-00A-000-D    | Procedure for installing lavatory systems, including plumbing and electrical connections | Reusable, maintainable during scheduled checks       |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.**
+
+ | **Task Type**         | **Description**                                                         | **DM Code**                      |
+|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Passenger Seat Assembly                          | ROBBBO-T-A-25-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Galley Equipment for functionality and compliance               | ROBBBO-T-A-25-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Lavatory Systems for functionality issues                  | ROBBBO-T-A-25-03-00-00A-000-D    |
+| **MP04**          | Maintenance            | Perform routine checks on Cargo Handling System                         | ROBBBO-T-A-25-04-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Safety Equipment                | ROBBBO-T-A-25-06-00-00A-000-D    |
+| **MP06**          | Calibration            | Calibrate Monitoring and Control Systems                                | ROBBBO-T-A-25-07-00-00A-000-D    |
+| **MP07**          | Cleaning               | Clean and maintain Interior Furnishings                                 | ROBBBO-T-A-25-05-00-00A-000-D    |
+| **MP08**          | Documentation          | Update maintenance records and procedures for Equipment and Furnishings | ROBBBO-T-A-25-00-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training sessions on Equipment and Furnishings System           | ROBBBO-T-A-25-00-00-00A-000-D    |
+
+## 7. Conclusion
+The Equipment and Furnishings System plays a vital role in ensuring passenger comfort, operational efficiency, and safety. By integrating advanced design, sustainable materials, and regulatory compliance, the system enhances the overall performance of the aircraft. This commitment to quality, sustainability, and continuous improvement reinforces the importance of the Equipment and Furnishings System in modern aviation.
+
 
 ---
 
-Aquí tienes la estructura del **ATA Chapter 25: Equipment and Furnishings System** con las columnas de circularidad, sostenibilidad, reciclabilidad, reusabilidad y reparabilidad incluidas:
+# ATA Chapter 26: Fire Protection System Overview
 
-# **ATA Chapter 25: Equipment and Furnishings System**
+## 1. Introduction
+The **Fire Protection System** (ATA Chapter 26) is essential for ensuring the safety of passengers, crew, and the aircraft itself by preventing and controlling fires. This system includes fire detection, suppression, and control mechanisms designed to respond to potential fire hazards in various aircraft compartments, including the cockpit, passenger cabin, cargo holds, and engine areas. The system is designed to comply with rigorous safety standards and regulations, integrating seamlessly with other aircraft systems to enhance overall safety. This chapter provides a comprehensive overview of the fire protection system, detailing components—including DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), Estimated Costs—and sustainable practices aligned with environmental standards.
 
-## **1. Introducción**
+## 2. 4-Digit Breakdown of ATA Chapter 26: Fire Protection System
 
-El **Sistema de Equipos y Mobiliario** (ATA Chapter 25) es integral para mejorar la comodidad, seguridad y eficiencia operativa de los pasajeros durante el vuelo. Este sistema abarca una amplia gama de componentes, incluidos asientos, soluciones de almacenamiento, entretenimiento a bordo, iluminación, equipos de seguridad y controles ambientales de cabina. Cada elemento se selecciona e integra meticulosamente para crear una experiencia óptima para el pasajero mientras se garantiza el cumplimiento de estrictas regulaciones de seguridad aeronáutica. Este capítulo proporciona una visión general completa del sistema, descripciones detalladas de sus componentes, incluidos **DM Codes**, **Part Numbers (PNRs)** (los ficticios están marcados con **(FN)**), **Illustrated Parts Lists (IPL/IPD)**, **Estimated Costs**, y prácticas sostenibles alineadas con estándares ambientales.
+| **Section** | **Description**                                                                                                                              |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **26-00**   | **General Overview**: Introduction to the Fire Protection System and its critical role in aircraft safety.                                   |
+| **26-01**   | **Fire Detection Systems**: Overview of fire detection technologies used to identify potential fire sources, including smoke and heat detectors. |
+| **26-02**   | **Fire Suppression Systems**: Details on the various fire suppression methods employed, including portable fire extinguishers and built-in systems.   |
+| **26-03**   | **Fire Control Systems**: Description of control systems that allow for monitoring and managing fire protection measures throughout the aircraft.  |
+| **26-04**   | **Cabin Fire Safety**: Overview of fire safety measures in passenger and crew areas, including materials and procedures to mitigate fire risks.   |
+| **26-05**   | **Cargo Compartment Fire Protection**: Explanation of fire protection measures specific to cargo areas to prevent and manage fire incidents.     |
+| **26-06**   | **Emergency Procedures**: Guidelines for crew and passenger actions in the event of a fire, including evacuation protocols and safety equipment use. |
+| **26-07**   | **Monitoring and Alert Features**: Systems for monitoring fire protection performance and generating alerts for any anomalies.                       |
+| **26-08**   | **Integration with Other Systems**: Overview of how the fire protection system integrates with avionics and other aircraft systems.               |
+| **26-09**   | **Training and Operational Procedures**: Guidelines for crew training on fire prevention, detection, and suppression techniques.                     |
+| **26-10**   | **Regulatory Compliance**: Overview of compliance with aviation fire protection standards and regulations.                                      |
+| **26-11**   | **Environmental Compliance**: Description of how the fire protection system adheres to environmental regulations, focusing on material sustainability. |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                   | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|---------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **26-00**       | General Overview            | Fire Protection System Overview | ROBBBO-T-A-26-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Fire Protection System                   | N/A                      | Energy-efficient design with recyclable materials                     |
+| **26-01**       | Fire Detection Systems      | Smoke Detector                  | ROBBBO-T-A-26-01-00-00A-000-D    | SD-1200                  | Honeywell Aerospace      | Detects smoke presence in various compartments            | $1,000 - $1,500 each     | Recyclable materials, designed for easy maintenance                  |
+| **26-01**       | Fire Detection Systems      | Heat Detector                   | ROBBBO-T-A-26-01-00-00A-000-D    | HD-400                   | Siemens                  | Detects elevated temperatures indicative of fire         | $1,500 - $2,000 each     | Low energy consumption, easily replaceable                          |
+| **26-02**       | Fire Suppression Systems    | Portable Fire Extinguisher     | ROBBBO-T-A-26-02-00-00A-000-D    | PFE-200                  | Kidde Aerospace          | Provides immediate fire suppression capabilities           | $500 - $700 each         | Eco-friendly design, recyclable components                           |
+| **26-02**       | Fire Suppression Systems    | Built-in Fire Suppression System | ROBBBO-T-A-26-02-00-00A-000-D    | BIFS-5000                | Halon Group              | Automated suppression system for critical areas           | $15,000 - $20,000        | Energy-efficient, designed for modular upgrades                      |
+| **26-03**       | Fire Control Systems        | Fire Control Panel              | ROBBBO-T-A-26-03-00-00A-000-D    | FCP-100                  | Thales Group             | Centralized control for fire detection and suppression    | $10,000 - $12,000        | Modular design for easy upgrades                                   |
+| **26-04**       | Cabin Fire Safety           | Cabin Materials                 | ROBBBO-T-A-26-04-00-00A-000-D    | CM-300                   | Collins Aerospace        | Fire-resistant materials used in cabin furnishings         | $50,000 - $70,000        | Sustainable materials, designed for durability                      |
+| **26-05**       | Cargo Compartment Fire Protection | Cargo Fire Detection System   | ROBBBO-T-A-26-05-00-00A-000-D    | CFDS-4500                | Zodiac Aerospace         | Monitors for fire in cargo holds                          | $20,000 - $25,000        | Low emissions, recyclable components                                |
+| **26-06**       | Emergency Procedures        | Emergency Evacuation Signs      | ROBBBO-T-A-26-06-00-00A-000-D    | EES-200                  | Thales Group             | Signs guiding evacuation routes during emergencies         | $1,000 - $1,500 each     | Recyclable, low waste                                              |
+| **26-07**       | Monitoring and Alert Features | Fire Monitoring Unit           | ROBBBO-T-A-26-07-00-00A-000-D    | FMU-1000                 | Meggitt Avionics        | Monitors fire system performance and alerts                | $12,000 - $15,000        | Energy-efficient, modular design                                   |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                   | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|---------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **26-00**   | Fire Protection System Overview  | ROBBBO-T-A-26-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the Fire Protection System                   | N/A                      | Energy-efficient and recyclable  |
+| **26-01**   | Smoke Detector                   | ROBBBO-T-A-26-01-00-00A-000-D    | SD-1200                  | Honeywell Aerospace     | Detects smoke presence in various compartments            | $1,000 - $1,500          | Recyclable materials            |
+| **26-02**   | Built-in Fire Suppression System | ROBBBO-T-A-26-02-00-00A-000-D    | BIFS-5000                | Halon Group             | Automated suppression system for critical areas           | $15,000 - $20,000        | Energy-efficient                 |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                      | **DM Code**                      | **Description**                                                               | **Reusability**                                      |
+|----------------|------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **26-01-01**   | Installation of Smoke Detector                  | ROBBBO-T-A-26-01-00-00A-000-D    | Installation of smoke detector with wiring and calibration                     | Reusable, requires periodic testing                   |
+| **26-02-01**   | Installation of Built-in Fire Suppression System | ROBBBO-T-A-26-02-00-00A-000-D    | Step-by-step installation of built-in suppression system                        | Modular design, easily replaceable                   |
+| **26-03-01**   | Installation of Fire Control Panel              | ROBBBO-T-A-26-03-00-00A-000-D    | Installation of the fire control panel, including connections and layout       | Reusable with maintenance access                     |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
+|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Smoke Detector                                   | ROBBBO-T-A-26-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Built-in Fire Suppression System for functionality              | ROBBBO-T-A-26-02-00
+
+-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Fire Control Systems for operational issues                | ROBBBO-T-A-26-03-00-00A-000-D    |
+| **MP04**          | Maintenance            | Perform routine checks on Cabin Fire Safety features                    | ROBBBO-T-A-26-04-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Fire Monitoring Unit            | ROBBBO-T-A-26-07-00-00A-000-D    |
+| **MP06**          | Calibration            | Calibrate Emergency Evacuation Signs for visibility                     | ROBBBO-T-A-26-06-00-00A-000-D    |
+| **MP07**          | Cleaning               | Clean and maintain Fire Suppression components                           | ROBBBO-T-A-26-02-00-00A-000-D    |
+| **MP08**          | Documentation          | Update maintenance records for Fire Protection System                   | ROBBBO-T-A-26-00-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training on fire safety procedures                               | ROBBBO-T-A-26-00-00-00A-000-D    |
+
+## 7. Conclusion
+The Fire Protection System is a vital component of aircraft safety, ensuring rapid detection and suppression of fires. By utilizing advanced technologies, sustainable materials, and thorough training procedures, the system not only protects lives but also meets stringent regulatory standards. The commitment to quality, sustainability, and continuous improvement reinforces the essential role of the Fire Protection System in modern aviation.
 
 ---
 
-## **2. Desglose de 4 Dígitos del ATA Chapter 25: Sistema de Equipos y Mobiliario**
+This structured overview aligns with the formats and principles established in ATA Chapters 21, 22, 23, 24, and ensures consistency and clarity throughout the documentation. Let me know if you need further modifications or additional information!
 
-| **Sección** | **Descripción**                                                                                                                               |
+---
+
+# ATA Chapter 27: Flight Controls System Overview
+
+## 1. Introduction
+The **Flight Controls System** (ATA Chapter 27) is vital for the safe and effective maneuvering of the aircraft. It encompasses the mechanical, hydraulic, and electronic systems that manage the movement of control surfaces such as ailerons, elevators, rudders, and flaps. This system ensures precise control over the aircraft's pitch, roll, and yaw, contributing to stability and performance during all phases of flight. The chapter provides a comprehensive overview of the flight controls system, detailing components—including DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), Estimated Costs—and outlines sustainable practices in line with environmental standards.
+
+## 2. 4-Digit Breakdown of ATA Chapter 27: Flight Controls System
+
+| **Section** | **Description**                                                                                                                             |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **27-00**   | **General Overview**: Introduction to the Flight Controls System and its significance in aircraft operations.                               |
+| **27-01**   | **Primary Flight Controls**: Overview of primary control surfaces, including ailerons, elevators, and rudders.                             |
+| **27-02**   | **Secondary Flight Controls**: Details on secondary systems such as flaps, slats, and spoilers that enhance performance and control.         |
+| **27-03**   | **Control Surface Actuators**: Description of actuators responsible for moving control surfaces, including hydraulic and electric systems.   |
+| **27-04**   | **Control Systems**: Overview of flight control computers and systems that process pilot inputs and manage control surface movements.        |
+| **27-05**   | **Pilot Interfaces**: Details on control yokes, pedals, and other pilot interfaces used to manipulate flight controls.                       |
+| **27-06**   | **Monitoring and Feedback Systems**: Systems for monitoring control surface positions and providing feedback to the pilot.                   |
+| **27-07**   | **Redundancy and Reliability Features**: Discussion on backup systems and protocols to ensure continuous functionality in case of failures. |
+| **27-08**   | **Integration with Other Systems**: Overview of how the flight controls system integrates with autopilot, navigation, and other systems.   |
+| **27-09**   | **Training and Operational Procedures**: Guidelines for pilot training and standard operating procedures related to flight controls.          |
+| **27-10**   | **Regulatory Compliance**: Overview of compliance with aviation standards and regulations regarding flight control systems.                   |
+| **27-11**   | **Environmental Compliance**: Description of how the flight controls system adheres to environmental regulations, focusing on materials and sustainability. |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **27-00**       | General Overview            | Flight Controls System Overview | ROBBBO-T-A-27-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Flight Controls System                   | N/A                      | Energy-efficient design with recyclable materials                     |
+| **27-01**       | Primary Flight Controls      | Aileron Control Surface        | ROBBBO-T-A-27-01-00-00A-000-D    | AIL-4500                 | Collins Aerospace        | Controls roll by manipulating ailerons                   | $25,000 - $35,000        | Recyclable materials, designed for easy maintenance                  |
+| **27-01**       | Primary Flight Controls      | Elevator Control Surface       | ROBBBO-T-A-27-01-00-00A-000-D    | ELEV-3200                | Honeywell Aerospace      | Controls pitch by adjusting elevators                      | $30,000 - $40,000        | Low energy consumption, easily replaceable                          |
+| **27-02**       | Secondary Flight Controls     | Flap Actuator                  | ROBBBO-T-A-27-02-00-00A-000-D    | FLAP-800                 | Pratt & Whitney          | Adjusts flap positions for enhanced lift                   | $20,000 - $30,000        | Eco-friendly design, recyclable components                           |
+| **27-02**       | Secondary Flight Controls     | Spoiler Control System         | ROBBBO-T-A-27-02-00-00A-000-D    | SPO-550                  | Thales Group             | Provides additional control and reduces lift               | $15,000 - $20,000        | Modular design for future upgrades                                  |
+| **27-03**       | Control Surface Actuators     | Hydraulic Actuator              | ROBBBO-T-A-27-03-00-00A-000-D    | HA-700                   | Moog Inc.                | Operates control surfaces via hydraulic pressure           | $40,000 - $55,000        | Recyclable materials, energy-efficient design                       |
+| **27-04**       | Control Systems              | Flight Control Computer        | ROBBBO-T-A-27-04-00-00A-000-D    | FCC-2000                 | Thales Group             | Processes pilot inputs and manages control surface movement | $100,000 - $120,000      | Modular design, built for easy upgrades                             |
+| **27-05**       | Pilot Interfaces            | Control Yoke                   | ROBBBO-T-A-27-05-00-00A-000-D    | CY-300                   | Collins Aerospace        | Primary control interface for pilot maneuvering           | $5,000 - $8,000          | Long-lasting, recyclable materials                                   |
+| **27-06**       | Monitoring and Feedback Systems | Position Feedback Sensor      | ROBBBO-T-A-27-06-00-00A-000-D    | PFS-1000                 | Meggitt Avionics        | Monitors control surface positions                          | $3,000 - $5,000          | Recyclable materials, designed for durability                       |
+| **27-07**       | Redundancy and Reliability    | Backup Control System         | ROBBBO-T-A-27-07-00-00A-000-D    | BCS-500                  | Honeywell Aerospace      | Provides redundancy for primary control systems            | $75,000 - $90,000        | Recyclable, low power consumption                                   |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|--------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **27-00**   | Flight Controls System Overview | ROBBBO-T-A-27-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the Flight Controls System                   | N/A                      | Energy-efficient and recyclable  |
+| **27-01**   | Aileron Control Surface         | ROBBBO-T-A-27-01-00-00A-000-D    | AIL-4500                 | Collins Aerospace       | Controls roll via ailerons                               | $25,000 - $35,000        | Recyclable materials            |
+| **27-02**   | Flap Actuator                   | ROBBBO-T-A-27-02-00-00A-000-D    | FLAP-800                 | Pratt & Whitney         | Adjusts flaps for increased lift                          | $20,000 - $30,000        | Low waste                       |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                      | **DM Code**                      | **Description**                                                               | **Reusability**                                      |
+|----------------|------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **27-01-01**   | Installation of Aileron Control Surface        | ROBBBO-T-A-27-01-00-00A-000-D    | Installation of aileron control surface with actuator connections             | Reusable, requires periodic testing                   |
+| **27-02-01**   | Installation of Flap Actuator                  | ROBBBO-T-A-27-02-00-00A-000-D    | Step-by-step installation of flap actuator and controls                      | Modular design, easily replaceable                   |
+| **27-03-01**   | Installation of Flight Control Computer         | ROBBBO-T-A-27-04-00-00A-000-D    | Installation of flight control computer with wiring integration                | Reusable with maintenance access                     |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
+|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Aileron Control Surface                          | ROBBBO-T-A-27-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Flap Actuator for functionality                                   | ROBBBO-T-A-27-02-00-00A-000-D   
+
+ |
+| **MP03**          | Troubleshooting        | Troubleshoot Flight Control System for operational issues                | ROBBBO-T-A-27-04-00-00A-000-D    |
+| **MP04**          | Maintenance            | Perform routine checks on control surface actuators                      | ROBBBO-T-A-27-03-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Flight Control Computer          | ROBBBO-T-A-27-04-00-00A-000-D    |
+| **MP06**          | Calibration            | Calibrate pilot control interfaces for responsiveness                    | ROBBBO-T-A-27-05-00-00A-000-D    |
+| **MP07**          | Cleaning               | Clean and maintain feedback sensors                                       | ROBBBO-T-A-27-06-00-00A-000-D    |
+| **MP08**          | Documentation          | Update maintenance records for Flight Controls System                     | ROBBBO-T-A-27-00-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training on flight control procedures                             | ROBBBO-T-A-27-00-00-00A-000-D    |
+
+## 7. Conclusion
+The Flight Controls System is essential for the safe and efficient operation of the aircraft. By incorporating advanced technologies, sustainable materials, and robust training procedures, the system ensures precise control and responsiveness while adhering to regulatory standards. The focus on quality, sustainability, and continuous improvement emphasizes the importance of the Flight Controls System in modern aviation.
+
+---
+
+# ATA Chapter 28: Fuel System Overview
+
+## 1. Introduction
+The **Fuel System** (ATA Chapter 28) is a crucial component of the aircraft, responsible for storing, managing, and delivering fuel to the engines. This system ensures optimal fuel efficiency, safety, and performance during all phases of flight. It includes fuel tanks, pumps, valves, and monitoring systems that work together to regulate fuel flow and pressure. This chapter provides a comprehensive overview of the fuel system, detailing components—including DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), Estimated Costs—and outlines sustainable practices in line with environmental standards.
+
+## 2. 4-Digit Breakdown of ATA Chapter 28: Fuel System
+
+| **Section** | **Description**                                                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **28-00**   | **General Overview**: Introduction to the Fuel System and its importance in aircraft operations.                                   |
+| **28-01**   | **Fuel Storage Systems**: Overview of fuel tank configurations, capacities, and materials used for safe fuel storage.              |
+| **28-02**   | **Fuel Delivery Systems**: Details on fuel pumps, valves, and lines that transport fuel from tanks to the engines.                 |
+| **28-03**   | **Fuel Management Systems**: Description of systems that monitor and control fuel quantity and distribution.                        |
+| **28-04**   | **Fuel Quantity Indication Systems**: Overview of sensors and displays used to indicate fuel levels and consumption.                |
+| **28-05**   | **Fuel System Monitoring**: Systems for real-time monitoring of fuel system performance and alerts for malfunctions.                |
+| **28-06**   | **Redundancy and Reliability Features**: Discussion of backup systems and protocols to ensure continuous fuel delivery.             |
+| **28-07**   | **Integration with Other Systems**: Overview of how the fuel system integrates with engine control and other aircraft systems.     |
+| **28-08**   | **Training and Operational Procedures**: Guidelines for pilot training and standard operating procedures related to fuel management. |
+| **28-09**   | **Regulatory Compliance**: Overview of compliance with aviation fuel standards and regulations.                                    |
+| **28-10**   | **Environmental Compliance**: Description of how the fuel system meets environmental regulations, focusing on fuel efficiency and sustainability. |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **28-00**       | General Overview            | Fuel System Overview           | ROBBBO-T-A-28-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Fuel System                               | N/A                      | Energy-efficient design with recyclable materials                     |
+| **28-01**       | Fuel Storage Systems        | Fuel Tank                      | ROBBBO-T-A-28-01-00-00A-000-D    | FT-8000                  | Boeing                   | Stores fuel safely and efficiently                        | $150,000 - $200,000      | Recyclable materials, designed for easy maintenance                  |
+| **28-01**       | Fuel Storage Systems        | Fuel Bladder                   | ROBBBO-T-A-28-01-00-00A-000-D    | FB-4500                  | UTC Aerospace Systems    | Flexible fuel storage solution                            | $50,000 - $75,000        | Eco-friendly design, low waste                                      |
+| **28-02**       | Fuel Delivery Systems       | Fuel Pump                      | ROBBBO-T-A-28-02-00-00A-000-D    | FP-3000                  | Parker Hannifin         | Delivers fuel from tanks to engines                        | $20,000 - $30,000        | Energy-efficient, modular design                                   |
+| **28-02**       | Fuel Delivery Systems       | Fuel Shutoff Valve             | ROBBBO-T-A-28-02-00-00A-000-D    | VLV-100                  | Honeywell Aerospace      | Controls fuel flow and prevents leaks                     | $5,000 - $8,000          | Recyclable components, low power consumption                       |
+| **28-03**       | Fuel Management Systems      | Fuel Management Computer       | ROBBBO-T-A-28-03-00-00A-000-D    | FMC-6000                 | Thales Group             | Monitors and controls fuel quantity and distribution      | $75,000 - $100,000       | Modular design, easy upgrades                                     |
+| **28-04**       | Fuel Quantity Indication Systems | Fuel Quantity Sensor       | ROBBBO-T-A-28-04-00-00A-000-D    | FQS-500                  | Meggitt Avionics        | Measures fuel level in tanks                               | $3,000 - $5,000          | Recyclable materials, designed for durability                      |
+| **28-05**       | Fuel System Monitoring       | Fuel System Monitoring Unit    | ROBBBO-T-A-28-05-00-00A-000-D    | FSMU-2000                | Collins Aerospace        | Monitors performance and alerts for anomalies              | $10,000 - $12,000        | Modular, upgradable, low power consumption                         |
+| **28-06**       | Redundancy and Reliability Features | Backup Fuel Pump        | ROBBBO-T-A-28-06-00-00A-000-D    | BFP-1000                 | UTC Aerospace Systems    | Provides backup fuel delivery                               | $30,000 - $40,000        | Recyclable, low power consumption                                   |
+| **28-10**       | Environmental Compliance     | Environmental Compliance Module | ROBBBO-T-A-28-10-00-00A-000-D    | ECM-300                  | Honeywell Aerospace      | Ensures adherence to environmental fuel standards          | $10,000 - $12,000        | Low emissions, recyclable materials                                 |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|--------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **28-00**   | Fuel System Overview           | ROBBBO-T-A-28-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the Fuel System                               | N/A                      | Energy-efficient and recyclable  |
+| **28-01**   | Fuel Tank                      | ROBBBO-T-A-28-01-00-00A-000-D    | FT-8000                  | Boeing                 | Stores fuel safely and efficiently                        | $150,000 - $200,000      | Recyclable materials            |
+| **28-02**   | Fuel Pump                      | ROBBBO-T-A-28-02-00-00A-000-D    | FP-3000                  | Parker Hannifin        | Delivers fuel from tanks to engines                        | $20,000 - $30,000        | Modular and recyclable           |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                      | **DM Code**                      | **Description**                                                               | **Reusability**                                      |
+|----------------|------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **28-01-01**   | Installation of Fuel Tank                      | ROBBBO-T-A-28-01-00-00A-000-D    | Installation of fuel tank with necessary connections                          | Reusable, requires periodic inspection                |
+| **28-02-01**   | Installation of Fuel Pump                      | ROBBBO-T-A-28-02-00-00A-000-D    | Step-by-step installation of fuel pump and lines                              | Modular design, easily replaceable                   |
+| **28-03-01**   | Installation of Fuel Management Computer       | ROBBBO-T-A-28-03-00-00A-000-D    | Installation of fuel management computer with wiring integration                | Reusable with maintenance access                     |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
+|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Fuel Tank                                       | ROBBBO-T-A-28-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Fuel Pump for functionality and leaks                           | ROBBBO-T-A-28-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Fuel Management System for operational issues              | ROBBBO-T-A-28-03-00-00A-000-D    |
+| **MP04**          | Maintenance            | Perform routine checks on Fuel Quantity Sensors                         | ROBBBO-T-A-28-04-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Environmental Compliance Module 
+
+ | ROBBBO-T-A-28-10-00-00A-000-D    |
+| **MP06**          | Calibration            | Calibrate Fuel System Monitoring Unit                                    | ROBBBO-T-A-28-05-00-00A-000-D    |
+| **MP07**          | Cleaning               | Clean and maintain Fuel Delivery Systems                                | ROBBBO-T-A-28-02-00-00A-000-D    |
+| **MP08**          | Documentation          | Update maintenance records for Fuel System                              | ROBBBO-T-A-28-00-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training on fuel management procedures                          | ROBBBO-T-A-28-00-00-00A-000-D    |
+
+## 7. Conclusion
+The Fuel System is essential for the safe and efficient operation of the aircraft. By incorporating advanced technologies, sustainable materials, and robust training procedures, the system ensures reliable fuel management and compliance with environmental standards. The focus on quality, sustainability, and continuous improvement emphasizes the importance of the Fuel System in modern aviation.
+
+---
+
+# ATA Chapter 29: Hydraulic Power System
+
+## 1. Introduction
+The **Hydraulic Power System** (ATA Chapter 29) is essential for providing reliable and efficient power to various aircraft systems, including flight controls, landing gear, brakes, and auxiliary systems. This chapter details the components and functions of the hydraulic system, emphasizing its design for safety, redundancy, and performance. It includes hydraulic pumps, reservoirs, actuators, valves, and monitoring systems. The hydraulic system is engineered to maintain operational integrity under various conditions, ensuring that critical functions remain operational even in emergencies. This overview includes component details, DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), Estimated Costs, and sustainability practices aligned with environmental standards.
+
+## 2. 4-Digit Breakdown of ATA Chapter 29: Hydraulic Power System
+
+| **Section** | **Description**                                                                                                                               |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| **25-00**   | **Visión General**: Introducción al Sistema de Equipos y Mobiliario y su importancia en las operaciones de pasajeros.                        |
-| **25-10**   | **Configuraciones de Asientos**: Visión general de varios arreglos de asientos y características de seguridad.                               |
-| **25-20**   | **Diseño y Distribución de la Cabina**: Detalles sobre la distribución del espacio de la cabina, incluidas las áreas de pasajeros y salidas de emergencia. |
-| **25-30**   | **Sistemas de Almacenamiento y Equipaje**: Explicación de compartimentos superiores, compartimentos de equipaje y otras soluciones de almacenamiento. |
-| **25-40**   | **Sistemas de Entretenimiento a Bordo**: Visión general de las opciones de entretenimiento a bordo y su integración en el ambiente de la cabina. |
-| **25-50**   | **Sistemas de Iluminación**: Descripción de las características de iluminación de la cabina, incluida la iluminación ambiental y de emergencia. |
-| **25-60**   | **Equipos de Seguridad**: Visión general del equipo de emergencia, como chalecos salvavidas, máscaras de oxígeno y extintores.               |
-| **25-70**   | **Control Ambiental de la Cabina**: Interacción con el Sistema de Aire Acondicionado para mantener la comodidad en la cabina.               |
-| **25-80**   | **Procedimientos de Mantenimiento e Inspección**: Directrices para mantener e inspeccionar equipos y mobiliario.                            |
-| **25-90**   | **Cumplimiento Regulatorio**: Visión general del cumplimiento con los estándares de aviación relacionados con el equipo y mobiliario de cabina. |
+| **29-00**   | **General Overview**: Introduction to the Hydraulic Power System and its role in aircraft operations.                                          |
+| **29-01**   | **Hydraulic Power Generation**: Overview of hydraulic pumps and power generation components responsible for hydraulic fluid circulation.      |
+| **29-02**   | **Hydraulic Distribution Systems**: Details on hydraulic fluid reservoirs, lines, and valves used for distributing hydraulic power.           |
+| **29-03**   | **Actuators and Control Devices**: Description of hydraulic actuators and control devices that operate various aircraft systems.               |
+| **29-04**   | **Monitoring and Control Systems**: Systems for real-time monitoring of hydraulic pressure, fluid levels, and performance.                     |
+| **29-05**   | **Redundancy and Reliability Features**: Discussion of backup systems and protocols to ensure continuous hydraulic power availability.         |
+| **29-06**   | **Integration with Other Systems**: Overview of how the hydraulic system integrates with flight controls, landing gear, and braking systems.  |
+| **29-07**   | **Training and Operational Procedures**: Guidelines for maintenance and standard operating procedures related to hydraulic system management.  |
+| **29-08**   | **Regulatory Compliance**: Overview of compliance with aviation hydraulic standards and regulations.                                          |
+| **29-09**   | **Environmental Compliance**: Description of how the hydraulic system meets environmental regulations, focusing on fluid efficiency and sustainability. |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **29-00**       | General Overview            | Hydraulic Power System Overview | ROBBBO-T-A-29-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Hydraulic Power System                   | N/A                      | Energy-efficient design with recyclable materials                     |
+| **29-01**       | Hydraulic Power Generation  | Hydraulic Pump                  | ROBBBO-T-A-29-01-00-00A-000-D    | HP-4000                  | Parker Hannifin          | Provides hydraulic fluid under pressure                   | $25,000 - $35,000        | Recyclable materials, designed for easy maintenance                  |
+| **29-01**       | Hydraulic Power Generation  | Auxiliary Hydraulic Pump (AHP)  | ROBBBO-T-A-29-01-00-00A-000-D    | AHP-200                  | Honeywell Aerospace      | Provides backup hydraulic power when needed              | $15,000 - $20,000        | Eco-friendly design, low emissions                                   |
+| **29-02**       | Hydraulic Distribution Systems | Hydraulic Reservoir            | ROBBBO-T-A-29-02-00-00A-000-D    | HR-1000                  | UTC Aerospace Systems    | Stores hydraulic fluid for system operation               | $10,000 - $12,000        | Recyclable materials, designed for long service life                |
+| **29-02**       | Hydraulic Distribution Systems | Control Valve                 | ROBBBO-T-A-29-02-00-00A-000-D    | CV-4000                  | Thales Group             | Controls fluid flow to various components                  | $5,000 - $8,000          | Modular design, easy repairs                                       |
+| **29-03**       | Actuators and Control Devices | Hydraulic Actuator            | ROBBBO-T-A-29-03-00-00A-000-D    | HA-300                   | Collins Aerospace        | Converts hydraulic pressure into mechanical motion         | $20,000 - $30,000        | Energy-efficient, designed for durability                           |
+| **29-04**       | Monitoring and Control Systems | Pressure Sensor               | ROBBBO-T-A-29-04-00-00A-000-D    | PS-2000                  | Meggitt Avionics        | Monitors hydraulic pressure levels                          | $2,000 - $3,000          | Recyclable materials, low power consumption                        |
+| **29-05**       | Redundancy and Reliability    | Backup Hydraulic Pump        | ROBBBO-T-A-29-05-00-00A-000-D    | BHP-100                  | UTC Aerospace Systems    | Provides backup hydraulic pressure                           | $30,000 - $40,000        | Built for modularity and recyclability                             |
+| **29-09**       | Environmental Compliance       | Environmental Compliance Module | ROBBBO-T-A-29-09-00-00A-000-D    | ECM-300                  | Honeywell Aerospace      | Ensures adherence to environmental hydraulic standards      | $10,000 - $12,000        | Low emissions, recyclable materials                                 |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|--------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **29-00**   | Hydraulic Power System Overview | ROBBBO-T-A-29-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the Hydraulic Power System                   | N/A                      | Energy-efficient and recyclable  |
+| **29-01**   | Hydraulic Pump                  | ROBBBO-T-A-29-01-00-00A-000-D    | HP-4000                  | Parker Hannifin        | Provides hydraulic fluid under pressure                   | $25,000 - $35,000        | Recyclable materials            |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                      | **DM Code**                      | **Description**                                                               | **Reusability**                                      |
+|----------------|------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **29-01-01**   | Installation of Hydraulic Pump                  | ROBBBO-T-A-29-01-00-00A-000-D    | Installation of hydraulic pump with necessary connections                      | Reusable, requires periodic inspection                |
+| **29-02-01**   | Installation of Hydraulic Reservoir              | ROBBBO-T-A-29-02-00-00A-000-D    | Installation of hydraulic reservoir, ensuring proper fluid levels              | Long-lasting, designed for easy access                |
+| **29-03-01**   | Installation of Hydraulic Actuator               | ROBBBO-T-A-29-03-00-00A-000-D    | Installation of hydraulic actuator with necessary connections                  | Reusable, modular design                               |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
+|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Hydraulic Pump                                   | ROBBBO-T-A-29-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Hydraulic Reservoir for leaks and fluid levels                  | ROBBBO-T-A-29-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Hydraulic Actuator for operational issues                  | ROBBBO-T-A-29-03-00-00A-000-D    |
+| **MP04**          | Maintenance            | Perform routine checks on Hydraulic Monitoring Systems                   | ROBBBO-T-A-29-04-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Backup Hydraulic Pump           | ROBBBO-T-A-29-05-00-00A-000-D    |
+| **MP06**          | Calibration            | Calibrate Pressure Sensors                                                | ROBBBO-T-A-29-04-00-00A-000-D    |
+| **MP07**          | Cleaning               | Clean and maintain Hydraulic Distribution Lines                           | ROBBBO-T-A-29-02-00-00A-000-D    |
+| **MP08**          | Documentation          | Update maintenance records for Hydraulic Power System                    | ROBBBO-T-A-29-00-00-00A-000-D    |
+| **MP09**          | Training              
+
+ | Conduct training on hydraulic system management procedures                | ROBBBO-T-A-29-00-00-00A-000-D    |
+
+## 7. Conclusion
+The Hydraulic Power System is integral to the safe and efficient operation of the aircraft. By integrating advanced technologies, sustainable materials, and robust training procedures, the system ensures reliable hydraulic management while complying with environmental standards. The focus on quality, sustainability, and continuous improvement underscores the significance of the Hydraulic Power System in modern aviation.
 
 ---
 
-## **3. Descripción del Sistema (BAABI)**
+# ATA Chapter 30: Ice and Rain Protection System Components
 
-### **3.1 Visión General**
+## 1. Introduction
+The **Ice and Rain Protection System** (ATA Chapter 30) is crucial for maintaining aircraft performance and safety by preventing ice accumulation and ensuring clear visibility during adverse weather conditions. This system encompasses various components designed to manage ice formation on critical surfaces, such as wings, tail, and windshields, as well as providing effective rain removal. The chapter outlines the system's components, including de-icing and anti-icing mechanisms, control units, and monitoring systems. It emphasizes the integration of sustainability practices and compliance with environmental standards.
 
-El Sistema de Equipos y Mobiliario asegura que los pasajeros experimenten comodidad y seguridad durante su viaje. Características clave incluyen:
+## 2. 4-Digit Breakdown of ATA Chapter 30: Ice and Rain Protection System
 
-- **Configuraciones de Asientos**: Asientos ergonómicamente diseñados con características de seguridad como cinturones de seguridad y reposacabezas.
-- **Distribución de la Cabina**: Uso eficiente del espacio para maximizar la comodidad del pasajero y facilitar evacuaciones de emergencia.
-- **Soluciones de Almacenamiento**: Compartimentos superiores, compartimentos de equipaje y closets para artículos de pasajeros y tripulación.
-- **Entretenimiento a Bordo**: Pantallas personales, conectividad Wi-Fi y sistemas de audio para entretenimiento del pasajero.
-- **Sistemas de Iluminación**: Iluminación ambiental, de lectura y de emergencia para mejorar la comodidad y seguridad.
-- **Equipos de Seguridad**: Chalecos salvavidas, máscaras de oxígeno y guías de salida de emergencia para garantizar la seguridad de los pasajeros.
-- **Control Ambiental de la Cabina**: Sistemas para regular la temperatura, humedad y calidad del aire.
+| **Section** | **Description**                                                                                                                                    |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **30-00**   | **General Overview**: Introduction to the Ice and Rain Protection System and its significance in safe aircraft operation.                          |
+| **30-01**   | **Ice Protection Systems**: Overview of components that prevent ice formation on wings, tail surfaces, and other critical areas.                  |
+| **30-02**   | **Rain Removal Systems**: Details on systems designed to remove rainwater from windshields and critical viewports.                                 |
+| **30-03**   | **Control and Monitoring Systems**: Features for real-time monitoring and control of ice and rain protection system performance.                    |
+| **30-04**   | **Redundancy and Reliability Features**: Discussion of backup systems and protocols ensuring functionality during failures.                         |
+| **30-05**   | **Integration with Other Systems**: Overview of how the ice and rain protection system interfaces with avionics and other aircraft systems.       |
+| **30-06**   | **Training and Operational Procedures**: Guidelines for maintenance and standard operating procedures related to the ice and rain protection system. |
+| **30-07**   | **Regulatory Compliance**: Overview of compliance with aviation standards and regulations regarding ice and rain protection.                       |
+| **30-08**   | **Environmental Compliance**: Description of how the system meets environmental regulations, focusing on material efficiency and sustainability.    |
 
-### **3.2 Componentes del Sistema**
+## 3. Comprehensive Component Table
 
-A continuación, se presenta un desglose detallado de los componentes del sistema, incluidos **DM Codes**, **Títulos**, **Part Numbers (PNRs)** (los ficticios están marcados con **(FN)**), **Estimated Costs**, y otros detalles relevantes presentados en un formato de **Illustrated Parts List (IPL/IPD)**.
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **30-00**       | General Overview            | Ice and Rain Protection System Overview | ROBBBO-T-A-30-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Ice and Rain Protection System           | N/A                      | Energy-efficient design with recyclable materials                     |
+| **30-01**       | Ice Protection Systems       | Pneumatic De-icing Boots      | ROBBBO-T-A-30-01-00-00A-000-D    | PDB-4500                 | Goodrich Aerospace       | Inflatable boots that remove ice from wings              | $30,000 - $40,000        | Recyclable materials, designed for easy maintenance                  |
+| **30-01**       | Ice Protection Systems       | Electrical De-icing System    | ROBBBO-T-A-30-01-00-00A-000-D    | EDS-5000                 | Honeywell Aerospace      | Uses electrical heating elements to prevent ice formation | $50,000 - $70,000        | Low emissions, sustainable design                                  |
+| **30-02**       | Rain Removal Systems         | Windshield Wiper System       | ROBBBO-T-A-30-02-00-00A-000-D    | WWS-8000                 | Collins Aerospace        | Automated system for clearing rain from windshields      | $10,000 - $15,000        | Recyclable materials, energy-efficient                               |
+| **30-02**       | Rain Removal Systems         | Rain Repellent System         | ROBBBO-T-A-30-02-00-00A-000-D    | RRS-300                  | Hypothetical Vendor      | Applies hydrophobic coating to enhance visibility          | $5,000 - $7,000          | Environmentally friendly materials, easy to apply                  |
+| **30-03**       | Control and Monitoring Systems | System Control Unit           | ROBBBO-T-A-30-03-00-00A-000-D    | SCU-2000                 | Thales Group             | Monitors and controls the ice and rain protection systems | $12,000 - $15,000        | Modular design, easily upgradable                                   |
+| **30-04**       | Redundancy and Reliability    | Backup De-icing System       | ROBBBO-T-A-30-04-00-00A-000-D    | BDS-100                  | UTC Aerospace Systems    | Ensures continued operation in case of primary system failure | $40,000 - $50,000        | Built for reliability and recyclability                             |
+| **30-07**       | Regulatory Compliance         | Compliance Documentation      | ROBBBO-T-A-30-07-00-00A-000-D    | CD-8000                  | Honeywell Aerospace      | Ensures adherence to aviation standards                     | $2,000 - $3,000          | Recyclable documentation materials                                  |
 
----
+## 4. IPL/IPD Breakdown
 
-## **4. Desglose IPL/IPD**
+| **Section** | **Component**                    | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|----------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **30-00**   | Ice and Rain Protection System Overview | ROBBBO-T-A-30-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the Ice and Rain Protection System           | N/A                      | Energy-efficient and recyclable  |
+| **30-01**   | Pneumatic De-icing Boots          | ROBBBO-T-A-30-01-00-00A-000-D    | PDB-4500                 | Goodrich Aerospace     | Inflatable boots that remove ice from wings              | $30,000 - $40,000        | Recyclable materials            |
 
-### **4.1 Visión General del Sistema de Equipos y Mobiliario**
+## 5. IPC Installation Figures (IF) with Reusability
 
-- **DM Code**: ROBBBO-T-A-25-00-00-00A-000-D
-- **Título**: Visión General del Sistema de Equipos y Mobiliario
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
-- **Descripción**: Introducción al Sistema de Equipos y Mobiliario, su importancia, funcionalidad e integración dentro del avión.
-- **Costo Estimado (USD)**: N/A (Visión general)
+| **Figure No.** | **Title**                                      | **DM Code**                      | **Description**                                                               | **Reusability**                                      |
+|----------------|------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **30-01-01**   | Installation of Pneumatic De-icing Boots        | ROBBBO-T-A-30-01-00-00A-000-D    | Installation procedure for pneumatic de-icing boots, including connections     | Reusable, requires periodic inspection                |
+| **30-02-01**   | Installation of Windshield Wiper System         | ROBBBO-T-A-30-02-00-00A-000-D    | Installation of the windshield wiper system with necessary connections        | Long-lasting, designed for easy access                |
+| **30-03-01**   | Installation of System Control Unit              | ROBBBO-T-A-30-03-00-00A-000-D    | Installation of the control unit with connections to ice and rain protection systems | Reusable, modular design                               |
 
----
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
 
-### **4.2 Configuraciones de Asientos**
+| **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
+|-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Pneumatic De-icing Boots                        | ROBBBO-T-A-30-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Windshield Wiper System for functionality                       | ROBBBO-T-A-30-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Rain Repellent System for operational issues               | ROBBBO-T-A-30-02-00-00A-000-D    |
+| **MP04**          | Maintenance            | Perform routine checks on System Control Unit                           | ROBBBO-T-A-30-03-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Backup De-icing System         | ROBBBO-T-A-30-04-00-00A-000-D    |
+| **MP06**          | Calibration            | Calibrate Pressure Sensors for Ice Protection System                    | ROBBBO-T-A-30-03-00-00A-000-D    |
+| **MP07**          | Cleaning               | Clean and maintain Pneumatic De-icing Boots                             | ROBBBO-T-A-30-01-00-00A-000-D    |
+| **MP08**          | Documentation          | Update maintenance records for Ice and Rain Protection System           | ROBBBO-T-A-30-00-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training on ice and rain protection system procedures           | ROBBBO-T-A-30-00-00-00A-000-D    |
 
-- **DM Code**: ROBBBO-T-A-25-10-00-00A-000-D
-- **Título**: Configuraciones de Asientos
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
+## 7. Conclusion
+The Ice and Rain Protection System is vital for ensuring safe
 
-#### **4.2.1 Desglose de Componentes**
-
-| **Item No.** | **Nombre del Componente**     | **Número de Parte (PNR)** | **Fabricante**            | **Descripción**                                             | **Cantidad** | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|-------------------------------|---------------------------|---------------------------|-------------------------------------------------------------|--------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-10-1**  | Ensamblaje de Asiento Pasajero | 57500-1                   | Recaro Aircraft Seating   | Asiento de clase económica con reposacabezas ajustable y reclinable | 150          | $2,500 - $3,500 cada uno  | Materiales reciclables | Diseño eficiente | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-10-2**  | Asiento de Clase Ejecutiva    | ACRO-SR4600               | Acro Aircraft Seating     | Asiento de confort mejorado con capacidad de reclinación completa | 20           | $8,000 - $12,000 cada uno | Componentes reutilizables | Bajo impacto ambiental | Materiales reciclables | Modular | Reemplazo fácil |
-| **25-10-3**  | Ensamblaje de Cinturón de Seguridad | 23800-5                   | AmSafe Inc.               | Proporciona restricción al pasajero durante el vuelo y turbulencias | 170          | $100 - $200 cada uno      | Componentes reparables | Eficiencia en el uso | Componentes reciclables | Fácil | Reemplazo simple |
-| **25-10-4**  | Dispositivo de Retención Infantil | **CRD-1000** (FN)         | Proveedor Hipotético      | Seguridad adicional para pasajeros infantiles               | 10           | $200 - $300 cada uno      | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-
----
-
-### **4.3 Diseño y Distribución de la Cabina**
-
-- **DM Code**: ROBBBO-T-A-25-20-00-00A-000-D
-- **Título**: Diseño y Distribución de la Cabina
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
-
-#### **4.3.1 Desglose de Componentes**
-
-| **Item No.** | **Nombre del Componente**     | **Número de Parte (PNR)** | **Fabricante**            | **Descripción**                                           | **Cantidad** | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|-------------------------------|---------------------------|---------------------------|-----------------------------------------------------------|--------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-20-1**  | Partición de Cabina           | DMS-500                   | Diehl Aviation            | Divide secciones de cabina para separación de clases y privacidad | 4            | $5,000 - $7,000 cada uno  | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Reemplazo fácil |
-| **25-20-2**  | Barrera de Carro de Servicio  | SB-4500                   | Safran Cabin              | Barrera de seguridad para áreas de galley                  | 2            | $1,200 - $1,800 cada uno  | Reutilizable | Diseño eficiente | Materiales reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-20-3**  | Puerta de Salida de Emerg
-
-encia | EP-2000                   | Airbus Defence & Space    | Facilita la evacuación de pasajeros en emergencias       | 4            | $15,000 - $20,000 cada uno | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Reemplazo simple |
-| **25-20-4**  | Módulo de Lavabo              | **LM-7500** (FN)          | Proveedor Hipotético      | Unidad de lavabo autoconstruida con sistemas de agua y desechos | 3            | $25,000 - $35,000 cada uno | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
+ aircraft operation in adverse weather conditions. By incorporating advanced technologies and sustainable practices, the system effectively manages ice formation and rain removal. The commitment to quality, regulatory compliance, and continuous improvement reinforces the importance of this system in modern aviation.
 
 ---
 
-### **4.4 Sistemas de Almacenamiento y Equipaje**
+# ATA Chapter 31: Indicating/Recording Systems Components
 
-- **DM Code**: ROBBBO-T-A-25-30-00-00A-000-D
-- **Título**: Sistemas de Almacenamiento y Equipaje
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
+## 1. Introduction
+The **Indicating/Recording Systems** (ATA Chapter 31) are essential for monitoring and recording various aircraft parameters, providing critical information to flight crews for operational decision-making and safety. These systems encompass a range of instruments and devices designed to display real-time data on altitude, airspeed, engine performance, and other vital metrics, as well as recording flight data for analysis and compliance. This chapter details the components of these systems, including their functionality, integration with other aircraft systems, and adherence to sustainability practices and regulatory standards.
 
-#### **4.4.1 Desglose de Componentes**
+## 2. 4-Digit Breakdown of ATA Chapter 31: Indicating/Recording Systems
 
-| **Item No.** | **Nombre del Componente**                      | **Número de Parte (PNR)** | **Fabricante**        | **Descripción**                                       | **Cantidad** | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|------------------------------------------------|---------------------------|-----------------------|-------------------------------------------------------|--------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-30-1**  | Compartimento de Almacenamiento Superior        | OHSC-300                  | FACC AG               | Compartimentos superiores para el equipaje de mano    | 50           | $3,500 - $5,000 cada uno  | Materiales reciclables | Diseño eficiente | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-30-2**  | Estante del Compartimento de Equipaje          | LCS-400                   | Diehl Aviation        | Proporciona almacenamiento adicional en áreas de equipaje | 10           | $1,800 - $2,500 cada uno  | Reutilizable | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-30-3**  | Closet de Almacenamiento de Cabina             | CSC-500                   | Jamco Corporation     | Almacenamiento seguro para artículos de tripulación y pasajeros | 2            | $2,500 - $3,500 cada uno  | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-30-4**  | Unidad de Almacenamiento de Galley             | **GSU-600** (FN)          | Proveedor Hipotético  | Almacenamiento para equipos de catering y suministros  | 2            | $15,000 - $20,000 cada uno | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
+| **Section** | **Description**                                                                                                                                    |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **31-00**   | **General Overview**: Introduction to the Indicating/Recording Systems and their role in aircraft operation and safety.                           |
+| **31-01**   | **Primary Flight Instruments**: Overview of critical instruments displaying flight parameters like altitude, speed, and heading.                  |
+| **31-02**   | **Engine Indication Systems**: Details on systems providing real-time data on engine performance metrics such as thrust, temperature, and RPM.    |
+| **31-03**   | **Flight Data Recorders (FDR)**: Explanation of systems that record flight data for post-flight analysis and incident investigation.               |
+| **31-04**   | **Cockpit Display Systems**: Description of multifunction displays and their integration with other systems for enhanced situational awareness.     |
+| **31-05**   | **Warning and Alert Systems**: Overview of systems designed to provide alerts for critical parameters and system malfunctions.                      |
+| **31-06**   | **Data Management Systems**: Discussion on how data is collected, processed, and stored for operational efficiency and regulatory compliance.      |
+| **31-07**   | **Redundancy and Reliability Features**: Examination of backup systems ensuring continuous operation and data integrity during failures.            |
+| **31-08**   | **Integration with Other Systems**: Overview of how indicating/recording systems interface with avionics, navigation, and flight management systems. |
+| **31-09**   | **Training and Operational Procedures**: Guidelines for crew training and standard operating procedures related to indicating and recording systems. |
+| **31-10**   | **Regulatory Compliance**: Summary of compliance with aviation standards and regulations governing indicating and recording systems.                 |
 
----
+## 3. Comprehensive Component Table
 
-### **4.5 Sistemas de Entretenimiento a Bordo**
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **31-00**       | General Overview            | Indicating/Recording Systems Overview | ROBBBO-T-A-31-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the Indicating/Recording Systems             | N/A                      | Energy-efficient design with recyclable materials                     |
+| **31-01**       | Primary Flight Instruments   | Altimeter                       | ROBBBO-T-A-31-01-00-00A-000-D    | ALT-5000                 | Collins Aerospace        | Displays aircraft altitude                              | $3,000 - $5,000          | Recyclable materials, designed for easy maintenance                   |
+| **31-01**       | Primary Flight Instruments   | Airspeed Indicator              | ROBBBO-T-A-31-01-00-00A-000-D    | ASI-4000                 | Honeywell Aerospace      | Shows current airspeed                                  | $2,500 - $4,000          | Low emissions, sustainable design                                  |
+| **31-02**       | Engine Indication Systems     | Engine Pressure Ratio Gauge     | ROBBBO-T-A-31-02-00-00A-000-D    | EPRG-6000                | Pratt & Whitney          | Monitors engine performance metrics                      | $5,000 - $7,000          | Energy-efficient, designed for longevity                             |
+| **31-03**       | Flight Data Recorders (FDR)   | Flight Data Recorder            | ROBBBO-T-A-31-03-00-00A-000-D    | FDR-8000                 | L3 Harris Technologies   | Records critical flight data for analysis               | $15,000 - $20,000        | Modular design, recyclable materials                                |
+| **31-04**       | Cockpit Display Systems        | Multifunction Display Unit      | ROBBBO-T-A-31-04-00-00A-000-D    | MFD-9000                 | Thales Group             | Displays data from multiple aircraft systems             | $25,000 - $30,000        | Recyclable components, low energy consumption                        |
+| **31-05**       | Warning and Alert Systems      | Warning Signal Module           | ROBBBO-T-A-31-05-00-00A-000-D    | WSM-100                  | Meggitt Avionics        | Provides alerts for system malfunctions                  | $8,000 - $10,000         | Recyclable, energy-efficient design                                  |
+| **31-06**       | Data Management Systems        | Data Management Unit            | ROBBBO-T-A-31-06-00-00A-000-D    | DMU-500                  | Collins Aerospace        | Manages the collection and storage of flight data       | $10,000 - $12,000        | Modular design, sustainable components                               |
+| **31-07**       | Redundancy and Reliability      | Backup Flight Data Recorder     | ROBBBO-T-A-31-07-00-00A-000-D    | BFDR-2000                | L3 Harris Technologies   | Ensures data integrity during primary system failure     | $10,000 - $15,000        | Built for reliability and recyclability                             |
+| **31-09**       | Training and Operational Procedures | Operational Procedures Guide | ROBBBO-T-A-31-09-00-00A-000-D    | OPG-3000                 | Honeywell Aerospace      | Guidelines for using the indicating/recording systems    | $2,000 - $3,000          | Recyclable documentation materials                                   |
 
-- **DM Code**: ROBBBO-T-A-25-40-00-00A-000-D
-- **Título**: Sistemas de Entretenimiento a Bordo
-- **ATA Chapter**: 25
-- **Requisito**: O (Opcional, pero comúnmente instalado)
+## 4. IPL/IPD Breakdown
 
-#### **4.5.1 Desglose de Componentes**
+| **Section** | **Component**                    | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|----------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **31-00**   | Indicating/Recording Systems Overview | ROBBBO-T-A-31-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the indicating/recording systems            | N/A                      | Energy-efficient and recyclable  |
+| **31-01**   | Altimeter                        | ROBBBO-T-A-31-01-00-00A-000-D    | ALT-5000                 | Collins Aerospace      | Displays aircraft altitude                               | $3,000 - $5,000          | Recyclable materials            |
+| **31-02**   | Engine Pressure Ratio Gauge      | ROBBBO-T-A-31-02-00-00A-000-D    | EPRG-6000                | Pratt & Whitney        | Monitors engine performance metrics                       | $5,000 - $7,000          | Energy-efficient, designed for longevity  |
 
-| **Item No.** | **Nombre del Componente**        | **Número de Parte (PNR)**  | **Fabricante**        | **Descripción**                                            | **Cantidad**          | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|----------------------------------|---------------------------|-----------------------|------------------------------------------------------------|-----------------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-40-1**  | Unidad de Pantalla en Respaldo   | EX1-IFE-100               | Panasonic Avionics    | Pantallas de entretenimiento personal para los pasajeros    | 170 unidades           | $1,000 - $1,500 cada uno  | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-40-2**  | Sistema de Wi-Fi a Bordo         | GCS-200                   | Gogo LLC              | Proporciona conectividad inalámbrica a internet a bordo     | 1 sistema              | $100,000 - $150,000      | Componentes reutilizables | Eficiencia en el uso | Materiales reciclables | Modular | Reemplazo fácil |
-| **25-40-3**  | Módulo de Interfaz de Audio      | AIM-300                   | Thales Group          | Gestiona señales de audio para sistemas de entretenimiento   | 2 unidades             | $2,000 - $3,000 cada uno  | Componentes reparables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-40-4**  | Servidor de Contenidos           | **CS-7000** (FN)          | Proveedor Hipotético  | Almacena y transmite contenido multimedia a los dispositivos de los pasajeros | 1 unidad               | $50,000 - $70,000        | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
+## 5. IPC Installation Figures (IF) with Reusability
 
----
+| **Figure No.** | **Title**                                    | **DM Code**                      | **Description**                                                                | **Reusability**                                      |
+|----------------|----------------------------------------------|----------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
+| **31-01-01**   | Installation of Altimeter                    | ROBBBO-T-A-31-01-00-00A-000-D    | Installation procedure for the altimeter, including necessary connections      | Reusable, requires periodic inspection               |
+| **31-02-01**   | Installation of Engine Pressure Ratio Gauge  | ROBBBO-T-A-31-02-00-00A-000-D    | Installation process for the EPR gauge, including calibration                  | Long-lasting, designed for easy access               |
+| **31-03-01**   | Installation of Flight Data Recorder         | ROBBBO-T-A-31-03-00-00A-000-D    | Mounting and connection of the flight data recorder                            | Reusable, modular design                              |
 
-### **4.6 Sistemas de Iluminación**
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
 
-- **DM Code**: ROBBBO-T-A-25-50-00-00A-000-D
-- **Título**: Sistemas de Iluminación
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
+| **Pageblock No.** | **Task Type**         | **Description**                                                        | **DM Code**                      |
+|-------------------|-----------------------|------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Altimeter                                      | ROBBBO-T-A-31-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Engine Pressure Ratio Gauge for functionality                 | ROBBBO-T-A-31-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Flight Data Recorder for data integrity                  | ROBBBO-T-A-31-03-
 
-#### **4.6.1 Desglose de Componentes**
+00-00A-000-D    |
+| **MP04**          | Calibration            | Calibrate the Multifunction Display Unit                              | ROBBBO-T-A-31-04-00-00A-000-D    |
+| **MP05**          | Software Update        | Perform software updates on the Warning Signal Module                 | ROBBBO-T-A-31-05-00-00A-000-D    |
+| **MP06**          | Testing                | Test the functionality of the Communication Monitoring Unit           | ROBBBO-T-A-31-06-00-00A-000-D    |
+| **MP07**          | Inspection             | Inspect operational procedures and ensure compliance with standards    | ROBBBO-T-A-31-09-00-00A-000-D    |
+| **MP08**          | Performance Review     | Evaluate performance data from the Indicating/Recording Systems       | ROBBBO-T-A-31-00-00-00A-000-D    |
+| **MP09**          | Documentation Update    | Update training manuals for crew on the use of Indicating/Recording Systems | ROBBBO-T-A-31-08-00-00A-000-D    |
 
-| **Item No.** | **Nombre del Componente**          | **Número de Parte (PNR)** | **Fabricante**        | **Descripción**                                           | **Cantidad**          | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|------------------------------------|---------------------------|-----------------------|-----------------------------------------------------------|-----------------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-50-1**  | Tira de Iluminación LED de Cabina  | LS-500                    | Diehl Aerospace       | Proporciona iluminación ambiental en toda la cabina      | 500 metros            | $40 - $60 por metro       | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-50-2**  | Unidad de Iluminación de Emergencia | ELU-4000                  | Luminator Aerospace    | Iluminación a batería para situaciones de emergencia       | 50 unidades           | $3,000 - $4,500 cada uno  | Componentes reutilizables | Bajo impacto ambiental | Componentes reciclables | Modular | Reemplazo fácil |
-| **25-50-3**  | Ensamblaje de Luz de Lectura       | RL-200                    | Collins Aerospace      | Luces de lectura individuales para asientos de pasajeros   | 170 unidades          | $150 - $250 cada uno      | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-50-4**  | Controlador de Iluminación Ambiental| **MLC-800** (FN)          | Proveedor Hipotético  | Controla el color y la intensidad de la iluminación de la cabina | 1 unidad              | $15,000 - $20,000        | Materiales reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-
----
-
-### **4.7 Equipos de Seguridad**
-
-- **DM Code**: ROBBBO-T-A-25-60-00-00A-000-D
-- **Título**: Equipos de Seguridad
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
-
-#### **4.7.1 Desglose de Componentes**
-
-| **Item No.** | **Nombre del Componente**                  | **Número de Parte (PNR)** | **Fabricante**          | **Descripción**                                            | **Cantidad**          | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|--------------------------------------------|---------------------------|-------------------------|-----------------------------------------------------------|-----------------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-60-1**  | Transmisor de Localización de Emergencia   | ME406                     | Artex (ACR Electronics) | Transmite la ubicación de la aeronave en emergencias      | 1 unidad              | $8,000 - $10,000         | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Reemplazo fácil |
-| **25-60-2**  | Chaleco Salv
-
-avidas (Adulto/Niño)          | L6-3                      | Switlik Parachute Co.   | Dispositivo de flotación personal para pasajeros          | 200 unidades           | $100 - $150 cada uno      | Componentes reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-60-3**  | Botella de Oxígeno Portátil                | 5500-XXX                  | B/E Aerospace           | Proporciona oxígeno suplementario en eventos de descompresión | 20 unidades           | $500 - $700 cada uno      | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-60-4**  | Extintor de Incendios                      | **FE-1000** (FN)          | Proveedor Hipotético    | Unidad portátil para extinguir incendios a bordo         | 10 unidades           | $400 - $600 cada uno      | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Reemplazo fácil |
-
----
-
-### **4.8 Control Ambiental de la Cabina**
-
-- **DM Code**: ROBBBO-T-A-25-70-00-00A-000-D
-- **Título**: Control Ambiental de la Cabina
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
-
-#### **4.8.1 Desglose de Componentes**
-
-| **Item No.** | **Nombre del Componente**                  | **Número de Parte (PNR)** | **Fabricante**          | **Descripción**                                            | **Cantidad** | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|--------------------------------------------|---------------------------|-------------------------|-----------------------------------------------------------|--------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-70-1**  | Sistema de Control de Ventilación          | VCS-1000                  | Collins Aerospace       | Controla el flujo de aire dentro de la cabina            | 1 unidad     | $20,000 - $30,000        | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-70-2**  | Sistema de Control de Temperatura          | ATCS-200                  | Honeywell Aerospace     | Regula la temperatura de la cabina                        | 1 unidad     | $25,000 - $35,000        | Componentes reutilizables | Bajo impacto ambiental | Componentes reciclables | Modular | Reemplazo fácil |
-| **25-70-3**  | Sistema de Gestión de Humedad              | HMS-300                   | CTT Systems             | Mantiene niveles óptimos de humedad en la cabina          | 1 unidad     | $18,000 - $25,000        | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-70-4**  | Sensor de Calidad del Aire                 | **AQS-500** (FN)          | Proveedor Hipotético    | Monitorea la calidad del aire en la cabina                | 4 unidades   | $2,000 - $3,000 cada uno  | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
+## Conclusion
+The Indicating/Recording Systems are vital for providing real-time data and recording essential flight parameters, enhancing safety and operational efficiency. By incorporating advanced technologies, sustainable practices, and compliance with regulatory standards, these systems support the overall functionality and safety of the aircraft. Continuous improvement, performance monitoring, and adherence to quality assurance protocols reinforce the importance of this system in modern aviation.
 
 ---
 
-### **4.9 Procedimientos de Mantenimiento e Inspección**
+# ATA Chapter 32: Landing Gear System Components
 
-- **DM Code**: ROBBBO-T-A-25-80-00-00A-000-D
-- **Título**: Procedimientos de Mantenimiento e Inspección
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
+## 1. Introduction
+The **Landing Gear System** (ATA Chapter 32) is a critical component of the aircraft, responsible for supporting the aircraft during ground operations, including takeoff, landing, and taxiing. This system encompasses the main and nose landing gear, shock absorbers, tires, brakes, and associated control mechanisms. Designed for durability and safety, the landing gear system ensures stability and control during ground movements while adhering to strict regulatory and environmental standards. This chapter provides a comprehensive overview of the landing gear system components, including detailed descriptions, DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), estimated costs, and sustainability practices.
 
-#### **4.9.1 Desglose de Componentes**
+## 2. 4-Digit Breakdown of ATA Chapter 32: Landing Gear System
 
-| **Item No.** | **Nombre del Componente**                  | **Número de Parte (PNR)** | **Fabricante**          | **Descripción**                                            | **Cantidad** | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|--------------------------------------------|---------------------------|-------------------------|-----------------------------------------------------------|--------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-80-1**  | Juego de Espejos de Inspección            | IMS-500                   | Snap-on Industrial       | Herramientas para inspecciones visuales del equipo de cabina | 5 sets       | $300 - $500 por set      | Componentes reciclables | Bajo impacto ambiental | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-80-2**  | Kit de Limpiador de Interior de Cabina    | CICK-100                  | Aerosafe Products Inc.   | Agentes y herramientas de limpieza para mantener la higiene de la cabina | 10 kits      | $150 - $250 por kit      | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-80-3**  | Kit de Reemplazo de Tapicería de Asiento  | SURK-600                  | Perrone Aerospace        | Tela y acolchado de reemplazo para asientos               | 50 kits      | $500 - $700 por kit      | Componentes reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Reemplazo fácil |
-| **25-80-4**  | Herramienta de Software de Mantenimiento   | **MST-7000** (FN)         | Proveedor Hipotético     | Software para diagnósticos y programación de mantenimiento | 1 unidad     | $10,000 - $12,000        | Componentes reutilizables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
+| **Section** | **Description**                                                                                                                         |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| **32-00**   | **General Overview**: Introduction to the Landing Gear System and its importance in aircraft operation and safety.                      |
+| **32-01**   | **Main Landing Gear**: Overview of the components and functionality of the main landing gear, including struts and wheels.             |
+| **32-02**   | **Nose Landing Gear**: Details on the nose landing gear components and their role in aircraft stability during ground operations.        |
+| **32-03**   | **Shock Absorption Systems**: Explanation of shock absorbers and their importance in mitigating landing impact forces.                    |
+| **32-04**   | **Brake Systems**: Description of the braking components, including brakes, anti-skid systems, and their integration with the landing gear.|
+| **32-05**   | **Tire Systems**: Overview of tires, including specifications, maintenance, and performance characteristics.                              |
+| **32-06**   | **Control and Monitoring Systems**: Discussion on systems that monitor landing gear status and provide feedback to the flight crew.       |
+| **32-07**   | **Redundancy and Safety Features**: Examination of backup systems and protocols ensuring continuous operation and safety during landings. |
+| **32-08**   | **Integration with Other Systems**: Overview of how the landing gear system integrates with avionics, flight control, and hydraulic systems.|
+| **32-09**   | **Training and Operational Procedures**: Guidelines for maintenance and standard operating procedures related to the landing gear system.  |
+| **32-10**   | **Regulatory Compliance**: Overview of compliance with aviation standards and regulations governing landing gear systems.                    |
 
----
+## 3. Comprehensive Component Table
 
-### **4.10 Cumplimiento Regulatorio**
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **32-00**       | General Overview            | Landing Gear System Overview   | ROBBBO-T-A-32-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the landing gear system                     | N/A                      | Energy-efficient design with recyclable materials                     |
+| **32-01**       | Main Landing Gear           | Main Gear Strut                | ROBBBO-T-A-32-01-00-00A-000-D    | MLG-4000                 | Boeing                    | Supports main landing gear and absorbs landing loads     | $40,000 - $50,000        | Recyclable materials, designed for longevity                         |
+| **32-01**       | Main Landing Gear           | Main Gear Wheel                | ROBBBO-T-A-32-01-00-00A-000-D    | MW-1001                  | Goodyear Aerospace       | Provides ground contact for main landing gear            | $5,000 - $7,000          | Low waste, sustainable manufacturing practices                       |
+| **32-02**       | Nose Landing Gear           | Nose Gear Strut                | ROBBBO-T-A-32-02-00-00A-000-D    | NLG-3000                 | Airbus                   | Supports nose landing gear and provides steering control | $30,000 - $40,000        | Recyclable components, designed for durability                       |
+| **32-02**       | Nose Landing Gear           | Nose Gear Wheel                | ROBBBO-T-A-32-02-00-00A-000-D    | NW-2001                  | Goodyear Aerospace       | Provides ground contact for nose landing gear            | $4,000 - $6,000          | Recyclable materials, low energy consumption                          |
+| **32-03**       | Shock Absorption Systems     | Shock Strut                    | ROBBBO-T-A-32-03-00-00A-000-D    | SS-1500                  | UTC Aerospace Systems    | Absorbs shocks during landings and taxiing               | $25,000 - $35,000        | Energy-efficient design, recyclable materials                        |
+| **32-04**       | Brake Systems                | Brake Assembly                 | ROBBBO-T-A-32-04-00-00A-000-D    | BA-1000                  | Honeywell Aerospace      | Provides braking force for landing and taxiing           | $15,000 - $20,000        | Low emissions, sustainable design practices                         |
+| **32-05**       | Tire Systems                | Main Gear Tire                 | ROBBBO-T-A-32-05-00-00A-000-D    | MT-4000                  | Michelin                 | Provides ground contact and supports aircraft weight      | $5,000 - $8,000          | Recyclable materials, low energy consumption                         |
+| **32-06**       | Control and Monitoring Systems| Landing Gear Control Unit      | ROBBBO-T-A-32-06-00-00A-000-D    | LGC-300                  | Thales Group             | Monitors landing gear status and provides feedback       | $10,000 - $12,000        | Modular design for future upgrades                                   |
+| **32-07**       | Redundancy and Safety Features| Backup Landing Gear System      | ROBBBO-T-A-32-07-00-00A-000-D    | BLGS-500                 | UTC Aerospace Systems    | Ensures functionality during primary system failure      | $20,000 - $25,000        | Built for reliability and recyclability                             |
+| **32-10**       | Regulatory Compliance       | Compliance Documentation Package | ROBBBO-T-A-32-10-00-00A-000-D    | CCP-400                  | Thales Group             | Ensures regulatory compliance for landing gear systems   | $10,000 - $12,000        | Meets aviation standards for environmental compliance                |
 
-- **DM Code**: ROBBBO-T-A-25-90-00-00A-000-D
-- **Título**: Cumplimiento Regulatorio
-- **ATA Chapter**: 25
-- **Requisito**: M (Obligatorio)
+## 4. IPL/IPD Breakdown
 
-#### **4.10.1 Desglose de Componentes**
+| **Section** | **Component**                    | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|----------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **32-00**   | Landing Gear System Overview     | ROBBBO-T-A-32-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the landing gear system                      | N/A                      | Energy-efficient and recyclable  |
+| **32-01**   | Main Gear Strut                  | ROBBBO-T-A-32-01-00-00A-000-D    | MLG-4000                 | Boeing                 | Supports main landing gear and absorbs landing loads      | $40,000 - $50,000        | Recyclable materials            |
 
-| **Item No.** | **Nombre del Componente**                  | **Número de Parte (PNR)** | **Fabricante**          | **Descripción**                                            | **Cantidad** | **Costo Estimado (USD)** | **Circularidad** | **Sostenibilidad** | **Reciclabilidad** | **Reusabilidad** | **Reparabilidad** |
-|--------------|--------------------------------------------|---------------------------|-------------------------|-----------------------------------------------------------|--------------|---------------------------|-------------------|-------------------|-------------------|------------------|-------------------|
-| **25-90-1**  | Paquete de Documentación de Cumplimiento  | RCP-100                   | Thales Group            | Documentación para el cumplimiento regulatorio del equipo de cabina | 1 unidad     | $5,000 - $7,000          | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para actualizaciones |
-| **25-90-2**  | Señalización y Placas de Seguridad         | SSP-200                   | Luminator Aerospace      | Proporciona instrucciones e información de seguridad obligatorias | 100 unidades  | $50 - $75 por unidad      | Materiales reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
-| **25-90-3**  | Certificación de Materiales Ignífugos      | **FMC-300** (FN)          | Proveedor Hipotético     | Certificación para materiales que cumplen con los estándares de seguridad contra incendios | 1 unidad     | $3,000 - $5,000          | Componentes reciclables | Eficiencia en el uso | Componentes reciclables | Modular | Fácil acceso para mantenimiento |
+## 5. IPC Installation Figures (IF) with Reusability
 
----
+| **Figure No.** | **Title**                                    | **DM Code**                      | **Description**                                                                | **Reusability**                                      |
+|----------------|----------------------------------------------|----------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
+| **32-01-01**   | Installation of Main Gear Strut              | ROBBBO-T-A-32-01-00-00A-000-D    | Installation procedure for the main gear strut, including necessary connections | Reusable, requires periodic inspection               |
+| **32-02-01**   | Installation of Nose Gear Strut              | ROBBBO-T-A-32-02-00-00A-000-D    | Installation process for the nose gear strut, including calibration             | Long-lasting, designed for easy access              |
 
-## **5. Operación del Sistema**
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
 
-El Sistema de Equipos y Mobiliario opera integrando sus componentes para mejorar la comodidad y seguridad de los pasajeros:
+| **Pageblock No.** | **Task Type**         | **Description**                                                        | **DM Code**                      |
+|-------------------|-----------------------|------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Main Gear Strut                               | ROBBBO-T-A-32-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Nose Gear Strut for functionality                             | ROBBBO-T-A-32-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Brake Assembly for performance issues                    | ROBBBO-T-A-32-04-00-00A-000-D    |
+| **MP04**          | Calibration            | Calibrate Landing Gear Control Unit                                    | ROBBBO-T-A-32-
 
-1. **Configuraciones de Asientos**: Asientos ergonómicos con características de seguridad están instalados en toda la cabina.
+06-00-00A-000-D    |
+| **MP05**          | Software Update        | Perform software updates on the Landing Gear Monitoring System         | ROBBBO-T-A-32-06-00-00A-000-D    |
+| **MP06**          | Testing                | Test the functionality of the Backup Landing Gear System               | ROBBBO-T-A-32-07-00-00A-000-D    |
+| **MP07**          | Inspection             | Inspect Main Gear Wheel for wear and damage                           | ROBBBO-T-A-32-01-00-00A-000-D    |
+| **MP08**          | Performance Review     | Evaluate performance data from the Landing Gear System                 | ROBBBO-T-A-32-00-00-00A-000-D    |
+| **MP09**          | Documentation Update    | Update training manuals for crew on the use of the Landing Gear System | ROBBBO-T-A-32-08-00-00A-000-D    |
 
-2. **Diseño y Distribución de la Cabina**: Particiones, barreras y módulos de lavabo están colocados estratégicamente para optimizar el espacio y cumplir con las regulaciones de seguridad.
-
-3. **Soluciones de Almacenamiento**: Compartimentos superiores y compartimentos de almacenamiento están diseñados para un fácil acceso y almacenamiento seguro de pertenencias de los pasajeros.
-
-4. **Entretenimiento a Bordo**: Pantallas en el respaldo de los asientos y sistemas de Wi-Fi proporcionan opciones de entretenimiento, gestionadas por servidores de contenido y módulos de audio.
-
-5. **Sistemas de Iluminación**: Luces ambientales, de lectura y de emergencia mejoran la comodidad del pasajero y garantizan la seguridad durante emergencias.
-
-6. **Equipos de Seguridad**: Chalecos salvavidas, botellas de oxígeno y extintores están disponibles y cumplen con los estándares de seguridad.
-
-7. **Control Ambiental de la Cabina**: Los sistemas regulan la temperatura, la humedad y la calidad
-
- del aire para mantener un ambiente cómodo en la cabina.
-
-8. **Mantenimiento e Inspección**: Inspecciones y mantenimientos regulares aseguran que todos los equipos y muebles permanezcan funcionales y cumplan con las regulaciones.
-
----
-
-## **6. Publicaciones Técnicas (TPWD/TPSL)**
-
-### **6.1 Especificaciones de Componentes**
-
-Todos los componentes cumplen con los estándares y regulaciones de la industria:
-
-- **Materiales**: Uso de materiales ligeros, duraderos y reciclables.
-- **Cumplimiento**:
-  - **FAA Parte 25**: Estándares de aeronavegabilidad para aviones de transporte de categoría.
-  - **ISO 14001**: Sistemas de gestión ambiental.
-  - **Normas de Inflamabilidad**: Cumplimiento con CFR Parte 25 Apéndice F.
-
-### **6.2 Procedimientos de Mantenimiento**
-
-- **Inspecciones Programadas**: Cheques regulares son obligatorios para todos los componentes críticos (**Requisito**: M).
-- **Limpieza y Sanitización**: Uso de agentes de limpieza ecológicos para mantener la higiene sin dañar los materiales.
-- **Documentación**: Manuales de mantenimiento proporcionados para cada componente, con referencias a **TPWD** y **TPSL**.
-
-### **6.3 Resolución de Problemas**
-
-- **Desgaste y Desgarro**: Inspeccionar regularmente asientos, alfombras y tapicería en busca de signos de desgaste.
-- **Sistemas Electrónicos**: Utilizar herramientas de diagnóstico para sistemas de entretenimiento y de iluminación.
-- **Equipos de Seguridad**: Asegurar que todo el equipo de seguridad esté dentro de las fechas de servicio y correctamente almacenado.
+## Conclusion
+The **Landing Gear System** is vital for ensuring safe and efficient aircraft operations on the ground. By integrating advanced technologies, sustainable practices, and compliance with regulatory standards, this system enhances aircraft safety and performance. Continuous improvement, performance monitoring, and adherence to quality assurance protocols reinforce the importance of this system in modern aviation.
 
 ---
 
-## **7. Prácticas de Sostenibilidad**
+# ATA Chapter 33: Lights System
 
-### **7.1 Eficiencia Energética**
+## 1. Introduction
+The **Lights System** (ATA Chapter 33) is essential for ensuring visibility and safety during all phases of flight, including takeoff, landing, and taxiing. This system encompasses various lighting components, including navigation lights, landing lights, cockpit illumination, and emergency lighting. Designed to meet stringent regulatory standards, the Lights System enhances situational awareness for both pilots and ground personnel. This chapter provides a comprehensive overview of the lighting system's components, including DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), estimated costs, and sustainability practices aligned with environmental standards.
 
-- **Electrónica de Bajo Consumo**: Uso de sistemas de entretenimiento e iluminación energéticamente eficientes.
-- **Iluminación Inteligente**: La iluminación LED reduce el consumo de energía y la generación de calor.
-- **Control Climático Eficiente**: Sistemas avanzados optimizan el uso de energía para calefacción, refrigeración y ventilación.
-
-### **7.2 Impacto Ambiental**
-
-- **Materiales Ecológicos**: Uso de materiales sostenibles en asientos, alfombras y paneles.
-- **Componentes Reciclables**: Diseño para el desensamblaje facilita el reciclaje al final de la vida útil.
-- **Reducción de Desechos**: Diseños modulares reducen los desechos durante el mantenimiento y las actualizaciones.
-
-### **7.3 Innovaciones en Aviación Verde**
-
-- **Diseño Ligero**: Reduce el peso total del avión, lo que lleva a un menor consumo de combustible.
-- **Transparencia en Materiales**: La divulgación de la composición de los materiales ayuda en los esfuerzos de reciclaje.
-- **Certificaciones Verdes**: Los componentes cumplen con los estándares ambientales como **ISO 14001**.
-
----
-
-## **8. Mantenimiento y Resolución de Problemas**
-
-### **8.1 Mejores Prácticas de Mantenimiento**
-
-- **Limpieza Regular**: Mantener la higiene de la cabina utilizando agentes de limpieza aprobados.
-- **Reemplazo de Componentes**: Utilizar piezas aprobadas por el fabricante para reemplazos.
-- **Capacitación**: Asegurar que el personal esté capacitado en el manejo de materiales y electrónicos delicados.
-
-### **8.2 Guía de Resolución de Problemas**
-
-- **Problemas con Asientos**: Inspeccionar ajustes mecánicos y tapicería en busca de daños.
-- **Sistemas de Entretenimiento**: Comprobar la fuente de alimentación y las conexiones de red.
-- **Fallas de Iluminación**: Reemplazar LED defectuosos y comprobar los módulos de control.
-
-### **8.3 Actualizaciones de Software y Firmware**
-
-- **Entretenimiento a Bordo**: Actualizar regularmente servidores de contenido y software.
-- **Diagnósticos del Sistema**: Utilizar herramientas de software de mantenimiento para chequeos de salud del sistema.
-
----
-
-## **9. Capacitación y Seguridad**
-
-### **9.1 Capacitación del Personal**
-
-- **Capacitación Técnica**: Obligatoria para el personal de mantenimiento sobre equipos y mobiliario.
-  - **Costo Estimado por Estudiante (USD)**: $3,000 - $5,000
-- **Capacitación en Servicio al Cliente**: Capacitación de la tripulación sobre el uso de equipos y asistencia a pasajeros.
-
-### **9.2 Procedimientos Operativos**
-
-- **Procedimientos Operativos Estándar**: Directrices para usar y mantener el equipo de cabina.
-- **Protocolos de Emergencia**: Capacitación sobre el uso de equipos de seguridad y gestión de evacuaciones.
-
----
-
-## **10. Conclusión**
-
-El Sistema de Equipos y Mobiliario es esencial para proporcionar un entorno cómodo y seguro para los pasajeros. Al integrar tecnologías avanzadas, materiales sostenibles y diseños ergonómicos, el sistema mejora la experiencia del pasajero mientras se alinea con los estándares ambientales. La documentación detallada, incluidos **DM Codes**, **PNRs**, y prácticas de sostenibilidad, proporciona información integral para la operación y el mantenimiento del sistema, contribuyendo a un futuro de aviación sostenible.
-
----
-
-## **11. Referencias**
-
-- **Documentación del Fabricante**: Últimos manuales de los fabricantes de componentes.
-- **Normas de la Industria**: FAA Parte 25, ISO 14001 y Normas de Inflamabilidad.
-- **Organismos Regulatorios**: Regulaciones de la FAA y EASA para el cumplimiento.
-- **Datos de Trabajo de Publicaciones Técnicas (TPWD)**: Procedimientos detallados.
-- **Lista de Especificaciones de Publicaciones Técnicas (TPSL)**: Lista de documentos integral.
-
----
-
-**Nota**: Los **Números de Parte (PNRs)** proporcionados, especialmente aquellos marcados con **(FN)**, son ejemplos ficticios. Para especificaciones y adquisiciones reales, siempre consulte la documentación más reciente de los fabricantes y publicaciones de la industria.
-
-
-Here's the structured document for **ATA Chapter 26: Fire Protection System**, incorporating the columns for circularity, sustainability, recyclability, reusability, and repairability:
-
----
-
-# **ATA Chapter 26: Fire Protection System**
-
-## **1. Introduction**
-
-The **Fire Protection System** (ATA Chapter 26) is critical for detecting, suppressing, and containing fires to ensure the safety of passengers, crew, and the aircraft. It includes fire detection sensors, fire suppression systems, and protective equipment distributed throughout the aircraft, such as in the cargo hold, engine compartments, APU, lavatories, and cabin areas. The system provides automatic and manual options for responding to fire threats, ensuring compliance with stringent aviation safety standards. This chapter provides a comprehensive overview of the system, detailed descriptions of its components—including **DM Codes**, **Part Numbers (PNRs)** (fictitious ones are marked with **(FN)**), **Illustrated Parts Lists (IPL/IPD)**, **Estimated Costs**, and outlines sustainable practices aligned with environmental standards.
-
----
-
-## **2. 4-Digit Breakdown of ATA Chapter 26: Fire Protection System**
+## 2. 4-Digit Breakdown of ATA Chapter 33: Lights System
 
 | **Section** | **Description**                                                                                                                        |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| **26-00**   | **General Overview**: Introduction to the Fire Protection System and its importance in aviation safety.                                 |
-| **26-10**   | **Fire Detection Systems**: Overview of smoke detectors, heat sensors, and fire alarms throughout the aircraft.                         |
-| **26-20**   | **Fire Extinguishing Systems**: Description of fire suppression systems, including engine and cargo hold extinguishers.                |
-| **26-30**   | **Portable Fire Extinguishers**: Details on portable extinguishers located throughout the aircraft cabin and cockpit.                   |
-| **26-40**   | **Cargo Compartment Fire Protection**: Overview of fire detection and suppression in the cargo hold.                                    |
-| **26-50**   | **Engine Fire Protection**: Explanation of fire detection and suppression mechanisms within engine compartments.                        |
-| **26-60**   | **APU Fire Protection**: Description of fire detection and suppression for the Auxiliary Power Unit (APU).                              |
-| **26-70**   | **Lavatory Fire Protection**: Details on smoke detectors and extinguishers in lavatory waste bins.                                      |
-| **26-80**   | **Maintenance and Inspection Procedures**: Guidelines for inspecting and maintaining fire protection equipment.                        |
-| **26-90**   | **Regulatory Compliance**: Overview of compliance with aviation safety standards related to fire protection.                            |
-
----
-
-## **3. System Description (BAABI)**
-
-### **3.1 Overview**
-
-The Fire Protection System ensures rapid detection and suppression of fires to protect passengers, crew, and aircraft integrity. Key features include:
-
-- **Fire Detection Systems**: Smoke detectors, heat sensors, and fire alarms in critical areas.
-- **Fire Extinguishing Systems**: Suppression systems for engines, APU, cargo holds, and lavatories.
-- **Portable Fire Extinguishers**: Strategically placed for immediate use by crew members.
-- **Integration**: Systems connected to cockpit alerts for quick response.
-- **Compliance**: Meets or exceeds aviation safety regulations.
-
-### **3.2 System Components**
-
-Below is a detailed breakdown of the system components, including **DM Codes**, **Titles**, **Part Numbers (PNRs)** (fictitious ones are marked with **(FN)**), **Estimated Costs**, and sustainability features presented in an **Illustrated Parts List (IPL/IPD)** format.
-
----
-
-## **4. IPL/IPD Breakdown**
-
-### **4.1 Fire Protection System Overview**
-
-- **DM Code**: ROBBBO-T-A-26-00-00-00A-000-D
-- **Title**: Fire Protection System Overview
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-- **Description**: Introduction to the Fire Protection System, its importance, functionality, and integration within the aircraft.
-- **Estimated Cost (USD)**: N/A (Overview)
-
----
-
-### **4.2 Fire Detection Systems**
-
-- **DM Code**: ROBBBO-T-A-26-10-00-00A-000-D
-- **Title**: Fire Detection Systems
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.2.1 Component Breakdown**
-
-| **Item No.** | **Part Name**              | **Part Number (PNR)** | **Manufacturer**        | **Description**                                         | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|----------------------------|-----------------------|-------------------------|---------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-10-1**  | Smoke Detector             | SD-502                | Kidde Aerospace         | Optical smoke detector for cabin and cargo areas        | 50      | $1,500 - $2,000 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-10-2**  | Heat Sensor                | HS-230                | Honeywell Aerospace     | Detects temperature rise in engine and cargo compartments | 20      | $800 - $1,200 each       | Recyclable materials   | Energy-efficient design   | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-10-3**  | Fire Alarm Control Unit    | FACU-110              | Collins Aerospace       | Manages signals from fire detectors and triggers alarms | 5       | $5,000 - $7,500 each     | Repairable parts       | Long lifecycle            | Component upgrades possible| Modular design          | Easy access for repairs  |
-| **26-10-4**  | Flame Detector             | **FD-300** (FN)       | Hypothetical Vendor     | Detects flame presence in critical areas                | 10      | $2,500 - $3,500 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.3 Fire Extinguishing Systems**
-
-- **DM Code**: ROBBBO-T-A-26-20-00-00A-000-D
-- **Title**: Fire Extinguishing Systems
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.3.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                  | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|--------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-20-1**  | Cargo Fire Extinguisher Bottle | CFEB-45               | UTC Aerospace Systems   | Halon-based extinguisher for cargo holds               | 4       | $3,500 - $4,500 each     | Recyclable components  | Low emissions            | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-20-2**  | Engine Fire Extinguisher Bottle | EFB-200              | Kidde Aerospace         | Suppresses fires in engine compartments                | 4       | $7,000 - $9,000 each     | Recyclable components  | Low emissions            | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-20-3**  | APU Fire Extinguisher Bottle   | APU-FEB-100           | Firetrace Aerospace     | Fire suppression for Auxiliary Power Unit              | 1       | $6,000 - $8,000          | Recyclable components  | Low emissions            | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-20-4**  | Fire Suppression Control Unit  | **FSCU-400** (FN)     | Hypothetical Vendor     | Controls fire suppression systems                      | 2       | $4,000 - $5,500 each     | Recyclable components  | Long lifecycle           | Easily recyclable       | Modular design          | Easy access for repairs  |
-
----
-
-### **4.4 Portable Fire Extinguishers**
-
-- **DM Code**: ROBBBO-T-A-26-30-00-00A-000-D
-- **Title**: Portable Fire Extinguishers
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.4.1 Component Breakdown**
-
-| **Item No.** | **Part Name**              | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|----------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-30-1**  | Handheld Fire Extinguisher | HFE
-
--300               | Amerex Corporation      | Portable extinguisher for cockpit and cabin            | 10      | $150 - $300 each         | Reusable design        | Recyclable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-30-2**  | Halon Portable Extinguisher | HFE-450              | Kidde Aerospace         | Halon extinguisher for passenger cabin                 | 5       | $200 - $350 each         | Reusable design        | Low emissions            | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-30-3**  | Protective Gloves          | **PG-100** (FN)       | Hypothetical Vendor     | Heat-resistant gloves for handling fires               | 10 pairs | $50 - $75 per pair       | Reusable design        | Durable materials        | Easily recyclable       | Simple replacement       | Repairable               |
-| **26-30-4**  | Fire Blanket               | **FB-200** (FN)       | Hypothetical Vendor     | Fire-retardant blanket for smothering fires            | 5       | $100 - $150 each         | Reusable design        | Low emissions            | Easily recyclable       | Simple replacement       | Repairable               |
-
----
-
-### **4.5 Cargo Compartment Fire Protection**
-
-- **DM Code**: ROBBBO-T-A-26-40-00-00A-000-D
-- **Title**: Cargo Compartment Fire Protection
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.5.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                 | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|-------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-40-1**  | Cargo Smoke Detection System  | CSD-100               | Collins Aerospace       | Monitors cargo areas for smoke detection               | 10      | $4,000 - $5,500 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-40-2**  | Cargo Fire Suppression Panel  | CFSP-500              | Honeywell Aerospace     | Manages fire suppression in cargo compartments         | 2       | $3,000 - $4,500 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-40-3**  | Cargo Fire Containment Cover  | **CFCC-300** (FN)     | Hypothetical Vendor     | Fire-resistant cover for cargo containers              | 20      | $500 - $700 each         | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-40-4**  | Cargo Fire Door               | **CFD-400** (FN)      | Hypothetical Vendor     | Fireproof door for cargo compartment access            | 2       | $10,000 - $12,000 each   | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.6 Engine Fire Protection**
-
-- **DM Code**: ROBBBO-T-A-26-50-00-00A-000-D
-- **Title**: Engine Fire Protection
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.6.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-50-1**  | Engine Fire Detection Loop   | EFDL-220              | UTC Aerospace Systems   | Heat-sensitive loops detecting engine fires            | 4       | $5,000 - $6,500 each     | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-50-2**  | Engine Fire Extinguishing Switch | EFES-300           | Collins Aerospace       | Manual discharge of engine fire extinguishers          | 2       | $1,500 - $2,000 each     | Repairable parts       | Long lifecycle           | Component upgrades possible| Modular design          | Easy access for repairs  |
-| **26-50-3**  | Engine Fire Indicator Light  | **EFIL-150** (FN)     | Hypothetical Vendor     | Alerts pilots to engine fire conditions                | 2       | $800 - $1,200 each       | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-50-4**  | Engine Firewire Cable        | **EFC-400** (FN)      | Hypothetical Vendor     | Connects detection loops to control units              | 4       | $1,000 - $1,500 each     | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Easy access for repairs  |
-
----
-
-### **4.7 APU Fire Protection**
-
-- **DM Code**: ROBBBO-T-A-26-60-00-00A-000-D
-- **Title**: APU Fire Protection
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.7.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-60-1**  | APU Fire Detection Loop      | AFDL-210              | Kidde Aerospace         | Detects fires in APU compartment                       | 1       | $4,000 - $5,000          | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-60-2**  | APU Fire Control Panel       | AFCP-120              | Collins Aerospace       | Controls and monitors APU fire protection              | 1       | $3,500 - $4,500          | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-60-3**  | APU Fire Extinguishing Switch | **AFES-250** (FN)    | Hypothetical Vendor     | Manual activation of APU fire suppression              | 1       | $1,200 - $1,800          | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-60-4**  | APU Fire Indicator Light     | **AFIL-130** (FN)     | Hypothetical Vendor     | Visual alert for APU fire condition                    | 1       | $700 - $1,000            | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.8 Lavatory Fire Protection**
-
-- **DM Code**: ROBBBO-T-A-26-70-00-00A-000-D
-- **Title**: Lavatory Fire Protection
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.8.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                    | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|----------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-70-1**  | Lavatory Smoke Detector          | LSD-105               | Honeywell Aerospace     | Detects smoke in lavatory areas                        | 4       | $1,000 - $1,500 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-70-2**  | Lavatory Waste Bin Extinguisher  | LWE-400               | Kidde Aerospace         | Auto-extingu
-
-ishes fires in lavatory waste bins         | 4       | $600 - $900 each         | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-70-3**  | Lavatory Fire Indicator Light    | **LFIL-120** (FN)     | Hypothetical Vendor     | Alerts crew to lavatory fire conditions                | 4       | $500 - $700 each         | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-70-4**  | Lavatory Fire Access Panel       | **LFAP-300** (FN)     | Hypothetical Vendor     | Allows crew access for firefighting                    | 4       | $1,500 - $2,000 each     | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.9 Maintenance and Inspection Procedures**
-
-- **DM Code**: ROBBBO-T-A-26-80-00-00A-000-D
-- **Title**: Maintenance and Inspection Procedures
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.9.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                      | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|------------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-80-1**  | Fire Protection System Tester      | FPST-500              | Druck LLC               | Tests and verifies fire detection systems              | 1       | $8,000 - $10,000         | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-80-2**  | Calibration Kit                    | **CK-600** (FN)       | Hypothetical Vendor     | Tools for calibrating sensors and detectors            | 1       | $2,500 - $3,500          | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-80-3**  | Maintenance Software Tool          | **MST-7000** (FN)     | Hypothetical Vendor     | Software for diagnostics and maintenance scheduling    | 1       | $10,000 - $12,000        | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-80-4**  | Fire Extinguisher Refill Station   | **FERS-800** (FN)     | Hypothetical Vendor     | Equipment for refilling extinguishers                  | 1       | $5,000 - $7,000          | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.10 Regulatory Compliance**
-
-- **DM Code**: ROBBBO-T-A-26-90-00-00A-000-D
-- **Title**: Regulatory Compliance
-- **ATA Chapter**: 26
-- **Requirement**: M (Mandatory)
-
-#### **4.10.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                      | **Part Number (PNR)** | **Manufacturer**        | **Description**                                        | **Qty** | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|------------------------------------|-----------------------|-------------------------|--------------------------------------------------------|---------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-90-1**  | Fire Protection Compliance Module  | FPCM-100              | Thales Group            | Ensures system compliance with regulations             | 1       | $2,000 - $3,500          | Recyclable materials   | Supports regulatory standards| Easily recyclable      | Modular design          | Simple replacement       |
-| **26-90-2**  | Fire Detection Log Recorder        | FDLR-200              | Collins Aerospace       | Records data for audits and compliance                 | 1       | $1,500 - $2,500          | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-90-3**  | Certification Documentation Package | CDP-300              | Airbus Defence & Space  | Documentation for system certification                 | 1       | $3,000 - $4,000          | Recyclable materials   | Supports regulatory standards| Easily recyclable      | Modular design          | Simple replacement       |
-| **26-90-4**  | Training Manual                    | **TM-400** (FN)       | Hypothetical Vendor     | Manuals for crew training on fire protection systems   | 1       | $500 - $1,000            | Recyclable materials   | Supports training standards| Easily recyclable      | Modular design          | Simple replacement       |
-
----
-
-## **5. System Operation**
-
-The Fire Protection System operates by integrating its components to detect and suppress fires promptly:
-
-1. **Detection**: Smoke detectors, heat sensors, and flame detectors continuously monitor for signs of fire.
-2. **Alerting**: Upon detection, alarms are triggered in the cockpit and relevant areas.
-3. **Suppression**: Fire extinguishing systems activate automatically or manually to suppress fires.
-4. **Monitoring**: Control units and panels provide real-time status to pilots and crew.
-5. **Maintenance**: Regular inspections and tests ensure system readiness and compliance.
-
----
-
-## **6. Technical Publications (TPWD/TPSL)**
-
-### **6.1 Component Specifications**
-
-All components adhere to industry standards and regulations:
-
-- **Materials**: Use of fire-resistant, durable, and recyclable materials.
-- **Compliance**:
-  - **FAA FAR Part 25**: Airworthiness Standards for Transport Category Airplanes.
-  - **EASA CS-25**: Certification Specifications for Large Aeroplanes.
-  - **ISO 209:1986**: Aircraft Fire Safety.
-
-### **6.2 Maintenance Procedures**
-
-- **Scheduled Inspections**: Regular checks are mandatory for all fire protection components (**Requirement**: M).
-- **Testing**: Use of testers and calibration kits to verify functionality.
-- **Documentation**: Maintenance manuals provided for each component, with references to **TPWD** and **TPSL**.
-
-### **6.3 Troubleshooting**
-
-- **False Alarms**: Check sensors for dust or obstructions.
-- **Non-responsive Systems**: Verify power supply and control unit status.
-- **Depleted Extinguishers**: Replace or refill as per manufacturer guidelines.
-
----
-
-## **7. Sustainability Practices**
-
-### **7.1 Energy Efficiency**
-
-- **Low-Power Sensors**: Use of energy-efficient detectors reduces power consumption.
-- **Smart Systems**: Systems activate only when necessary, conserving resources.
-
-### **7.2 Environmental Impact**
-
-- **Eco-Friendly Extinguishing Agents**: Transition from Halon to environmentally friendly agents where possible.
-- **Recyclable Components**: Design for disassembly facilitates recycling at end-of-life.
-- **Waste Reduction**: Modular designs reduce waste during maintenance and upgrades.
-
-### **7.3 Innovations in Green Aviation**
-
-- **Alternative Materials**: Use of sustainable materials in components.
-- **Lifecycle Management**: Components designed for longevity and minimal environmental impact.
-- **Compliance with Environmental Standards**: Adherence to regulations like **Montreal Protocol** to phase out ozone-depleting substances.
-
----
-
-## **8. Maintenance and Troubleshooting**
-
-### **8.1 Maintenance Best Practices**
-
-- **Regular Testing**: Perform scheduled tests using approved equipment.
-- **Component Replacement**: Use certified parts for replacements.
-- **Training**: Ensure maintenance personnel are trained on fire protection systems.
-
-### **8.2 Troubleshooting Guide**
-
-- **Sensor Malfunctions**: Clean or replace detectors.
-- **Extinguisher Leaks**: Inspect for damage and repair or replace units.
-- **Control Unit Errors**: Update software or check for hardware faults.
-
-### **8.3 Software and Firmware Updates**
-
-- **Secure Updates**: Use authorized methods for updating system software.
-- **Compliance**: Ensure updates meet regulatory requirements.
-
----
-
-## **9. Training and Safety**
-
-### **9.1 Personnel Training**
-
-- **Technical Training**: Mandatory for maintenance and crew on fire protection systems.
-  - **Estimated Cost per Trainee (USD)**: $2,000 - $3,000
-- **Certification Programs**: Adherence to FAA and EASA training standards.
-
-### **9.2 Operational Procedures**
-
-- **Emergency Protocols**: Training on responding to fire incidents.
-- **Equipment Use**: Hands-on training with fire extinguishers and systems.
-
----
-
-## **10. Notes for Maintenance Personnel**
-
-- **Regular Testing**: Ensure all systems undergo routine testing to guarantee functionality.
-- **Calibration**: Regularly calibrate sensors to maintain accuracy.
-- **Replacement Cycles**: Follow manufacturer guidelines for replacing extinguishing agents and components.
-- **Documentation**: Keep detailed records of maintenance activities for compliance and auditing.
-- **Safety Precautions**: Always adhere to safety protocols when handling fire suppression equipment.
-
----
-
-## **11. Cost Management Considerations**
-
-1
-
-. **Bulk Purchasing**: Negotiate discounts for bulk orders of components.
-2. **Supplier Reliability**: Partner with reputable suppliers to ensure quality and reduce long-term costs.
-3. **Lifecycle Costing**: Consider total cost of ownership, including maintenance and disposal.
-4. **Training Investment**: Proper training reduces errors and costly mistakes.
-
----
-
-## **12. Next Steps for Cost Determination**
-
-1. **Vendor Quotations**: Obtain detailed quotes from suppliers.
-2. **Budget Analysis**: Align costs with maintenance budgets.
-3. **Cost-Benefit Evaluation**: Assess the benefits of investing in higher-quality components.
-4. **Financial Planning**: Incorporate costs into long-term financial strategies.
-
----
-
-## **13. Conclusion**
-
-The **Fire Protection System** in the **ROBBBO-T Aircraft** is engineered to provide comprehensive detection and suppression capabilities, ensuring the highest levels of safety for passengers and crew. By integrating advanced technologies, adhering to stringent regulatory standards, and incorporating sustainable practices, the system supports the goals of modern aviation safety and environmental responsibility. Detailed documentation, including **DM Codes**, **PNRs**, and sustainability considerations, ensures thorough understanding and maintenance of the system.
-
----
-
-### **Comprehensive Table: ATA Chapter 26 - Components**
-
-| **ATA Chapter** | **Section**                         | **Component**                    | **DM Code**                      | **Part Number (PNR)**  | **Manufacturer**        | **Description**                                      | **Estimated Cost (USD)** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|-----------------|-------------------------------------|----------------------------------|----------------------------------|------------------------|-------------------------|------------------------------------------------------|--------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **26-00**       | General Overview                    | Fire Protection System Overview  | ROBBBO-T-A-26-00-00-00A-000-D    | -                      | -                       | Introduction to the system                           | -                        | Focus on energy efficiency and recyclability                   |                              |                             |                              |                             |                              |
-| **26-10**       | Fire Detection Systems              | Smoke Detector                   | ROBBBO-T-A-26-10-00-00A-000-D    | SD-502                 | Kidde Aerospace         | Optical smoke detector                               | $1,500 - $2,000 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-20**       | Fire Extinguishing Systems          | Engine Fire Extinguisher Bottle  | ROBBBO-T-A-26-20-00-00A-000-D    | EFB-200                | Kidde Aerospace         | Suppresses engine fires                              | $7,000 - $9,000 each     | Recyclable components  | Low emissions            | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-30**       | Portable Fire Extinguishers         | Handheld Fire Extinguisher       | ROBBBO-T-A-26-30-00-00A-000-D    | HFE-300                | Amerex Corporation      | Portable extinguisher                                | $150 - $300 each         | Reusable design        | Recyclable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-40**       | Cargo Fire Protection               | Cargo Smoke Detection System     | ROBBBO-T-A-26-40-00-00A-000-D    | CSD-100                | Collins Aerospace       | Monitors cargo for smoke                             | $4,000 - $5,500 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-50**       | Engine Fire Protection              | Engine Fire Detection Loop       | ROBBBO-T-A-26-50-00-00A-000-D    | EFDL-220               | UTC Aerospace Systems   | Heat-sensitive detection                              | $5,000 - $6,500 each     | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-60**       | APU Fire Protection                 | APU Fire Detection Loop          | ROBBBO-T-A-26-60-00-00A-000-D    | AFDL-210               | Kidde Aerospace         | Detects fires in APU compartment                       | $4,000 - $5,000          | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Easy access for repairs  |
-| **26-70**       | Lavatory Fire Protection            | Lavatory Smoke Detector          | ROBBBO-T-A-26-70-00-00A-000-D    | LSD-105                | Honeywell Aerospace     | Detects smoke in lavatories                          | $1,000 - $1,500 each     | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-80**       | Maintenance Procedures              | Fire Protection System Tester    | ROBBBO-T-A-26-80-00-00A-000-D    | FPST-500               | Druck LLC               | Tests and verifies fire detection systems              | $8,000 - $10,000         | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **26-90**       | Regulatory Compliance               | Compliance Documentation Package | ROBBBO-T-A-26-90-00-00A-000-D    | CDP-300                | Airbus Defence & Space  | Documentation for system certification                 | $3,000 - $4,000          | Recyclable materials   | Supports regulatory standards| Easily recyclable      | Modular design          | Simple replacement       |
-
----
-
-### **Sustainability & Circularity Focus**
-
-- **Energy Efficiency**: Components designed to minimize power consumption.
-- **Recyclable Materials**: Use of recyclable metals and plastics.
-- **Modular Design**: Facilitates maintenance and reduces waste.
-- **Eco-Friendly Agents**: Transition to environmentally friendly fire suppression agents.
-
----
-
-**Note**: The provided **Part Numbers (PNRs)** marked with **(FN)** are fictitious examples. For actual specifications and procurement, always refer to the latest manufacturer documentation and industry publications.
-
---- 
-
-This structured document ensures a comprehensive overview of the Fire Protection System while addressing critical sustainability and operational aspects.
-
----
-
-Here’s the enhanced structure for ATA Chapter 27, now incorporating a detailed consideration of materials for each component, along with stress analysis insights and the additional columns for circularity, sustainability, recyclability, reusability, and repairability:
-
-# **ATA Chapter 27: Flight Controls System**
-
-## **1. Introduction**
-
-The **Flight Controls System** (ATA Chapter 27) is crucial for managing the aircraft's flight surfaces and guiding its movements in the air. This system enhances the pilot's ability to control the aircraft safely and efficiently during all phases of flight. It encompasses primary flight controls (ailerons, elevators, rudders), secondary flight controls (flaps, slats, spoilers), control surface actuation systems, fly-by-wire technology, stability augmentation, control system monitoring, pilot interfaces, redundancy features, and compliance with aviation regulations. This chapter provides a comprehensive overview of the system, detailed descriptions of its components—including **DM Codes**, **Part Numbers (PNRs)** (fictitious ones are marked with **(FN)**), **Illustrated Parts Lists (IPL/IPD)**, **Estimated Costs**, and outlines sustainable practices aligned with environmental standards.
-
----
-
-## **2. 4-Digit Breakdown of ATA Chapter 27: Flight Controls System**
-
-| **Section** | **Description**                                                                                                                      |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **27-00**   | **General Overview**: Introduction to the Flight Controls System and its significance in flight operations.                          |
-| **27-10**   | **Primary Flight Controls**: Overview of ailerons, elevators, and rudders and their functions.                                       |
-| **27-20**   | **Secondary Flight Controls**: Description of flaps, slats, spoilers, and other devices that enhance aerodynamic performance.        |
-| **27-30**   | **Control Surface Actuation Systems**: Mechanisms that operate the flight control surfaces.                                          |
-| **27-40**   | **Fly-By-Wire Systems**: Explanation of electronic control systems that enhance flight control precision.                            |
-| **27-50**   | **Stability Augmentation Systems**: Features that improve aircraft stability and handling characteristics.                           |
-| **27-60**   | **Control System Monitoring**: Systems for monitoring the performance and integrity of flight controls.                              |
-| **27-70**   | **Pilot Interfaces**: Overview of controls and displays used by pilots to operate the flight control system.                        |
-| **27-80**   | **Redundancy and Safety Features**: Discussion on backup systems to ensure reliable operation of flight controls.                   |
-| **27-90**   | **Maintenance and Inspection Procedures**: Guidelines for inspecting and maintaining flight control equipment.                      |
-| **27-100**  | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning flight control systems.                      |
-
----
-
-## **3. System Description (BAABI)**
-
-### **3.1 Overview**
-
-The Flight Controls System enables pilots to manage the aircraft's attitude and trajectory by manipulating flight control surfaces. Key features include:
-
-- **Primary Flight Controls**: Ailerons, elevators, and rudders control roll, pitch, and yaw movements.
-- **Secondary Flight Controls**: Flaps, slats, and spoilers enhance lift and control during takeoff, landing, and maneuvering.
-- **Control Surface Actuation**: Hydraulic, electric, or hybrid systems that move control surfaces based on pilot inputs.
-- **Fly-By-Wire Technology**: Electronic systems replace mechanical linkages for improved precision and safety.
-- **Stability Augmentation**: Systems that enhance aircraft stability and handling characteristics.
-- **Redundancy**: Backup systems ensure continuous control in case of component failures.
-
-### **3.2 System Components**
-
-Below is a detailed breakdown of the system components, including **DM Codes**, **Titles**, **Part Numbers (PNRs)** (fictitious ones are marked with **(FN)**), **Estimated Costs**, and other relevant details presented in an **Illustrated Parts List (IPL/IPD)** format.
-
----
-
-## **4. IPL/IPD Breakdown**
-
-### **4.1 Flight Controls System Overview**
-
-- **DM Code**: ROBBBO-T-A-27-00-00-00A-000-D
-- **Title**: Flight Controls System Overview
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-- **Description**: Introduction to the Flight Controls System, its importance, functionality, and integration within the aircraft.
-- **Estimated Cost (USD)**: N/A (Overview)
-
----
-
-### **4.2 Primary Flight Controls**
-
-- **DM Code**: ROBBBO-T-A-27-10-00-00A-000-D
-- **Title**: Primary Flight Controls
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.2.1 Component Breakdown**
-
-| **Item No.** | **Part Name**       | **Part Number (PNR)** | **Manufacturer**        | **Description**                                 | **Qty** | **Estimated Cost (USD)** | **Main Material**       | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|---------------------|-----------------------|-------------------------|-------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-10-1**  | Aileron Actuator    | AIA-322               | Moog Inc.               | Controls roll by adjusting aileron surfaces     | 2       | $15,000 - $20,000 each   | Composite with CNT      | High stiffness, low weight; good fatigue resistance | Recyclable materials   | Long service life       | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-10-2**  | Elevator Actuator   | EVA-200               | Collins Aerospace       | Controls pitch by adjusting elevator surfaces   | 2       | $12,000 - $18,000 each   | Epoxy resin composite    | Effective load distribution; resistant to environmental factors | Recyclable materials   | Eco-efficient operation  | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-10-3**  | Rudder Actuator     | RDA-550               | Honeywell Aerospace     | Controls yaw by adjusting rudder surfaces       | 1       | $14,000 - $19,000        | Aluminum alloy          | High tensile strength; good corrosion resistance | Recyclable materials   | Durable design          | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-10-4**  | Control Stick       | **CS-1000** (FN)      | Hypothetical Vendor     | Pilot interface for controlling primary surfaces | 2       | $5,000 - $7,000 each     | Synthetic diamond composite | Exceptional wear resistance; low friction | Recyclable materials   | Sustainable design      | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.3 Secondary Flight Controls**
-
-- **DM Code**: ROBBBO-T-A-27-20-00-00A-000-D
-- **Title**: Secondary Flight Controls
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.3.1 Component Breakdown**
-
-| **Item No.** | **Part Name**    | **Part Number (PNR)** | **Manufacturer**        | **Description**                                      | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|------------------|-----------------------|-------------------------|------------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-20-1**  | Flap Actuator     | FLA-110               | Collins Aerospace       | Adjusts the position of flaps for increased lift     | 4       | $18,000 - $22,000 each   | Epoxy resin composite    | Excellent load handling; low weight helps lift performance | Recyclable materials   | Long-lasting, energy-efficient | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-20-2**  | Slat Actuator     | SLA-220               | Honeywell Aerospace     | Adjusts slats for improved lift during takeoff/landing | 4       | $20,000 - $25,000 each   | Composite with CNT      | High fatigue resistance; maintains performance in various conditions | Recyclable materials   | Eco-friendly materials    | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-20-3**  | Spoiler Actuator  | **SPA-330** (FN)      | Hypothetical Vendor     | Controls spoilers for descent and roll control       | 6       | $10,000 - $15,000 each   | Synthetic diamond composite | High wear resistance; ideal for repetitive motion | Recyclable materials   | Sustainable design        | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-20-4**  | Flap Control Lever | **FCL-400** (FN)     | Hypothetical Vendor     | Pilot interface for flap operation                   | 1       | $2,000 - $3,000          | Composite with CNT      | Lightweight; good strength under load | Recyclable materials   | Low energy consumption   
-
- | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.4 Control Surface Actuation Systems**
-
-- **DM Code**: ROBBBO-T-A-27-30-00-00A-000-D
-- **Title**: Control Surface Actuation Systems
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.4.1 Component Breakdown**
-
-| **Item No.** | **Part Name**           | **Part Number (PNR)** | **Manufacturer**        | **Description**                                    | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|-------------------------|-----------------------|-------------------------|----------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-30-1**  | Hydraulic Actuator       | HAC-290               | Eaton Corporation       | Converts hydraulic pressure into mechanical movement | 12      | $15,000 - $20,000 each   | Titanium alloy          | High durability; excellent resistance to fatigue | Recyclable materials   | Energy-efficient         | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-30-2**  | Electric Actuator        | **EAC-350** (FN)      | Hypothetical Vendor     | Electric motors for control surface actuation      | 8       | $12,000 - $16,000 each   | Composite with CNT      | High performance; minimal weight impact | Recyclable materials   | Low power consumption     | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-30-3**  | Actuator Control Unit    | **ACU-500** (FN)      | Hypothetical Vendor     | Controls and monitors actuator performance         | 4       | $8,000 - $10,000 each    | Epoxy resin composite    | Effective stress distribution; resilient to impacts | Recyclable materials   | Eco-efficient            | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-30-4**  | Feedback Sensor          | **FBS-600** (FN)      | Hypothetical Vendor     | Provides position data of control surfaces         | 16      | $1,500 - $2,500 each     | Synthetic diamond composite | High accuracy; withstands environmental stresses | Recyclable materials   | Sustainable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.5 Fly-By-Wire Systems**
-
-- **DM Code**: ROBBBO-T-A-27-40-00-00A-000-D
-- **Title**: Fly-By-Wire Systems
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.5.1 Component Breakdown**
-
-| **Item No.** | **Part Name**             | **Part Number (PNR)** | **Manufacturer**        | **Description**                                      | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|---------------------------|-----------------------|-------------------------|------------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-40-1**  | Flight Control Computer (FCC) | FCC-9200             | Thales Group            | Central processor for flight control computations    | 3       | $60,000 - $75,000 each   | Aluminum                 | Excellent heat dissipation; lightweight | Modular design         | Eco-friendly operation    | Easily recyclable       | Modular upgrades        | Simple replacement       |
-| **27-40-2**  | Backup FCC                | BFCC-880              | Honeywell Aerospace     | Backup system for flight control redundancy          | 2       | $40,000 - $55,000 each   | Aluminum                 | Resilient under load; high durability | Recyclable materials   | Long service life        | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-40-3**  | Data Bus Network          | **DBN-700** (FN)      | Hypothetical Vendor     | High-speed data communication network                | 1       | $20,000 - $25,000        | Composite with CNT      | High data integrity; low weight impact | Recyclable materials   | Sustainable design        | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-40-4**  | Control Laws Software     | **CLS-800** (FN)      | Hypothetical Vendor     | Software algorithms for flight control               | 1       | $100,000 - $120,000      | Software                 | Digital; regularly updated for efficiency | Digital format         | Low emissions            | Not applicable          | Upgradeable software     | Simple updates           |
-
----
-
-### **4.6 Stability Augmentation Systems**
-
-- **DM Code**: ROBBBO-T-A-27-50-00-00A-000-D
-- **Title**: Stability Augmentation Systems
-- **ATA Chapter**: 27
-- **Requirement**: O (Optional, but recommended)
-
-#### **4.6.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                 | **Part Number (PNR)** | **Manufacturer**        | **Description**                                     | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|-------------------------------|-----------------------|-------------------------|-----------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-50-1**  | Stability Augmentation System (SAS) | **SAS-1000** (FN)  | Hypothetical Vendor     | Enhances aircraft stability and handling            | 1       | $50,000 - $65,000        | Composite with CNT      | Excellent weight-to-strength ratio | Recyclable materials   | Low energy use           | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-50-2**  | Yaw Damper Unit               | **YDU-200** (FN)      | Hypothetical Vendor     | Reduces oscillations in yaw axis                    | 2       | $10,000 - $15,000 each   | Aluminum                 | High stability; resistant to vibration | Recyclable materials   | Durable materials        | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-50-3**  | Autotrim System               | **ATS-300** (FN)      | Hypothetical Vendor     | Automatically adjusts trim settings                 | 1       | $25,000 - $30,000        | Epoxy resin composite    | Efficient load handling; stable performance | Recyclable materials   | Sustainable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-50-4**  | Stability Control Sensors     | **SCS-400** (FN)      | Hypothetical Vendor     | Provides data for stability augmentation            | 6       | $2,000 - $3,000 each     | Synthetic diamond composite | High sensitivity; ideal for real-time feedback | Recyclable materials   | Eco-efficient            | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.7 Control System Monitoring**
-
-- **DM Code**: ROBBBO-T-A-27-60-00-00A-000-D
-- **Title**: Control System Monitoring
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.7.1 Component Breakdown**
-
-| **Item No.** | **Part Name**           | **Part Number (PNR)** | **Manufacturer**        | **Description**                                 | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|-------------------------|-----------------------|-------------------------|-------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-60-1**  | Flight Control Monitoring Unit (FCMU) | **FCMU-500** (FN) | Hypothetical Vendor     | Monitors performance and integrity of controls  | 2       | $15,000 - $20,000 each   | Composite with CNT      | Robust design; withstands environmental stress | Recyclable materials   | Durable design           | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-60-2**  | Fault Detection Module  | **FDM-600** (FN)      | Hypothetical Vendor     | Identifies and reports faults in the system     | 2       | $12,000 - $15,000 each   | Synthetic diamond composite | High reliability; efficient fault identification | Recyclable materials
-
-   | Eco-friendly design      | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-60-3**  | Data Recorder Interface | **DRI-700** (FN)      | Hypothetical Vendor     | Interfaces with flight data recorder            | 1       | $8,000 - $10,000         | Composite                | Good impact resistance; lightweight | Recyclable materials   | Sustainable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-60-4**  | Sensor Health Monitor   | **SHM-800** (FN)      | Hypothetical Vendor     | Monitors health of sensors and actuators        | 4       | $5,000 - $7,000 each     | Aluminum                 | Effective monitoring; high durability | Recyclable materials   | Eco-efficient            | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.8 Pilot Interfaces**
-
-- **DM Code**: ROBBBO-T-A-27-70-00-00A-000-D
-- **Title**: Pilot Interfaces
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.8.1 Component Breakdown**
-
-| **Item No.** | **Part Name**              | **Part Number (PNR)** | **Manufacturer**        | **Description**                                  | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|----------------------------|-----------------------|-------------------------|--------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-70-1**  | Flight Control Panel       | FCP-800               | Thales Group            | Provides controls for manual flight inputs       | 1       | $5,000 - $7,000          | Composite with CNT      | Lightweight; high durability | Recyclable materials   | Sustainable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-70-2**  | Throttle Quadrant Control  | TQC-900               | Collins Aerospace       | Controls engine power settings                   | 1       | $7,500 - $10,000         | Synthetic diamond composite | Exceptional wear resistance; low friction | Recyclable materials   | Eco-friendly design      | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-70-3**  | Sidestick Controller       | **SSC-1000** (FN)     | Hypothetical Vendor     | Alternative to control stick for pilot input     | 2       | $4,000 - $6,000 each     | Epoxy resin composite    | High precision; lightweight | Recyclable materials   | Long-lasting, energy-efficient | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-70-4**  | Multifunction Display Unit (MFD) | **MFD-1100** (FN) | Hypothetical Vendor     | Displays flight control system data              | 2       | $10,000 - $15,000 each   | Composite                | Good visibility; durable design | Recyclable materials   | Sustainable design      | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.9 Redundancy and Safety Features**
-
-- **DM Code**: ROBBBO-T-A-27-80-00-00A-000-D
-- **Title**: Redundancy and Safety Features
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.9.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                   | **Part Number (PNR)** | **Manufacturer**        | **Description**                                  | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|-----------------------|-------------------------|--------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-80-1**  | Backup Hydraulic System         | **BHS-1200** (FN)     | Hypothetical Vendor     | Provides hydraulic power if main system fails    | 1       | $30,000 - $40,000        | Titanium alloy          | High strength; effective under pressure | Recyclable materials   | Durable components       | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-80-2**  | Redundant Flight Control Computer | BFCC-880            | Honeywell Aerospace     | Backup for flight control computations           | 2       | $40,000 - $55,000 each   | Aluminum                 | Resilient under load; high durability | Recyclable materials   | Long service life        | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-80-3**  | Emergency Control Module        | **ECM-1300** (FN)     | Hypothetical Vendor     | Allows basic control in case of system failure   | 1       | $20,000 - $25,000        | Composite with CNT      | Effective under failure conditions | Recyclable materials   | Eco-efficient            | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-80-4**  | Mechanical Backup Linkage       | **MBL-1400** (FN)     | Hypothetical Vendor     | Provides manual control linkage to surfaces      | 1       | $15,000 - $20,000        | Aluminum                 | High durability; effective redundancy | Recyclable materials   | Sustainable design      | Easily recyclable       | Modular design          | Simple replacement       |
-
----
-
-### **4.10 Maintenance and Inspection Procedures**
-
-- **DM Code**: ROBBBO-T-A-27-90-00-00A-000-D
-- **Title**: Maintenance and Inspection Procedures
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.10.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                    | **Part Number (PNR)** | **Manufacturer**        | **Description**                                   | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|----------------------------------|-----------------------|-------------------------|---------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-90-1**  | Flight Control System Tester     | FCST-1100             | Druck LLC               | Diagnostic tool for system testing                | 1       | $12,000 - $15,000        | Aluminum                 | Robust design; withstands heavy use | Recyclable materials   | Eco-friendly materials   | Easily recyclable       | Reusable equipment       | Simple maintenance       |
-| **27-90-2**  | Calibration Unit                 | FCCU-1200             | Honeywell Aerospace     | Calibrates flight control surfaces                | 1       | $9,000 - $12,000         | Composite with CNT      | Excellent precision; durable under stress | Recyclable materials   | Long service life        | Easily recyclable       | Reusable equipment       | Simple maintenance       |
-| **27-90-3**  | Maintenance Software Tool        | **MST-1500** (FN)     | Hypothetical Vendor     | Software for diagnostics and maintenance scheduling | 1       | $10,000 - $12,000        | Software                 | Digital; regularly updated for efficiency | Digital format         | Low emissions            | Not applicable          | Upgradeable software     | Simple updates           |
-| **27-90-4**  | Inspection Mirror Set            | IMS-1600              | Snap-on Industrial      | Tools for visual inspections                      | 2 sets  | $300 - $500 per set      | Aluminum                 | Durable; effective for inspections | Recyclable materials   | Reusable equipment       | Not applicable          | Simple replacement       | Easy to maintain        |
-
----
-
-### **4.11 Regulatory Compliance**
-
-- **DM Code**: ROBBBO-T-A-27-100-00-00A-000-D
-- **Title**: Regulatory Compliance
-- **ATA Chapter**: 27
-- **Requirement**: M (Mandatory)
-
-#### **4.11.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                     | **Part Number (PNR)** | **Manufacturer**        | **Description**                                      | **Qty** | **Estimated Cost (USD)** | **Main Material**      | **Stress Analysis Insights** | **Circularity**       | **Sustainability**       | **Recyclability**       | **Reusability**         | **Repairability**       |
-|--------------|-----------------------------------|-----------------------|-------------------------|------------------------------------------------------|---------|--------------------------|-------------------------|-------------------------------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| **27-100-1** | Flight Control Compliance Module  | FCCM-1300             | Thales
-
- Group            | Ensures compliance with regulatory standards          | 1       | $5,000 - $7,500          | Composite with CNT      | Durable; withstands operational stress | Recyclable materials   | Sustainable materials     | Easily recyclable       | Modular design          | Simple replacement       |
-| **27-100-2** | Certification Documentation Package | CDP-1400            | Airbus Defence & Space  | Provides documentation for certification             | 1       | $3,000 - $4,000          | Digital                 | N/A; ensures proper documentation | Digital format         | Eco-efficient            | Not applicable          | Not applicable          | Not applicable          |
-| **27-100-3** | Regulatory Updates Subscription   | **RUS-1500** (FN)     | Hypothetical Vendor     | Keeps system updated with latest regulations         | 1       | $1,000 - $1,500 per year | Digital                 | N/A; ensures ongoing compliance | Digital format         | Low emissions            | Not applicable          | Not applicable          | Not applicable          |
-| **27-100-4** | Compliance Training Module        | **CTM-1600** (FN)     | Hypothetical Vendor     | Training for compliance procedures                   | 1       | $2,000 - $3,000          | Digital                 | N/A; facilitates effective training | Digital format         | Eco-efficient            | Not applicable          | Not applicable          | Not applicable          |
-
----
-
-## **5. System Operation**
-
-The Flight Controls System operates through an intricate integration of mechanical, hydraulic, and electronic components:
-
-1. **Pilot Inputs**: Commands are input via control sticks, yokes, or sidesticks and throttle controls.
-2. **Signal Processing**: Inputs are processed by the Flight Control Computers (FCCs), which calculate the necessary surface deflections.
-3. **Actuation**: Actuators (hydraulic, electric, or hybrid) move the control surfaces accordingly.
-4. **Feedback and Monitoring**: Sensors provide real-time feedback on control surface positions to the FCCs.
-5. **Redundancy**: Backup systems ensure continuous operation in case of primary system failure.
-
----
-
-## **6. Technical Publications (TPWD/TPSL)**
-
-### **6.1 Component Specifications**
-
-All components adhere to industry standards and regulations:
-
-- **Materials**: Use of lightweight, durable, and recyclable materials like advanced composites, titanium alloys, and CNTs.
-- **Compliance**:
-  - **FAA Part 25**: Airworthiness Standards for Transport Category Airplanes.
-  - **EASA CS-25**: Certification Specifications for Large Aeroplanes.
-  - **RTCA DO-178C**: Software Considerations in Airborne Systems.
-
-### **6.2 Maintenance Procedures**
-
-- **Scheduled Inspections**: Regular checks are mandatory for all critical components (**Requirement**: M).
-- **Calibration**: Actuators and sensors require periodic calibration.
-- **Documentation**: Maintenance manuals provided for each component, with references to **TPWD** and **TPSL**.
-
-### **6.3 Troubleshooting**
-
-- **System Diagnostics**: Use built-in test equipment and software tools.
-- **Fault Isolation**: Identify faulty components using error codes and system indicators.
-- **Component Replacement**: Follow manufacturer guidelines for replacing defective parts.
-
----
-
-## **7. Sustainability Practices**
-
-### **7.1 Energy Efficiency**
-
-- **Low-Power Electronics**: Flight control computers and actuators designed for minimal power consumption.
-- **Efficient Hydraulics**: Hydraulic systems optimized for energy efficiency.
-
-### **7.2 Environmental Impact**
-
-- **Eco-Friendly Materials**: Use of recyclable and sustainable materials in components.
-- **Waste Reduction**: Modular designs reduce waste during maintenance and upgrades.
-- **Recyclable Components**: Design for disassembly facilitates recycling at end-of-life.
-
-### **7.3 Innovations in Green Aviation**
-
-- **Fly-By-Wire Systems**: Reduce weight and improve fuel efficiency.
-- **Advanced Composites**: Lightweight materials reduce overall aircraft weight.
-- **Lifecycle Management**: Components designed for longevity and minimal environmental impact.
-
----
-
-## **8. Maintenance and Troubleshooting**
-
-### **8.1 Maintenance Best Practices**
-
-- **Regular Inspections**: Adhere to maintenance schedules for inspections and servicing.
-- **Software Updates**: Keep system software and firmware up-to-date.
-- **Training**: Ensure maintenance personnel are trained on the latest procedures.
-
-### **8.2 Troubleshooting Guide**
-
-- **Actuator Failures**: Check hydraulic pressure and electrical connections.
-- **Sensor Malfunctions**: Verify calibration and replace if necessary.
-- **Computer Errors**: Use diagnostic tools to check FCCs and software integrity.
-
-### **8.3 Software and Firmware Updates**
-
-- **Secure Updates**: Use authorized methods to update system software.
-- **Compliance**: Ensure updates meet regulatory requirements and do not interfere with system certification.
-
----
-
-## **9. Training and Safety**
-
-### **9.1 Personnel Training**
-
-- **Technical Training**: Mandatory for maintenance staff and pilots on flight control systems.
-  - **Estimated Cost per Trainee (USD)**: $5,000 - $7,000
-- **Certification Programs**: Adherence to FAA and EASA training standards.
-
-### **9.2 Operational Procedures**
-
-- **Standard Operating Procedures**: Guidelines for normal and emergency operations.
-- **Emergency Protocols**: Training on manual reversion and handling system failures.
-
----
-
-## **10. Conclusion**
-
-The **Flight Controls System** in the **ROBBBO-T Aircraft** is engineered to provide precise and reliable control of the aircraft during all phases of flight. By integrating advanced technologies, sustainable materials, and intelligent design, the system ensures optimal performance while aligning with environmental standards. Detailed **DM Codes**, **Part Numbers (PNRs)**, **Estimated Costs**, and technical publications provide comprehensive information for operation and maintenance.
-
----
-
-This comprehensive framework captures the intricacies of material selection, stress analysis, and sustainability considerations for each component in the Flight Controls System. Let me know if you need any further modifications or additional information!
-
-
-Here is the updated version of **ATA Chapter 28: Fuel System** that integrates the five sustainability columns—**Circularity, Sustainability, Recyclability, Reusability, and Repairability**—as well as key materials based on advanced analysis for each component. Each component is assessed with foresight, simulating stress in relation to where it's installed and its interfaces with other components. Materials like **composites**, **carbon nanotubes (CNTs)**, **epoxy resins**, **synthetic diamonds**, and **titanium alloys** are used strategically for strength, durability, and sustainability.
-
----
-
-Aquí tienes la versión comprimida de **ATA 28: Fuel System** con columnas de **Materiales, Circularidad, Sostenibilidad, Reciclabilidad, Reusabilidad y Reparabilidad** integradas:
-
----
-
-# **ATA Chapter 28: Fuel System Overview**
-
-## **1. Introduction**
-
-The **Fuel System** (ATA Chapter 28) is crucial for the storage, management, and delivery of fuel to the engines and auxiliary power units (APUs) of the **ROBBBO-T Aircraft**. This system ensures efficient and safe fuel flow during all flight phases. It includes tanks, pumps, valves, fuel quantity indicators, and control systems, all designed to manage fuel effectively while complying with strict aviation regulations.
-
----
-
-## **2. 4-Digit Breakdown of ATA Chapter 28**
-
-| **Section** | **Description**                                                                                                                      |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **28-00**   | **General Overview**: Introduction to the Fuel System and its importance.                                                            |
-| **28-10**   | **Fuel Storage Systems**: Overview of fuel tanks and their configurations.                                                           |
-| **28-20**   | **Fuel Distribution Systems**: Description of pumps, valves, and lines delivering fuel to engines.                                    |
-| **28-30**   | **Fuel Quantity Measurement**: Methods for measuring and monitoring fuel levels in the tanks.                                         |
-| **28-40**   | **Fuel Quality Control**: Procedures for ensuring fuel quality and safety.                                                           |
-| **28-50**   | **Fuel Transfer Systems**: Mechanisms for transferring fuel between tanks.                                                           |
-| **28-60**   | **System Monitoring and Alerts**: Features for real-time monitoring of fuel system performance and alerts for any issues.            |
-| **28-70**   | **Redundancy and Reliability Features**: Backup systems to ensure continuous operation in case of failure.                           |
-| **28-80**   | **Training and Operational Procedures**: Guidelines for operating the fuel system and emergency procedures.                          |
-| **28-90**   | **Regulatory Compliance**: Overview of compliance with aviation regulations concerning fuel systems.                                  |
-
----
-
-## **3. System Description (BAABI)**
-
-The **Fuel System** manages the storage, distribution, and monitoring of the fuel required for engine and APU operations. Below is a breakdown of the system components, including **DM Codes**, **PNRs**, **Estimated Costs**, and a focus on **Circularity, Sustainability, Recyclability, Reusability, and Repairability**.
-
----
-
-## **4. IPL/IPD Breakdown**
-
-### **4.1 Fuel System Overview**
-
-- **DM Code**: ROBBBO-T-A-28-00-00-00A-000-D
-- **Estimated Cost (USD)**: N/A (Overview)
-
----
-
-### **4.2 Fuel Storage Systems**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-10-1**  | Main Fuel Tank Assembly  | 3204000-1      | Airbus Industries          | Primary fuel storage tank                                  | 2       | $50,000-70,000  | Epoxy resin composites        | Long lifespan, modular design | Sustainable materials      | Highly recyclable         | Reusable after repair      | Easy access for repair    |
-| **28-10-2**  | Auxiliary Fuel Tank      | 1003178-2      | Boeing Commercial Airplanes| Auxiliary tank for extended range operations               | 2       | $30,000-45,000  | Aluminum alloy               | Modular, energy efficient   | Low environmental impact    | Easily recyclable         | Reusable in various aircraft | Simple maintenance        |
-
----
-
-### **4.3 Fuel Distribution Systems**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-20-1**  | Fuel Pump (Main)         | 7700268-5      | Parker Hannifin           | Pumps fuel to the engines                                  | 4       | $8,000-12,000   | Carbon nanotube (CNT)         | High energy efficiency     | Long lifespan, low power usage | Fully recyclable         | High reuse potential        | Easily repairable         |
-| **28-20-2**  | Fuel Crossfeed Valve     | 621500-2       | Collins Aerospace          | Enables fuel transfer between tanks                        | 2       | $3,000-4,500    | Lightweight titanium alloy    | Modular and easy to replace | Highly efficient           | 100% recyclable           | Highly reusable            | Low maintenance required  |
-
----
-
-### **4.4 Fuel Quantity Measurement**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-30-1**  | Fuel Quantity Indicator  | 9308-81-1      | Thales Group               | Displays fuel quantity to the pilot                       | 2       | $2,000-3,500    | Lightweight epoxy resin       | Easy integration, modular design | Long-lasting materials     | Recyclable                  | Reusable in other aircraft  | Easy to repair            |
-| **28-30-2**  | Fuel Probe               | FP-2100        | Meggitt PLC               | Measures fuel level in the tanks                           | 20      | $1,500-2,200    | Carbon nanotube (CNT)         | Modular components        | Long service life           | Fully recyclable          | Reusable after maintenance  | Easily repairable         |
-
----
-
-### **4.5 Fuel Quality Control**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-40-1**  | Water Separator          | WS-5800        | Eaton Aerospace           | Removes water from fuel to ensure quality                  | 2       | $3,000-4,500    | Titanium alloy                | Long lifespan             | High energy efficiency      | Fully recyclable          | Reusable in various systems | Easy to maintain          |
-
----
-
-### **4.6 Fuel Transfer Systems**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-50-1**  | Fuel Transfer Pump       | FTP-400        | Collins Aerospace          | Transfers fuel between tanks                               | 2       | $6,000-8,500    | Advanced CNT composites       | High durability          | Reduced power consumption   | Fully recyclable          | Reusable in other configurations | Easy maintenance          |
-
----
-
-### **4.7 System Monitoring and Alerts**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-60-1**  | Fuel System Monitoring Computer | FSMC-3000 | Collins Aerospace          | Monitors fuel system performance                           | 1       | $15,000-18,000  | Advanced epoxy resin          | Modular, efficient design | Minimal energy consumption  | Fully recyclable          | Reusable in various systems | Easy to repair            |
-
----
-
-### **4.8 Redundancy and
-
- Reliability Features**
-
-| **Item No.** | **Part Name**           | **PNR**        | **Manufacturer**          | **Description**                                           | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**         | **Sustainability**       | **Recyclability**      | **Reusability**           | **Repairability**        |
-|--------------|-------------------------|----------------|---------------------------|-----------------------------------------------------------|---------|-----------------|------------------------------|--------------------------|--------------------------|------------------------|---------------------------|--------------------------|
-| **28-70-1**  | Backup Fuel Pump         | BFP-5500       | Collins Aerospace          | Backup pump to ensure continuous operation                | 2       | $10,000-13,000  | Aluminum alloy                | High energy efficiency    | Long lifespan              | Highly recyclable         | Reusable after inspection  | Simple to repair          |
-
----
-
-## **5. Sustainability & Circularity Focus**
-
-- **Energy Efficiency**: All components are designed for minimal energy consumption.
-- **Recyclable Materials**: Use of aluminum, titanium alloys, CNT composites, and advanced epoxy resins promotes a circular economy.
-- **Modular Design**: Facilitates repairs and upgrades, reducing waste.
-- **Innovations in Green Aviation**: Compatible with sustainable biofuels and components designed for longevity.
-
----
-
-## **Installation Figures for ATA Chapter 28: Fuel System**
-
-Installation figures for fuel tanks, pumps, valves, sensors, and transfer systems, each including detailed instructions for installation and maintenance focused on safety and sustainability.
-
----
-
-This condensed version reflects advanced materials and sustainability practices for **ATA Chapter 28: Fuel System** of the **ROBBBO-T Aircraft**. Let me know if you need further modifications or a similar analysis for another chapter.
-
----
-
-# **ATA Chapter 29: Hydraulic Power System Overview**
-
-## **1. Introduction**
-
-The **Hydraulic Power System** (ATA Chapter 29) of the **ROBBBO-T Aircraft** powers critical systems such as flight controls, landing gear, brakes, and thrust reversers. This system operates using high-pressure hydraulic fluid to transfer force and power various aircraft components. It is built with redundancy to ensure operation even during a primary system failure.
-
----
-
-## **2. 4-Digit Breakdown of ATA Chapter 29**
-
-| **Section**   | **Description**                                                      |
-|---------------|----------------------------------------------------------------------|
-| **29-00**     | **General Overview**: Introduction to the Hydraulic Power System.    |
-| **29-10**     | **Hydraulic Power Generation**: Engine-driven and electric pumps.    |
-| **29-20**     | **Hydraulic Reservoirs**: Fluid storage and management.              |
-| **29-30**     | **Hydraulic Distribution Systems**: Networks for fluid distribution. |
-| **29-40**     | **Hydraulic Actuators**: Convert hydraulic pressure into motion.     |
-| **29-50**     | **Hydraulic Control Valves**: Regulate fluid flow and pressure.      |
-| **29-60**     | **Hydraulic Accumulators**: Store hydraulic energy.                  |
-| **29-70**     | **System Monitoring**: Real-time performance monitoring.             |
-| **29-80**     | **Redundancy and Reliability**: Backup systems for continuous operation.|
-| **29-90**     | **Training and Procedures**: Training materials and guidelines.      |
-| **29-100**    | **Regulatory Compliance**: Adherence to aviation regulations.        |
-
----
-
-## **3. System Description (BAABI)**
-
-The Hydraulic Power System transfers hydraulic fluid under pressure to control various aircraft functions, ensuring smooth operation. Components are detailed below, including **DM Codes**, **PNRs**, **Estimated Costs**, and a focus on **Circularity, Sustainability, Recyclability, Reusability, and Repairability**.
-
----
-
-## **4. IPL/IPD Breakdown**
-
-### **4.1 Hydraulic Power System Overview**
-
-- **DM Code**: ROBBBO-T-A-29-00-00-00A-000-D
-- **Estimated Cost (USD)**: N/A (Overview)
-
----
-
-### **4.2 Hydraulic Power Generation**
-
-| **Item No.** | **Part Name**                   | **PNR**       | **Manufacturer**        | **Description**                                        | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**       | **Sustainability**     | **Recyclability**      | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|---------------|-------------------------|--------------------------------------------------------|---------|-----------------|------------------------------|-----------------------|------------------------|------------------------|-------------------------|-------------------------|
-| **29-10-1**  | Engine-Driven Hydraulic Pump    | 4200903-5     | Parker Hannifin         | Generates pressure using engine power                  | 2       | $15,000-20,000  | Titanium alloy               | Modular, upgradeable   | Energy-efficient design | Highly recyclable       | High reuse in compatible systems | Easy replacement parts   |
-| **29-10-2**  | Electric Hydraulic Pump         | 5204-01-7     | Eaton Aerospace         | Electric pump for hydraulic pressure generation         | 1       | $18,000-25,000  | CNT composite                | Low energy use         | Long-lasting materials | High recyclability      | Reusable across models  | Plug-and-play repair     |
-
----
-
-### **4.3 Hydraulic Reservoirs**
-
-| **Item No.** | **Part Name**                   | **PNR**       | **Manufacturer**        | **Description**                                        | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**       | **Sustainability**     | **Recyclability**      | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|---------------|-------------------------|--------------------------------------------------------|---------|-----------------|------------------------------|-----------------------|------------------------|------------------------|-------------------------|-------------------------|
-| **29-20-1**  | Main Hydraulic Reservoir        | 9354-1        | Collins Aerospace       | Stores hydraulic fluid, maintains system pressure       | 1       | $5,000-7,000    | Epoxy resin composite        | Long lifecycle         | Durable, efficient      | Highly recyclable       | Reusable after refurbishment | Easy to repair and replace |
-
----
-
-### **4.4 Hydraulic Distribution Systems**
-
-| **Item No.** | **Part Name**                   | **PNR**       | **Manufacturer**        | **Description**                                        | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**       | **Sustainability**     | **Recyclability**      | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|---------------|-------------------------|--------------------------------------------------------|---------|-----------------|------------------------------|-----------------------|------------------------|------------------------|-------------------------|-------------------------|
-| **29-30-1**  | Hydraulic Manifold              | MH2103        | Moog Inc.               | Distributes fluid to different systems                  | 2       | $8,000-12,000   | CNT-reinforced alloy         | Modular design         | Energy-efficient, durable | Highly recyclable       | Reusable in updated models | Easy to maintain         |
-| **29-30-2**  | High-Pressure Hydraulic Hose    | HPH-1200      | Eaton Aerospace         | Transfers hydraulic fluid under pressure                | Varies  | $1,000-1,500/m  | Synthetic diamond coating    | High durability        | Eco-friendly materials  | Fully recyclable        | Reusable, high lifespan  | Simple replacement       |
-
----
-
-### **4.5 Hydraulic Actuators**
-
-| **Item No.** | **Part Name**                   | **PNR**       | **Manufacturer**        | **Description**                                        | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**       | **Sustainability**     | **Recyclability**      | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|---------------|-------------------------|--------------------------------------------------------|---------|-----------------|------------------------------|-----------------------|------------------------|------------------------|-------------------------|-------------------------|
-| **29-40-1**  | Landing Gear Actuator           | LG-8001       | Liebherr Aerospace      | Controls landing gear movement                         | 3       | $12,000-15,000  | Titanium alloy + Epoxy resin | High durability        | Recyclable, durable     | Easy disassembly        | High reusability        | Easy repair and replacement |
-
----
-
-### **4.6 Hydraulic Control Valves**
-
-| **Item No.** | **Part Name**                   | **PNR**       | **Manufacturer**        | **Description**                                        | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**       | **Sustainability**     | **Recyclability**      | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|---------------|-------------------------|--------------------------------------------------------|---------|-----------------|------------------------------|-----------------------|------------------------|------------------------|-------------------------|-------------------------|
-| **29-50-1**  | Servo Control Valve             | SCV-400       | Moog Inc.               | Regulates hydraulic fluid to actuators                  | 10      | $2,500-3,500    | CNT composite                | Efficient, lightweight | Reduced energy usage    | High recyclability      | High reuse across systems | Simple maintenance       |
-
----
-
-### **4.7 System Monitoring and Alerts**
-
-| **Item No.** | **Part Name**                   | **PNR**       | **Manufacturer**        | **Description**                                        | **Qty** | **Cost (USD)**  | **Material**                 | **Circularity**       | **Sustainability**     | **Recyclability**      | **Reusability**         | **Repairability**       |
-|--------------|---------------------------------|---------------|-------------------------|--------------------------------------------------------|---------|-----------------|------------------------------|-----------------------|------------------------|------------------------|-------------------------|-------------------------|
-| **29-70-1**  | Hydraulic Pressure Sensor       | HPS-2200      | Parker Hannifin         | Monitors system pressure                                | 6       | $1,000-1,500    | Synthetic diamond + CNT      | Compact, durable       | Highly energy-efficient | Recyclable parts        | Reusable in future systems | Simple repairs          |
-
----
-
-## **5. Sustainability Practices**
-
-### **Energy Efficiency**: Pumps and actuators are optimized for minimal power usage, reducing overall aircraft energy consumption.
-### **Recyclable Materials**: Use of advanced alloys, composites, and CNT-based materials ensures easy disassembly for recycling.
-### **Modular Design**: Systems are modular, allowing for component upgrades and replacements to extend life and minimize waste.
-
----
-
-### **Comprehensive Table: ATA Chapter 29 - Hydraulic Power System Components**
-
-| **Section**  | **Component**                    | **DM Code**                      | **PNR**        | **Material**                 | **Circularity**            | **Sustainability**           | **
-
-Recyclability**         | **Reusability**         | **Repairability**        |
-|--------------|----------------------------------|----------------------------------|----------------|------------------------------|----------------------------|-----------------------------|---------------------------|-------------------------|--------------------------|
-| **29-10**    | Engine-Driven Hydraulic Pump     | ROBBBO-T-A-29-10-00-00A-000-D    | 4200903-5      | Titanium alloy               | Modular design              | High energy efficiency       | Recyclable alloy           | High reuse potential     | Easily repairable         |
-| **29-30**    | High-Pressure Hydraulic Hose     | ROBBBO-T-A-29-30-00-00A-000-D    | HPH-1200       | Synthetic diamond coating    | Durable, long lifecycle     | Low energy consumption       | High recyclability         | High reusability         | Simple repair             |
-| **29-40**    | Landing Gear Actuator            | ROBBBO-T-A-29-40-00-00A-000-D    | LG-8001        | Epoxy resin + titanium       | Durable and robust          | Highly sustainable materials | Easily recyclable          | Reusable after refurbish  | Easily repairable         |
-| **29-70**    | Hydraulic Pressure Sensor        | ROBBBO-T-A-29-70-00-00A-000-D    | HPS-2200       | CNT + Synthetic diamond      | High precision and durability | Minimal energy usage        | Fully recyclable           | Highly reusable           | Simple repairs            |
-
----
-
-**Installation Figures** and **Technical Publications** provide comprehensive installation and maintenance procedures, ensuring proper integration of the hydraulic system with a focus on safety, sustainability, and system longevity.
-
----
-
-### **1. Hydraulic Power Generation**
-
-**DM Code**: ROBBBO-T-A-29-10-00-00A-000-D
-
-#### **Figure 29-10-01**
-
-- **Title**: Installation of Engine-Driven Hydraulic Pump (4200903-5)
-- **Description**: Illustrates mounting on engine, connections to hydraulic system.
-
-#### **Figure 29-10-02**
-
-- **Title**: Installation of Electric Hydraulic Pump (5204-01-7)
-- **Description**: Details mounting location, electrical connections.
-
----
-
-### **2. Hydraulic Reservoirs**
-
-**DM Code**: ROBBBO-T-A-29-20-00-00A-000-D
-
-#### **Figure 29-20-01**
-
-- **Title**: Installation of Main Hydraulic Reservoir (9354-1)
-- **Description**: Shows mounting, connections to system.
-
----
-
-### **3. Hydraulic Actuators**
-
-**DM Code**: ROBBBO-T-A-29-40-00-00A-000-D
-
-#### **Figure 29-40-01**
-
-- **Title**: Installation of Landing Gear Actuator (LG-8001)
-- **Description**: Details mounting on landing gear assembly.
-
----
-
-**Note**: Each figure includes detailed annotations, part identifiers, and step-by-step instructions. Refer to the **TPWD** and **TPSL** for comprehensive procedures and safety guidelines.
-
----
-
-Understood. I'll ensure that **ATA Chapter 30: Ice and Rain Protection System** is formatted uniformly and consistently with **ATA Chapters 28 and 29**. This includes comprehensive tables with columns for **Materials, Circularity, Sustainability, Recyclability, Reusability, and Repairability**, as well as the structured sections you've outlined.
-
----
-The comprehensive table will be titled **"Comprehensive System Component Breakdown and Sustainability Overview for ROBBBO-T Aircraft"** and will maintain uniformity across all ATA chapters as per your document scope.
-
-Below is the complete table with details for **ATA Chapters 30, 31, and 32**, incorporating all required information and maintaining consistency throughout.
-
----
-
-# **Comprehensive System Component Breakdown and Sustainability Overview for ROBBBO-T Aircraft**
-
----
-
-## **ATA Chapter 30: Ice and Rain Protection System Components**
-
-| **ATA Chapter** | **Section**                       | **Component**                          | **DMC Code**                        | **Part Number (PNR)** | **Manufacturer**          | **Description**                                      | **Estimated Cost (USD)**  | **Circularity & Sustainability**                   | **Weight (kg)** | **Lead Time (Weeks)** | **Warranty (Years)** | **Certification** | **Comments**                            |
-|-----------------|-----------------------------------|----------------------------------------|-------------------------------------|-----------------------|---------------------------|------------------------------------------------------|---------------------------|---------------------------------------------------|-----------------|-----------------------|----------------------|-------------------|----------------------------------------|
-| **30-00**       | General Overview                  | Overview of Ice and Rain Protection    | ROBBBO-T-A-30-00-00-00A-000-D       | -                     | -                         | Introduction to the Ice and Rain Protection System.  | N/A                       | N/A                                               | N/A             | N/A                   | N/A                  | N/A               | High-level overview of the system.     |
-| **30-10**       | De-Icing Systems                  | Wing Anti-Ice System                   | ROBBBO-T-A-30-10-00-00A-000-D       | 9701-03-1             | Honeywell Aerospace        | Removes ice from aircraft wings.                    | $45,000 - $60,000          | Recyclable components, designed for durability     | 60 kg           | 12                    | 5                    | FAA/EASA Approved  | Essential for safety during flight.     |
-|                 |                                   | Engine Anti-Ice System                 | ROBBBO-T-A-30-10-00-00A-000-D       | 310-0040-00           | Collins Aerospace          | Prevents ice formation on engine components.        | $30,000 - $45,000          | Long-lasting materials, recyclable parts           | 40 kg           | 10                    | 5                    | FAA/EASA Approved  | Reduces risk of engine damage.           |
-| **30-20**       | Rain Repellent Systems            | Windshield Rain Repellent System       | ROBBBO-T-A-30-20-00-00A-000-D       | 642-2321-01           | Safran Aerosystems         | Provides visibility during rain by repelling water. | $10,000 - $15,000          | Low energy consumption, recyclable materials        | 12 kg           | 6                     | 3                    | FAA/EASA Approved  | Ensures clear visibility for pilots.    |
-| **30-30**       | Monitoring and Control Systems    | Ice Detection System                   | ROBBBO-T-A-30-30-00-00A-000-D       | IDS-600               | Collins Aerospace          | Monitors ice buildup on critical surfaces.          | $5,000 - $7,000            | Energy-efficient, recyclable sensors               | 8 kg            | 8                     | 3                    | FAA/EASA Approved  | Automatic ice detection system.         |
-|                 |                                   | Control Panel for Ice Protection       | ROBBBO-T-A-30-30-00-00A-000-D       | CICP-2300             | Thales Group               | Central panel for controlling de-icing systems.     | $4,000 - $6,000            | Recyclable electronics, low power consumption      | 6 kg            | 6                     | 2                    | FAA/EASA Approved  | User-friendly control interface.         |
-| **30-40**       | Emergency Procedures              | Manual De-Icing Equipment              | ROBBBO-T-A-30-40-00-00A-000-D       | MDE-1000              | Hypothetical Vendor        | Portable manual de-icing tools for emergencies.     | $3,000 - $5,000            | Durable materials, recyclable                     | 5 kg            | 4                     | 3                    | FAA/EASA Approved  | Backup for automated de-icing systems.  |
-| **30-50**       | Maintenance and Inspection        | Ice and Rain System Test Kit           | ROBBBO-T-A-30-50-00-00A-000-D       | IRTK-2000             | Druck LLC                 | Testing tools for ice and rain protection systems.  | $10,000 - $12,000          | Reusable test tools, long service life             | 15 kg           | 6                     | 5                    | FAA/EASA Approved  | Mandatory for system maintenance.        |
-
----
-
-## **ATA Chapter 31: Indicating/Recording Systems Components**
-
-| **ATA Chapter** | **Section**                        | **Component**                          | **DMC Code**                        | **Part Number (PNR)** | **Manufacturer**         | **Description**                                      | **Estimated Cost (USD)**  | **Circularity & Sustainability**                  | **Weight (kg)** | **Lead Time (Weeks)** | **Warranty (Years)** | **Certification** | **Comments**                           |
-|-----------------|------------------------------------|----------------------------------------|-------------------------------------|-----------------------|--------------------------|------------------------------------------------------|---------------------------|---------------------------------------------------|-----------------|-----------------------|----------------------|-------------------|---------------------------------------|
-| **31-00**       | General Overview                   | Overview of Indicating/Recording Systems | ROBBBO-T-A-31-00-00-00A-000-D      | -                     | -                        | Introduction to the Indicating/Recording Systems.     | N/A                       | N/A                                               | N/A             | N/A                   | N/A                  | N/A               | High-level overview of the system.    |
-| **31-10**       | Flight Data Recording Systems      | Flight Data Recorder (FDR)             | ROBBBO-T-A-31-10-00-00A-000-D       | 980-4700-003          | Honeywell Aerospace       | Records critical flight data for post-flight analysis.| $20,000 - $30,000          | Modular design for repair, long-term data retention| 25 kg           | 8                     | 5                    | FAA/EASA Approved  | Stores key flight data for review.    |
-|                 |                                    | Data Acquisition Unit (DAU)            | ROBBBO-T-A-31-10-00-00A-000-D       | 322-4789-001          | Collins Aerospace         | Collects and processes data from various sensors.     | $12,000 - $15,000          | Low power consumption, recyclable electronics      | 20 kg           | 10                    | 5                    | FAA/EASA Approved  | Central data processing unit.          |
-| **31-20**       | Cockpit Instrumentation            | Primary Flight Display (PFD)           | ROBBBO-T-A-31-20-00-00A-000-D       | DU-875                | Universal Avionics        | High-resolution display for critical flight data.     | $10,000 - $13,000          | Energy-efficient display, recyclable components    | 12 kg           | 6                     | 3                    | FAA/EASA Approved  | Displays essential flight information. |
-|                 |                                    | Engine Indication and Crew Alerting System (EICAS) | ROBBBO-T-A-31-20-00-00A-000-D | 823-1145-001          | Collins Aerospace         | Displays engine performance and alerts the crew.      | $15,000 - $18,000          | Long lifecycle, recyclable materials              | 15 kg           | 8                     | 3                    | FAA/EASA Approved  | Critical engine data and alert system. |
-| **31-30**       | Voice Recording Systems            | Cockpit Voice Recorder (CVR)           | ROBBBO-T-A-31-30-00-00A-000-D       | 980-6022-001          | Honeywell Aerospace       | Records cockpit audio for safety and investigations.  | $10,000 - $15,000          | Durable, recyclable materials                     | 10 kg           | 10                    | 3                    | FAA/EASA Approved  | Ensures cockpit audio is recorded.     |
-| **31-40**       | Data Management Systems            | Data Storage and Retrieval Unit (DSRU) | ROBBBO-T-A-31-40-00-00A-000-D       | DSRU-3000             | Collins Aerospace         | Manages storage and retrieval of recorded flight data.| $8,000 - $12,000           | Modular design for easy repair, recyclable         | 8 kg            | 6                     | 3                    | FAA/EASA Approved  | Handles data management functions.     |
-
----
-
-## **ATA Chapter 32: Landing Gear System Components**
-
-| **ATA Chapter** | **Section**                     | **Component**                         | **DMC Code**                        | **Part Number (PNR)** | **Manufacturer**         | **Description**                                      | **Estimated Cost (USD)**  | **Circularity & Sustainability**                   | **Weight (kg)** | **Lead Time (Weeks)** | **Warranty (Years)** | **Certification** | **Comments**                           |
-|-----------------|---------------------------------|---------------------------------------|-------------------------------------
-
-|-----------------------|--------------------------|------------------------------------------------------|---------------------------|---------------------------------------------------|-----------------|-----------------------|----------------------|-------------------|---------------------------------------|
-| **32-00**       | General Overview                | Overview of Landing Gear System       | ROBBBO-T-A-32-00-00-00A-000-D       | -                     | -                        | Introduction to the Landing Gear System.             | N/A                       | N/A                                               | N/A             | N/A                   | N/A                  | N/A               | High-level overview of the system.    |
-| **32-10**       | Landing Gear Components         | Main Landing Gear Assembly            | ROBBBO-T-A-32-10-00-00A-000-D       | 900432-1              | Safran Landing Systems    | Supports the aircraft during ground operations.      | $80,000 - $100,000         | Durable metal components, recyclable materials     | 150 kg          | 14                    | 10                   | FAA/EASA Approved  | Essential for safe landings.           |
-|                 |                                 | Nose Landing Gear Assembly            | ROBBBO-T-A-32-10-00-00A-000-D       | 5001236-2             | Liebherr Aerospace        | Supports the forward section during ground handling. | $50,000 - $70,000          | Long-lasting, recyclable materials                 | 80 kg           | 12                    | 10                   | FAA/EASA Approved  | Front landing gear assembly.           |
-|                 |                                 | Landing Gear Strut                    | ROBBBO-T-A-32-10-00-00A-000-D       | LG-STR-300            | Collins Aerospace         | Absorbs shock during landing and ground maneuvers.   | $15,000 - $25,000          | Recyclable metal, durable materials               | 50 kg           | 10                    | 8                    | FAA/EASA Approved  | Essential for smooth landings.          |
-| **32-20**       | Landing Gear Actuation Systems  | Hydraulic Actuator                    | ROBBBO-T-A-32-20-00-00A-000-D       | HA-8200               | Parker Hannifin           | Operates the landing gear extension and retraction.  | $12,000 - $15,000          | Recyclable metal components, designed for durability| 35 kg           | 8                     | 5                    | FAA/EASA Approved  | Provides hydraulic power for gear.     |
-|                 |                                 | Electric Gear Actuator                | ROBBBO-T-A-32-20-00-00A-000-D       | EGA-1500              | Moog Inc.                | Electrically actuates the landing gear.              | $18,000 - $22,000          | Energy-efficient, recyclable materials             | 30 kg           | 10                    | 5                    | FAA/EASA Approved  | Electric actuator for landing gear.    |
-
----
-
-
-If you need more ATA chapters or further revisions, feel free to ask!
-
-
-# **ATA Chapter 33: Lights System**
-
-## **1. Introduction**
-
-The **Lights System** (ATA Chapter 33) of the ROBBBO-T Aircraft is essential for ensuring visibility and safety during all phases of flight, both day and night. This system encompasses a variety of lighting components, including cockpit and cabin lighting, as well as external lights such as landing lights, navigation lights, and strobe lights. The Lights System enhances operational efficiency by providing necessary illumination for pilots, crew, and passengers, while also ensuring the aircraft is visible to other aircraft and ground personnel. Additionally, the system includes emergency lighting features to maintain visibility in critical situations.
-
----
-
-## **2. 4-Digit Breakdown of ATA Chapter 33: Lights System**
-
-| **Section** | **Description**                                                                                   |
-|-------------|---------------------------------------------------------------------------------------------------|
-| **33-00**   | **General Overview**: Introduction to the Lights System and its importance in aircraft operations. |
-| **33-10**   | **Cockpit Lighting**: Lighting systems used in the cockpit for instrument visibility and crew comfort. |
-| **33-20**   | **Cabin Lighting**: Passenger cabin lighting features, including mood lighting and emergency lighting. |
-| **33-30**   | **Exterior Lighting**: External lights, including landing lights, navigation lights, and strobe lights. |
-| **33-40**   | **Emergency Lighting Systems**: Emergency features ensuring visibility during critical phases.        |
-| **33-50**   | **Control and Monitoring Systems**: Systems for controlling and monitoring the performance of lighting systems. |
-| **33-60**   | **Maintenance and Inspection Procedures**: Guidelines for the regular maintenance of lighting systems. |
-| **33-70**   | **Training and Operational Procedures**: Training requirements for crew members regarding lighting operation. |
-| **33-80**   | **Regulatory Compliance**: Compliance with aviation regulations concerning lighting systems.       |
-
----
-
-## **3. System Description**
-
-### **3.1 Overview**
-
-The Lights System ensures visibility and safety by providing illumination for various aircraft operations. Key functions include:
-
-- **Cockpit Lighting**: Enhances instrument visibility and crew comfort.
-- **Cabin Lighting**: Provides passenger comfort and emergency visibility.
-- **Exterior Lighting**: Ensures aircraft visibility to others and aids in navigation.
-- **Emergency Lighting**: Maintains visibility during critical situations.
-- **Control and Monitoring**: Allows for efficient management of all lighting components.
-
-### **3.2 System Components**
-
-The system comprises various components categorized under different sections, each serving specific roles to maintain safety and efficiency.
-
----
-
-## **4. IPL/IPD Breakdown**
-
-### **4.1 Lights System Overview**
-
-- **DMC Code**: ROBBBO-T-A-33-00-00-00A-000-D
-- **Title**: Overview of Lights System
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-- **Description**: Introduction to the Lights System, its importance, functionality, and integration within the aircraft.
-- **Estimated Cost (USD)**: N/A (Overview)
-
----
-
-### **4.2 Cockpit Lighting**
-
-- **DMC Code**: ROBBBO-T-A-33-10-00-00A-000-D
-- **Title**: Cockpit Lighting
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.2.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                     | **Part Number**     | **Manufacturer**      | **Description**                                     | **Qty** | **Estimated Cost (USD)** |
-|--------------|-----------------------------------|---------------------|-----------------------|-----------------------------------------------------|---------|--------------------------|
-| **33-10-1**  | Instrument Panel Lighting Unit    | **IPL-1000** (FN)   | Collins Aerospace     | Provides illumination for cockpit instruments.      | 2       | $3,000 - $5,000 each     |
-| **33-10-2**  | Pilot and Co-pilot Reading Lights | **PCRL-200** (FN)   | Honeywell Aerospace   | Adjustable reading lights for pilots.               | 2       | $500 - $800 each         |
-| **33-10-3**  | Cockpit Ambient Lighting System   | **CAL-300** (FN)    | Thales Group          | Provides ambient lighting for crew comfort.         | 1       | $2,000 - $3,500           |
-
----
-
-### **4.3 Cabin Lighting**
-
-- **DMC Code**: ROBBBO-T-A-33-20-00-00A-000-D
-- **Title**: Cabin Lighting
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.3.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                | **Part Number**  | **Manufacturer**       | **Description**                                  | **Qty** | **Estimated Cost (USD)** |
-|--------------|------------------------------|------------------|------------------------|--------------------------------------------------|---------|--------------------------|
-| **33-20-1**  | Passenger Cabin Ceiling Lights | **PCCL-400**   | Panasonic Avionics     | LED ceiling lights for passenger cabin illumination. | 20      | $1,500 - $2,500 each     |
-| **33-20-2**  | Mood Lighting Modules        | **MLM-500**      | Philips Lighting       | Customizable mood lighting for passenger comfort.  | 10      | $800 - $1,200 each       |
-| **33-20-3**  | Emergency Cabin Lighting     | **ECL-600**      | Honeywell Aerospace    | Provides illumination during emergencies.          | 5       | $1,000 - $1,800 each     |
-
----
-
-### **4.4 Exterior Lighting**
-
-- **DMC Code**: ROBBBO-T-A-33-30-00-00A-000-D
-- **Title**: Exterior Lighting
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.4.1 Component Breakdown**
-
-| **Item No.** | **Part Name**               | **Part Number**  | **Manufacturer**      | **Description**                                     | **Qty** | **Estimated Cost (USD)** |
-|--------------|-----------------------------|------------------|-----------------------|-----------------------------------------------------|---------|--------------------------|
-| **33-30-1**  | Landing Lights              | **LL-7000**      | Safran Lighting Systems | High-intensity lights for takeoff and landing visibility. | 4       | $5,000 - $8,000 each     |
-| **33-30-2**  | Navigation Lights           | **NL-800**       | Collins Aerospace     | Red, green, and white lights for aircraft navigation. | 6 sets  | $2,500 - $4,000 each set |
-| **33-30-3**  | Strobe Lights               | **SL-900** (FN)  | Thales Group          | Flashing lights to enhance aircraft visibility.      | 4       | $3,000 - $5,000 each     |
-
----
-
-### **4.5 Emergency Lighting Systems**
-
-- **DMC Code**: ROBBBO-T-A-33-40-00-00A-000-D
-- **Title**: Emergency Lighting Systems
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.5.1 Component Breakdown**
-
-| **Item No.** | **Part Name**               | **Part Number**  | **Manufacturer**      | **Description**                                  | **Qty** | **Estimated Cost (USD)** |
-|--------------|-----------------------------|------------------|-----------------------|--------------------------------------------------|---------|--------------------------|
-| **33-40-1**  | Emergency Exit Lighting     | **EEL-100**      | Philips Lighting      | Illuminates emergency exits during power failures. | 8       | $1,200 - $2,000 each     |
-| **33-40-2**  | Emergency Beacon Lights     | **EBL-200**      | Honeywell Aerospace   | Beacons to signal distress and enhance visibility. | 4       | $2,500 - $3,500 each     |
-| **33-40-3**  | Battery Backup Lighting Units | **BBLU-300** (FN)| Collins Aerospace     | Ensures lighting functionality during power outages. | 2      | $4,000 - $6,000 each     |
-
----
-
-### **4.6 Control and Monitoring Systems**
-
-- **DMC Code**: ROBBBO-T-A-33-50-00-00A-000-D
-- **Title**: Control and Monitoring Systems
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.6.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                  | **Part Number**   | **Manufacturer**    | **Description**                                      | **Qty** | **Estimated Cost (USD)** |
-|--------------|--------------------------------|-------------------|---------------------|------------------------------------------------------|---------|--------------------------|
-| **33-50-1**  | Lighting Control Panel         | **LCP-4000**      | Thales Group        | Interface for controlling and adjusting lighting settings. | 1     | $6,000 - $8,500           |
-| **33-50-2**  | Lighting Monitoring Unit       | **LMU-500**       | Honeywell Aerospace | Monitors the operational status of lighting systems.   | 2       | $3,500 - $5,500 each     |
-| **33-50-3**  | Automatic Dimming Controller   | **ADC-600**       | Philips Lighting    | Automatically adjusts lighting intensity based on ambient light conditions. | 1 | $2,000 - $3,000           |
-
----
-
-### **4.7 Maintenance and Inspection Procedures**
-
-- **DMC Code**: ROBBBO-T-A-33-60-00-00A-000-D
-- **Title**: Maintenance and Inspection Procedures
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.7.1 Component Breakdown**
-
-| **Item No.** | **Part Name**               | **Part Number**  | **Manufacturer**    | **Description**                                          | **Qty** | **Estimated Cost (USD)** |
-|--------------|-----------------------------|------------------|---------------------|----------------------------------------------------------|---------|--------------------------|
-| **33-60-1**  | Lighting System Test Kit    | **LSTK-700** (FN)| Druck LLC           | Equipment for testing and verifying lighting system functionality. | 1   | $5,000 - $7,000           |
-| **33-60-2**  | Inspection Checklist        | **IC-800**        | Airbus Documentation| Checklist for regular inspection of lighting components.   | 50      | $200 - $400 each          |
-| **33-60-3**  | Replacement LED Modules     | **RLM-900**       | Philips Lighting    | LED modules for replacing faulty or dimmed lights.        | 100     | $100 - $300 each          |
-| **33-60-4**  | Maintenance Manual          | **MM-400**        | Airbus Documentation| Guide for maintaining the Lights System.                 | 10      | $500 - $800 each          |
-
----
-
-### **4.8 Training and Operational Procedures**
-
-- **DMC Code**: ROBBBO-T-A-33-70-00-00A-000-D
-- **Title**: Training and Operational Procedures
-- **ATA Chapter**: 33
-- **Requirement**: Optional
-
-#### **4.8.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                     | **Part Number**     | **Manufacturer**      | **Description**                                   | **Qty**       | **Estimated Cost (USD)** |
-|--------------|-----------------------------------|---------------------|-----------------------|---------------------------------------------------|---------------|--------------------------|
-| **33-70-1**  | Lighting System Operation Manual  | **LSOM-100** (FN)   | Airbus Documentation  | Comprehensive guide for operating the Lights System. | 20 copies     | $1,500 - $2,500 each     |
-| **33-70-2**  | Crew Training Program             | **CTP-110** (FN)    | CAE Inc.              | Structured training for crew members on lighting system management. | 10 programs | $3,000 - $5,000 each     |
-| **33-70-3**  | Emergency Lighting Training Module | **ELTM-120** (FN) | Honeywell Aerospace    | Specialized training for handling emergency lighting operations. | 5 modules  | $2,500 - $4,000 each     |
-| **33-70-4**  | Operational Checklist             | **OC-800**          | Airbus Documentation  | Steps for operating the lighting systems correctly. | 50 sets       | $100 - $150 per set       |
-
----
-
-### **4.9 Regulatory Compliance**
-
-- **DMC Code**: ROBBBO-T-A-33-80-00-00A-000-D
-- **Title**: Regulatory Compliance
-- **ATA Chapter**: 33
-- **Requirement**: Mandatory
-
-#### **4.9.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                  | **Part Number**  | **Manufacturer**     | **Description**                                   | **Qty** | **Estimated Cost (USD)** |
-|--------------|--------------------------------|------------------|----------------------|---------------------------------------------------|---------|--------------------------|
-| **33-80-1**  | Regulatory Compliance Kit     | **RCK-130**      | Honeywell Aerospace  | Ensures regulatory compliance of lighting systems.| 1       | $3,000 - $4,500           |
-| **33-80-2**  | Certification Documentation Package | **CDP-140**  | Collins Aerospace    | Documentation required for regulatory certification of lighting systems. | 1 | $1,500 - $2,500           |
-| **33-80-3**  | Regulatory Updates Subscription | **RUS-500** (FN)| Hypothetical Vendor  | Provides updates on regulatory changes.           | 1       | $1,000 - $1,500/year      |
-| **33-80-4**  | Compliance Training Module      | **CTM-600** (FN)| Hypothetical Vendor  | Training on compliance procedures and documentation. | 1     | $2,000 - $3,000           |
-
----
-
-## **5. System Operation**
-
-The Lights System operates through the coordination of various components to ensure visibility and safety during all flight phases:
-
-1. **Illumination Control**: Lighting Control Panel allows crew to adjust lighting settings as needed.
-2. **Data Collection**: Lighting Monitoring Unit tracks the status and performance of all lighting components.
-3. **Automatic Adjustments**: Automatic Dimming Controller adjusts lighting intensity based on ambient light conditions.
-4. **Emergency Activation**: Battery Backup Lighting Units activate during power outages or emergencies.
-5. **Maintenance and Inspection**: Regular inspections and testing ensure all lighting components function correctly.
-6. **Training and Compliance**: Crew training and compliance kits ensure proper operation and adherence to regulations.
-
----
-
-## **6. Technical Publications**
-
-### **6.1 Component Specifications**
-
-All components comply with industry standards and aviation regulations:
-
-- **Materials**: Durable, lightweight, and recyclable materials.
-- **Compliance**:
-  - **FAA FAR Part 25**: Airworthiness Standards for Transport Category Airplanes.
-  - **EASA CS-25**: Certification Specifications for Large Aeroplanes.
-  - **RTCA DO-160**: Environmental Conditions and Test Procedures for Airborne Equipment.
-
-### **6.2 Maintenance Procedures**
-
-- **Scheduled Inspections**: Regular checks are mandatory for all critical lighting components (**Requirement**: Mandatory).
-- **Calibration**: Ensure actuators and sensors are accurately calibrated.
-- **Documentation**: Follow maintenance manuals provided for each component, referencing **TPWD** and **TPSL**.
-
-### **6.3 Troubleshooting**
-
-- **Lighting Failures**: Inspect electrical connections and replace faulty lighting modules.
-- **Control Panel Issues**: Verify control panel functionality and troubleshoot communication with lighting units.
-- **Sensor Malfunctions**: Check sensor connections and replace defective sensors.
-
----
-
-## **7. Sustainability Practices**
-
-### **7.1 Energy Efficiency**
-
-- **LED Technology**: Most lighting components use energy-efficient LED technology, which has a longer lifespan and lower energy consumption.
-- **Automatic Dimming**: Reduces power usage by adjusting lighting based on ambient conditions.
-
-### **7.2 Environmental Impact**
-
-- **Recyclable Components**: Many parts, especially lighting modules and control systems, are designed with recyclable materials.
-- **Eco-Friendly Materials**: Use of sustainable materials in system components.
-- **Waste Reduction**: Modular designs reduce waste during maintenance and upgrades.
-
-### **7.3 Innovations**
-
-- **Advanced Materials**: Lightweight materials reduce aircraft weight and fuel consumption.
-- **Digital Documentation**: Manuals and training materials provided digitally to reduce paper use.
-- **Lifecycle Management**: Components built for longevity, minimizing the need for replacements.
-
----
-
-## **8. Maintenance and Troubleshooting**
-
-### **8.1 Maintenance Best Practices**
-
-- **Safety Precautions**: Follow guidelines for handling electrical systems.
-- **Regular Maintenance**: Adhere to maintenance schedules for inspections and servicing.
-- **Use of Certified Parts**: Ensure replacements meet specifications.
-
-### **8.2 Troubleshooting Guide**
-
-- **Lighting Failures**: Check electrical connections and replace faulty lighting modules.
-- **Control Panel Issues**: Verify control panel functionality and troubleshoot communication with lighting units.
-- **Sensor Malfunctions**: Inspect sensor connections and replace defective sensors.
-
-### **8.3 Software Updates**
-
-- **Secure Updates**: Use authorized methods to update lighting control system software.
-- **Compliance**: Ensure updates meet regulatory requirements.
-
----
-
-## **9. Training and Safety**
-
-### **9.1 Personnel Training**
-
-- **Technical Training**: Mandatory for maintenance staff on Lights Systems.
-  - **Estimated Cost per Trainee (USD)**: $3,000 - $5,000
-- **Safety Training**: Emphasis on handling and maintaining electrical systems safely.
-
-### **9.2 Operational Procedures**
-
-- **Standard Operating Procedures**: Guidelines for normal operation of the Lights System.
-- **Emergency Protocols**: Training on responding to lighting system failures and ensuring visibility during emergencies.
-
----
-
-## **10. Conclusion**
-
-The **Lights System** of the **ROBBBO-T Aircraft** is integral for ensuring visibility and safety during all flight phases. By providing effective illumination for pilots, crew, and passengers, and ensuring the aircraft's visibility to others, the system enhances operational efficiency and safety. Incorporating advanced technologies and sustainable practices, the Lights System meets both operational and environmental standards. Detailed **DMC Codes**, **Part Numbers (PNRs)**, **Estimated Costs**, and technical publications offer comprehensive information for the operation and maintenance of this essential system.
-
----
-
-## **Comprehensive Table: ATA Chapter 33 - Lights System Components**
-
-| **ATA Chapter** | **Section**                   | **Component**                         | **DMC Code**                        | **Part Number**   | **Manufacturer**         | **Description**                                                | **Estimated Cost (USD)**  | **Circularity & Sustainability**                              |
-|-----------------|-------------------------------|---------------------------------------|-------------------------------------|-------------------|--------------------------|----------------------------------------------------------------|---------------------------|----------------------------------------------------------------|
-| **33-00**       | General Overview              | Overview of Lights System             | ROBBBO-T-A-33-00-00-00A-000-D       | -                 | -                        | Introduction to the Lights System.                             | -                         | N/A                                                            |
-| **33-10**       | Cockpit Lighting              | Instrument Panel Lighting Unit        | ROBBBO-T-A-33-10-00-00A-000-D       | **IPL-1000** (FN)  | Collins Aerospace         | Provides illumination for cockpit instruments.                | $3,000 - $5,000           | Energy-efficient LEDs, long lifespan, recyclable components   |
-|                 |                               | Pilot and Co-pilot Reading Lights     | ROBBBO-T-A-33-10-00-00A-000-D       | **PCRL-200** (FN)  | Honeywell Aerospace       | Adjustable reading lights for pilots.                         | $500 - $800               | LED-based, low power consumption, recyclable parts            |
-|                 |                               | Cockpit Ambient Lighting System        | ROBBBO-T-A-33-10-00-00A-000-D       | **CAL-300** (FN)   | Thales Group              | Provides ambient lighting for crew comfort and visibility.    | $2,000 - $3,500           | Low energy use, recyclable lighting modules                   |
-| **33-20**       | Cabin Lighting                | Passenger Cabin Ceiling Lights        | ROBBBO-T-A-33-20-00-00A-000-D       | **PCCL-400**       | Panasonic Avionics        | LED ceiling lights for passenger cabin illumination.          | $1,500 - $2,500           | Energy-efficient LEDs, recyclable materials                   |
-|                 |                               | Mood Lighting Modules                  | ROBBBO-T-A-33-20-00-00A-000-D       | **MLM-500**        | Philips Lighting          | Customizable mood lighting for passenger comfort.             | $800 - $1,200             | Long-life components, minimal power use                       |
-|                 |                               | Emergency Cabin Lighting               | ROBBBO-T-A-33-20-00-00A-000-D       | **ECL-600**        | Honeywell Aerospace       | Provides illumination during emergencies.                      | $1,000 - $1,800           | LED-based, low power, recyclable lighting units               |
-| **33-30**       | Exterior Lighting             | Landing Lights                         | ROBBBO-T-A-33-30-00-00A-000-D       | **LL-7000**        | Safran Lighting Systems   | High-intensity lights for takeoff and landing visibility.     | $5,000 - $8,000           | Long-lasting components, high recyclability                   |
-|                 |                               | Navigation Lights                     | ROBBBO-T-A-33-30-00-00A-000-D       | **NL-800**         | Collins Aerospace         | Red, green, and white lights for aircraft navigation.         | $2,500 - $4,000           | Recyclable components, energy-efficient LEDs                  |
-|                 |                               | Strobe Lights                         | ROBBBO-T-A-33-30-00-00A-000-D       | **SL-900** (FN)    | Thales Group              | Flashing lights to enhance aircraft visibility.               | $3,000 - $5,000           | Recyclable, long-life LED strobe lights                       |
-| **33-40**       | Emergency Lighting Systems    | Emergency Exit Lighting               | ROBBBO-T-A-33-40-00-00A-000-D       | **EEL-100**        | Philips Lighting          | Illuminates emergency exits during power failures.           | $1,200 - $2,000           | Long-lasting LEDs, recyclable materials                       |
-|                 |                               | Emergency Beacon Lights               | ROBBBO-T-A-33-40-00-00A-000-D       | **EBL-200**        | Honeywell Aerospace       | Beacons to signal distress and enhance visibility.           | $2,500 - $3,500           | Energy-efficient, long-life design                            |
-|                 |                               | Battery Backup Lighting Units         | ROBBBO-T-A-33-40-00-00A-000-D       | **BBLU-300** (FN)  | Collins Aerospace         | Ensures lighting remains functional during power outages.     | $4,000 - $6,000 each      | Recyclable batteries and lighting modules                     |
-| **33-50**       | Control and Monitoring Systems | Lighting Control Panel                | ROBBBO-T-A-33-50-00-00A-000-D       | **LCP-4000**        | Thales Group              | Interface for controlling and adjusting lighting settings.     | $6,000 - $8,500           | Low energy use, recyclable electronics                        |
-|                 |                               | Lighting Monitoring Unit              | ROBBBO-T-A-33-50-00-00A-000-D       | **LMU-500**         | Honeywell Aerospace       | Monitors the operational status of lighting systems.           | $3,500 - $5,500           | Recyclable components, long-term energy savings               |
-|                 |                               | Automatic Dimming Controller          | ROBBBO-T-A-33-50-00-00A-000-D       | **ADC-600**         | Philips Lighting          | Automatically adjusts lighting intensity based on ambient light conditions. | 1 | $2,000 - $3,000           | Energy-saving automatic dimming features                      |
-| **33-60**       | Maintenance and Inspection Procedures | Lighting System Test Kit      | ROBBBO-T-A-33-60-00-00A-000-D       | **LSTK-700** (FN)   | Druck LLC                 | Equipment for testing and verifying lighting system functionality. | 1   | $5,000 - $7,000          |
-|                 |                               | Inspection Checklist                  | ROBBBO-T-A-33-60-00-00A-000-D       | **IC-800**          | Airbus Documentation      | Checklist for regular inspection of lighting components.       | 50 copies | $200 - $400 each          |
-|                 |                               | Replacement LED Modules               | ROBBBO-T-A-33-60-00-00A-000-D       | **RLM-900**         | Philips Lighting          | LED modules for replacing faulty or dimmed lights.             | 100     | $100 - $300 each          |
-|                 |                               | Maintenance Manual                    | ROBBBO-T-A-33-60-00-00A-000-D       | **MM-400**          | Airbus Documentation      | Guide for maintaining the Lights System.                       | 10 copies | $500 - $800 each          |
-| **33-70**       | Training and Operational Procedures | Lighting System Operation Manual | ROBBBO-T-A-33-70-00-00A-000-D       | **LSOM-100** (FN)   | Airbus Documentation      | Comprehensive guide for operating the Lights System.           | 20 copies | $1,500 - $2,500 each     |
-|                 |                               | Crew Training Program                 | ROBBBO-T-A-33-70-00-00A-000-D       | **CTP-110** (FN)    | CAE Inc.                  | Structured training for crew members on lighting system management. | 10 programs | $3,000 - $5,000 each     |
-|                 |                               | Emergency Lighting Training Module    | ROBBBO-T-A-33-70-00-00A-000-D       | **ELTM-120** (FN)   | Honeywell Aerospace       | Specialized training for handling emergency lighting operations. | 5 modules  | $2,500 - $4,000 each     |
-|                 |                               | Operational Checklist                 | ROBBBO-T-A-33-70-00-00A-000-D       | **OC-800**          | Airbus Documentation      | Steps for operating the lighting systems correctly.           | 50 sets       | $100 - $150 per set       |
-| **33-80**       | Regulatory Compliance         | Regulatory Compliance Kit             | ROBBBO-T-A-33-80-00-00A-000-D       | **RCK-130**         | Honeywell Aerospace       | Ensures regulatory compliance of lighting systems.            | 1       | $3,000 - $4,500           |
-|                 |                               | Certification Documentation Package  | ROBBBO-T-A-33-80-00-00A-000-D       | **CDP-140**         | Collins Aerospace         | Documentation required for regulatory certification of lighting systems. | 1 | $1,500 - $2,500           |
-|                 |                               | Regulatory Updates Subscription       | ROBBBO-T-A-33-80-00-00A-000-D       | **RUS-500** (FN)    | Hypothetical Vendor       | Provides updates on regulatory changes.                     | 1       | $1,000 - $1,500/year      |
-|                 |                               | Compliance Training Module            | ROBBBO-T-A-33-80-00-00A-000-D       | **CTM-600** (FN)    | Hypothetical Vendor       | Training on compliance procedures and documentation.        | 1       | $2,000 - $3,000           |
-
----
-
-### **Sustainability & Circularity Focus**
-
-- **LED Technology**: Most lighting components use energy-efficient LED technology, which has a longer lifespan and lower energy consumption.
-- **Recyclable Components**: Many parts, especially lighting modules and control systems, are designed with recyclable materials.
-- **Modular Design**: Facilitates upgrades and repairs, reducing waste and extending component life.
-- **Eco-Friendly Materials**: Utilizes sustainable or renewable materials that lower the carbon footprint during manufacturing and operation.
-- **Digitalization**: Training materials, manuals, and inspection checklists are available in digital formats to reduce paper waste.
-
----
-
-## **Installation Figures for ATA Chapter 33: Lights System**
-
-Below is a list of installation figures for the components of the Lights System, organized by system sections and **DMC Codes**. Each figure provides detailed visual guidance for the installation of specific components, ensuring proper integration and compliance with safety standards.
-
----
-
-### **1. Cockpit Lighting**
-
-**DMC Code**: ROBBBO-T-A-33-10-00-00A-000-D
-
-#### **Figure 33-10-01**
-
-- **Title**: Installation of Instrument Panel Lighting Unit (**IPL-1000**)
-- **Description**: Illustrates mounting location, electrical connections, and integration with cockpit instruments.
-
-#### **Figure 33-10-02**
-
-- **Title**: Installation of Pilot and Co-pilot Reading Lights (**PCRL-200**)
-- **Description**: Details mounting on pilot consoles, wiring connections, and adjustment mechanisms.
-
----
-
-### **2. Cabin Lighting**
-
-**DMC Code**: ROBBBO-T-A-33-20-00-00A-000-D
-
-#### **Figure 33-20-01**
-
-- **Title**: Installation of Passenger Cabin Ceiling Lights (**PCCL-400**)
-- **Description**: Shows mounting on cabin ceilings, electrical connections, and integration with cabin management systems.
-
-#### **Figure 33-20-02**
-
-- **Title**: Installation of Mood Lighting Modules (**MLM-500**)
-- **Description**: Details placement within cabin areas, wiring connections, and control integration.
-
----
-
-### **3. Exterior Lighting**
-
-**DMC Code**: ROBBBO-T-A-33-30-00-00A-000-D
-
-#### **Figure 33-30-01**
-
-- **Title**: Installation of Landing Lights (**LL-7000**)
-- **Description**: Illustrates mounting on wings, electrical and hydraulic connections, and integration with landing systems.
-
-#### **Figure 33-30-02**
-
-- **Title**: Installation of Navigation Lights (**NL-800**)
-- **Description**: Details mounting on aircraft wingtips and tail, electrical connections, and compliance with navigation standards.
-
-#### **Figure 33-30-03**
-
-- **Title**: Installation of Strobe Lights (**SL-900**)
-- **Description**: Shows placement on aircraft, wiring to power sources, and integration with external lighting systems.
-
----
-
-### **4. Emergency Lighting Systems**
-
-**DMC Code**: ROBBBO-T-A-33-40-00-00A-000-D
-
-#### **Figure 33-40-01**
-
-- **Title**: Installation of Emergency Exit Lighting (**EEL-100**)
-- **Description**: Illustrates mounting near emergency exits, wiring to emergency power sources, and activation mechanisms.
-
-#### **Figure 33-40-02**
-
-- **Title**: Installation of Emergency Beacon Lights (**EBL-200**)
-- **Description**: Details mounting on aircraft fuselage, electrical connections, and integration with emergency systems.
-
-#### **Figure 33-40-03**
-
-- **Title**: Installation of Battery Backup Lighting Units (**BBLU-300**)
-- **Description**: Shows placement within emergency power bays, connections to main and backup power systems, and testing procedures.
-
----
-
-### **5. Control and Monitoring Systems**
-
-**DMC Code**: ROBBBO-T-A-33-50-00-00A-000-D
-
-#### **Figure 33-50-01**
-
-- **Title**: Installation of Lighting Control Panel (**LCP-4000**)
-- **Description**: Illustrates cockpit mounting, electrical connections, and integration with aircraft avionics.
-
-#### **Figure 33-50-02**
-
-- **Title**: Installation of Lighting Monitoring Unit (**LMU-500**)
-- **Description**: Details mounting in avionics bays, wiring connections, and integration with monitoring systems.
-
-#### **Figure 33-50-03**
-
-- **Title**: Installation of Automatic Dimming Controller (**ADC-600**)
-- **Description**: Shows placement within lighting control units, electrical connections, and calibration settings.
-
----
-
-**Note**: Each figure includes detailed annotations, part identifiers, and step-by-step instructions. Refer to the corresponding **Technical Publication Work Data (TPWD)** and **Technical Publication Specification List (TPSL)** for comprehensive installation procedures and safety guidelines.
-
-
-# **ATA Chapter 34: Navigation System**
-
-# **ATA Chapter 34: Navigation System**
-
-## **1. Introduction**
-
-The **Navigation System** (ATA Chapter 34) of the ROBBBO-T Aircraft is crucial for ensuring accurate and safe navigation throughout all phases of flight. This system integrates various navigation technologies, including Global Navigation Satellite System (GNSS), Inertial Navigation System (INS), and traditional navigation aids, to provide real-time positioning, guidance, and situational awareness to the flight crew. The Navigation System also interfaces with the Flight Management System (FMS) for optimal flight planning, route management, and navigation precision, thereby enhancing operational efficiency and flight safety.
-
----
-
-## **2. 4-Digit Breakdown of ATA Chapter 34: Navigation System**
-
-| **Section** | **Description**                                                                                         |
-|-------------|---------------------------------------------------------------------------------------------------------|
-| **34-00**   | **General Overview**: Introduction to the Navigation System and its role in flight operations.          |
-| **34-10**   | **Global Navigation Satellite System (GNSS)**: Satellite navigation capabilities and integration.        |
-| **34-20**   | **Inertial Navigation System (INS)**: Inertial navigation technologies and functionalities.              |
-| **34-30**   | **Flight Management System (FMS) Integration**: Interaction with the FMS for optimal flight planning and navigation. |
-| **34-40**   | **Navigation Aids (NAVAIDs)**: Traditional navigation aids used alongside advanced systems.              |
-| **34-50**   | **Monitoring and Control Systems**: Features for monitoring navigation performance and system integrity. |
-| **34-60**   | **Emergency Procedures**: Guidelines for crew response in case of navigation system failures.           |
-| **34-70**   | **Maintenance and Inspection Procedures**: Recommendations for maintaining and inspecting navigation systems. |
-| **34-80**   | **Training and Operational Procedures**: Guidelines for training personnel on navigation system operation. |
-| **34-90**   | **Regulatory Compliance**: Compliance with aviation regulations for navigation systems.                 |
-
----
-
-## **3. System Description**
-
-### **3.1 Overview**
-
-The Navigation System ensures the aircraft maintains accurate course, altitude, and speed throughout its journey. Key functions include:
-
-- **Accurate Positioning**: Provides precise location data using GNSS and INS.
-- **Guidance and Control**: Assists in flight path management and maneuvering.
-- **Situational Awareness**: Enhances crew awareness of the aircraft's status and surroundings.
-- **Integration with FMS**: Enables seamless flight planning and execution.
-
-### **3.2 System Components**
-
-The system comprises various components categorized under different sections, each serving specific roles to maintain safety and efficiency.
-
----
-
-## **4. IPL/IPD Breakdown**
-
-### **4.1 Navigation System Overview**
-
-- **DMC Code**: ROBBBO-T-A-34-00-00-00A-000-D
-- **Title**: Overview of Navigation System
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-- **Description**: Introduction to the Navigation System, its importance, functionality, and integration within the aircraft.
-- **Estimated Cost (USD)**: N/A (Overview)
-
----
-
-### **4.2 Global Navigation Satellite System (GNSS)**
-
-- **DMC Code**: ROBBBO-T-A-34-10-00-00A-000-D
-- **Title**: Global Navigation Satellite System (GNSS)
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.2.1 Component Breakdown**
-
-| **Item No.** | **Part Name**             | **Part Number**    | **Manufacturer**       | **Description**                                       | **Qty** | **Estimated Cost (USD)** |
-|--------------|---------------------------|--------------------|------------------------|-------------------------------------------------------|---------|--------------------------|
-| **34-10-1**  | GNSS Receiver             | **GNS-4100**       | Garmin International   | Receives satellite signals for precise positioning.    | 2       | $15,000 - $20,000 each   |
-| **34-10-2**  | GNSS Antenna              | **GNS-AT-400**     | Honeywell Aerospace    | Antenna for receiving GNSS signals.                   | 2       | $5,000 - $7,000 each     |
-| **34-10-3**  | GNSS Interface Module     | **GNS-IFM-200** (FN)| Thales Group          | Interfaces GNSS data with onboard systems.            | 1       | $8,000 - $10,000          |
-
----
-
-### **4.3 Inertial Navigation System (INS)**
-
-- **DMC Code**: ROBBBO-T-A-34-20-00-00A-000-D
-- **Title**: Inertial Navigation System (INS)
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.3.1 Component Breakdown**
-
-| **Item No.** | **Part Name**              | **Part Number**   | **Manufacturer**      | **Description**                                      | **Qty** | **Estimated Cost (USD)** |
-|--------------|----------------------------|-------------------|-----------------------|------------------------------------------------------|---------|--------------------------|
-| **34-20-1**  | Inertial Reference Unit (IRU) | **IRU-2100**    | Honeywell Aerospace   | Provides attitude and acceleration data for navigation. | 1      | $20,000 - $25,000         |
-| **34-20-2**  | Inertial Sensor Assembly   | **ISA-3000**       | Collins Aerospace     | Measures accelerations and angular rates for INS.    | 1       | $12,000 - $15,000         |
-| **34-20-3**  | INS Data Processor         | **IDP-500** (FN)   | Safran Electronics    | Processes inertial data for navigation calculations. | 1       | $10,000 - $13,000         |
-
----
-
-### **4.4 Flight Management System (FMS) Integration**
-
-- **DMC Code**: ROBBBO-T-A-34-30-00-00A-000-D
-- **Title**: Flight Management System (FMS) Integration
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.4.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                | **Part Number**   | **Manufacturer**      | **Description**                                       | **Qty** | **Estimated Cost (USD)** |
-|--------------|------------------------------|-------------------|-----------------------|-------------------------------------------------------|---------|--------------------------|
-| **34-30-1**  | Flight Management Computer (FMC) | **FMC-9000**    | Collins Aerospace     | Central computer for flight planning and navigation.  | 1       | $30,000 - $35,000         |
-| **34-30-2**  | Control Display Unit (CDU)   | **CDU-7000**      | Honeywell Aerospace    | Interface for entering and displaying navigation data.| 2       | $12,000 - $15,000 each    |
-| **34-30-3**  | FMS Interface Unit           | **FMS-IU-800** (FN)| Thales Group          | Facilitates communication between FMS and other systems.| 1     | $9,000 - $11,000          |
-
----
-
-### **4.5 Navigation Aids (NAVAIDs)**
-
-- **DMC Code**: ROBBBO-T-A-34-40-00-00A-000-D
-- **Title**: Navigation Aids (NAVAIDs)
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.5.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                | **Part Number**   | **Manufacturer**      | **Description**                                     | **Qty** | **Estimated Cost (USD)** |
-|--------------|------------------------------|-------------------|-----------------------|-----------------------------------------------------|---------|--------------------------|
-| **34-40-1**  | VOR Receiver                 | **VOR-500**        | Honeywell Aerospace   | Receives VHF Omnidirectional Range signals.         | 2       | $7,000 - $9,000 each     |
-| **34-40-2**  | Distance Measuring Equipment (DME) | **DME-600**    | Collins Aerospace     | Measures distance from ground-based stations.       | 2 sets  | $6,000 - $8,000 per set  |
-| **34-40-3**  | Automatic Direction Finder (ADF) | **ADF-700**    | Safran Electronics    | Receives non-directional beacon signals for navigation.| 1     | $5,000 - $7,000           |
-
----
-
-### **4.6 Monitoring and Control Systems**
-
-- **DMC Code**: ROBBBO-T-A-34-50-00-00A-000-D
-- **Title**: Monitoring and Control Systems
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.6.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                 | **Part Number**   | **Manufacturer**    | **Description**                                      | **Qty** | **Estimated Cost (USD)** |
-|--------------|-------------------------------|-------------------|---------------------|------------------------------------------------------|---------|--------------------------|
-| **34-50-1**  | Navigation Performance Monitor | **NPM-100** (FN)  | Thales Group        | Monitors navigation accuracy and performance.        | 1       | $8,000 - $10,000          |
-| **34-50-2**  | System Integrity Checker      | **SIC-200**        | Collins Aerospace   | Verifies integrity of navigation data.               | 1       | $5,000 - $6,500           |
-| **34-50-3**  | Navigation Control Panel      | **NCP-300**        | Honeywell Aerospace | Provides control interface for managing navigation settings.| 1   | $7,000 - $9,500           |
-
----
-
-### **4.7 Emergency Procedures**
-
-- **DMC Code**: ROBBBO-T-A-34-60-00-00A-000-D
-- **Title**: Emergency Procedures
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.7.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                | **Part Number**  | **Manufacturer**      | **Description**                                    | **Qty** | **Estimated Cost (USD)** |
-|--------------|------------------------------|------------------|-----------------------|----------------------------------------------------|---------|--------------------------|
-| **34-60-1**  | Backup Navigation System     | **BNS-400** (FN) | Garmin International  | Provides alternative navigation in case of primary failure. | 1   | $20,000 - $25,000         |
-| **34-60-2**  | Emergency Navigation Checklist | **ENC-500**     | Hypothetical Vendor   | Steps for crew during navigation system emergencies. | 5 sets  | $200 - $300 per set       |
-
----
-
-### **4.8 Maintenance and Inspection Procedures**
-
-- **DMC Code**: ROBBBO-T-A-34-70-00-00A-000-D
-- **Title**: Maintenance and Inspection Procedures
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.8.1 Component Breakdown**
-
-| **Item No.** | **Part Name**               | **Part Number**  | **Manufacturer**     | **Description**                                          | **Qty** | **Estimated Cost (USD)** |
-|--------------|-----------------------------|------------------|----------------------|----------------------------------------------------------|---------|--------------------------|
-| **34-70-1**  | Navigation System Test Kit  | **NSTK-500** (FN)| Druck LLC            | Tools for testing and verifying navigation system functionality. | 1   | $10,000 - $12,000         |
-| **34-70-2**  | Maintenance Log Recorder    | **MLR-600**      | Collins Aerospace    | Records maintenance actions and system status.          | 1       | $2,000 - $3,000           |
-| **34-70-3**  | Inspection Checklist        | **IC-800**        | Airbus Documentation | Checklist for regular inspection of navigation components.| 50      | $200 - $400 each          |
-| **34-70-4**  | Replacement LED Modules     | **RLM-900**       | Philips Lighting     | LED modules for replacing faulty or dimmed lights.       | 100     | $100 - $300 each          |
-| **34-70-5**  | Maintenance Manual          | **MM-400**        | Airbus Documentation | Guide for maintaining the Navigation System.            | 10      | $500 - $800 each          |
-
----
-
-### **4.9 Training and Operational Procedures**
-
-- **DMC Code**: ROBBBO-T-A-34-80-00-00A-000-D
-- **Title**: Training and Operational Procedures
-- **ATA Chapter**: 34
-- **Requirement**: Optional
-
-#### **4.9.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                     | **Part Number**     | **Manufacturer**      | **Description**                                   | **Qty**       | **Estimated Cost (USD)** |
-|--------------|-----------------------------------|---------------------|-----------------------|---------------------------------------------------|---------------|--------------------------|
-| **34-80-1**  | Navigation Training Program       | **NTP-700** (FN)    | CAE Inc.              | Training for flight crew on navigation system operations. | 10 programs | $5,000 - $7,000           |
-| **34-80-2**  | Navigation System Operation Manual | **NSOM-800** (FN)  | Airbus Documentation  | Comprehensive guide for operating the Navigation System. | 20 copies | $1,500 - $2,500 each     |
-| **34-80-3**  | Emergency Navigation Training Module | **ENTM-900** (FN)| Honeywell Aerospace    | Specialized training for handling emergency navigation operations. | 5 modules  | $2,500 - $4,000 each     |
-| **34-80-4**  | Operational Checklist             | **OC-900**          | Airbus Documentation  | Steps for operating the navigation systems correctly. | 50 sets       | $100 - $150 per set       |
-
----
-
-### **4.10 Regulatory Compliance**
-
-- **DMC Code**: ROBBBO-T-A-34-90-00-00A-000-D
-- **Title**: Regulatory Compliance
-- **ATA Chapter**: 34
-- **Requirement**: Mandatory
-
-#### **4.10.1 Component Breakdown**
-
-| **Item No.** | **Part Name**                    | **Part Number**  | **Manufacturer**      | **Description**                                   | **Qty** | **Estimated Cost (USD)** |
-|--------------|----------------------------------|------------------|-----------------------|---------------------------------------------------|---------|--------------------------|
-| **34-90-1**  | Compliance Verification Kit      | **CVK-800**       | Honeywell Aerospace   | Ensures regulatory compliance of navigation systems.| 1       | $3,000 - $4,500           |
-| **34-90-2**  | Certification Documentation Package | **CDP-900**    | Collins Aerospace     | Documentation required for regulatory certification of navigation systems. | 1 | $1,500 - $2,500           |
-| **34-90-3**  | Regulatory Updates Subscription  | **RUS-500** (FN)| Hypothetical Vendor   | Provides updates on regulatory changes.           | 1       | $1,000 - $1,500/year      |
-| **34-90-4**  | Compliance Training Module       | **CTM-600** (FN)| Hypothetical Vendor   | Training on compliance procedures and documentation. | 1     | $2,000 - $3,000           |
-
----
-
-## **5. System Operation**
-
-The Navigation System operates through the coordination of various components to ensure accurate and reliable navigation:
-
-1. **Positioning and Guidance**: GNSS and INS provide precise location and movement data.
-2. **Data Integration**: FMS integrates navigation data for optimal flight planning and execution.
-3. **Monitoring and Control**: Navigation Performance Monitor and Control Panel oversee system performance and integrity.
-4. **Automatic Adjustments**: Automatic Dimming Controller adjusts display and lighting based on ambient conditions.
-5. **Emergency Activation**: Backup Navigation System activates during primary system failures.
-6. **Maintenance and Inspection**: Regular inspections and testing ensure all navigation components function correctly.
-
----
-
-## **6. Technical Publications**
-
-### **6.1 Component Specifications**
-
-All components comply with industry standards and aviation regulations:
-
-- **Materials**: Durable, lightweight, and recyclable materials.
-- **Compliance**:
-  - **FAA FAR Part 25**: Airworthiness Standards for Transport Category Airplanes.
-  - **EASA CS-25**: Certification Specifications for Large Aeroplanes.
-  - **RTCA DO-160**: Environmental Conditions and Test Procedures for Airborne Equipment.
-
-### **6.2 Maintenance Procedures**
-
-- **Scheduled Inspections**: Regular checks are mandatory for all critical navigation components (**Requirement**: Mandatory).
-- **Calibration**: Ensure GNSS receivers, INS units, and NAVAIDs are accurately calibrated.
-- **Documentation**: Follow maintenance manuals provided for each component, referencing **TPWD** and **TPSL**.
-
-### **6.3 Troubleshooting**
-
-- **GNSS Failures**: Check antenna connections and replace faulty GNSS receivers.
-- **INS Malfunctions**: Inspect inertial sensors and replace defective IRUs or ISAs.
-- **FMS Integration Issues**: Verify FMS interface connections and update software if necessary.
-- **NAVAIDs Errors**: Ensure proper signal reception and recalibrate ADF or DME units.
-
----
-
-## **7. Sustainability Practices**
-
-### **7.1 Energy Efficiency**
-
-- **Low-Power Components**: GNSS and INS systems are designed for minimal power consumption.
-- **Efficient Data Processing**: Navigation Performance Monitor and Control Panel utilize energy-efficient processors.
-
-### **7.2 Environmental Impact**
-
-- **Recyclable Components**: GNSS receivers, antennas, and INS units are designed for easy recycling at end-of-life.
-- **Eco-Friendly Materials**: Use of sustainable materials in system components.
-- **Waste Reduction**: Modular designs facilitate upgrades and repairs, reducing waste.
-
-### **7.3 Innovations**
-
-- **Advanced Materials**: Lightweight materials reduce aircraft weight and fuel consumption.
-- **Digital Documentation**: Manuals and training materials provided digitally to reduce paper use.
-- **Lifecycle Management**: Components built for longevity, minimizing the need for replacements.
-
----
-
-## **8. Maintenance and Troubleshooting**
-
-### **8.1 Maintenance Best Practices**
-
-- **Safety Precautions**: Follow guidelines for handling electronic and inertial systems.
-- **Regular Maintenance**: Adhere to maintenance schedules for inspections and servicing.
-- **Use of Certified Parts**: Ensure replacements meet specifications.
-
-### **8.2 Troubleshooting Guide**
-
-- **GNSS Issues**: Check antenna alignment, replace faulty receivers, and verify satellite signal reception.
-- **INS Failures**: Inspect sensor assemblies, replace defective IRUs or ISAs, and perform recalibration.
-- **FMS Integration Problems**: Verify interface connections, update FMS software, and troubleshoot communication protocols.
-- **NAVAIDs Malfunctions**: Ensure proper signal reception, recalibrate devices, and replace faulty units.
-
-### **8.3 Software Updates**
-
-- **Secure Updates**: Use authorized methods to update navigation system software.
-- **Compliance**: Ensure updates meet regulatory requirements and do not compromise system integrity.
-
----
-
-## **9. Training and Safety**
-
-### **9.1 Personnel Training**
-
-- **Technical Training**: Mandatory for maintenance staff on Navigation Systems.
-  - **Estimated Cost per Trainee (USD)**: $3,000 - $5,000
-- **Safety Training**: Emphasis on handling and maintaining electronic and inertial systems safely.
-
-### **9.2 Operational Procedures**
-
-- **Standard Operating Procedures**: Guidelines for normal operation of the Navigation System.
-- **Emergency Protocols**: Training on responding to navigation system failures and ensuring accurate navigation during emergencies.
-
----
-
-## **10. Conclusion**
-
-The **Navigation System** of the **ROBBBO-T Aircraft** is essential for ensuring safe and efficient flight operations. By integrating advanced GNSS, INS, and traditional navigation aids, the system provides accurate real-time positioning, guidance, and situational awareness. Seamless integration with the Flight Management System enhances flight planning and operational efficiency. Incorporating sustainable practices and advanced technologies, the Navigation System meets both operational and environmental standards. Detailed **DMC Codes**, **Part Numbers (PNRs)**, **Estimated Costs**, and technical publications offer comprehensive information for the operation and maintenance of this critical system.
-
----
-
-## **Comprehensive Table: ATA Chapter 34 - Navigation System Components**
-
-| **ATA Chapter** | **Section**                   | **Component**                        | **DMC Code**                        | **Part Number**   | **Manufacturer**         | **Description**                                                | **Estimated Cost (USD)**  | **Circularity & Sustainability**                              |
-|-----------------|-------------------------------|--------------------------------------|-------------------------------------|-------------------|--------------------------|----------------------------------------------------------------|---------------------------|----------------------------------------------------------------|
-| **34-00**       | General Overview              | Overview of Navigation System        | ROBBBO-T-A-34-00-00-00A-000-D       | -                 | -                        | Introduction to the Navigation System.                        | -                         | N/A                                                            |
-| **34-10**       | Global Navigation Satellite System (GNSS) | GNSS Receiver                      | ROBBBO-T-A-34-10-00-00A-000-D       | **GNS-4100**      | Garmin International      | Receives satellite signals for precise positioning.           | $15,000 - $20,000         | Long-lasting, low-energy GNSS modules, recyclable components  |
-|                 |                               | GNSS Antenna                         | ROBBBO-T-A-34-10-00-00A-000-D       | **GNS-AT-400**    | Honeywell Aerospace       | Antenna for receiving GNSS signals.                           | $5,000 - $7,000           | Durable and recyclable materials                              |
-|                 |                               | GNSS Interface Module                | ROBBBO-T-A-34-10-00-00A-000-D       | **GNS-IFM-200** (FN)| Thales Group           | Interfaces GNSS data with onboard systems.                    | $8,000 - $10,000          | Low-energy, modular design, recyclable materials              |
-| **34-20**       | Inertial Navigation System (INS) | Inertial Reference Unit (IRU)       | ROBBBO-T-A-34-20-00-00A-000-D       | **IRU-2100**      | Honeywell Aerospace       | Provides attitude and acceleration data for navigation.        | $20,000 - $25,000         | Recyclable parts, long-lasting components                      |
-|                 |                               | Inertial Sensor Assembly             | ROBBBO-T-A-34-20-00-00A-000-D       | **ISA-3000**      | Collins Aerospace         | Measures accelerations and angular rates for INS.              | $12,000 - $15,000         | Low-maintenance, recyclable materials                         |
-|                 |                               | INS Data Processor                   | ROBBBO-T-A-34-20-00-00A-000-D       | **IDP-500** (FN)  | Safran Electronics        | Processes inertial data for navigation calculations.           | $10,000 - $13,000         | Energy-efficient, recyclable components                        |
-| **34-30**       | Flight Management System (FMS) Integration | Flight Management Computer (FMC)  | ROBBBO-T-A-34-30-00-00A-000-D       | **FMC-9000**      | Collins Aerospace         | Central computer for flight planning and navigation.           | $30,000 - $35,000         | Modular design for upgrades, recyclable parts                 |
-|                 |                               | Control Display Unit (CDU)           | ROBBBO-T-A-34-30-00-00A-000-D       | **CDU-7000**      | Honeywell Aerospace       | Interface for entering and displaying navigation data.         | $12,000 - $15,000         | Recyclable electronic components, durable                     |
-|                 |                               | FMS Interface Unit                   | ROBBBO-T-A-34-30-00-00A-000-D       | **FMS-IU-800** (FN)| Thales Group            | Facilitates communication between FMS and other systems.       | $9,000 - $11,000          | Recyclable components, long service life                      |
-| **34-40**       | Navigation Aids (NAVAIDs)     | VOR Receiver                         | ROBBBO-T-A-34-40-00-00A-000-D       | **VOR-500**       | Honeywell Aerospace       | Receives VHF Omnidirectional Range signals.                    | $7,000 - $9,000           | Long-lasting components, recyclable parts                     |
-|                 |                               | Distance Measuring Equipment (DME)   | ROBBBO-T-A-34-40-00-00A-000-D       | **DME-600**       | Collins Aerospace         | Measures distance from ground-based stations.                  | $6,000 - $8,000           | Recyclable materials, modular design for easy upgrades        |
-|                 |                               | Automatic Direction Finder (ADF)     | ROBBBO-T-A-34-40-00-00A-000-D       | **ADF-700**       | Safran Electronics        | Receives non-directional beacon signals for navigation.        | $5,000 - $7,000           | Recyclable components, energy-efficient operation             |
-| **34-50**       | Monitoring and Control Systems | Navigation Performance Monitor       | ROBBBO-T-A-34-50-00-00A-000-D       | **NPM-100** (FN)   | Thales Group              | Monitors navigation accuracy and performance.                  | $8,000 - $10,000          | Low power consumption, long-lasting components                |
-|                 |                               | System Integrity Checker             | ROBBBO-T-A-34-50-00-00A-000-D       | **SIC-200**       | Collins Aerospace         | Verifies integrity of navigation data.                         | $5,000 - $6,500           | Recyclable electronics, durable materials                     |
-|                 |                               | Navigation Control Panel             | ROBBBO-T-A-34-50-00-00A-000-D       | **NCP-300**       | Honeywell Aerospace       | Provides control interface for managing navigation settings.   | $7,000 - $9,500           | Long service life, energy-efficient design                    |
-| **34-60**       | Emergency Procedures          | Backup Navigation System             | ROBBBO-T-A-34-60-00-00A-000-D       | **BNS-400** (FN)   | Garmin International      | Provides alternative navigation in case of primary failure.    | 1       | $20,000 - $25,000         |
-|                 |                               | Emergency Navigation Checklist      | ROBBBO-T-A-34-60-00-00A-000-D       | **ENC-500**        | Hypothetical Vendor       | Steps for crew during navigation system emergencies.          | 5 sets  | $200 - $300 per set       |
-| **34-70**       | Maintenance and Inspection Procedures | Navigation System Test Kit    | ROBBBO-T-A-34-70-00-00A-000-D       | **NSTK-500** (FN)  | Druck LLC                 | Tools for testing and verifying navigation system functionality. | 1   | $10,000 - $12,000         |
-|                 |                               | Maintenance Log Recorder             | ROBBBO-T-A-34-70-00-00A-000-D       | **MLR-600**        | Collins Aerospace         | Records maintenance actions and system status.                | 1       | $2,000 - $3,000           |
-|                 |                               | Inspection Checklist                 | ROBBBO-T-A-34-70-00-00A-000-D       | **IC-800**         | Airbus Documentation      | Checklist for regular inspection of navigation components.    | 50      | $200 - $400 each          |
-|                 |                               | Replacement LED Modules              | ROBBBO-T-A-34-70-00-00A-000-D       | **RLM-900**        | Philips Lighting          | LED modules for replacing faulty or dimmed lights.           | 100     | $100 - $300 each          |
-|                 |                               | Maintenance Manual                   | ROBBBO-T-A-34-70-00-00A-000-D       | **MM-400**         | Airbus Documentation      | Guide for maintaining the Navigation System.                 | 10      | $500 - $800 each          |
-| **34-80**       | Training and Operational Procedures | Navigation Training Program     | ROBBBO-T-A-34-80-00-00A-000-D       | **NTP-700** (FN)   | CAE Inc.                  | Training for flight crew on navigation system operations.    | 10 programs | $5,000 - $7,000           |
-|                 |                               | Navigation System Operation Manual | ROBBBO-T-A-34-80-00-00A-000-D       | **NSOM-800** (FN)  | Airbus Documentation      | Comprehensive guide for operating the Navigation System.      | 20 copies | $1,500 - $2,500 each     |
-|                 |                               | Emergency Navigation Training Module | ROBBBO-T-A-34-80-00-00A-000-D     | **ENTM-900** (FN)   | Honeywell Aerospace       | Specialized training for handling emergency navigation operations. | 5 modules  | $2,500 - $4,000 each     |
-|                 |                               | Operational Checklist                 | ROBBBO-T-A-34-80-00-00A-000-D       | **OC-900**          | Airbus Documentation      | Steps for operating the navigation systems correctly.        | 50 sets       | $100 - $150 per set       |
-| **34-90**       | Regulatory Compliance         | Compliance Verification Kit          | ROBBBO-T-A-34-90-00-00A-000-D       | **CVK-800**        | Honeywell Aerospace       | Ensures regulatory compliance of navigation systems.          | 1       | $3,000 - $4,500           |
-|                 |                               | Certification Documentation Package  | ROBBBO-T-A-34-90-00-00A-000-D       | **CDP-900**        | Collins Aerospace         | Documentation required for regulatory certification of navigation systems. | 1 | $1,500 - $2,500           |
-|                 |                               | Regulatory Updates Subscription       | ROBBBO-T-A-34-90-00-00A-000-D       | **RUS-500** (FN)    | Hypothetical Vendor       | Provides updates on regulatory changes.                     | 1       | $1,000 - $1,500/year      |
-|                 |                               | Compliance Training Module            | ROBBBO-T-A-34-90-00-00A-000-D       | **CTM-600** (FN)    | Hypothetical Vendor       | Training on compliance procedures and documentation.        | 1       | $2,000 - $3,000           |
-
----
-
-### **Sustainability & Circularity Focus**
-
-- **Recyclability**: Components such as the GNSS receiver, antennas, and navigation interfaces are designed for easy recycling at end-of-life.
-- **Energy Efficiency**: Many systems, especially GNSS and INS, are designed to consume low energy, increasing sustainability.
-- **Durable Components**: Parts are made to last with minimal replacement, reducing environmental impact over the system’s lifetime.
-- **Modular Design**: Facilitates upgrades and repairs, reducing waste and extending component life.
-- **Digitalization**: Training materials, manuals, and inspection checklists are available in digital formats to reduce paper waste.
-
----
-
-## **Installation Figures for ATA Chapter 34: Navigation System**
-
-Below is a list of installation figures for the components of the Navigation System, organized by system sections and **DMC Codes**. Each figure provides detailed visual guidance for the installation of specific components, ensuring proper integration and compliance with safety standards.
-
----
-
-### **1. Global Navigation Satellite System (GNSS)**
-
-**DMC Code**: ROBBBO-T-A-34-10-00-00A-000-D
-
-#### **Figure 34-10-01**
-
-- **Title**: Installation of GNSS Receiver (**GNS-4100**)
-- **Description**: Illustrates mounting location, electrical connections, and integration with onboard data systems.
-
-#### **Figure 34-10-02**
-
-- **Title**: Installation of GNSS Antenna (**GNS-AT-400**)
-- **Description**: Details antenna placement, wiring connections, and signal integration with the GNSS Receiver.
-
-#### **Figure 34-10-03**
-
-- **Title**: Installation of GNSS Interface Module (**GNS-IFM-200**)
-- **Description**: Shows mounting in avionics bay, data connections, and calibration procedures.
-
----
-
-### **2. Inertial Navigation System (INS)**
-
-**DMC Code**: ROBBBO-T-A-34-20-00-00A-000-D
-
-#### **Figure 34-20-01**
-
-- **Title**: Installation of Inertial Reference Unit (**IRU-2100**)
-- **Description**: Illustrates mounting location, power connections, and integration with the Navigation System.
-
-#### **Figure 34-20-02**
-
-- **Title**: Installation of Inertial Sensor Assembly (**ISA-3000**)
-- **Description**: Details sensor mounting, electrical connections, and alignment with the IRU.
-
-#### **Figure 34-20-03**
-
-- **Title**: Installation of INS Data Processor (**IDP-500**)
-- **Description**: Shows mounting in avionics rack, data connections, and integration with flight systems.
-
----
-
-### **3. Flight Management System (FMS) Integration**
-
-**DMC Code**: ROBBBO-T-A-34-30-00-00A-000-D
-
-#### **Figure 34-30-01**
-
-- **Title**: Installation of Flight Management Computer (**FMC-9000**)
-- **Description**: Illustrates mounting location, power and data connections, and integration with GNSS and INS.
-
-#### **Figure 34-30-02**
-
-- **Title**: Installation of Control Display Unit (**CDU-7000**)
-- **Description**: Details cockpit mounting, electrical connections, and interface setup with the FMC.
-
-#### **Figure 34-30-03**
-
-- **Title**: Installation of FMS Interface Unit (**FMS-IU-800**)
-- **Description**: Shows mounting within avionics bay, data wiring, and communication setup with FMS and other systems.
-
----
-
-### **4. Navigation Aids (NAVAIDs)**
-
-**DMC Code**: ROBBBO-T-A-34-40-00-00A-000-D
-
-#### **Figure 34-40-01**
-
-- **Title**: Installation of VOR Receiver (**VOR-500**)
-- **Description**: Illustrates mounting location, antenna connections, and integration with navigation systems.
-
-#### **Figure 34-40-02**
-
-- **Title**: Installation of Distance Measuring Equipment (**DME-600**)
-- **Description**: Details mounting on landing gear, hydraulic connections, and integration with navigation systems.
-
-#### **Figure 34-40-03**
-
-- **Title**: Installation of Automatic Direction Finder (**ADF-700**)
-- **Description**: Shows mounting on aircraft fuselage, wiring connections, and calibration procedures.
-
----
-
-### **5. Monitoring and Control Systems**
-
-**DMC Code**: ROBBBO-T-A-34-50-00-00A-000-D
-
-#### **Figure 34-50-01**
-
-- **Title**: Installation of Navigation Performance Monitor (**NPM-100**)
-- **Description**: Illustrates mounting in avionics bay, data connections, and integration with monitoring systems.
-
-#### **Figure 34-50-02**
-
-- **Title**: Installation of System Integrity Checker (**SIC-200**)
-- **Description**: Details mounting location, wiring connections, and integration with navigation data systems.
-
-#### **Figure 34-50-03**
-
-- **Title**: Installation of Navigation Control Panel (**NCP-300**)
-- **Description**: Shows cockpit mounting, electrical connections, and interface setup with navigation systems.
-
----
-
-**Note**: Each figure includes detailed annotations, part identifiers, and step-by-step instructions. Refer to the corresponding **Technical Publication Work Data (TPWD)** and **Technical Publication Specification List (TPSL)** for comprehensive installation procedures and safety guidelines.
+| **33-00**   | **General Overview**: Introduction to the Lights System and its significance in aviation safety and operations.                         |
+| **33-01**   | **Navigation Lights**: Overview of navigation lights, including their functions and positioning on the aircraft.                       |
+| **33-02**   | **Landing and Taxi Lights**: Details on the landing and taxi light systems, including specifications and operational features.          |
+| **33-03**   | **Cockpit Lighting**: Explanation of cockpit illumination systems, focusing on controls, readability, and ergonomics.                   |
+| **33-04**   | **Interior Lighting**: Description of cabin lighting systems, including passenger area and emergency lighting features.                  |
+| **33-05**   | **Exterior Lighting**: Overview of external lighting systems, including anti-collision lights and wing lights.                          |
+| **33-06**   | **Control and Monitoring Systems**: Features for real-time monitoring of lighting system performance and alerting the crew to issues.   |
+| **33-07**   | **Redundancy and Safety Features**: Examination of backup systems and protocols to ensure continuous functionality of the lights system.|
+| **33-08**   | **Integration with Other Systems**: Overview of how the Lights System integrates with avionics and flight management systems.          |
+| **33-09**   | **Training and Operational Procedures**: Guidelines for maintenance and standard operating procedures for managing the Lights System.   |
+| **33-10**   | **Regulatory Compliance**: Overview of compliance with aviation lighting standards and regulations.                                      |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **33-00**       | General Overview            | Lights System Overview         | ROBBBO-T-A-33-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the lights system                            | N/A                      | Energy-efficient design with recyclable materials                     |
+| **33-01**       | Navigation Lights           | Navigation Light Assembly      | ROBBBO-T-A-33-01-00-00A-000-D    | NAV-4500                 | Collins Aerospace        | Provides visibility to other aircraft and ground services | $5,000 - $7,000          | Recyclable components, designed for durability                       |
+| **33-02**       | Landing and Taxi Lights     | Landing Light Unit             | ROBBBO-T-A-33-02-00-00A-000-D    | LGT-1001                 | Honeywell Aerospace      | Enhances visibility during landing and taxi operations    | $10,000 - $12,000        | Energy-efficient, sustainable design practices                       |
+| **33-03**       | Cockpit Lighting            | Cockpit Lighting Control Unit  | ROBBBO-T-A-33-03-00-00A-000-D    | CLC-2000                 | Thales Group             | Controls cockpit illumination for optimal visibility       | $8,000 - $10,000         | Modular design for upgrades, low energy consumption                    |
+| **33-04**       | Interior Lighting           | Cabin LED Lighting System      | ROBBBO-T-A-33-04-00-00A-000-D    | CLD-3000                 | UTC Aerospace Systems    | Provides ambient lighting in passenger areas              | $15,000 - $20,000        | Recyclable materials, low emissions                                   |
+| **33-05**       | Exterior Lighting           | Anti-Collision Light           | ROBBBO-T-A-33-05-00-00A-000-D    | ACL-2500                 | Meggitt Avionics        | Alerts other aircraft and ground personnel                 | $7,000 - $9,000          | Energy-efficient design, modular upgrades                             |
+| **33-06**       | Control and Monitoring      | Lights Control Unit            | ROBBBO-T-A-33-06-00-00A-000-D    | LCU-9000                 | Honeywell Aerospace      | Monitors lighting system performance                       | $12,000 - $15,000        | Modular design for future upgrades                                   |
+| **33-07**       | Redundancy and Safety       | Backup Lighting System         | ROBBBO-T-A-33-07-00-00A-000-D    | BLS-4000                 | UTC Aerospace Systems    | Ensures functionality during primary system failure       | $10,000 - $12,000        | Built for reliability, recyclable components                         |
+| **33-10**       | Regulatory Compliance       | Compliance Documentation Package| ROBBBO-T-A-33-10-00-00A-000-D    | CCP-500                  | Thales Group             | Ensures regulatory compliance for lights systems          | $10,000 - $12,000        | Meets aviation standards for environmental compliance                  |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                    | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|----------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **33-00**   | Lights System Overview           | ROBBBO-T-A-33-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the lights system                            | N/A                      | Energy-efficient and recyclable  |
+| **33-01**   | Navigation Light Assembly        | ROBBBO-T-A-33-01-00-00A-000-D    | NAV-4500                 | Collins Aerospace      | Provides visibility for navigation                       | $5,000 - $7,000          | Recyclable materials            |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                    | **DM Code**                      | **Description**                                                                | **Reusability**                                      |
+|----------------|----------------------------------------------|----------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
+| **33-01-01**   | Installation of Navigation Light Assembly    | ROBBBO-T-A-33-01-00-00A-000-D    | Installation procedure for navigation lights on the aircraft                    | Reusable, requires periodic inspection               |
+| **33-02-01**   | Installation of Landing Light Unit            | ROBBBO-T-A-33-02-00-00A-000-D    | Installation process for landing lights, including necessary wiring            | Long-lasting, designed for easy access              |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.** | **Task Type**         | **Description**                                                        | **DM Code**                      |
+|-------------------|-----------------------|------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of Navigation Light Assembly                      | ROBBBO-T-A-33-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Landing Light Unit for functionality                          | ROBBBO-T-A-33-02-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Cockpit Lighting Control Unit for performance issues     | ROBBBO-T-A-33-03-00-00A-000-D    |
+| **MP04**          | Calibration            | Calibrate Anti-Collision Light for operational readiness               | ROBBBO-T-A-33-05-00-00A-000-D    |
+| **MP05**          | Software Update        | Perform software updates on the Lights Control Unit                   | ROBBBO-T-A-33-06-00-00A-000-D    |
+| **MP06**          | Testing                | Test the functionality of Emergency Lighting Systems                   | ROBBBO-T-A-33-04-00-00A-000-D    |
+| **MP07**          | Inspection             | Inspect Interior Lighting System for wear and damage                  | ROBBBO-T-A-33-04-00-00A-000-D    |
+| **MP08**          | Performance Review     | Evaluate performance data from the Lights System                      | ROBBBO-T-A-33-00-00-00A-000-D    |
+| **MP09**          | Documentation Update    | Update training manuals for crew on the use of the Lights System      | ROBBBO-T-A-33-09-00
+
+-00A-000-D    |
+
+## Conclusion
+The **Lights System** is vital for ensuring safe and efficient aircraft operations by providing critical visibility. By integrating advanced technologies, sustainable practices, and compliance with regulatory standards, this system enhances both safety and operational performance. Continuous improvement, performance monitoring, and adherence to quality assurance protocols reinforce the importance of the Lights System in modern aviation.
+
+---
+
+# ATA Chapter 34: Navigation System
+
+## 1. Introduction
+The **Navigation System** (ATA Chapter 34) is essential for ensuring precise positioning and route management throughout all phases of flight. This system integrates various navigation aids, including GPS, inertial navigation systems (INS), and other avionics components, to provide accurate data for flight planning and execution. Designed for reliability and redundancy, the Navigation System enhances safety by ensuring continuous navigation capability even in adverse conditions. This chapter provides a comprehensive overview of the navigation system’s components, including DM Codes, Part Numbers (PNRs), Illustrated Parts Lists (IPL/IPD), estimated costs, and sustainability practices aligned with environmental standards.
+
+## 2. 4-Digit Breakdown of ATA Chapter 34: Navigation System
+
+| **Section** | **Description**                                                                                                                            |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| **34-00**   | **General Overview**: Introduction to the Navigation System and its role in aircraft operations.                                          |
+| **34-01**   | **Global Positioning System (GPS)**: Overview of the GPS technology and its integration into the navigation system.                       |
+| **34-02**   | **Inertial Navigation Systems (INS)**: Details on INS components and their functions in maintaining aircraft position and orientation.      |
+| **34-03**   | **Flight Management System (FMS)**: Explanation of how the FMS interfaces with navigation aids to optimize flight paths and fuel efficiency. |
+| **34-04**   | **Navigation Displays**: Description of cockpit displays that provide pilots with navigation information and situational awareness.           |
+| **34-05**   | **Backup Navigation Systems**: Overview of secondary navigation aids that ensure continued operation during primary system failures.          |
+| **34-06**   | **Monitoring and Control Systems**: Features for real-time monitoring of navigation system performance and alerts for any anomalies.        |
+| **34-07**   | **Redundancy and Reliability Features**: Examination of backup systems and protocols to maintain navigation capability.                      |
+| **34-08**   | **Integration with Other Systems**: Overview of how the Navigation System integrates with other avionics and flight management systems.      |
+| **34-09**   | **Training and Operational Procedures**: Guidelines for training and standard operating procedures related to the Navigation System.          |
+| **34-10**   | **Regulatory Compliance**: Overview of compliance with aviation navigation standards and regulations.                                       |
+
+## 3. Comprehensive Component Table
+
+| **ATA Chapter** | **Section**                | **Component**                  | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**         | **Description**                                         | **Estimated Cost (USD)** | **Circularity & Sustainability**                                       |
+|-----------------|----------------------------|--------------------------------|----------------------------------|--------------------------|--------------------------|---------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| **34-00**       | General Overview            | Navigation System Overview     | ROBBBO-T-A-34-00-00-00A-000-D    | N/A                      | Own Production           | Overview of the navigation system                        | N/A                      | Energy-efficient design with recyclable materials                     |
+| **34-01**       | Global Positioning System   | GPS Receiver Unit              | ROBBBO-T-A-34-01-00-00A-000-D    | GPS-4500                 | Collins Aerospace        | Provides GPS data for accurate positioning               | $15,000 - $20,000        | Recyclable materials, designed for durability                       |
+| **34-02**       | Inertial Navigation Systems  | Inertial Reference Unit (IRU)  | ROBBBO-T-A-34-02-00-00A-000-D    | IRU-3200                 | Honeywell Aerospace      | Measures aircraft motion and orientation                  | $25,000 - $30,000        | Low emissions, energy-efficient design                             |
+| **34-03**       | Flight Management System     | Flight Management Computer (FMC)| ROBBBO-T-A-34-03-00-00A-000-D    | FMC-5000                 | Thales Group             | Manages navigation data and flight paths                  | $50,000 - $65,000        | Modular upgrades, recyclable components                             |
+| **34-04**       | Navigation Displays          | Multifunction Display Unit     | ROBBBO-T-A-34-04-00-00A-000-D    | MFD-9000                 | Collins Aerospace        | Displays navigation information for pilots                | $20,000 - $30,000        | Energy-efficient, recyclable components                             |
+| **34-05**       | Backup Navigation Systems     | Standby Attitude Indicator     | ROBBBO-T-A-34-05-00-00A-000-D    | SAI-2000                 | Meggitt Avionics        | Provides backup orientation data                            | $5,000 - $7,000          | Recyclable materials, designed for reliability                     |
+| **34-06**       | Monitoring and Control       | Navigation System Monitor      | ROBBBO-T-A-34-06-00-00A-000-D    | NSM-4500                 | UTC Aerospace Systems    | Monitors system performance and alerts                    | $12,000 - $15,000        | Modular design for easy upgrades                                   |
+| **34-07**       | Redundancy and Reliability   | Backup GPS Receiver            | ROBBBO-T-A-34-07-00-00A-000-D    | GPS-BKUP-3000           | Hypothetical Vendor      | Provides backup positioning data during failures           | $15,000 - $20,000        | Built for reliability, recyclable components                       |
+| **34-10**       | Regulatory Compliance        | Compliance Documentation Package| ROBBBO-T-A-34-10-00-00A-000-D    | CCP-6000                 | Thales Group             | Ensures compliance with navigation standards               | $10,000 - $12,000        | Meets aviation standards for environmental compliance                |
+
+## 4. IPL/IPD Breakdown
+
+| **Section** | **Component**                    | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**             |
+|-------------|----------------------------------|----------------------------------|--------------------------|------------------------|---------------------------------------------------------|--------------------------|--------------------------------|
+| **34-00**   | Navigation System Overview       | ROBBBO-T-A-34-00-00-00A-000-D    | N/A                      | Own Production         | Overview of the navigation system                        | N/A                      | Energy-efficient and recyclable  |
+| **34-01**   | GPS Receiver Unit                | ROBBBO-T-A-34-01-00-00A-000-D    | GPS-4500                 | Collins Aerospace      | Provides GPS data for accurate positioning               | $15,000 - $20,000        | Recyclable materials, designed for durability                      |
+
+## 5. IPC Installation Figures (IF) with Reusability
+
+| **Figure No.** | **Title**                                    | **DM Code**                      | **Description**                                                                | **Reusability**                                      |
+|----------------|----------------------------------------------|----------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
+| **34-01-01**   | Installation of GPS Receiver Unit            | ROBBBO-T-A-34-01-00-00A-000-D    | Installation procedure for GPS receiver, including wiring and integration      | Reusable, requires periodic inspection               |
+| **34-02-01**   | Installation of Inertial Reference Unit      | ROBBBO-T-A-34-02-00-00A-000-D    | Installation process for inertial reference unit, showing necessary connections | Long-lasting, designed for easy access              |
+
+## 6. Maintenance Pageblocks Table (MP01 to MP09)
+
+| **Pageblock No.** | **Task Type**         | **Description**                                                        | **DM Code**                      |
+|-------------------|-----------------------|------------------------------------------------------------------------|----------------------------------|
+| **MP01**          | Installation/Removal   | Installation/removal of GPS Receiver Unit                             | ROBBBO-T-A-34-01-00-00A-000-D    |
+| **MP02**          | Inspection             | Inspect Inertial Reference Unit for accuracy                         | ROBBBO-T-A-34-02-00-00A-000-D    |
+| **MP03**          | Calibration            | Calibrate Flight Management Computer for optimal performance          | ROBBBO-T-A-34-03-00-00A-000-D    |
+| **MP04**          | Testing                | Validate operation of Navigation Displays                             | ROBBBO-T-A-34-04-00-00A-000-D    |
+| **MP05**          | Troubleshooting        | Troubleshoot backup navigation systems for performance issues         | ROBBBO-T-A-34-05-00-00A-000-D    |
+| **MP06**          | Software Update        | Perform software updates on Navigation System Monitor                 | ROBBBO-T-A-34-06-00-00A-000-D    |
+| **MP07**          | Performance Review     | Evaluate performance data from the Navigation System                  | ROBBBO-T-A-34-00-00-00A-000-D    |
+| **MP08**          | Documentation Update    | Update training manuals for crew on the use of the Navigation System  | ROBBBO-T-A-34-09-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training
+
+ sessions for crew on new navigation protocols         | ROBBBO-T-A-34-08-00-00A-000-D    |
+
+## 7. Conclusion
+The **Navigation System** is fundamental for safe and efficient flight operations, providing critical data for positioning and route management. By incorporating advanced technologies, sustainable practices, and compliance with regulatory standards, this system enhances both safety and operational performance. Continuous improvement, performance monitoring, and adherence to quality assurance protocols reinforce the importance of the Navigation System in modern aviation.
 
 ---
 
