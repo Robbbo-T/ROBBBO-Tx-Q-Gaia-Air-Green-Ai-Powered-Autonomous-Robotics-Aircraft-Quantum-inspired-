@@ -6,7 +6,98 @@
 ### **Initiative**
 **Ampel ChatGPT**
 
+# Project Name: RobbboTx Gaia Air
+### **Data Module Requirement for RobbboTx Gaia Air - Overall Project Cost**
+
 ---
+
+**Project Name:** RobbboTx Gaia Air  
+**Module Title:** Overall Project Cost Data Module  
+**Module ID:** ROBBBO-Tx-GAIA-PROJ-COST-01  
+**Revision:** 1.0  
+**Date:** [Insert Date]
+
+---
+
+#### **1. Purpose**
+The purpose of this Data Module Requirement (DMR) is to define the overall project cost for the RobbboTx Gaia Air aircraft project, including all phases from design to the first flight. This DMR outlines the necessary resources, costs, and infrastructure required for the development, assembly, and deployment of the RobbboTx Gaia Air.
+
+---
+
+#### **2. Scope**
+This DMR covers the following cost areas:
+1. Personnel costs (design, prototyping, testing)
+2. Robotic Green Factory setup costs (3D printers, drones, robotic arms)
+3. Component procurement costs (for assembly of the aircraft)
+
+---
+
+#### **3. Breakdown of Overall Project Cost**
+
+##### **3.1 Personnel Costs**
+
+| **Phase**                   | **Initial Estimate**  | **Adjusted Personnel** | **Cost Range (EUR)**    |
+|-----------------------------|-----------------------|------------------------|-------------------------|
+| **Design Phase**             | 50-60                 | ~100-120               | €3.5M - €4.2M           |
+| **Prototyping/Development**  | 80-100                | ~160-200               | €5.6M - €7M             |
+| **Testing/First Flight**     | 30-40                 | ~60-80                 | €2.1M - €2.8M           |
+
+- **Total Personnel Costs**: €11.2M - €14M
+
+---
+
+##### **3.2 Robotic Green Factory Setup**
+
+| **Component**                  | **Estimated Cost (EUR)**       |
+|--------------------------------|--------------------------------|
+| **High-Capacity 3D Printers**   | €1M - €2M (each)              |
+| **Drones for Automation**       | €500k - €1M                   |
+| **Robotic Arms & Systems**      | €5M - €7M                     |
+
+- **Total Factory Setup Costs**: €15M - €20M
+
+---
+
+##### **3.3 Component Procurement**
+
+The total estimated cost for all components necessary for the assembly of RobbboTx Gaia Air is based on previous analysis and procurement data:
+
+| **Category** | **Component Cost (EUR)** |
+|--------------|--------------------------|
+| **Total**    | **€1.82B**               |
+
+---
+
+#### **4. Total Estimated Project Cost**
+
+| **Cost Area**               | **Range (EUR)**              |
+|-----------------------------|------------------------------|
+| **Personnel Costs**          | €11.2M - €14M                |
+| **Factory Setup Costs**      | €15M - €20M                  |
+| **Component Procurement**    | €1.82B                       |
+
+---
+
+**Total Estimated Project Cost**:  
+**€1.846B - €1.854B**
+
+---
+
+#### **5. Notes and Considerations**
+- All costs are estimates and can vary based on final component pricing, additional technology requirements, and unforeseen project delays.
+- Personnel costs reflect the adjusted staffing levels due to the project being based in Spain, where salaries are generally lower compared to other regions.
+- The setup of the Robotic Green Factory assumes the use of cutting-edge technology, including fully automated systems for efficient assembly and reduced environmental impact.
+
+---
+
+This Data Module serves as an integral part of the RobbboTx Gaia Air project and will be included in the master document for project documentation and reference.
+
+**Date of Approval:** [Sept 2024] 
+
+
+
+This document provides a detailed cost analysis and resource breakdown to ensure transparency and alignment with the RobbboTx Gaia Air's project goals.
+
 
 ### **Introduction**
 
