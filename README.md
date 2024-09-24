@@ -4936,9 +4936,7 @@ This table includes real and fictional part numbers (PNRs), descriptions, costs,
 | ATA 21          | Pressurization Support      | Negative Pressure Relief Valve             | ROBBBO-T-A-21-10-03-00A-000-D       | NPRV-103982-1          | Meggitt PLC               | Prevents negative pressure differentials.                     | $5,500 - $7,000 each      | New                 | Recyclable and designed for long-term use.                              |
 | ATA 21          | Air Quality Management      | HEPA Air Filter                            | ROBBBO-T-A-21-10-05-00A-000-D       | AG3300-1               | Pall Aerospace            | Filters out particles and contaminants.                       | $3,000 - $4,000 each      | New                 | High recyclability and designed for efficient filtering.                 |
 | ATA 21          | Air Quality Management      | Odor and Gas Removal Filter                | ROBBBO-T-A-21-10-05-00A-000-D       | AG2040-1               | Pall Aerospace            | Removes odors and gaseous contaminants.                       | $3,500 - $5,000 each      | New                 | Eco-friendly design and recyclable components.                            |
-| ATA 21          | Air Quality Management      | UV Air Treatment Unit                      | ROBBBO-T-A-21-10-05-00A-000-D       | UV-C1000               | Honeywell Aerospace       | Uses UV light to eliminate airborne pathogens.                | $10
-
-,000 - $15,000          | New                 | Low energy consumption and eco-friendly materials.                        |
+| ATA 21          | Air Quality Management      | UV Air Treatment Unit                      | ROBBBO-T-A-21-10-05-00A-000-D       | UV-C1000               | Honeywell Aerospace       | Uses UV light to eliminate airborne pathogens.                | $10,000 - $15,000          | New                 | Low energy consumption and eco-friendly materials.                        |
 | ATA 21          | Energy Efficiency Features   | Variable Frequency Drive                   | ROBBBO-T-A-21-10-06-00A-000-D       | VFD-AC-400             | Honeywell Aerospace       | Controls motor speeds for energy efficiency.                 | $8,000 - $10,000          | New                 | Energy-efficient, with a focus on recyclability.                          |
 | ATA 21          | Energy Efficiency Features   | Electronic Power Controller                | ROBBBO-T-A-21-10-06-00A-000-D       | EPC-7000               | Thales Group              | Manages power distribution to system components.             | $10,000 - $12,000         | New                 | Low energy use and recyclable components.                               |
 | ATA 21          | Automated Controls           | AI Control Module                          | ROBBBO-T-A-21-10-07-00A-000-D       | AI-CM-600              | IBM Aerospace             | Machine learning for adaptive optimization.                  | $20,000 - $25,000         | New                 | Energy-efficient design and recyclable materials.                        |
@@ -4981,9 +4979,7 @@ This section outlines installation processes and reusability of components, with
 | **21-10-03-02**  | Installation of Cabin Pressure Controller | ROBBBO-T-A-21-10-03-00A-000-D | Mounting and wiring of CPC-3000 for cabin pressure regulation. | Reusable; replace only if calibration fails. | Monitor calibration annually; test during system checks. |
 | **21-10-03-03**  | Installation of Positive Pressure Relief Valve | ROBBBO-T-A-21-10-03-00A-000-D | Installation of PPRV-103980-2 for over-pressurization prevention. | Reusable; inspect for valve integrity and recalibrate if necessary. | Conduct functional tests during scheduled maintenance. |
 | **21-10-03-04**  | Installation of Negative Pressure Relief Valve | ROBBBO-T-A-21-10-03-00A-000-D | Detailed installation of NPRV-103982-1 for pressure relief. | Reusable; inspect regularly for functional integrity. | Inspect during routine maintenance checks every 500 flight hours. |
-| **21-10-04-01**  | Installation of Aerogel-Insulated Ducting | ROBBBO-T-A-21-10-04-00A-000-D | Ducting layout and insulation application for AID-800.
-
- | Reusable; check insulation condition during inspection. | Inspect insulation for damage and wear annually. |
+| **21-10-04-01**  | Installation of Aerogel-Insulated Ducting | ROBBBO-T-A-21-10-04-00A-000-D | Ducting layout and insulation application for AID-800.| Reusable; check insulation condition during inspection. | Inspect insulation for damage and wear annually. |
 | **21-10-04-02**  | Installation of Zonal Control Dampers | ROBBBO-T-A-21-10-04-00A-000-D | Installation of ZCD-300-ID for airflow management in cabin zones. | Reusable; recalibrate as needed for proper airflow control. | Recalibrate during each major maintenance cycle. |
 | **21-10-04-03**  | Installation of Ducting Seals | ROBBBO-T-A-21-10-04-00A-000-D | Application of bio-based polymer seals for airtight connections. | Not reusable; replace seals during duct maintenance. | Schedule replacement every 1,000 flight hours. |
 | **21-10-05-01**  | Installation of Cabin Humidifier | ROBBBO-T-A-21-10-05-00A-000-D | Mounting and integration of ACH-2500 for humidity control. | Reusable; check for wear and performance degradation. | Inspect functionality every 1,000 flight hours; replace components as necessary. |
@@ -5204,9 +5200,7 @@ The **Communications System** (ATA Chapter 23) is essential for maintaining reli
 | **Section Code** | **Component**                          | **DM Code**                      | **Part Number (PNR)**   | **Manufacturer**       | **Description**                                         | **Estimated Cost (USD)** | **Sustainability**                                        |
 |------------------|----------------------------------------|----------------------------------|------------------------|------------------------|---------------------------------------------------------|--------------------------|----------------------------------------------------------|
 | **23-00**        | Communications System Overview         | ROBBBO-T-A-23-00-00-00A-000-D    | N/A                    | Own Production         | Overview of the communication system                     | N/A                      | Modular design, recyclable components                     |
-| **23-01**        | VHF Radio Transceiver                  | ROBBBO-T-A-23-01-00-00A-000-D    | VHF-1234 (FN)          | Hypothetical
-
- Vendor    | Provides VHF communication for short-range voice        | $10,000 - $15,000        | Recyclable materials, designed for easy maintenance      |
+| **23-01**        | VHF Radio Transceiver                  | ROBBBO-T-A-23-01-00-00A-000-D    | VHF-1234 (FN)          | Hypothetical Vendor    | Provides VHF communication for short-range voice        | $10,000 - $15,000        | Recyclable materials, designed for easy maintenance      |
 | **23-01**        | Audio Control Panel                    | ROBBBO-T-A-23-01-00-00A-000-D    | ACP-8901               | Collins Aerospace      | Manages communication channels and audio settings       | $5,000 - $8,000          | Modular and recyclable components                         |
 | **23-01**        | Flight Deck Interphone System          | ROBBBO-T-A-23-01-00-00A-000-D    | INT-2056               | Honeywell Aerospace    | Enables internal communication between cockpit and cabin | $7,000 - $10,000         | Eco-friendly, recyclable materials                        |
 | **23-02**        | ACARS Communication Module              | ROBBBO-T-A-23-02-00-00A-000-D    | ACARS-9876             | Collins Aerospace      | Sends operational data between aircraft and ground      | $20,000 - $25,000        | Low-energy, recyclable and upgradable components         |
@@ -5279,8 +5273,7 @@ The **Electrical Power System** (ATA Chapter 24) is essential for supplying, dis
 |--------------|----------------------------------|------------------------|--------------------------|------------------------------------------------------------------------|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
 | **24-01-1**  | Integrated Drive Generator (IDG) | 115E2426-1             | Honeywell Aerospace      | Converts mechanical energy from engines into electrical power (AC).    | 2       | $90,000 - $120,000 each  | Recyclable materials      | Energy-efficient design      | Modular design              | Easy access for maintenance   |
 | **24-01-2**  | Auxiliary Power Unit (APU)       | APS3200                | Pratt & Whitney Canada   | Provides electrical power and pneumatic supply when engines are off.   | 1       | $200,000 - $250,000      | Recyclable components      | Low emissions                | Easily replaceable          | Designed for modular upgrades  |
-| **24-01-3**  | Generator Control Unit (GCU)     | 1152742-2              | Thales Group             | Manages and regulates generator output to ensure stable power supply.  | 2       | $25,000 - $35,000 each   | Repairable parts           | Long lifecycle               | Component upgrades possible   | Easy access for repairs       |
-| **24-01-4**  | Permanent Magnet Alternator (PMA) | **PMA-4000** (FN)      | Hypothetical Vendor      | Supplies power for critical systems during startup and emergencies.    | 2       | $15,000 - $20,000 each   | Recyclable materials       | Energy-efficient              | Modular installation         | Simple replacement            |
+| **24-01-3**  | Generator Control Unit (GCU)     | 1152742-2              | Thales Group             | Manages and regulates generator output to ensure stable power supply.  | 2       | $25,000 - $35,000 each   | Repairable parts           | Long lifecycle               | Component upgrades possible   | Easy access for repairs     | **24-01-4**  | Permanent Magnet Alternator (PMA) | **PMA-4000** (FN)      | Hypothetical Vendor      | Supplies power for critical systems during startup and emergencies.    | 2       | $15,000 - $20,000 each   | Recyclable materials       | Energy-efficient              | Modular installation         | Simple replacement            |
 
 ## 4. Power Distribution Systems
 
@@ -5352,9 +5345,7 @@ The **Electrical Power System** (ATA Chapter 24) is essential for supplying, dis
 | **Item No.** | **Part Name**                    | **Part Number (PNR)** | **Manufacturer**      | **Description**                                                  | **Qty** | **Estimated Cost (USD)** | **Circularity**         | **Sustainability**          | **Reusability**            | **Sustainable Repairability** |
 |--------------|----------------------------------|-----------------------|-----------------------|------------------------------------------------------------------|---------|--------------------------|--------------------------|------------------------------|-----------------------------|------------------------------|
 | **24-09-1**  | Compliance Documentation Package | RCM1001               | Thales Group          | Documentation for regulatory compliance of electrical systems.   | 1       | $12,000 - $15,000        | Recyclable                | Efficient operation           | Reusable                    | Easy access for updates       |
-| **24-09-2**  | Emissions Monitoring Unit        | EMU300                | Meggitt Avionics      | Monitors system emissions for compliance with environmental standards. | 1       | $12,000 - $15,000        | Recyclable                | Long lifecycle               | Easily replaceable          | Designed
-
- for modular upgrades  |
+| **24-09-2**  | Emissions Monitoring Unit        | EMU300                | Meggitt Avionics      | Monitors system emissions for compliance with environmental standards. | 1       | $12,000 - $15,000        | Recyclable                | Long lifecycle               | Easily replaceable          | Designed for modular upgrades  |
 | **24-09-3**  | Energy Efficiency Module         | EEM500                | Honeywell Aerospace   | Optimizes system energy use to meet environmental regulations.   | 1       | $8,000 - $10,000         | Recyclable                | Low emissions                | Easily replaceable          | Simple replacement            |
 
 ## 12. Performance Monitoring
@@ -5535,9 +5526,7 @@ The **Fire Protection System** (ATA Chapter 26) is essential for ensuring the sa
 | **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
 |-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
 | **MP01**          | Installation/Removal   | Installation/removal of Smoke Detector                                   | ROBBBO-T-A-26-01-00-00A-000-D    |
-| **MP02**          | Inspection             | Inspect Built-in Fire Suppression System for functionality              | ROBBBO-T-A-26-02-00
-
--00A-000-D    |
+| **MP02**          | Inspection             | Inspect Built-in Fire Suppression System for functionality              | ROBBBO-T-A-26-02-00-00A-000-D    |
 | **MP03**          | Troubleshooting        | Troubleshoot Fire Control Systems for operational issues                | ROBBBO-T-A-26-03-00-00A-000-D    |
 | **MP04**          | Maintenance            | Perform routine checks on Cabin Fire Safety features                    | ROBBBO-T-A-26-04-00-00A-000-D    |
 | **MP05**          | Testing                | Validate installation and performance of Fire Monitoring Unit            | ROBBBO-T-A-26-07-00-00A-000-D    |
@@ -5613,9 +5602,7 @@ The **Flight Controls System** (ATA Chapter 27) is vital for the safe and effect
 | **Pageblock No.** | **Task Type**         | **Description**                                                         | **DM Code**                      |
 |-------------------|-----------------------|-------------------------------------------------------------------------|----------------------------------|
 | **MP01**          | Installation/Removal   | Installation/removal of Aileron Control Surface                          | ROBBBO-T-A-27-01-00-00A-000-D    |
-| **MP02**          | Inspection             | Inspect Flap Actuator for functionality                                   | ROBBBO-T-A-27-02-00-00A-000-D   
-
- |
+| **MP02**          | Inspection             | Inspect Flap Actuator for functionality                                   | ROBBBO-T-A-27-02-00-00A-000-D   |
 | **MP03**          | Troubleshooting        | Troubleshoot Flight Control System for operational issues                | ROBBBO-T-A-27-04-00-00A-000-D    |
 | **MP04**          | Maintenance            | Perform routine checks on control surface actuators                      | ROBBBO-T-A-27-03-00-00A-000-D    |
 | **MP05**          | Testing                | Validate installation and performance of Flight Control Computer          | ROBBBO-T-A-27-04-00-00A-000-D    |
@@ -5689,9 +5676,7 @@ The **Fuel System** (ATA Chapter 28) is a crucial component of the aircraft, res
 | **MP02**          | Inspection             | Inspect Fuel Pump for functionality and leaks                           | ROBBBO-T-A-28-02-00-00A-000-D    |
 | **MP03**          | Troubleshooting        | Troubleshoot Fuel Management System for operational issues              | ROBBBO-T-A-28-03-00-00A-000-D    |
 | **MP04**          | Maintenance            | Perform routine checks on Fuel Quantity Sensors                         | ROBBBO-T-A-28-04-00-00A-000-D    |
-| **MP05**          | Testing                | Validate installation and performance of Environmental Compliance Module 
-
- | ROBBBO-T-A-28-10-00-00A-000-D    |
+| **MP05**          | Testing                | Validate installation and performance of Environmental Compliance Module | ROBBBO-T-A-28-10-00-00A-000-D    |
 | **MP06**          | Calibration            | Calibrate Fuel System Monitoring Unit                                    | ROBBBO-T-A-28-05-00-00A-000-D    |
 | **MP07**          | Cleaning               | Clean and maintain Fuel Delivery Systems                                | ROBBBO-T-A-28-02-00-00A-000-D    |
 | **MP08**          | Documentation          | Update maintenance records for Fuel System                              | ROBBBO-T-A-28-00-00-00A-000-D    |
@@ -5763,9 +5748,7 @@ The **Hydraulic Power System** (ATA Chapter 29) is essential for providing relia
 | **MP06**          | Calibration            | Calibrate Pressure Sensors                                                | ROBBBO-T-A-29-04-00-00A-000-D    |
 | **MP07**          | Cleaning               | Clean and maintain Hydraulic Distribution Lines                           | ROBBBO-T-A-29-02-00-00A-000-D    |
 | **MP08**          | Documentation          | Update maintenance records for Hydraulic Power System                    | ROBBBO-T-A-29-00-00-00A-000-D    |
-| **MP09**          | Training              
-
- | Conduct training on hydraulic system management procedures                | ROBBBO-T-A-29-00-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training on hydraulic system management procedures                | ROBBBO-T-A-29-00-00-00A-000-D    |
 
 ## 7. Conclusion
 The Hydraulic Power System is integral to the safe and efficient operation of the aircraft. By integrating advanced technologies, sustainable materials, and robust training procedures, the system ensures reliable hydraulic management while complying with environmental standards. The focus on quality, sustainability, and continuous improvement underscores the significance of the Hydraulic Power System in modern aviation.
@@ -5834,9 +5817,7 @@ The **Ice and Rain Protection System** (ATA Chapter 30) is crucial for maintaini
 | **MP09**          | Training               | Conduct training on ice and rain protection system procedures           | ROBBBO-T-A-30-00-00-00A-000-D    |
 
 ## 7. Conclusion
-The Ice and Rain Protection System is vital for ensuring safe
-
- aircraft operation in adverse weather conditions. By incorporating advanced technologies and sustainable practices, the system effectively manages ice formation and rain removal. The commitment to quality, regulatory compliance, and continuous improvement reinforces the importance of this system in modern aviation.
+The Ice and Rain Protection System is vital for ensuring safe aircraft operation in adverse weather conditions. By incorporating advanced technologies and sustainable practices, the system effectively manages ice formation and rain removal. The commitment to quality, regulatory compliance, and continuous improvement reinforces the importance of this system in modern aviation.
 
 ---
 
@@ -5898,9 +5879,7 @@ The **Indicating/Recording Systems** (ATA Chapter 31) are essential for monitori
 |-------------------|-----------------------|------------------------------------------------------------------------|----------------------------------|
 | **MP01**          | Installation/Removal   | Installation/removal of Altimeter                                      | ROBBBO-T-A-31-01-00-00A-000-D    |
 | **MP02**          | Inspection             | Inspect Engine Pressure Ratio Gauge for functionality                 | ROBBBO-T-A-31-02-00-00A-000-D    |
-| **MP03**          | Troubleshooting        | Troubleshoot Flight Data Recorder for data integrity                  | ROBBBO-T-A-31-03-
-
-00-00A-000-D    |
+| **MP03**          | Troubleshooting        | Troubleshoot Flight Data Recorder for data integrity                  | ROBBBO-T-A-31-03-00-00A-000-D    |
 | **MP04**          | Calibration            | Calibrate the Multifunction Display Unit                              | ROBBBO-T-A-31-04-00-00A-000-D    |
 | **MP05**          | Software Update        | Perform software updates on the Warning Signal Module                 | ROBBBO-T-A-31-05-00-00A-000-D    |
 | **MP06**          | Testing                | Test the functionality of the Communication Monitoring Unit           | ROBBBO-T-A-31-06-00-00A-000-D    |
@@ -5971,9 +5950,7 @@ The **Landing Gear System** (ATA Chapter 32) is a critical component of the airc
 | **MP01**          | Installation/Removal   | Installation/removal of Main Gear Strut                               | ROBBBO-T-A-32-01-00-00A-000-D    |
 | **MP02**          | Inspection             | Inspect Nose Gear Strut for functionality                             | ROBBBO-T-A-32-02-00-00A-000-D    |
 | **MP03**          | Troubleshooting        | Troubleshoot Brake Assembly for performance issues                    | ROBBBO-T-A-32-04-00-00A-000-D    |
-| **MP04**          | Calibration            | Calibrate Landing Gear Control Unit                                    | ROBBBO-T-A-32-
-
-06-00-00A-000-D    |
+| **MP04**          | Calibration            | Calibrate Landing Gear Control Unit                                    | ROBBBO-T-A-32-06-00-00A-000-D    |
 | **MP05**          | Software Update        | Perform software updates on the Landing Gear Monitoring System         | ROBBBO-T-A-32-06-00-00A-000-D    |
 | **MP06**          | Testing                | Test the functionality of the Backup Landing Gear System               | ROBBBO-T-A-32-07-00-00A-000-D    |
 | **MP07**          | Inspection             | Inspect Main Gear Wheel for wear and damage                           | ROBBBO-T-A-32-01-00-00A-000-D    |
@@ -6046,9 +6023,7 @@ The **Lights System** (ATA Chapter 33) is essential for ensuring visibility and 
 | **MP06**          | Testing                | Test the functionality of Emergency Lighting Systems                   | ROBBBO-T-A-33-04-00-00A-000-D    |
 | **MP07**          | Inspection             | Inspect Interior Lighting System for wear and damage                  | ROBBBO-T-A-33-04-00-00A-000-D    |
 | **MP08**          | Performance Review     | Evaluate performance data from the Lights System                      | ROBBBO-T-A-33-00-00-00A-000-D    |
-| **MP09**          | Documentation Update    | Update training manuals for crew on the use of the Lights System      | ROBBBO-T-A-33-09-00
-
--00A-000-D    |
+| **MP09**          | Documentation Update    | Update training manuals for crew on the use of the Lights System      | ROBBBO-T-A-33-09-00-00A-000-D    |
 
 ## Conclusion
 The **Lights System** is vital for ensuring safe and efficient aircraft operations by providing critical visibility. By integrating advanced technologies, sustainable practices, and compliance with regulatory standards, this system enhances both safety and operational performance. Continuous improvement, performance monitoring, and adherence to quality assurance protocols reinforce the importance of the Lights System in modern aviation.
@@ -6116,9 +6091,7 @@ The **Navigation System** (ATA Chapter 34) is essential for ensuring precise pos
 | **MP06**          | Software Update        | Perform software updates on Navigation System Monitor                 | ROBBBO-T-A-34-06-00-00A-000-D    |
 | **MP07**          | Performance Review     | Evaluate performance data from the Navigation System                  | ROBBBO-T-A-34-00-00-00A-000-D    |
 | **MP08**          | Documentation Update    | Update training manuals for crew on the use of the Navigation System  | ROBBBO-T-A-34-09-00-00A-000-D    |
-| **MP09**          | Training               | Conduct training
-
- sessions for crew on new navigation protocols         | ROBBBO-T-A-34-08-00-00A-000-D    |
+| **MP09**          | Training               | Conduct training sessions for crew on new navigation protocols         | ROBBBO-T-A-34-08-00-00A-000-D    |
 
 ## 7. Conclusion
 The **Navigation System** is fundamental for safe and efficient flight operations, providing critical data for positioning and route management. By incorporating advanced technologies, sustainable practices, and compliance with regulatory standards, this system enhances both safety and operational performance. Continuous improvement, performance monitoring, and adherence to quality assurance protocols reinforce the importance of the Navigation System in modern aviation.
