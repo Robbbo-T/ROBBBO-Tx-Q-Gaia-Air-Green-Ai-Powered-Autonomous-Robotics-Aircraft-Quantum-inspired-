@@ -199,6 +199,23 @@ To ensure coherence between different budget sections, the total project cost is
 ### **Total Project Cost (Including Subsequent Phases):** **€51,856,200**
 
 This alignment ensures that the **€21.3M** initial phase is a subset of the total **€51.86M** project cost, covering all phases from design to first flight.
+gantt
+
+    title Cronograma del Proyecto RobbboTx Gaia Air
+    dateFormat  YYYY-MM-DD
+    section Diseño y Prototipado
+    Especificaciones iniciales      :done, des1, 2024-09-01, 2024-12-01
+    Diseño de componentes           :active, des2, 2024-12-02, 2025-03-01
+    Selección de materiales         :des3, after des2, 2025-03-02, 2025-06-01
+    Prototipo inicial               :des4, after des3, 2025-06-02, 2025-09-01
+    section Pruebas
+    Pruebas en tierra               :prue1, 2025-09-02, 2025-12-01
+    Simulaciones de vuelo           :prue2, after prue1, 2025-12-02, 2026-03-01
+    section Certificación
+    Presentación de documentos      :cert1, 2026-03-02, 2026-06-01
+    Obtención de certificaciones    :cert2, after cert1, 2026-06-02, 2026-09-01
+    Vuelo de prototipo              :cert3, after cert2, 2026-09-02, 2026-09-24
+
 
 ---
 
